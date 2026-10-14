@@ -1,0 +1,39 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Federal_HST_124_by_Zak_2023.06.13.projectile",
+    "author": "Zak",
+    "date": "2023-06-13",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Federal, HST",
+    "maker": "Federal",
+    "product": "HST",
+    "lot": "2023",
+    "nominalCaliber": ".355",
+    "diameter": 0.00902,
+    "mass": 0.008048024622,
+    "length": 0.01511,
+    "base": {
+      "shape": "flat"
+    },
+    "shotStartPressure": 15000000,
+    "ballisticCoefficientG1": 104.75736736623473,
+    "ubcsCode": "D2H2F2C4N4",
+    "maxSeatingDepth": 0.028190000000000003,
+    "info": {
+      "description": "American Reloading pulldowns from March 2023. Measurement sample size of 20 bullets.",
+      "origin": "",
+      "createdBy": "Zachary Jones",
+      "createdOn": "2023-04-19",
+      "modifiedBy": "",
+      "modifiedOn": "2023-06-13"
+    }
+  }
+}

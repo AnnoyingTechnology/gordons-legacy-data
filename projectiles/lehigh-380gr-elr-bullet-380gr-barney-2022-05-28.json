@@ -1,0 +1,41 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "375CT_Lehigh_380gr_ELR_Bullet_by_Barney_2022.05.28.projectile",
+    "author": "Barney",
+    "date": "2022-05-28",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Lehigh, 380gr ELR Bullet",
+    "maker": "Lehigh",
+    "product": "380gr ELR Bullet",
+    "lot": "04375380SP .375 Cal 380gr ELR Bullet / LOT 21173",
+    "nominalCaliber": ".375",
+    "diameter": 0.009519999999999999,
+    "mass": 0.024597666235999998,
+    "length": 0.05823,
+    "base": {
+      "shape": "boattail",
+      "length": 0.0078,
+      "diameterA": 0.008029999999999999,
+      "diameterB": 0.00951
+    },
+    "shotStartPressure": 56000000,
+    "ballisticCoefficientG1": 805.0146686868375,
+    "ubcsCode": "S0F1B2D1C2",
+    "info": {
+      "description": "Own measurements...",
+      "origin": "",
+      "createdBy": "Barney",
+      "createdOn": "2021-10-26",
+      "modifiedBy": "",
+      "modifiedOn": ""
+    }
+  }
+}

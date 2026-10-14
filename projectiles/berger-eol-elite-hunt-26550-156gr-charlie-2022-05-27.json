@@ -1,0 +1,42 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Berger_EOL_Elite_Hunt_26550_by_Charlie_2022.05.27.projectile",
+    "author": "Charlie",
+    "date": "2022-05-27",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Berger, EOL Elite Hunt 26550",
+    "maker": "Berger",
+    "product": "EOL Elite Hunt 26550",
+    "lot": "",
+    "nominalCaliber": ".264",
+    "diameter": 0.00671,
+    "mass": 0.010108629959999999,
+    "length": 0.0384,
+    "base": {
+      "shape": "boattail",
+      "length": 0.0048,
+      "diameterA": 0.0067,
+      "diameterB": 0.0053
+    },
+    "shotStartPressure": 25000000,
+    "ballisticCoefficientG1": 477.3842445749892,
+    "ballisticCoefficientG7": 243.96514413478826,
+    "ubcsCode": "",
+    "info": {
+      "description": "",
+      "origin": "",
+      "createdBy": "grtuser",
+      "createdOn": "2021-11-22",
+      "modifiedBy": "",
+      "modifiedOn": "2021-06-26"
+    }
+  }
+}

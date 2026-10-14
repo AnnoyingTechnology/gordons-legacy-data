@@ -1,0 +1,43 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Hammer_-_.284_by_Charlie_2023.01.13.projectile",
+    "author": "Charlie",
+    "date": "2023-01-13",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Hammer, 119gr. Absolute Hammer No SKU",
+    "maker": "Hammer",
+    "product": "119gr. Absolute Hammer No SKU",
+    "lot": "From Hammer Drawings",
+    "nominalCaliber": ".284",
+    "diameter": 0.00721,
+    "mass": 0.007711070289999999,
+    "length": 0.02929,
+    "base": {
+      "shape": "boattail",
+      "length": 0.0029100000000000003,
+      "diameterA": 0.00721,
+      "diameterB": 0.00661
+    },
+    "shotStartPressure": 20000000,
+    "boreResistanceAdjustment": -8300000,
+    "ballisticCoefficientG1": 247.48049203298407,
+    "ballisticCoefficientG7": 123.74024601649204,
+    "ubcsCode": "",
+    "info": {
+      "description": "From Hammer Drawings",
+      "origin": "",
+      "createdBy": "Charlie",
+      "createdOn": "2023-01-10",
+      "modifiedBy": "",
+      "modifiedOn": "2023-01-11"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Hammer_-_.284_by_Charlie_2023.01.13.projectile",
+    "author": "Charlie",
+    "date": "2023-01-13",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Hammer, 143gr. Hunter SKU: 28143HH",
+    "maker": "Hammer",
+    "product": "143gr. Hunter SKU: 28143HH",
+    "lot": "From Hammer Drawings",
+    "nominalCaliber": ".284",
+    "diameter": 0.00721,
+    "mass": 0.009395841949999999,
+    "length": 0.03556,
+    "base": {
+      "shape": "boattail",
+      "length": 0.00409,
+      "diameterA": 0.00721,
+      "diameterB": 0.005900000000000001
+    },
+    "shotStartPressure": 20000000,
+    "boreResistanceAdjustment": -8300000,
+    "ballisticCoefficientG1": 323.4120066340133,
+    "ballisticCoefficientG7": 161.70600331700666,
+    "ubcsCode": "",
+    "info": {
+      "description": "From Hammer Drawings",
+      "origin": "",
+      "createdBy": "Charlie",
+      "createdOn": "2023-01-10",
+      "modifiedBy": "",
+      "modifiedOn": "2023-01-11"
+    }
+  }
+}

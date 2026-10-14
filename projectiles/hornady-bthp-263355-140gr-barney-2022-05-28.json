@@ -1,0 +1,42 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "6.5CM_Hornady_140gr_BTHP_263355_by_Barney_2022.05.28.projectile",
+    "author": "Barney",
+    "date": "2022-05-28",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Hornady, BTHP 263355",
+    "maker": "Hornady",
+    "product": "BTHP 263355",
+    "lot": "",
+    "nominalCaliber": ".264",
+    "diameter": 0.00671,
+    "mass": 0.009058887618,
+    "length": 0.033960000000000004,
+    "base": {
+      "shape": "boattail",
+      "length": 0.00386,
+      "diameterA": 0.00671,
+      "diameterB": 0.00566
+    },
+    "shotStartPressure": 25000000,
+    "ballisticCoefficientG1": 407.7803561907124,
+    "ballisticCoefficientG7": 333.9580503286007,
+    "ubcsCode": "T0H1B2S4N4",
+    "info": {
+      "description": "",
+      "origin": "",
+      "createdBy": "Barney",
+      "createdOn": "2022-05-28",
+      "modifiedBy": "",
+      "modifiedOn": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "powder",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Hodgdon_50BMG_-_2020-12-11_by_Beiruty_2022.08.10.propellant",
+    "author": "Beiruty",
+    "date": "2022-08-10",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "maker": "Hodgdon",
+    "product": "50BMG",
+    "lot": "2020-12-11",
+    "heatOfExplosion": 3700000,
+    "heatCapacityRatio": 1.2522964,
+    "covolume": 0.001,
+    "grainDensity": 1580.06089440001,
+    "bulkDensity": 980.009382800007,
+    "burnModel": {
+      "kind": "grt",
+      "vivacity": 0.3020833,
+      "a0": 1.2141,
+      "a1": 0,
+      "z1": 0.4804,
+      "z2": 0.8363,
+      "coldTemperatureCoefficient": 0,
+      "hotTemperatureCoefficient": 0
+    },
+    "info": {
+      "description": "Auto Caliberated from GRT OBT tool",
+      "origin": "GRT",
+      "createdBy": "Mahmoud Shmaitelly",
+      "createdOn": "2020-12-11",
+      "modifiedBy": "2020-12-11",
+      "modifiedOn": "2020-12-11"
+    }
+  }
+}

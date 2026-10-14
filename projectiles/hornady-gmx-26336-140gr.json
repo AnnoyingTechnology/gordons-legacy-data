@@ -1,0 +1,38 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Hornady_GMX_26336_by_Charlie.2021.04.14.projectile",
+    "author": "",
+    "date": "",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Hornady, GMX 26336",
+    "maker": "Hornady",
+    "product": "GMX 26336",
+    "lot": "",
+    "nominalCaliber": ".264",
+    "diameter": 0.00671,
+    "mass": 0.0090718474,
+    "length": 0.0357,
+    "base": {
+      "shape": "flat"
+    },
+    "shotStartPressure": 17200000,
+    "ballisticCoefficientG1": 246.07435287370575,
+    "ubcsCode": "",
+    "info": {
+      "description": "",
+      "origin": "",
+      "createdBy": "grtuser",
+      "createdOn": "2021-04-08",
+      "modifiedBy": "",
+      "modifiedOn": "2021-04-14"
+    }
+  }
+}

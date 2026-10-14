@@ -1,0 +1,40 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Peregrine-2022_by_Charlie_2022.10.28.projectile",
+    "author": "Charlie",
+    "date": "2022-10-28",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Peregrine - 2022, VRG-3",
+    "maker": "Peregrine - 2022",
+    "product": "VRG-3",
+    "lot": "",
+    "nominalCaliber": ".498",
+    "diameter": 0.01265,
+    "mass": 0.0226796185,
+    "length": 0.02659,
+    "base": {
+      "shape": "boattail",
+      "length": 0.00185,
+      "diameterA": 0.01265,
+      "diameterB": 0.012199999999999999
+    },
+    "shotStartPressure": 10000000,
+    "ubcsCode": "",
+    "info": {
+      "description": "QL imported data, missing variables were filled with default values",
+      "origin": "",
+      "createdBy": "grtuser",
+      "createdOn": "2022-10-28",
+      "modifiedBy": "",
+      "modifiedOn": ""
+    }
+  }
+}

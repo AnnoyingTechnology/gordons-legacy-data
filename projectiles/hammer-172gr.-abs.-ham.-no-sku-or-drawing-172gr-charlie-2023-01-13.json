@@ -1,0 +1,43 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Hammer_-_.284_by_Charlie_2023.01.13.projectile",
+    "author": "Charlie",
+    "date": "2023-01-13",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Hammer, 172gr. Abs. Ham. No SKU or drawing",
+    "maker": "Hammer",
+    "product": "172gr. Abs. Ham. No SKU or drawing",
+    "lot": "From Hammer Drawings",
+    "nominalCaliber": ".284",
+    "diameter": 0.00721,
+    "mass": 0.011145412519999998,
+    "length": 0.04115,
+    "base": {
+      "shape": "boattail",
+      "length": 0.0042699999999999995,
+      "diameterA": 0.00721,
+      "diameterB": 0.0061200000000000004
+    },
+    "shotStartPressure": 20000000,
+    "boreResistanceAdjustment": -8300000,
+    "ballisticCoefficientG1": 377.5483642662286,
+    "ballisticCoefficientG7": 187.71957776365554,
+    "ubcsCode": "",
+    "info": {
+      "description": "From Hammer Drawings",
+      "origin": "",
+      "createdBy": "Charlie",
+      "createdOn": "2023-01-10",
+      "modifiedBy": "",
+      "modifiedOn": "2023-01-12"
+    }
+  }
+}

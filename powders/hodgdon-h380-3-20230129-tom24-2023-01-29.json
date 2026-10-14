@@ -1,0 +1,42 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "powder",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Hodgdon_H380_3_-_20230129_by_Tom24_2023.01.29.propellant",
+    "author": "Tom24",
+    "date": "2023-01-29",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "maker": "Hodgdon",
+    "product": "H380 #3",
+    "lot": "20230129",
+    "heatOfExplosion": 3970000,
+    "heatCapacityRatio": 1.20425,
+    "covolume": 0.001,
+    "grainDensity": 1570,
+    "bulkDensity": 940,
+    "burnModel": {
+      "kind": "grt",
+      "vivacity": 0.496,
+      "a0": 4.0837,
+      "a1": 0,
+      "z1": 0.3391,
+      "z2": 0.4215,
+      "coldTemperatureCoefficient": 0,
+      "hotTemperatureCoefficient": 0
+    },
+    "info": {
+      "description": "Gun firing data:\r.30 06 Spring. CIP\r.308, 165 gr Speer SP 2035\rCOAL=81 mm\r57 gr H380\rPrimer = RWS 5341\rv0 = 845 m/s\rpmax = 3645 bar (GRT: + 5% !!)\rBarrel length = 600 mm",
+      "origin": "GRT",
+      "createdBy": "grtuser",
+      "createdOn": "2023-01-29",
+      "modifiedBy": "2023-01-29",
+      "modifiedOn": "2023-01-29"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Hammer_-_.284_by_Charlie_2023.01.13.projectile",
+    "author": "Charlie",
+    "date": "2023-01-13",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Hammer, 150gr. Shock Hammer SKU: 28150SH",
+    "maker": "Hammer",
+    "product": "150gr. Shock Hammer SKU: 28150SH",
+    "lot": "From Hammer Drawings",
+    "nominalCaliber": ".284",
+    "diameter": 0.00721,
+    "mass": 0.009784635409999999,
+    "length": 0.033780000000000004,
+    "base": {
+      "shape": "boattail",
+      "length": 0.0029,
+      "diameterA": 0.00721,
+      "diameterB": 0.00289
+    },
+    "shotStartPressure": 20000000,
+    "boreResistanceAdjustment": -8300000,
+    "ballisticCoefficientG1": 294.58615386880774,
+    "ubcsCode": "",
+    "info": {
+      "description": "From Hammer Drawings",
+      "origin": "",
+      "createdBy": "Charlie",
+      "createdOn": "2023-01-10",
+      "modifiedBy": "",
+      "modifiedOn": "2023-01-11"
+    }
+  }
+}

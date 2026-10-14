@@ -1,0 +1,2724 @@
+{
+ "format": "gordons-legacy.data-index",
+ "version": 1,
+ "files": [
+  {
+   "path": "calibers/.22-dasher-reyneke-charlie-2023-06-07.json",
+   "kind": "caliber",
+   "name": ".22 Dasher Reyneke",
+   "sha256": "14796b9aa548c7057cd4fa774a0b598cc41fc2eb7be201044327d77dde2da4af"
+  },
+  {
+   "path": "calibers/.22-gt-rico11b-2023-02-09.json",
+   "kind": "caliber",
+   "name": ".22 GT",
+   "sha256": "4f62a7a634f3ae5009bd968f9cfa6555421f0f58f2c4379fe9d16cadf1d2e699"
+  },
+  {
+   "path": "calibers/.22-tcm-charlie-2022-02-15.json",
+   "kind": "caliber",
+   "name": ".22 TCM",
+   "sha256": "cae18c2320a22264bfa5365b684ef2efb43e6320647c3ae201934f63cabcb3a7"
+  },
+  {
+   "path": "calibers/.22-xc-charlie-2023-06-29.json",
+   "kind": "caliber",
+   "name": ".22 XC",
+   "sha256": "cb58e886480f6892aa40b54de4808dc8dc46042f4e4f51b52f06389a2b901f32"
+  },
+  {
+   "path": "calibers/.26-nosler-charlie-2023-01-17.json",
+   "kind": "caliber",
+   "name": ".26 Nosler",
+   "sha256": "5eaa058cc95a11323def0e8c2842390f0ed02949b4f0ba056ac3f0ecdee0dd40"
+  },
+  {
+   "path": "calibers/.277-sig-fury-charlie-2022-05-30.json",
+   "kind": "caliber",
+   "name": ".277 SIG FURY",
+   "sha256": "eacf5ac5a37ce55a434627789551d3b24c71b07274361a9836642e78da7a449d"
+  },
+  {
+   "path": "calibers/.277-sig-fury-charlie-2023-01-03.json",
+   "kind": "caliber",
+   "name": ".277 SIG FURY",
+   "sha256": "8848ae88ad72280f8092e3bbec3e2e593b1b4d1de599077e5ab719f26fa94468"
+  },
+  {
+   "path": "calibers/.30-nosler-charlie-2023-01-17.json",
+   "kind": "caliber",
+   "name": ".30 Nosler",
+   "sha256": "4545e47986d58c1e48fb0b9126fedd066bef09ff567ae7cf340910266a1747a3"
+  },
+  {
+   "path": "calibers/.300-ham-r-charlie-2023-02-08.json",
+   "kind": "caliber",
+   "name": ".300 HAM'R",
+   "sha256": "d4139b8646b2cb9e24b68f258f9000a6efc61883abba0e25145515b03f1a99f3"
+  },
+  {
+   "path": "calibers/.300-prc-corrected-charlie-2023-01-06.json",
+   "kind": "caliber",
+   "name": ".300 PRC Corrected",
+   "sha256": "f0df9b8b24b6f344be0059d30b7caaa73222268e35cfd2a32b338b0d0c945fbd"
+  },
+  {
+   "path": "calibers/.300-wsm-winchester-brand-charlie-2023-07-11.json",
+   "kind": "caliber",
+   "name": ".300 WSM Winchester Brand",
+   "sha256": "0f8b3594d362678943c11fd55264b89dc4ece2b0d98c39b7686470f58bf856fe"
+  },
+  {
+   "path": "calibers/.308-win.-federal-charlie-2023-06-28.json",
+   "kind": "caliber",
+   "name": ".308 Win. Federal",
+   "sha256": "4de7b0e1e8a39b71d10675cb8b8a761506261b32d0f60aa3c604fcd539e4132d"
+  },
+  {
+   "path": "calibers/.308-win.-hornady-charlie-2023-06-28.json",
+   "kind": "caliber",
+   "name": ".308 Win. Hornady",
+   "sha256": "5ad9cfa25deb96b91dd4e25e9ffc3fa113f2b99480c054f4cac0d7195796380a"
+  },
+  {
+   "path": "calibers/.308-win.-lapua-1-charlie-2023-06-28.json",
+   "kind": "caliber",
+   "name": ".308 Win. Lapua #1",
+   "sha256": "c0e8540397c2cb4669e8f3b14a41a41271b4b3309d276737d9797ba7ddba102c"
+  },
+  {
+   "path": "calibers/.308-win.-lapua-2-charlie-2023-06-28.json",
+   "kind": "caliber",
+   "name": ".308 Win. Lapua #2",
+   "sha256": "e9f294d456313a61c1dd21b1e83248637af4d50569681ad7b0739b3a80b78ae2"
+  },
+  {
+   "path": "calibers/.308-win.-s-and-b-charlie-2023-06-28.json",
+   "kind": "caliber",
+   "name": ".308 Win. S and B",
+   "sha256": "ac1ad2f278c9c4356d0a19ada0a5dff9a58df401b1522f354e4366606c33abc2"
+  },
+  {
+   "path": "calibers/.308-win.-sar-2018-charlie-2023-06-28.json",
+   "kind": "caliber",
+   "name": ".308 Win. SAR 2018",
+   "sha256": "5958de33f3f9fe6d04cf455684dfca2e471b339961ed3e21522fcd02d39c118f"
+  },
+  {
+   "path": "calibers/.308-win.-winchester-charlie-2023-06-28.json",
+   "kind": "caliber",
+   "name": ".308 Win. Winchester",
+   "sha256": "d7a7e5f092e72f5488e366e02552f37703d70b554fc535c4ea90fb5f2cc5d449"
+  },
+  {
+   "path": "calibers/.327-fed-magnum-dpeppe01-2022-12-12.json",
+   "kind": "caliber",
+   "name": ".327 Fed Magnum",
+   "sha256": "f83758b81137fd9d6bfddfaf04c9604a0833a17ba63175f9ba46267143a2b9f2"
+  },
+  {
+   "path": "calibers/.338-06-a-square-charlie-2022-10-19.json",
+   "kind": "caliber",
+   "name": ".338-06 A-Square",
+   "sha256": "00390c1281416ede3554c6a28c90a4e6589af36cb91354181d8aff7dc4cd193f"
+  },
+  {
+   "path": "calibers/12-7-x-42-charlie-2023-02-11.json",
+   "kind": "caliber",
+   "name": "12,7 x 42",
+   "sha256": "ce84b6f6f4da84ee084b71a5a5fce6815fd0fa77a75b9c36d4a06de376a13a11"
+  },
+  {
+   "path": "calibers/12-7-x-42-charlie-2023-03-11.json",
+   "kind": "caliber",
+   "name": "12,7 x 42",
+   "sha256": "bcb3e20d4932c0593a0d469275d66d6ff98e8f1e511eef27aaab3f95e7c5e29b"
+  },
+  {
+   "path": "calibers/22-grendel-ar15-platform-charlie-2023-02-28.json",
+   "kind": "caliber",
+   "name": "22 Grendel AR15 Platform",
+   "sha256": "e66229a2025f89480f4a4fdad4978b2eec6f922fe45f1c7c0f59f2739fad5e3f"
+  },
+  {
+   "path": "calibers/22-grendel-bolt-action-platform-charlie-2023-02-28.json",
+   "kind": "caliber",
+   "name": "22 Grendel Bolt Action Platform",
+   "sha256": "9bde4957ac388f9b43534c8c364b1152c913a4c88ee4546f037c77aa3b945fd6"
+  },
+  {
+   "path": "calibers/25-creedmoor-beiruty-2022-07-12.json",
+   "kind": "caliber",
+   "name": "25 Creedmoor",
+   "sha256": "b7293125358ff7a479cc273f9668b85a97e6d5b49e77766c1f17eda679e1a9ab"
+  },
+  {
+   "path": "calibers/25-prc-beiruty-2022-07-12.json",
+   "kind": "caliber",
+   "name": "25 PRC",
+   "sha256": "0015d5fed6072c4f1e2278a03fdbdf31a440e110d401e7e9f4f39cd887e9002a"
+  },
+  {
+   "path": "calibers/30-super-carry-charlie-2022-02-01.json",
+   "kind": "caliber",
+   "name": "30 Super Carry",
+   "sha256": "371d43a7740b152033bb175b6abe6c27f8f218a9d23fcef95c4d17a6e96f8cb4"
+  },
+  {
+   "path": "calibers/30-super-carry-charlie-2022-10-19.json",
+   "kind": "caliber",
+   "name": "30 Super Carry",
+   "sha256": "0ab8142b0b3cd22e2acb332dfd045e5da2e8f315670ca115c8cace581b00321f"
+  },
+  {
+   "path": "calibers/33xc-smokincache-2022-08-15.json",
+   "kind": "caliber",
+   "name": "33xc",
+   "sha256": "bf09ab22f36418a8b5db3b3f5c35b5990a87d5c69413f14866f82c9064377fb1"
+  },
+  {
+   "path": "calibers/400-legend-charlie-2023-04-26.json",
+   "kind": "caliber",
+   "name": "400 Legend",
+   "sha256": "5c82e7d4c0083c07385551ab4a7b0cb3d31f6e6bc9f949733729852254fee8d2"
+  },
+  {
+   "path": "calibers/5.45-x-39-charlie-2022-05-25.json",
+   "kind": "caliber",
+   "name": "5.45 x 39",
+   "sha256": "65f9ec66c34185fb45056f8e111e39c6d6bbe39193a74ba3529cb77acf0c5d3a"
+  },
+  {
+   "path": "calibers/50-beowulf-charlie-2023-02-11.json",
+   "kind": "caliber",
+   "name": "50 Beowulf",
+   "sha256": "4aacbfa9403353a6b289652d4bca509e1b4303c4bf0acc2a136c2af2374af1f0"
+  },
+  {
+   "path": "calibers/6-mm-arc-ar-15-charlie-2023-03-01.json",
+   "kind": "caliber",
+   "name": "6 mm ARC AR-15",
+   "sha256": "f3e31195316632728db5e270a90c474b204fe7367e76eb76a4f6bc869cc7f6a8"
+  },
+  {
+   "path": "calibers/6-mm-arc-bolt-gun-charlie-2023-03-01.json",
+   "kind": "caliber",
+   "name": "6 mm ARC Bolt Gun",
+   "sha256": "cb253f2d1f351919129fb3dd6a7ffcab3e7a9b3f7a50ef2d652678d8fcabc7c7"
+  },
+  {
+   "path": "calibers/6-mm-arc-gordon-2020-09-06.json",
+   "kind": "caliber",
+   "name": "6 mm ARC",
+   "sha256": "488bf5e2ddb7ad3943002999617151e9af8f77c614c6c209ff22ef5e9946c059"
+  },
+  {
+   "path": "calibers/6-mm-gt-charlie-2023-02-08.json",
+   "kind": "caliber",
+   "name": "6 mm GT",
+   "sha256": "d1f983eb0a366b0c32af8607262c180444b7658be93732668bc7759a16ea5da6"
+  },
+  {
+   "path": "calibers/6-mm-gt-charlie-2023-03-24.json",
+   "kind": "caliber",
+   "name": "6 mm GT",
+   "sha256": "0523f07a483763e32a1b36ce0b01d46a32259f42ff4f66492dd8f4f26694d80c"
+  },
+  {
+   "path": "calibers/6.5-06-a-square-charlie-2022-12-02.json",
+   "kind": "caliber",
+   "name": "6.5-06 A-Square",
+   "sha256": "59d39f1e3e01ffcc5d8a81c73611e8e6c3720080718db1d679145a8d02919605"
+  },
+  {
+   "path": "calibers/6.5-prc-si-beirut-2022-11-23.json",
+   "kind": "caliber",
+   "name": "6.5 PRC SI",
+   "sha256": "581b7d0d648699f7564e5bd4554c7be659f10910667a8b2d468b9918c34c092f"
+  },
+  {
+   "path": "calibers/6.5-weatherby-rpm-charlie-2022-11-02.json",
+   "kind": "caliber",
+   "name": "6.5 Weatherby  RPM",
+   "sha256": "40f98fd4e8bc9bef3e2ddc7b53be948cd8a8ac9d528843e92d1fc59c80edb0a7"
+  },
+  {
+   "path": "calibers/6.8-western-charlie-2023-02-07.json",
+   "kind": "caliber",
+   "name": "6.8 Western",
+   "sha256": "e9008805cb1033f0714d13952476793480b218c4d0e097f8be5c1e5741fc934c"
+  },
+  {
+   "path": "calibers/6.8-western-charlie-2023-02-17.json",
+   "kind": "caliber",
+   "name": "6.8 Western",
+   "sha256": "78a73d11d701e84fa9c86f6628fd35278fbfc998cc6902ad17259241659f2541"
+  },
+  {
+   "path": "calibers/7-300-prc-beiruty-2022-06-27.json",
+   "kind": "caliber",
+   "name": "7-300 PRC",
+   "sha256": "e4a1b6014269b5261e148319dc74f4b4edb96de7fc0f77632d2b106d8ae7065a"
+  },
+  {
+   "path": "calibers/7-prc-charlie-2023-02-09.json",
+   "kind": "caliber",
+   "name": "7 PRC",
+   "sha256": "ebd52ab656b13a1f8a0b35aba05056b8334c0b33e383913c5286f5c6a34d3b14"
+  },
+  {
+   "path": "calibers/7-prc-w-charlie-2023-02-09.json",
+   "kind": "caliber",
+   "name": "7 PRC-W",
+   "sha256": "1eb067948a09c2cab7c794d22a7e58b1dc790b09d8b2b4c4abff1e3f8537e5cb"
+  },
+  {
+   "path": "calibers/7mm-.300-norma-mag.-charlie-2023-01-19.json",
+   "kind": "caliber",
+   "name": "7mm .300 Norma Mag. ",
+   "sha256": "5022e9b937033c480c0246bcb1487364625e65720ef9599add1e37b0d775fca9"
+  },
+  {
+   "path": "calibers/7mm-precision-rifle-cartridge-gews-2022-06-27.json",
+   "kind": "caliber",
+   "name": "7mm Precision Rifle Cartridge",
+   "sha256": "4f15879b75a983d52137ce99b857cd64d4bf71630044a6d1ce0daa3097b0a17e"
+  },
+  {
+   "path": "calibers/8.6-blackout-charlie-2022-11-14.json",
+   "kind": "caliber",
+   "name": "8.6 Blackout",
+   "sha256": "edf1fcf05d37914949c11b70cb164165ca2f98051e8b60bb1873fb82cb7ed13e"
+  },
+  {
+   "path": "powders/accurate-magpro-2023-06-22-tom24-2023-06-22.json",
+   "kind": "powder",
+   "name": "Accurate MAGPRO 2023/06/22",
+   "sha256": "b6c4fd19ea830e3ba33ca23a1061df9c8488878c9b987e36d5bb72e6e571afc3"
+  },
+  {
+   "path": "powders/alliant-red-dot-2023-06-21-tom24-2023-06-21.json",
+   "kind": "powder",
+   "name": "Alliant Red Dot 2023/06/21",
+   "sha256": "7f15171dfcc2a8ab2a9e4716dfeed943d453645332d14490f298a7345148ceb3"
+  },
+  {
+   "path": "powders/alliant-rl-25-2023-04-01-tom24-2023-04-02.json",
+   "kind": "powder",
+   "name": "Alliant RL 25 2023/04/01",
+   "sha256": "8ad561c58a85acc1c6a3062ef6cd8882d34da2777881576cd7734074c69f2aa4"
+  },
+  {
+   "path": "powders/alliant-rl-33-2023-03-26-tom24-2023-04-02.json",
+   "kind": "powder",
+   "name": "Alliant RL 33 2023/03/26",
+   "sha256": "b275d6544390e5832df2dbd0d43b055f8e782c7f2bb33f70044ba0e927b82f62"
+  },
+  {
+   "path": "powders/hodgdon-50bmg-2020-12-11-beiruty-2022-08-10.json",
+   "kind": "powder",
+   "name": "Hodgdon 50BMG 2020-12-11",
+   "sha256": "35850935e14e78c107750a880b90c011aeacf734a9e3444ced90cd75c1e99ed7"
+  },
+  {
+   "path": "powders/hodgdon-50bmg-2023-03-26-tom24-2023-04-02.json",
+   "kind": "powder",
+   "name": "Hodgdon 50BMG 2023/03/26",
+   "sha256": "b099e5c4d20454269b720c03470fb6f165b742c93c76bc30dca549db13304f3d"
+  },
+  {
+   "path": "powders/hodgdon-h380-3-20230129-tom24-2023-01-29.json",
+   "kind": "powder",
+   "name": "Hodgdon H380 #3 20230129",
+   "sha256": "c87c6b1ead328aa6c93e80d71745dd68d3ba3763d513f0eb69e4ff03518c881d"
+  },
+  {
+   "path": "powders/hodgdon-lil-gun-ql-2023-05-03-tom24-2023-05-05.json",
+   "kind": "powder",
+   "name": "Hodgdon Lil' Gun QL 2023/05/03",
+   "sha256": "143ecf0b8493c319e82c26422078f010a8908e1416b132b39006e5c0369a7316"
+  },
+  {
+   "path": "powders/hodgdon-lil-gun-sub-sonic-2023-05-07-charlie-2023-05-07.json",
+   "kind": "powder",
+   "name": "Hodgdon Lil'Gun (sub-sonic) 2023/05/07",
+   "sha256": "19aaba447dba0f3d78e64095ba01963ec6054fd62a6703722287dfbdb2afa700"
+  },
+  {
+   "path": "powders/hodgdon-lil-gun-sub-sonic-2023-05-07-tom24-2023-05-07.json",
+   "kind": "powder",
+   "name": "Hodgdon Lil'Gun (sub-sonic) 2023/05/07",
+   "sha256": "2743b105269ee72f03fc11d89d98b28482cb73aa6c6b119c7ee8fdfc77a8a4cf"
+  },
+  {
+   "path": "powders/reload-swiss-rs-14-2023-01-27-tom24-2023-01-27.json",
+   "kind": "powder",
+   "name": "Reload Swiss RS 14 2023/01/27",
+   "sha256": "a0d0cfb012329c6e31cf1dcffc54b42e5453a381ec52b0a37e7ccb81e393d94e"
+  },
+  {
+   "path": "powders/winchester-staball-match-2023-02-13-tom24-2023-02-13.json",
+   "kind": "powder",
+   "name": "Winchester StaBALL Match 2023/02/13",
+   "sha256": "2e9f25de526d74fdc9921dad5b65bce764c34568799958991599bcdc687ca260"
+  },
+  {
+   "path": "projectiles/badlands-125gr-.264-bd-2-125gr-z987k-2023-06-01.json",
+   "kind": "projectile",
+   "name": "Badlands, 125gr .264 BD-2 125gr",
+   "sha256": "1292fe5593644a3c4d41b6c9769e9469bbcd2bad77aaa3b142593fe3f66494ea"
+  },
+  {
+   "path": "projectiles/badlands-140gr-277-sbd-2-140gr-z987k-2023-06-01.json",
+   "kind": "projectile",
+   "name": "Badlands, 140gr 277 SBD-2 140gr",
+   "sha256": "4ab0d8466030d0eaa612929bd6ae0472db27e3f12c030b9d922348f16fc9976d"
+  },
+  {
+   "path": "projectiles/barnes-lrx-bt-30479-101gr-10kyler00-2022-05-29.json",
+   "kind": "projectile",
+   "name": "Barnes, LRX BT 30479 101gr",
+   "sha256": "5e9614a9857370a5e130ea25d1677abf5d3a851e0b18efc3be83c13de8b5318f"
+  },
+  {
+   "path": "projectiles/berger-200.20x-hybrid-30417-200gr-charlie-2022-12-18.json",
+   "kind": "projectile",
+   "name": "Berger, 200.20X Hybrid 30417 200gr",
+   "sha256": "613bf59b8ee4b3e586e79ec8dcbc1e51f79b4a1876d8b3e6a876369eba53b012"
+  },
+  {
+   "path": "projectiles/berger-eol-156gr-chrismack12-2021-12-30.json",
+   "kind": "projectile",
+   "name": "Berger, EOL 156gr",
+   "sha256": "7d7b1c3f5f0e79d70695827a085b7267dffecb5a0f9533b717d7000c6c95a75c"
+  },
+  {
+   "path": "projectiles/berger-eol-elite-hunt-26550-156gr-charlie-2022-05-27.json",
+   "kind": "projectile",
+   "name": "Berger, EOL Elite Hunt 26550 156gr",
+   "sha256": "8c658ba9b8444920cdf3c9fde71207025f7c00b6ab166f962682b880248b2f13"
+  },
+  {
+   "path": "projectiles/berger-hybrid-target-24585-135gr-charlie-2023-07-13.json",
+   "kind": "projectile",
+   "name": "Berger, Hybrid Target 24585 135gr",
+   "sha256": "9a7ea65b25d4b430eb41617b632dcd91f5d6a147eb36d2bcf9d0d3e04529ee8f"
+  },
+  {
+   "path": "projectiles/berger-long-range-hybrid-target-153gr-charlie-2022-07-29.json",
+   "kind": "projectile",
+   "name": "Berger, Long Range Hybrid Target 153gr",
+   "sha256": "8cecd891e5f2e973e32cb19704002080a72db700761efee1c58e248a058703bb"
+  },
+  {
+   "path": "projectiles/berger-long-range-hybrid-target-copy1-153gr-chrismack12-2021-12-30.json",
+   "kind": "projectile",
+   "name": "Berger, Long Range Hybrid Target Copy1 153gr",
+   "sha256": "505aee19f4952ee1c65e2efbda52f89beb52306bc4645e87b27bcc441ba21724"
+  },
+  {
+   "path": "projectiles/berger-lrht-85gr-mat_legolas-2023-03-06.json",
+   "kind": "projectile",
+   "name": "Berger, LRHT 85gr",
+   "sha256": "52251d632421ea619c92e37d6841fb996c862d09ff4782c845063a442c9c3d03"
+  },
+  {
+   "path": "projectiles/berry-s-bullets-.458-socom-round-shoulder-350gr-airwolf-2022-12-29.json",
+   "kind": "projectile",
+   "name": "Berry's Bullets, .458 SOCOM Round Shoulder 350gr",
+   "sha256": "2ea161585e5203047694bdd06d5c1c4d6d4a8d7d2e206135fb98c10d38e8d3e4"
+  },
+  {
+   "path": "projectiles/berry-s-bullets-spire-point-220gr-airwolf-2022-11-29.json",
+   "kind": "projectile",
+   "name": "Berry's Bullets, Spire Point 220gr",
+   "sha256": "a8ba240e0d5a7cbce1f801565e1da703201081d378fea4279bd8530aa86702f8"
+  },
+  {
+   "path": "projectiles/cutting-edge-mth-120gr-sierra1-2022-06-26.json",
+   "kind": "projectile",
+   "name": "Cutting Edge, MTH 120gr",
+   "sha256": "1b83fd109b0b21ecf418a3aaf48e4cbeb1bc8a9ef0b1945d12115e1a619fafa2"
+  },
+  {
+   "path": "projectiles/federal-hst-124gr-zak-2023-06-13.json",
+   "kind": "projectile",
+   "name": "Federal, HST 124gr",
+   "sha256": "efa240604cf2fe1d1b431a388266b71c3706f0ff713f9c6ca569e732744715cc"
+  },
+  {
+   "path": "projectiles/federal-hst-148gr-zak-2023-06-13.json",
+   "kind": "projectile",
+   "name": "Federal, HST 148gr",
+   "sha256": "1a201f3376966825c95135711daf13e3a3188132d681c5bbbf83dd37e747bdd7"
+  },
+  {
+   "path": "projectiles/hammer-101gr.-hunter-sku-28101hh-101gr-charlie-2023-01-13.json",
+   "kind": "projectile",
+   "name": "Hammer, 101gr. Hunter SKU: 28101HH 101gr",
+   "sha256": "f69526c04193c67beeff06dcfa2194b4796ac7af97039f17ee93d965b1526d06"
+  },
+  {
+   "path": "projectiles/hammer-113gr.-shock-hammer-sku-28113sh-113gr-charlie-2023-01-13.json",
+   "kind": "projectile",
+   "name": "Hammer, 113gr. Shock Hammer SKU: 28113SH 113gr",
+   "sha256": "03a74037050d9bae6de4d16c41fa448dc67389999ba5d5971c41e4bc713c40c7"
+  },
+  {
+   "path": "projectiles/hammer-119gr.-absolute-hammer-no-sku-119gr-charlie-2023-01-13.json",
+   "kind": "projectile",
+   "name": "Hammer, 119gr. Absolute Hammer No SKU 119gr",
+   "sha256": "48ef83f0a897f742bfc40bdd8ed72bd0e3ac9e8982eae90a391b65d63416721e"
+  },
+  {
+   "path": "projectiles/hammer-120gr.-hunter-no-sku-120gr-charlie-2023-01-13.json",
+   "kind": "projectile",
+   "name": "Hammer, 120gr. Hunter No SKU 120gr",
+   "sha256": "ab04896b6dcfcad7751bbdd607809471ae537d39a94a405c7ee47903b112131a"
+  },
+  {
+   "path": "projectiles/hammer-130gr.-absolute-hammer-sku-28130ah-130gr-charlie-2023-01-13.json",
+   "kind": "projectile",
+   "name": "Hammer, 130gr. Absolute Hammer SKU: 28130AH 130gr",
+   "sha256": "07009013ec6cb55d11eb2cdf8db48c1ed58f1fe7833fd8dccc09f3f42442ec6a"
+  },
+  {
+   "path": "projectiles/hammer-131gr.-heavy-hammer-sku-28131hvy-131gr-charlie-2023-01-13.json",
+   "kind": "projectile",
+   "name": "Hammer, 131gr. Heavy Hammer SKU: 28131HVY 131gr",
+   "sha256": "da1b83c5f1c6f831fd7f558d1b8f421628a0e2982fd28c755c5552de8b8dd13e"
+  },
+  {
+   "path": "projectiles/hammer-131gr.-hunter-sku-28131hh-131gr-charlie-2023-01-13.json",
+   "kind": "projectile",
+   "name": "Hammer, 131gr. Hunter SKU: 28131HH 131gr",
+   "sha256": "102ad1ece77748ec74ed6728520ac21593581befc573f103de13b3528604fb3b"
+  },
+  {
+   "path": "projectiles/hammer-136gr.-shock-hammer-sku-28136sh-136gr-charlie-2023-01-13.json",
+   "kind": "projectile",
+   "name": "Hammer, 136gr. Shock Hammer SKU: 28136SH 136gr",
+   "sha256": "0ea14a5df90f5764ce48ac3d2b765f5af1604957f20e3fbb21d85db788fe1d8b"
+  },
+  {
+   "path": "projectiles/hammer-140gr.-absolute-hammer-no-sku-140gr-charlie-2023-01-13.json",
+   "kind": "projectile",
+   "name": "Hammer, 140gr. Absolute Hammer No SKU 140gr",
+   "sha256": "e4ac6c95529e6c01563760efb3d4cc346f8beb34c4c2adab803f34e3a39e06e6"
+  },
+  {
+   "path": "projectiles/hammer-143gr.-hunter-sku-28143hh-145gr-charlie-2023-01-13.json",
+   "kind": "projectile",
+   "name": "Hammer, 143gr. Hunter SKU: 28143HH 145gr",
+   "sha256": "2fe19245f57dd12149a4ef26190dc641400473335237cc08c353621046fd03da"
+  },
+  {
+   "path": "projectiles/hammer-146gr-hunter-sku-28146hh-146gr-charlie-2023-01-13.json",
+   "kind": "projectile",
+   "name": "Hammer, 146gr, Hunter SKU: 28146HH 146gr",
+   "sha256": "132be86196dcec3c9057f934dedd74f1b966f5f1ca8bdeafcc828646db875536"
+  },
+  {
+   "path": "projectiles/hammer-150gr.-shock-hammer-sku-28150sh-151gr-charlie-2023-01-13.json",
+   "kind": "projectile",
+   "name": "Hammer, 150gr. Shock Hammer SKU: 28150SH 151gr",
+   "sha256": "1152f3fe45e9deca11bc8fad1f26497b27c3792f8630c5237bc13780d68ec5b9"
+  },
+  {
+   "path": "projectiles/hammer-154gr.-abs.-ham.-dead-blow-no-drawing-154gr-charlie-2023-01-13.json",
+   "kind": "projectile",
+   "name": "Hammer, 154gr. Abs. Ham. Dead Blow No Drawing 154gr",
+   "sha256": "4f98b9ab76da9a7e740241a45817be3a91a9551efe232e03991b0e1ef006a78e"
+  },
+  {
+   "path": "projectiles/hammer-155gr.-absolute-hammer-no-sku-155gr-charlie-2023-01-13.json",
+   "kind": "projectile",
+   "name": "Hammer, 155gr. Absolute Hammer No SKU 155gr",
+   "sha256": "b6b47d986464f989150d7c43cc9d80c276352d60f725d5dc4f6214332b0ba3cd"
+  },
+  {
+   "path": "projectiles/hammer-155gr.-hunter-sku-28155hh-157gr-charlie-2023-01-13.json",
+   "kind": "projectile",
+   "name": "Hammer, 155gr. Hunter SKU: 28155HH 157gr",
+   "sha256": "97024b9407af176c0802ba68b1f4b2fbc4a48f5097df606641133aa5da855157"
+  },
+  {
+   "path": "projectiles/hammer-160gr.-shock-hammer-sh-sku-28160sh-159gr-charlie-2023-01-13.json",
+   "kind": "projectile",
+   "name": "Hammer, 160gr. Shock Hammer SH SKU: 28160SH 159gr",
+   "sha256": "329ec71c29119f4954c2660332395003f0bbf6af93f341d55386fea818e7dfdd"
+  },
+  {
+   "path": "projectiles/hammer-169gr.-hunter-sku-28169hh-169gr-charlie-2023-01-13.json",
+   "kind": "projectile",
+   "name": "Hammer, 169gr. Hunter SKU: 28169HH 169gr",
+   "sha256": "32b31fc464257fa71347d65621f20c30827958857c2be7410eaf8b7082504626"
+  },
+  {
+   "path": "projectiles/hammer-172gr.-abs.-ham.-no-sku-or-drawing-172gr-charlie-2023-01-13.json",
+   "kind": "projectile",
+   "name": "Hammer, 172gr. Abs. Ham. No SKU or drawing 172gr",
+   "sha256": "97d8846be9f8a6fcdf75c975b114d6d42093ab5a267e37963ebfaa54b7170a28"
+  },
+  {
+   "path": "projectiles/hammer-177gr.-hunter-sku-28177hh10-177gr-charlie-2023-01-13.json",
+   "kind": "projectile",
+   "name": "Hammer, 177gr. Hunter SKU: 28177HH10 177gr",
+   "sha256": "d99da5db3ca8421cb21962b964c457e0911e4980af3fd3a07c960c347a40704f"
+  },
+  {
+   "path": "projectiles/hammer-90gr.-hunter-no-sku-no-drawing-90gr-charlie-2023-01-13.json",
+   "kind": "projectile",
+   "name": "Hammer, 90gr. Hunter No SKU / No Drawing 90gr",
+   "sha256": "39d07ba0d63d02b873e492bbfacb8e994ff5c20fdf83a834488525ded6a00a45"
+  },
+  {
+   "path": "projectiles/hammer-absolute-hammer-90gr-charlie-2023-04-13.json",
+   "kind": "projectile",
+   "name": "Hammer, Absolute Hammer 90gr",
+   "sha256": "976e51fd5bbbca7aeaf1f67002bf47e30c1b9498a0ad225fa49de93a271e4d76"
+  },
+  {
+   "path": "projectiles/hornady-a-max-26101-100gr-charlie-2022-12-30.json",
+   "kind": "projectile",
+   "name": "Hornady, A-MAX 26101 100gr",
+   "sha256": "099f0d84020df465d26de36f72d59a78ca799a3de2cbb2f5c9833f11bda9c800"
+  },
+  {
+   "path": "projectiles/hornady-a-tip-match-28506-190gr-charlie-2023-01-10.json",
+   "kind": "projectile",
+   "name": "Hornady, A-Tip Match #28506 190gr",
+   "sha256": "4c2e48c086514e04391bdc6d44f71d25ceeb6315fdc5bf5185466e1f16f522ab"
+  },
+  {
+   "path": "projectiles/hornady-a-tip-match-33389-300gr-charlie-2022-05-27.json",
+   "kind": "projectile",
+   "name": "Hornady, A-Tip Match 33389 300gr",
+   "sha256": "3accc7062adfa5809f7e3e4544cf20d188c8637431f75af471009bdc1f4b48bf"
+  },
+  {
+   "path": "projectiles/hornady-a-tip-match-33389-300gr.json",
+   "kind": "projectile",
+   "name": "Hornady, A-Tip Match 33389 300gr",
+   "sha256": "3f69e5623f4992ed5a967b9ca2d2f12d07c528ea4f5e8c47ad33f9a3fd60d67e"
+  },
+  {
+   "path": "projectiles/hornady-bthp-263355-140gr-barney-2022-05-28.json",
+   "kind": "projectile",
+   "name": "Hornady, BTHP 263355 140gr",
+   "sha256": "5cfe0360810b3389f4fb350121ec5ad858430cbfb74c23e25100af885d5ba4a6"
+  },
+  {
+   "path": "projectiles/hornady-eld-m-22791-75gr-airwolf-2022-11-22.json",
+   "kind": "projectile",
+   "name": "Hornady, ELD-M 22791 75gr",
+   "sha256": "8c01b24425e61a7816a0afb8ec074f9ebad2a3384244e4d11caed2a2be32ebc9"
+  },
+  {
+   "path": "projectiles/hornady-eld-match-26331-beg-140gr-barney-2022-07-17.json",
+   "kind": "projectile",
+   "name": "Hornady, ELD-Match 26331 (BEG) 140gr",
+   "sha256": "af758160170f84ef1ddd5469a3aa7faead04db6b7a55d4e20e25d1da2a9ed9d5"
+  },
+  {
+   "path": "projectiles/hornady-gmx-26336-140gr.json",
+   "kind": "projectile",
+   "name": "Hornady, GMX 26336 140gr",
+   "sha256": "cedebd0203a97c0f996b1b2b69922175fe1c82ffad3cccfca3dedee12eb04da2"
+  },
+  {
+   "path": "projectiles/hornady-sub-x-30718-175gr-charlie-2022-09-10.json",
+   "kind": "projectile",
+   "name": "Hornady, SUB-X 30718 175gr",
+   "sha256": "d7953afc24243d833847a2b069ac440c5e11ba9daa0023e76cd88179faf590d2"
+  },
+  {
+   "path": "projectiles/hornady-sub-x-45031-395gr-charlie-2022-09-10.json",
+   "kind": "projectile",
+   "name": "Hornady, Sub-X  #45031 395gr",
+   "sha256": "7289755072813932576a90226bf930f2853512a0f1a9dd2ef29ca52a022c979a"
+  },
+  {
+   "path": "projectiles/hpf-hpf150gr-150gr-cmr29-2022-11-07.json",
+   "kind": "projectile",
+   "name": "HPF, HPF150GR 150gr",
+   "sha256": "72cbd237f0eb2ba7de4130a0380623284a0cc5c0ae59a78bbc30c290e2fb4d97"
+  },
+  {
+   "path": "projectiles/lapua-scenar-gb528-300gr-barney-2022-05-28.json",
+   "kind": "projectile",
+   "name": "Lapua, Scenar GB528 300gr",
+   "sha256": "98391b3f3f0674279cef4fc6bccf6d5c456f2c13a1bc1d17b85cdeeaf4bd116f"
+  },
+  {
+   "path": "projectiles/lehigh-353gr-elr-bullet-353gr-barney-2022-05-28.json",
+   "kind": "projectile",
+   "name": "Lehigh, 353gr ELR Bullet 353gr",
+   "sha256": "23bb865155717bfe05d88de59c652d97b174c7636cab5ff1d4e5afc465467d9a"
+  },
+  {
+   "path": "projectiles/lehigh-380gr-elr-bullet-380gr-barney-2022-05-28.json",
+   "kind": "projectile",
+   "name": "Lehigh, 380gr ELR Bullet 380gr",
+   "sha256": "78a9063a032de25439517fe481035330bf3be5c7ae1831d51118514f093d2ecb"
+  },
+  {
+   "path": "projectiles/lehigh-controlled-fracturing-240gr-charlie-2022-07-27.json",
+   "kind": "projectile",
+   "name": "Lehigh, Controlled Fracturing 240gr",
+   "sha256": "29e46e69c09185ae0660dbc9ac9319826b5ff83c3152fec8f6bd381117c991b0"
+  },
+  {
+   "path": "projectiles/lehigh-defense-controlled-chaos-62gr-sunsetsdawn-2023-03-19.json",
+   "kind": "projectile",
+   "name": "Lehigh Defense, Controlled Chaos 62gr",
+   "sha256": "7e6a6cbfa260776f4f64beec33d7a608fb0309ef423f0fb2fe8c61056cd8b5ea"
+  },
+  {
+   "path": "projectiles/missouri-bullet-company-lfp-245gr-3-groove-1-wipe-245gr-ghirard-2022-12-09.json",
+   "kind": "projectile",
+   "name": "Missouri Bullet Company, LFP 245gr 3 groove, 1 wipe 245gr",
+   "sha256": "e709874c4d09f0f59033b152e4234f92c4ccc6344cd190666848bfad58715eca"
+  },
+  {
+   "path": "projectiles/norma-bondstrike-180gr-charlie-2023-05-13.json",
+   "kind": "projectile",
+   "name": "Norma, Bondstrike 180gr",
+   "sha256": "53e2d20f5a6601b20f97de2ed4060c2178f76da8ba9c3c15824fe9262a0b18c9"
+  },
+  {
+   "path": "projectiles/norma-gtx-143gr-sierra1-2022-06-26.json",
+   "kind": "projectile",
+   "name": "Norma, GTX 143gr",
+   "sha256": "982ce08ee8617233c832f1e5e74bf223deab32112d5741febb63d45ef7e17bea"
+  },
+  {
+   "path": "projectiles/norma-gtx-match-hpbt-130gr-mykle-2023-03-23.json",
+   "kind": "projectile",
+   "name": "Norma, GTX Match HPBT 130gr",
+   "sha256": "4fccf1af2d565e78d5585854997ed31f37475b2814b535518ccc412d842d467f"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-bore-rider-grm-290gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider Bore Rider GRM) 290gr",
+   "sha256": "753a501b5a1f7fa95e1deb590b64c34fed9bbd2e6f8145a4cf2e4f0268ebbdc7"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-100gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 100gr",
+   "sha256": "ee579bc91ff440186a4160343fc82b1cdd8472c673206fffb8f377fd6a6de27c"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-102gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 102gr",
+   "sha256": "25cd1d7d39cb3202b7b0a51e59c81191484d5b1abf96b0d2eb6fab0df8f5e577"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-107gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 107gr",
+   "sha256": "e746f380b5024675f77ab2daf234e771bcf1419b2606dbbd2e1ca074bfebcd3c"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-120gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 120gr",
+   "sha256": "a0e32df8dc680bb92ea0371399eea04a315eb786749cd1b640ede5ac1c3d1e99"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-121gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 121gr",
+   "sha256": "71845b4c9282775805468fc4b5e6e5c06f7ece689d75718813c5c5776b609bea"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-125gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 125gr",
+   "sha256": "d866c0bcfc9f759c4d35556881a13f8bd5a00130a3dbca93a34e949085a1e37b"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-132gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 132gr",
+   "sha256": "3abfb1653206c8c57b279cc8d1ff60f0e49bc6883b2f2dfe74463333991d05f0"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-135gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 135gr",
+   "sha256": "8a8cbc1d3413a10049aeddea7e38fe921fbfebe892c50d9179ac3a096cf346ae"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-135gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 135gr",
+   "sha256": "2b6678dfbbbbbd81eb431a2071a18da92996dd7c5601c0e324388dfa2d8e339a"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-145gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 145gr",
+   "sha256": "a5904a37edd97e406947c750fea7ea39a0f19b192c66f45079062dce3305ae74"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-146gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider (GRM) 146gr",
+   "sha256": "9bc0f465a3391c40f0f02ead2bbafcffe1483834b861c87f46f577d64e5b8e56"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-150gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 150gr",
+   "sha256": "8ba700a2ba9f4d51d1ce3f5b486a55851e4b2a1ff495f8f06e819477e82f3721"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-153gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 153gr",
+   "sha256": "dfc00cded47313d35213bf30063ee166a5530cb583b75f939f201f6d28c85702"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-156gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 156gr",
+   "sha256": "039dc7c6b0571c347b6f8fe725caf32d7cda3edc653be39d697365c0e7f14975"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-160gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 160gr",
+   "sha256": "c001ef90d008f7c47fe6db881179398a200cb3ec9b644699bce0a9aadd001802"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-166gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 166gr",
+   "sha256": "b2ccaa68a62b2a6e78021c1bbe4412027460c2975d69b74052be12c257d794e0"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-168gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 168gr",
+   "sha256": "8567a252fae0f3a7ccbba375308e9e470c75593638dc81a89f39056b80764cbe"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-176gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 176gr",
+   "sha256": "92fabca1975d19a800da4074873f42fb98f0726f5413b1026c3e5ce315a24e25"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-177gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 177gr",
+   "sha256": "69ee1c7345406bcd234efada006d73be1636f76103191e98c80516e0489e35e6"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-186gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 186gr",
+   "sha256": "ff4bea2ef77f7fd43735073e0886ba0e705ce2e15ddc44b6606569dd73330f32"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-196gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 196gr",
+   "sha256": "8229a39c5e3784284f2fc39345400353f1dfef99484ba56f506e7caa3079fff7"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-206gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 206gr",
+   "sha256": "66afbfc6d5378829c8c42b80fe23594bcdfa515afc20d314113c113714565d4d"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-216gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 216gr",
+   "sha256": "8c50e01e6648ca665d45e8efa0ca95765cc783395cf41e6eaf43ccbc878359f8"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-220gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 220gr",
+   "sha256": "a9be20d3ed9d8cbbcca999762d687c79015f87fe248afe96582972316077b47c"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-226gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 226gr",
+   "sha256": "b4935b61ce294d1cfb504d569761d5bcbfbf726ba7d69a91592065ca0e3c160d"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-245gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 245gr",
+   "sha256": "04187aa36966238aad7f5261fa86dd4d0e8cf85855cec2aabc66d53903e08626"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-250gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 250gr",
+   "sha256": "503f367289a7f7488f4ca8ebae0548522d9669b55171352f1d9bc9a0acb2e832"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-260gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 260gr",
+   "sha256": "cf55235facf5a8112d0afd5b51cdadbe210011310c7ea9a045e2ca78cdcc78d5"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-275gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 275gr",
+   "sha256": "71a5dd3265066e2e412c6f4d6969a1f3e2e9b319631621be0642143ef91c1724"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-290gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 290gr",
+   "sha256": "2f769c3bc09df0bc19400075828c79e807babc506ad8bc8ff6084aedd57aa636"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-300gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 300gr",
+   "sha256": "42d434ae8043e54b74738ebde12a76a3b7d321b82033934286799414f27961a4"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-305gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 305gr",
+   "sha256": "8560b1631ab2287967f31e372263434300c1328e3317abead4d426e7256b55e8"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-350gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 350gr",
+   "sha256": "1e6ccd769e70e7e1e2dd4f5898f0dedfff115000c1fdc3305c0c865050cd5002"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-393gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 393gr",
+   "sha256": "4cb3ef57e83ace4210a3e408702a8ac5c65518b7f095836c4131d8073e7939bb"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-420gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 420gr",
+   "sha256": "56cacef24664c8ba8c40f5fd53d51a0d1c4bc794ec47c3141db2e1f2b055ebf8"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-430gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 430gr",
+   "sha256": "3925c981ac5ddbfb42084df63b4a1081f675f6087f98d3c309d21661ea2cff19"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-54gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 54gr",
+   "sha256": "e397f137825a21a3ccfb02f6ec0465b61c75e8b7b4b5900f1719cda786d1d9a3"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-550gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 550gr",
+   "sha256": "da84270c8d79c216ebd868081df7e6dbbc808d49194702250ef79f20c33b1f1f"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-555gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 555gr",
+   "sha256": "6f5bc56682229a949d19efa159ce2204acd9035cc6de96dce9fee683bb425c04"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-65gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 65gr",
+   "sha256": "88a6a8b52e8909fda4b40f57d7c5064f7da19e6cf1a1916fee3c0b2569119ff2"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-750gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 750gr",
+   "sha256": "5f751db7bf950da1a8141645b1045a04fecf5b57bd49be005bcf259d8e484bb1"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-75gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 75gr",
+   "sha256": "0bd83e9c940fffee2b03be6dd0be640f41e094a8ae74eea46a8350ab92ecf2e0"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-81gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 81gr",
+   "sha256": "e53a5129a9cb4a717bfb0b3a821e7e3a3ea307d48b4daa51fa71363d0be1cba2"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-830gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 830gr",
+   "sha256": "8e64f23cb76c3cef6a58deae7788a2831ad5686e5d4625ece359187202946f24"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-870gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 870gr",
+   "sha256": "9c4b738fd29315da3919c3cfc60f209e0efd8f24b198768f0d6dc5b5bb957398"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-91gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 91gr",
+   "sha256": "74177ac389e07f8f0bba0a724a7c13e374ad1d6d490ca7ef07cb0ddecbbb4800"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-grm-97gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider GRM 97gr",
+   "sha256": "36e6ab3a8b0239d3b16821b038259b230a8036e82c2d968ed3eeafdf41047d45"
+  },
+  {
+   "path": "projectiles/peregrine-2022-glider-tactical-166gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Glider Tactical 166gr",
+   "sha256": "8c71e24323b1d3b31045c9d8f30611113047d4a89d7e0133ca56b741f78d0c5b"
+  },
+  {
+   "path": "projectiles/peregrine-2022-hog-140gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Hog 140gr",
+   "sha256": "1118173180279a7c7922a2ca81431502eca665e234ef9f83cc13da0525425ebe"
+  },
+  {
+   "path": "projectiles/peregrine-2022-hog-140gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Hog 140gr",
+   "sha256": "919fed47788936bd4cf5cc11d37ecfade8bc1e8ae7069c93955054a61d0df42b"
+  },
+  {
+   "path": "projectiles/peregrine-2022-hog-180gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Hog 180gr",
+   "sha256": "b4c04d29b5fb527dbbc13f52b732ca399a8ab9b71df0cf326495c5d5d2b54dd2"
+  },
+  {
+   "path": "projectiles/peregrine-2022-hog-180gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Hog 180gr",
+   "sha256": "73ed52460e6737bd4f8040c241e3050546bb3913c025d477ab458a8954169823"
+  },
+  {
+   "path": "projectiles/peregrine-2022-hog-250gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Hog 250gr",
+   "sha256": "9b5cd6e571fa77e99e722587ae6e6e9a0910336fdae3a8ea5f74e8b903869e24"
+  },
+  {
+   "path": "projectiles/peregrine-2022-hog-260gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Hog 260gr",
+   "sha256": "d7aea9cf5654f5b1785f56acbf9525a4f82705e40b36919bbf4221f8590774af"
+  },
+  {
+   "path": "projectiles/peregrine-2022-hog-285gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Hog 285gr",
+   "sha256": "07d27301cf2f356a2d5a20d8ca036d7a72907ce49c7328f14ef203063e14886a"
+  },
+  {
+   "path": "projectiles/peregrine-2022-hog-300gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Hog 300gr",
+   "sha256": "017d2012a6769dccc7fc5f98f0242095d840566e231a190470f157961c263cd9"
+  },
+  {
+   "path": "projectiles/peregrine-2022-holy-venom-9mm-p-123gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Holy Venom 9mm+P 123gr",
+   "sha256": "7a140a00791f45e2bcf4fdd56899258cd6a76f903ae7ff6c54cd9ee2b202b229"
+  },
+  {
+   "path": "projectiles/peregrine-2022-rangemaster-405gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Rangemaster 405gr",
+   "sha256": "3ba5448087a3df2c90f2c741006364aacadc7e08cbe2974c8118115117440389"
+  },
+  {
+   "path": "projectiles/peregrine-2022-rangemaster-455gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Rangemaster 455gr",
+   "sha256": "ba9ec81b5025d4263d3900765532ade4d70760e944212754b71e40a2728041f1"
+  },
+  {
+   "path": "projectiles/peregrine-2022-sd-130gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, SD 130gr",
+   "sha256": "d5e4e82cd9badefda891f5ef97fe479cb193f3950d25e39bd03b9e6f3b9bc5e0"
+  },
+  {
+   "path": "projectiles/peregrine-2022-sd-245gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, SD 245gr",
+   "sha256": "87ac2a95485ef534ad9784e99b9265adf3673ff08b36408293222cf1a37c9be5"
+  },
+  {
+   "path": "projectiles/peregrine-2022-sd-9mm-p-100gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, SD 9mm+P 100gr",
+   "sha256": "24790371d4d9a5df2853b5373876742f4fc0d3362cb191c9246bd6dce4f2f67a"
+  },
+  {
+   "path": "projectiles/peregrine-2022-sd-9mm-short-80gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, SD 9mm Short 80gr",
+   "sha256": "7da76998eb9e3581c065559551e4eaac14abccfde889d55b28e193855d5cf5c8"
+  },
+  {
+   "path": "projectiles/peregrine-2022-sub-sonic-155gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Sub-Sonic 155gr",
+   "sha256": "699c7b2c95b6f6a887fb05ea6691cf6f4a1ba9da81791c5f8c8d0688322694c5"
+  },
+  {
+   "path": "projectiles/peregrine-2022-sub-sonic-165gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Sub-Sonic 165gr",
+   "sha256": "8e9d1f34d61fbecac7a3c059124688ae9f67db331b3b5f2846f78e1a856fd829"
+  },
+  {
+   "path": "projectiles/peregrine-2022-sub-sonic-175gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Sub-Sonic 175gr",
+   "sha256": "39d34a33450024d296849f208914fad213991018feeb3e7a31c654c8c1c424ad"
+  },
+  {
+   "path": "projectiles/peregrine-2022-sub-sonic-188gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Sub-Sonic 188gr",
+   "sha256": "a31fe73078a13b4373f4d25234c8999c149f43d0f369f9b69fe463c5f8340fcc"
+  },
+  {
+   "path": "projectiles/peregrine-2022-sub-sonic-220gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Sub-Sonic 220gr",
+   "sha256": "5f465eb140d36f23bbd0838557136338cbd4370328e7423cad4986c8c331f26b"
+  },
+  {
+   "path": "projectiles/peregrine-2022-sub-sonic-265gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Sub-sonic 265gr",
+   "sha256": "65867d0b3417e5263d424e6651f0f4a567d72d84883d320422830492a044c4a6"
+  },
+  {
+   "path": "projectiles/peregrine-2022-sub-sonic-280gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Sub-Sonic 280gr",
+   "sha256": "4a94f5292dcfb3890dfee16cf376351af44b0d0c008362925c259e16e9e33566"
+  },
+  {
+   "path": "projectiles/peregrine-2022-sub-sonic-420gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Sub-Sonic 420gr",
+   "sha256": "d5c3c720fc2113d7e7407043835bf2c80176ff7fa3c6a003560bea85b58f6924"
+  },
+  {
+   "path": "projectiles/peregrine-2022-sub-sonic-475gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Sub-Sonic 475gr",
+   "sha256": "592c501ddf742292fb88a85e749a601c2d3a1962e1b706838781026c0b7cf3bc"
+  },
+  {
+   "path": "projectiles/peregrine-2022-sub-sonic-475gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, Sub-Sonic 475gr",
+   "sha256": "cc4adb94805d41d7ae0fbabe0bf94e931086d2f9e8cae7902bc2f75c13ddbafe"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-100gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 100gr",
+   "sha256": "da8b0035ba6ec12a88c910c3d71d516bea7f197d3d565a9a09eb5ba004608d8d"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-100gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 100gr",
+   "sha256": "b5719c22fc48c18c5cd970461fdc9454458ec877fb3e9dd2b359ca75074bcda4"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-118gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 118gr",
+   "sha256": "7ba5d3dba048d787fd0a169de2b788d262624ca489e3f4b2e610f7454948524c"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-124gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 124gr",
+   "sha256": "8939d8b518eda249ce99e3305c5b4d338255a76cace6d2cc19334ee853011ef8"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-125gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 125gr",
+   "sha256": "936b83567787221eb2113c01fdd2cd3cfc258c5f3ff88e184dcdf03fa932cd75"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-132gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 132gr",
+   "sha256": "b762f822acb2aea6653d47538f9da74c89737075e39c283686dc004e7ca2b966"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-132gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 132gr",
+   "sha256": "886292c2596c1e94b13d6e0393777396254dfff6b64aa8276beb6efc1301320b"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-136gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 136gr",
+   "sha256": "e61407f842fbfa22043213786c891b3700fe37fb4a30dea06824470037f5f345"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-140gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 140gr",
+   "sha256": "76fb86a8e2c6bed37a751d41aee16d8e9d1c91dd3566b15fd495597ec542f153"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-150gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 150gr",
+   "sha256": "1cbc48056e442971a8b8a4a6282249a58187f41420c68b2e8e26ecc727f068a2"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-150gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 150gr",
+   "sha256": "c8dcbc05f116a621f80c1d39d2ce901a092d10c8089700bb8537665305c6a423"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-152gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 152gr",
+   "sha256": "83db1284f876a9ce1ca814af2e69a204e4e83519ec38665f2fe5125719c4d4d5"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-152gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 152gr",
+   "sha256": "0d323f10cab96ce3b042fd72eaf8bb48a8b8ff46afe54bab1da072256040bd68"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-160gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 160gr",
+   "sha256": "58433fb79fc6c429ef2ce9e64b591f931b6efd8818902e19e4f925fa829ef98b"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-160gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 160gr",
+   "sha256": "d8ee48897dffa52006098472ceb64ff9af91996219202dd7662bf6bfeaec595d"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-161gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 161gr",
+   "sha256": "dd0a8d78815b7bfc9031ab4f544db996653639163fed38e25e93b4d67f68d0a0"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-165gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 165gr",
+   "sha256": "b8871e3cc54f151a07e31fd9ac5daa7afa1c684c56e6871f599210b24d3a13d3"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-167gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 167gr",
+   "sha256": "128b6d3aa927a3d02d20f8584912550c8a810059d6eb34b483f0182d20abcc26"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-168gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 168gr",
+   "sha256": "afbbe79b35cb4f29d10ce3853c86731da1a446aa65c5c4c01cc22bf2bfbfcdbd"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-168gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 168gr",
+   "sha256": "487dcfb366e82cbbdf996bfdd1280f0dc2703e17ee89953f6d384c7f3bd36c93"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-175gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 175gr",
+   "sha256": "03f77253ee356cd256d079ede63783ab584b4d4cbbff18280b8d5fdd52f07d0b"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-180gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 180gr",
+   "sha256": "66da17b61dc09b23818538b9744b586fa021f6584c81d8536cbd4de2bd0d48e8"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-180gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 180gr",
+   "sha256": "f43196b10e03d77a315272e70297a7e8df5cc4c3aaf2c78611309b3888e64edb"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-183gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 183gr",
+   "sha256": "ffbd7d4b1c4d759450753c97e72937f1a74963102317aaa9f76ab144bc6acc00"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-193gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 193gr",
+   "sha256": "f38c08cffae9a891870e2d6186002aefe8858161e6759376dafcfade71d4f81f"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-200gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 200gr",
+   "sha256": "07a2d7fdc78db6481e512a882889b458a930e94a6afed6218e10f3ac7f947ce4"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-200gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 200gr",
+   "sha256": "9fb033d3b2d7d36bcf09c69531c0d40ad130d065f6dff87a4d9f82066e406960"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-203gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 203gr",
+   "sha256": "d8a87b62a357390325e97f4292d7b6f8f77691bfa1384793bb95cdbefbd778c9"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-215gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 215gr",
+   "sha256": "d980cffd846aa60b95e6705c3ad721a222d068670a9b043ece6cd3ea822cc244"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-225gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 225gr",
+   "sha256": "1b48eeb41d555d9007be70c488d1d1469f805997d59903de50fd9d53e3799f9c"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-230gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 230gr",
+   "sha256": "266c5bef8b9a6de8eadd6279aab98e164d08e62d2b58e2ccb5e03f741641175a"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-230gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 230gr",
+   "sha256": "36dba5f49d7485e658458f112877e3b3af48a1821e0d90d47c0fa4e54ae69bf0"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-248gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 248gr",
+   "sha256": "32ab90173462168930893789fb9c4b6a838f429c78de1bfdd52a9e988d7dfa05"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-250gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 250gr",
+   "sha256": "df15aba4db6b512a81915e82ed3f8795f916ca41089fec3a39027c2c2b27cbd3"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-250gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 250gr",
+   "sha256": "86d0b5e805cfcfe1571a39605cb2ed11904b148ae8cd5b8e60915bc253e2abbe"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-270gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 270gr",
+   "sha256": "2fa2ee126bed3cc8909ac4c7a024b1ce96eee1656bf4d93f7f59a62987863bb3"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-270gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 270gr",
+   "sha256": "9f4fc1bb90eede927d6b332a4fa6170b3c7dbde6b0276531e39e1f9a663ca9e1"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-300gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 300gr",
+   "sha256": "817a8498a9b77af3ccbe60bf19fbee26b5d6fb321b90fccbcae3f9912f2568f4"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-300gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 300gr",
+   "sha256": "720e6608ecfec8d6a5713ff55371179b4444c74c4e1fa387a6176e7c72fb84c6"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-34gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 34gr",
+   "sha256": "433e5c655d5c7f4f81dcc1b9cb4077e2b23d66ee2c34619f62f94e41d5728c17"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-390gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 390gr",
+   "sha256": "84a93787cc546dd8bcfdc7fdf75085a66e0a73f8faac09e7d2c2cfe13c2113cb"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-448gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 448gr",
+   "sha256": "f2acc93e9ba5f154e89748f90bc5546b4a3dd59a00348f84542bb6ac4066c917"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-44gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 44gr",
+   "sha256": "f1099526846dd6813f39b530c38a2df4a9d14df46b5960a8c32817ccd48f86b6"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-51gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 51gr",
+   "sha256": "25e8269f537a606a58e3df39f5b4a7d233d45db3f689820b0405d997bcb911b2"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-58gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 58gr",
+   "sha256": "a9eac592245359bd55c1e619eaed18f36f9757537859e1a7efe2a47f37165757"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-67gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 67gr",
+   "sha256": "abf9faaed23a4f15dd02ca6acd0734e94e3cfb9c04819568dea6ed4854f9e1c5"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-75gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 75gr",
+   "sha256": "618a9f84d9890cdb4783c48d2c34baa04ab7313a97ea896bac421f8160b3725c"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-80gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 80gr",
+   "sha256": "18461449d50bb1d79bca3bfedf5b6d85c755a8fc63e75d929a6aebeb995fca0f"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-82gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 82gr",
+   "sha256": "19dbae10fe1c7c16e634a68a265ae6618ea37ea9688c58f4bb12f42fd273680a"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-84gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 84gr",
+   "sha256": "82340f4a7afd5c39689f6ee98a7dd2a4e104e20b2724588772888d9e7fb2b9af"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-87gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 87gr",
+   "sha256": "7defd7cb21ce6a40f5ea9a9e4ee998f7160092f911f8d8070d6b82bf23d518b6"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-91gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 91gr",
+   "sha256": "f99eb2d7d9bbcc57262688ae481a01a2652b187becfefe425fbaeee9866c942d"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-92gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 92gr",
+   "sha256": "df85e5001e75d61cc9742fafc4d2be5e3e4b84bdb7083e7bf39c051253dabcb4"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-4-compact-140gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-4 Compact 140gr",
+   "sha256": "32ace0d247645941549b27341f300290196d630fbeb6ce61ce5ee8d5e7f711f0"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-104gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 104gr",
+   "sha256": "1c9f54de4eb7d2a12ffc9b555506d96337a7a562c7fc6831f015525b10687fe0"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-104gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 104gr",
+   "sha256": "ca65ab46b82d1d168b552445e935c86e6c5da69370e1eedb056b3e0b1cab8bfe"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-122gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 122gr",
+   "sha256": "9b7038232ec1a830d8502c3527318a9dc10b7695e6920ba913b4b64f0bc90342"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-128gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 128gr",
+   "sha256": "307caa4c164a89642ee989dd78ff2159924d172aa3badde3b6f87b90db6bad44"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-129gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 129gr",
+   "sha256": "c66ea449f8db1a7ee52024e2221938ba244b2d5631dc11a353153f1334d606ff"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-136gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 136gr",
+   "sha256": "d6d28407c8ff291396274366d97512e5fb2c3a50e86efd493270a9bd70998d06"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-136gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 136gr",
+   "sha256": "2f888648624c53204f21d79e97f34dfdc75cbd8798ca84afce6ec2057b19c614"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-140gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 140gr",
+   "sha256": "aa28c3194e6cbf12500a0183ac24a1ef9dfd7dcb43c27fc1a519ad0c88256f12"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-144gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 144gr",
+   "sha256": "e250dab764336b18fa7d8d39aa137c049b5f2abbd967c40d7b06c122d8c3f0b6"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-154gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 154gr",
+   "sha256": "49d10d1c64c5431eeb86cb0b48a44488d38f1fb527838068b8720a7452405a56"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-154gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 154gr",
+   "sha256": "388a220b275dc6fbe428551fad637eafdcb5bd00c1423b648528ea4e20256f56"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-165gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 165gr",
+   "sha256": "d789067d034e6456bb3204ca24b48e3d4a20e674d05752fbe9c19bd4dadc367c"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-171gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 171gr",
+   "sha256": "dac1f1bda90bba411b42ee3f58b96103bf4111d64eb9c3e370f920d38dbb4079"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-171gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 171gr",
+   "sha256": "f4589a279dae864595455f7be029b743b7de208f6ac8d0ac5a4f1ac0799b49aa"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-186gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 186gr",
+   "sha256": "2c0c365aaa363139423c57c092199857bc8481f4706c87216ac703e242249778"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-186gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 186gr",
+   "sha256": "191bc93e154387fcb72d1a3976a8707f581a49841d1d17f150c69f44cbafab0c"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-187gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 187gr",
+   "sha256": "e3ac0a1097ba1d287e5e54c6ea127ea8113b5da6d9ca2f501c43f88835d082fb"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-197gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 197gr",
+   "sha256": "b4ecfec27a8d6d23c9f21664c636e60cd9fcf3188a0a004223b345997f50341f"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-206gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 206gr",
+   "sha256": "7486b45694a8af328e3c54621dba19b4fd0300c639acc5f5b671158cf379b5bf"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-206gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 206gr",
+   "sha256": "e98e57df5fc070517563d322852958d9a15cee23c914a0d59e0dfd4ddecdaa3d"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-207gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 207gr",
+   "sha256": "0f64c3855ee8e5a1000cf2ebceb0b84da6980ed4e9a0460983125b6ab3413921"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-219gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 219gr",
+   "sha256": "88a305ce82fa0755b77043283038245677914ec6fc9e265f0a09d40937134c4c"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-231gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 231gr",
+   "sha256": "2767f11bab368c80c76bc2c69603731d27d3ae7140084bb0ad9a261bc4a9a48b"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-236gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 236gr",
+   "sha256": "f54430815d74b4668e48ca8358931ec2b2c67da62efd495c38c86b15620a2408"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-236gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 236gr",
+   "sha256": "71bc039548e727a5bfafe60b667ae6f52c0460afb0a0fd47f4d80a99146ed3f6"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-254gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 254gr",
+   "sha256": "e59a67508c90cda739a58b9543cc7041a16068ee1c8efb6ab94a17ef93a097af"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-256gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 256gr",
+   "sha256": "ba2fcf724b71b1e413be516390cacbacea17a2a61c07eb4ee825510ba7fb289e"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-256gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 256gr",
+   "sha256": "c5ef2f7503fe2def096ffeb9374d4e2301713c11d07aec0bb652e0bce173c1b4"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-276gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 276gr",
+   "sha256": "a464dd5ec0ea390f8c7ed7ecd5399c2f5ce381c21ebb216174a3035035b30202"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-276gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 276gr",
+   "sha256": "96e062a4fd97bac33e63ff44366f15cdc4cc88c8f7cef6f2df7d6ee7eebcdbc2"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-306gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 306gr",
+   "sha256": "a040f8b0503710e4b25fff025b865b38d8e35d875ba96ee33e06d9a5df52dcf6"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-306gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 306gr",
+   "sha256": "885c16d29d03178620bb6e6ae74b85563bcad765012ab912bbecb4632f5b4069"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-36gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 36gr",
+   "sha256": "22bff34dea0d1e08c7984b2c28df33f066983ff6981832d6ddeb35e772fb805a"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-396gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 396gr",
+   "sha256": "2a5ebacb7f8b01bccb2b182ccf1956db24866444b996b5d2a0a44c26c838ad96"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-454gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 454gr",
+   "sha256": "b59e0a23d721d035ebff3f1ac4a76689931f626859fb667abab516db58b0cfb1"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-46gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 46gr",
+   "sha256": "093701795a3f79f436270aa469d7ae368f75ba88b2454081ad35aa27fa557012"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-53gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 53gr",
+   "sha256": "5753b46f55217d2c09c7d3dbc9fc710d893d524709135c9014717a8e60a80be6"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-60gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 60gr",
+   "sha256": "8a20e8757778b0432a58c18df4cb3bea0e4de943c2f702169643a55ac6793a87"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-69gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 69gr",
+   "sha256": "576cbf659c133f5916878d3b55bd948285129652ff25fa7666fafff7b094256c"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-79gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 79gr",
+   "sha256": "55bfab2a86f8d24fdddbf0b9cec81ab025f0e85e777f2fe5580c75d92321867e"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-86gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 86gr",
+   "sha256": "24c644df382463b0fdcbb721b8bf59dd4f9e98b84d424171b943c39052197537"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-91gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 91gr",
+   "sha256": "50eeb5a17c390a3b2da765debc03539c4f540db85276411b95bca89673e50be3"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr-5-95gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR-5 95gr",
+   "sha256": "380c2bc02e0fff551bc66175a323996e6fb9d036ca6d2fbedea479054ea4e168"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr4-21gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR4 21gr",
+   "sha256": "cf79957082909dfdf2fbe83025037ee340e227e03e5bb703c24ddc2f38d9b203"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vlr5-22gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VLR5 22gr",
+   "sha256": "3baf452226e31fd00fbb318b5604c5c28d01f1f99271168bc0a2df6b6c1336f8"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-1-300gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-1 300gr",
+   "sha256": "caf5370ee4a1b707c26ea634524f8281aa43d2bf4161678942528aac3840ce5d"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-1-480gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-1 480gr",
+   "sha256": "6791a012d6805e876bb082d6d9b73268361e453a6e837031cb33e778d0ea2f05"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-1-500gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-1 500gr",
+   "sha256": "3c32a6cc78cb80606ce15f3fbd634f83817a4455a1bea0add7eac6d623a5235b"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-104gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 104gr",
+   "sha256": "f361b2f0f02a6caadb918839d93be7987222e1fb96c26cf1b986a72d1f46c46a"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-136gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 136gr",
+   "sha256": "d2800f7f3a209545539847eb3bb1b556a7998b241f2766899994dd98bbb815e4"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-146gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 146gr",
+   "sha256": "51610070d0b81c453d1f5751f15375da6377667c6e5f0949ce4f884aba2bd2ea"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-156gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 156gr",
+   "sha256": "f6d2c5641b7cd5e44f720dfd2bf10d6acbb739dae8fe3c6256e4e5c1340a7b66"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-156gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 156gr",
+   "sha256": "b134b9f93a0528567e2df3a651a584d9e87391eb058a9e082a0d6f728956c59d"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-166gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 166gr",
+   "sha256": "b4ff77a81f62e8198834a586ab6253d8b6ac5a7eb7022552d3ea3e265dbc1294"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-171gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 171gr",
+   "sha256": "dbbf1f86e5de1b995e32443a5c59f7a3de852570ada4175f305ff2b89dd092b1"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-186gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 186gr",
+   "sha256": "3105b71c49b0a056be93fba94e0db0a80675b3f0c612e37edb2193fc07e1a54a"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-200gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 200gr",
+   "sha256": "49e3dbd6259eb5055363b8876b34724643cb9912fd754a4e1bb989807581519d"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-206gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 206gr",
+   "sha256": "ffdf5e8131423643b0c570d1b9865684402594de7be5a13ebe2404cbd858f86b"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-206gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 206gr",
+   "sha256": "5c49c52506667227262a6e5a5c22fb38582580e3e5e60be0a8819e591c3b2e33"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-220gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 220gr",
+   "sha256": "eef3bfdadadb0d4cfbf2664cbf27ae3869dfa8755e1de226fe89c9095f3122b5"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-237gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 237gr",
+   "sha256": "9ff4876576c0e2a9413cbb5f5292f69cf26ec53adbeb353cfcef0cbc90b7523c"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-255gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 255gr",
+   "sha256": "bd38120eac1d3fc7076c5c59196d0648a5e7f55f12ff642bc496cbab8c3c20a9"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-257gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 257gr",
+   "sha256": "2479db4d7ce89949c0ef72955fea60a7decd9bb80ce7ce7792c8b5ef3918f61b"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-257gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 257gr",
+   "sha256": "e3643e76bf0ec60a6c86eabf7e0e311819535910436701dfd17b1968514c36dd"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-265gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 265gr",
+   "sha256": "e82d58c6ff3add28b3250e181a279a6ef6c0d2b2e68136e37169e512718c704b"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-277gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 277gr",
+   "sha256": "6dfdc77189b6b1ab725783d372a5dad4a4f566e862b8549a56559037d885633a"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-293gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 293gr",
+   "sha256": "93558672091ec47a01fb5143b899b41deaa3f98e4b1a8e503693a711ee5cff03"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-307gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 307gr",
+   "sha256": "8510c2b945a4095ddef968811cb66ea60dcf0088ffbba0f4ec3520e0d63201be"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-315gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 315gr",
+   "sha256": "1d8a7ba509175f68d8634984112ee3409a376a1df1b8bf3e05a02a86d97d9f60"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-320gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 320gr",
+   "sha256": "3d10a039a3ac8218fab43d8b9206ec98bff565c5d1711f74a33651eb29669428"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-350gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 350gr",
+   "sha256": "7bcb5a1bc0983a64ac684bf4f8da957266545068d455e0a3f970ffda5c61dc3b"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-355gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 355gr",
+   "sha256": "f9f40b92ef4f013d253df449647088f45c7bdce6719589711eae07568905cb04"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-360gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 360gr",
+   "sha256": "6c535f5ff035adf3b24380e036532ead67505a83367f6c529ac3543024b19cbf"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-360gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 360gr",
+   "sha256": "86c633ea31b2ac18e4dc58d114a974b065f0ab6380d5fd35747dcfc341df5852"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-362gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 362gr",
+   "sha256": "13eeed0cc34a0ee5ff66e4eeb2f71e85691b8af025a0949cc25df36a5f95133c"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-362gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 362gr",
+   "sha256": "0a4484f318534782a43e17c24cee4b9c196d8a9c53efd7d569fce38e023414b2"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-410gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 410gr",
+   "sha256": "997b003888d5d95354bf9b15d8c15b99d03861c5cb37da6059845b0b1d131b0c"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-410gr-charlie-2022-10-28-3.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 410gr",
+   "sha256": "283030e95b5907a991744fdca7e9f852a82dfd22cc26d239d31dc2d89c5b8bb2"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-410gr-charlie-2022-10-28-4.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 410gr",
+   "sha256": "8d4a4c6679f703bdb5e2dffbc756e1dfed062c32fd776647beeb847ba6d144a3"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-410gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 410gr",
+   "sha256": "6150c5523159d1704442514b02b1d1f6fb46c0b496573f8b4375f24fd44071a7"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-415gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 415gr",
+   "sha256": "428b2b4b8c0c747c9820b2b35915fb81561d09457c5c14803638493cc99e4709"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-462gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 462gr",
+   "sha256": "553f34a187fa4211f6ed87ea8a5286c43260b5e46db098beda0962ad9548d2d4"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-465gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 465gr",
+   "sha256": "10b52c4ddffde1e71f25bb5b3bb917d3812142a31b8047ff7ae5ced7c2e2da72"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-465gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 465gr",
+   "sha256": "d1368cc215ddc8600d3d0228f66ab306b1490869a5b6eabaeaebb71316614a28"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-48gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 48gr",
+   "sha256": "57ee5149f29f6f6d7d1651a6e9b709bd7bd0a563cb990db38b6fd824d618162c"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-49gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 49gr",
+   "sha256": "c2edb694883f9855a8e9954799467c243293e37facf57517e1f77e8af70f04eb"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-512gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 512gr",
+   "sha256": "d4e3fcb865856b8f40be7174b858dbe17c2b49778495b5535d8897655a231d06"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-515gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 515gr",
+   "sha256": "24d73fe495baf2d3f44be1f175620c135ec678c63ca58a6b08c7f8e7939c7fe3"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-525gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 525gr",
+   "sha256": "c734cb1b5351ed6ec989b2dba23ed3ca1344bf8c577f945da0854feb16a1fb72"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-525gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 525gr",
+   "sha256": "643a2db6681db0cc4a57f42512f7705d3dfc88471c8b2e281e5c75cd5f72868f"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-575gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 575gr",
+   "sha256": "457f3ee1ce668febb67f105313a532015f2f13fbde72fc4584112e8b0517224d"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-575gr-charlie-2022-10-28-3.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 575gr",
+   "sha256": "1788e19cfcba0dbeb2533ad24a33b8595b27cb0e4730bf6c5c65be6d3462a4e5"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-575gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 575gr",
+   "sha256": "3f0ab55ff8502b7023537764fe64f7597ce9c61aa0ce06b9c4dc474b766df04b"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-585gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 585gr",
+   "sha256": "74caa895cf918d5ec739fbd26ed424448eeb5a28df4cf84a40cb805d5a2d6fea"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-58gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 58gr",
+   "sha256": "dc22eceb6a2f0d1a665cd6cc824aee85df96f006e4c762217da9a75d12a04f81"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-58gr-charlie-2022-10-28-3.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 58gr",
+   "sha256": "3fd6d9f75a109812f45bdefeb6a2b14f0550145795715ecc16fc50bc2a963ffc"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-58gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 58gr",
+   "sha256": "2e881a430b7eab48919c6e9ba1dc01cba401c5bbc3cab5bcef79f4fb4e6e48c9"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-625gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 625gr",
+   "sha256": "07f66f11e1e667b397408b25e6eabfa39b9bc6caeb0e2ebe833d3332a3799626"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-625gr-charlie-2022-10-28-3.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 625gr",
+   "sha256": "1d4be6544322b458d2a2136c81e0e521e944a8265f76733f104b1e0c567ce621"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-625gr-charlie-2022-10-28-4.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 625gr",
+   "sha256": "9c270f7145dacea1613591190750e7b24297466a0c244b6dbb1faadff861e3a0"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-625gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 625gr",
+   "sha256": "f008bb1502fa53dfc70dc13fd4028edc5e0c010546b835ad2cd1c2c0165123d9"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-725gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 725gr",
+   "sha256": "bb87b87733b4598209126ff441d39d97e8da20a0d99b9e5a313cf07d4c3c9d3c"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-73gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 73gr",
+   "sha256": "18a5d64d546cc961fd9a1d4c7fb5e5d658f74038d6da9a44d8c27c8483751182"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-780gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 780gr",
+   "sha256": "bf279378123e3b4d8b8ef2abaec8ecaaafa3b7d8f125b14ec56290af560aad62"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-89gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 89gr",
+   "sha256": "239560f3157d33af1e91aed967040578ef5c757dc02ebfe3479e599826fb2970"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-2-discontinued-220gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-2 (Discontinued) 220gr",
+   "sha256": "23e106a3a86554f631a3accc3fcae55b43f7e1e2f4edf9773acbc44597ce4a9f"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-100gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 100gr",
+   "sha256": "155273397b8fc2b7669fd4b2475e22adf2423e398ababe51518af3f7c708202f"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-101gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 101gr",
+   "sha256": "5da0df3c1417aadb4eb1b7b38f5e7d050a4975a1f441d40dcf61dcda6cdcad07"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-118gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 118gr",
+   "sha256": "6360baf80cc8bb68690692d46e6c366f520afdb8b260cc54eff7d77f819b0c74"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-132gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 132gr",
+   "sha256": "e37bde8d7f8669230f9ebc89096418f512c12129d65d55c51cac315c5ee80df0"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-140gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 140gr",
+   "sha256": "6a8a20720c5d80dd3cdcb174bfa4d88028c1f499b32263200dae304c8f90df0a"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-150gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 150gr",
+   "sha256": "12af3a8ae256de3f6e8ef8e087675ebe95ab85c897d167b66a6e54e8f4eb5c63"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-150gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 150gr",
+   "sha256": "6dcbca342ab71f5a61fd54d7b50b0ba2ad3e8b1b84de629bab2dc66c2943377e"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-160gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 160gr",
+   "sha256": "e6645f6eb807acc8c1da2d020a9b7fe7b73bfe485b642e1023369184060745bc"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-160gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 160gr",
+   "sha256": "21fadac725ef3336a21919be6ac1b72f5925136baa51c8e28322126ec5c0f341"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-163gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 163gr",
+   "sha256": "3fd3052f8dc1c2641a1dc37d456b1bfb4a97a1707dd1a6091c9f24a6c90ef486"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-165gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 165gr",
+   "sha256": "49288c7afee9a4732841a8332ed898eb398d42ea977d0d184c48a22df8fd96c0"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-168gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 168gr",
+   "sha256": "1656db3756996f69e1982b53ed4d5abba71240a03dce28ba8194dd15607a3bb9"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-180gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 180gr",
+   "sha256": "9b29e01e18e5fd9758ed64c5f37d962ea4033ec661ecee804a2d0d0443d39a8f"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-185gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 185gr",
+   "sha256": "876b6d3b042c51c4e9a2f324942590f606713b7280642e2002c320993afaff07"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-200gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 200gr",
+   "sha256": "1b15ba61adb3a41b6c45c9d8e1d0022e4aa7361f7365e36a102f3da92aaec9f1"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-200gr-charlie-2022-10-28-3.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 200gr",
+   "sha256": "979ba870dd534b71f7c9f40921d477a357a5ab60c5c9b849efb30ee68bac0a76"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-200gr-charlie-2022-10-28-4.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 200gr",
+   "sha256": "56487e82465f0c3e7eb4239ba1fea95876901a380cc92e4697d9f3044f13398b"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-200gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 200gr",
+   "sha256": "aa86c5e28dd13c86c71b4ba473b60c43271014925723148de5dd6b984d6e6290"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-205gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 205gr",
+   "sha256": "0f57f8129b80faf1874b69bde06d44acdd5898774a3a4deef4f3434230c88638"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-205gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 205gr",
+   "sha256": "8673d1fc3b919ab9c0701a0bb9adff97063800b1cb1cbc548dac3be6749ee7b2"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-220gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 220gr",
+   "sha256": "3d86ad74eb196f6a1b5be51199168828e204698290c519cc0a6e214a24cb6b75"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-220gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 220gr",
+   "sha256": "ff98341cc6bdbe4679069636347873cf389f48285aaff4781cd4e687d87d09df"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-230gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 230gr",
+   "sha256": "a5237258af720f391d0a0b760c85ce52835a456f5591f2c7b40c09d974a6cfd4"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-230gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 230gr",
+   "sha256": "68108ace98fb16aa022cf98d996fff27be9278dbc77e7732917a03d4280fedb3"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-240gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 240gr",
+   "sha256": "93b68da71ea034cacd8520b9e18e4c839b530ec6fbf819758287fbfe7749801f"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-250gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 250gr",
+   "sha256": "4a973a1df46fab32332acf567bb44eb24d0d82401dc3bf461641383be09fbd53"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-250gr-charlie-2022-10-28-3.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 250gr",
+   "sha256": "1691f54512c36287436cd5a3dfe1091961d0dba97e87ea761000b33ff4522e8d"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-250gr-charlie-2022-10-28-4.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 250gr",
+   "sha256": "281609c2a4ce47aa364f211d2befc7340b038e490fbb23252f11200a623bbb0c"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-250gr-charlie-2022-10-28-5.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 250gr",
+   "sha256": "ccb993e14a92f76c94a151a331d1752d73b3ef742a889e2c3a4b733093079bc9"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-250gr-charlie-2022-10-28-6.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 250gr",
+   "sha256": "f673d40791652738d666a6e21ed79f3f95f2e429fc4cb55ad75aaa7bebe2db9e"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-250gr-charlie-2022-10-28-7.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 250gr",
+   "sha256": "30d108e5ee20b21e3a1a12d280bc4727e1032f8fc238e8eb3b96c035d8525803"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-250gr-charlie-2022-10-28-8.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 250gr",
+   "sha256": "830585f33153517d386f0372508b8c1a9a89504945eb58c7949fe1e41b0ad3cf"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-250gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 250gr",
+   "sha256": "d2ced035845ce7335ea80f4d309044f930858c7db74df7f936ae74f62e5a091c"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-260gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 260gr",
+   "sha256": "d1cc061eecf0c07edd89e35dc300dada18a286f9b974ea54c9278d5c7eb56e85"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-260gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 260gr",
+   "sha256": "34311926742af7b30ca2d5a87730912c6c0d7224ab207190254af1793191cdc1"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-265gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 265gr",
+   "sha256": "4510690402c43da1fffc1011a1654e8252b26a3fb4add106a5574753164837f3"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-270gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 270gr",
+   "sha256": "63313aac7f486ba5319b9c4f8c1cec5f25e0302f575a671b7194261670e507c2"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-270gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 270gr",
+   "sha256": "171632d61b5dedcae7c7a932ca0e211685240f2cdcdec5555ecd0751ca20fbce"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-285gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 285gr",
+   "sha256": "5bfe9fff78c708726d9fd13868c26c19443851e24c488cab2b0e4452fdf9034c"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-285gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 285gr",
+   "sha256": "8e9c8bb265f00a64b9aa852c5b30a7213df94e876363c0b3b2df21150a0e58fb"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-286gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 286gr",
+   "sha256": "af7357696ebe3a491e6f86699f68cc018982844f3fc62259da87de64f0980509"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-290gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 290gr",
+   "sha256": "7c7f22ddde988573a5904b27e01b2622ce998c2b575a3c092f849ab21544d6fb"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-290gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 290gr",
+   "sha256": "2f0476f6b9280ccf3ac7f03a0807ca00064829cd80a741f272e890f2cf8513d2"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-300gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 300gr",
+   "sha256": "17d09b226c8c49a18b443dcdac20e8f832d32c606ae4c62f0752584ab86446ee"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-300gr-charlie-2022-10-28-3.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 300gr",
+   "sha256": "a8c04ccdf790bcdb95497960d908a6de84b6905b46956f6b29aabdf1230b32d8"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-300gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 300gr",
+   "sha256": "e11840f3503a76ee56f887e8712eaf809309af71bc7233c77c2c0cabd57fad70"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-310gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 310gr",
+   "sha256": "f64114ef501f49954a0ea33d6171ae5582062df096dcb05a72de052958aa7510"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-315gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 315gr",
+   "sha256": "67cad546c2091646205701a88abfea3bdef2fc17e9768dc08b2703d36accc65c"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-340gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 340gr",
+   "sha256": "987eb5c5375daad30df4c294a70d608f711687f0a73b99d371c607cbaead0c3f"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-350gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 350gr",
+   "sha256": "4a00571eeeea7b078e65b121e628e327820ae61d11d05c95705dd87908f4319f"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-350gr-charlie-2022-10-28-3.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 350gr",
+   "sha256": "0ff630ee41738c3f7f7e49b12f4d8c9b76bc57a399edaa1015e5781f670d78da"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-350gr-charlie-2022-10-28-4.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 350gr",
+   "sha256": "d1c46beeddcb1d382de017fe982beef9b759df88e62c7ad9a80b93b3cdd0047e"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-350gr-charlie-2022-10-28-5.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 350gr",
+   "sha256": "d61a6c31a4785dd2b1c48bf0952a7f4516dce7a721f98598726373a9dfb605b5"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-350gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 350gr",
+   "sha256": "68f7f469f6b0521d5d54de77a229b5c31c8b8a5cec57b869d16bec18b6a8b119"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-400gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 400gr",
+   "sha256": "23403764a4da5e423377d4568b8def1ef9114712cd1a94db1538b6a9942a49a3"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-400gr-charlie-2022-10-28-3.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 400gr",
+   "sha256": "9782fc84432c737e3b9e0e8a671c904ac412a8222ee246876f5eacf94e9de0d0"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-400gr-charlie-2022-10-28-4.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 400gr",
+   "sha256": "a85e348f8b23cc0b435d8482338fa6dcabf9b459d336216fd16126687144e8ff"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-400gr-charlie-2022-10-28-5.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 400gr",
+   "sha256": "ae6b38bf6e98f89dda56ca0c9abc032ab18ffb4b9a16afdc06e0d24a20fac9bc"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-400gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 400gr",
+   "sha256": "90f5130ac466f9924a3ad06997abd73826766f1df8f38723ab0910bd629b5d69"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-450gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 450gr",
+   "sha256": "a082372e58b9267e4e27137919df79dabd930041d597d65f538fd1f100e1725a"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-450gr-charlie-2022-10-28-3.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 450gr",
+   "sha256": "666d7a27745c8307f84734052d3761c8430153b42bc70b1321f27f738aecac70"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-450gr-charlie-2022-10-28-4.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 450gr",
+   "sha256": "fcb63d4f34e79a3e22a72c9b53eb10e265cb06a7d0a33d57920b7b50f4a0bf75"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-450gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 450gr",
+   "sha256": "e561961a8bb005d5041c88595f6371b941a29e1778957cfaddcf7407a31495f1"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-45gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 45gr",
+   "sha256": "0a380e8937efa432529b12775968416c07b997aeb28ed2345ffe966ceee47401"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-500gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 500gr",
+   "sha256": "5f1b510e8cf1fd51a16c16540c5ba58c4ff300277d8d12d573a161ed6869f416"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-500gr-charlie-2022-10-28-3.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 500gr",
+   "sha256": "bf10aa4d3c5bb347965fbb76cdb94a4c3c4b3896512e8fb637314590250b324d"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-500gr-charlie-2022-10-28-4.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 500gr",
+   "sha256": "d4c41e8ecb9f243fb4dd147ecb1a642c21378503d9888b6b57081e7627c799bd"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-500gr-charlie-2022-10-28-5.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 500gr",
+   "sha256": "610d82a309b158236c36ea9e0c02d54e73c37455d05f3d26738c28e22d3ecd28"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-500gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 500gr",
+   "sha256": "125b3ab105b6fc14aadbc69d2518ab85e45d41db6206de11a66146f3ab304205"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-52gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 52gr",
+   "sha256": "6ae885bfa870491491ed57a0e34ce86c04b71f7eb45f545f7440739dc159f961"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-52gr-charlie-2022-10-28-3.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 52gr",
+   "sha256": "139090d6b4155cdeaea4c438d183706197cc1f5e1b17ec9a3509acb111617a67"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-52gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 52gr",
+   "sha256": "beddd006195687a39f5316e600b46da735e22d09bc32007072a8950b7e8599ad"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-550gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 550gr",
+   "sha256": "6d48cd3d3639482d75afda09e1d36cd8b8a92ee36bc7a24ee389106a6782baed"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-550gr-charlie-2022-10-28-3.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 550gr",
+   "sha256": "f48bdad550bb4529817063989ecba77d2de3d7069c3125f9c8fc2c46277ed007"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-550gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 550gr",
+   "sha256": "ec6e1983db4d9cfff162daca54289fd488b7229db74db0c74dcb65a9c321f14f"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-55gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 55gr",
+   "sha256": "0f61a9a355e41163a44479604f7771f34689d92c7739093491096daf5db4b6b9"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-560gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 560gr",
+   "sha256": "e06705567196a34c281edc2de821b05a454e39e41a5ceaa29b5aba339fefb9ed"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-600gr-charlie-2022-10-28-2.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 600gr",
+   "sha256": "f7648ff49c732bcd89125adf8e86ad15abb2e70897fcd729f39c9ffe04938cfe"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-600gr-charlie-2022-10-28-3.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 600gr",
+   "sha256": "1cf3df8c1266efe94908323062fd8b82598c2c459474d8c5954db8a637c1af70"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-600gr-charlie-2022-10-28-4.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 600gr",
+   "sha256": "a16b3e998749316156cc68b530fd9af9b31935c6a94c91d92ee57ae314826501"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-600gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 600gr",
+   "sha256": "503af335b3407496287845b6f0fe41753ebc12156dd22cf4768df810ff4e0fc8"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-700gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 700gr",
+   "sha256": "00d1a88748319a06db17c4c80679b4a36dc13bb1caf57b074f24dfe01c0c0710"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-70gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 70gr",
+   "sha256": "d9646c8160286fbc37d4bbdd8abc33be6eb155403d2e13be92ffd7fc679575c5"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-750gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 750gr",
+   "sha256": "90efb171a349bcdb28e9efa0596cd7d218ab250df8ccce35c2bf3c7e9a6bd3f0"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-85gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 85gr",
+   "sha256": "76f5aefb941b0345ea1500767d65d7e5682571031778b5d53c01eddba12f43d8"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-discontinued-220gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 (Discontinued) 220gr",
+   "sha256": "dcfefef349a16d75e243cc7e9d6d6b372f890ebb38a2bad1404e7121ac1dbead"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-hybrid-140gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 Hybrid 140gr",
+   "sha256": "80638f9d6996f3dc3b98782d1b4a329b9713809d8e013a30bd597908b043f1da"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-hybrid-180gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 Hybrid 180gr",
+   "sha256": "0464fd4ce628d8926f052b9c7baab86ecf6caacffaf5887e9a131abde9052355"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-lever-135gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 Lever 135gr",
+   "sha256": "24f45b354eb79f155927d0417ca1ae1511a83a5dede4eead1e1192635fd3f01a"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-3-lever-160gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-3 Lever 160gr",
+   "sha256": "8d72346ba9bc6bf5136e6838c8863d9c41a5b6a2b215c437cc5bbeb3b48c9edc"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg-6-300gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG-6 300gr",
+   "sha256": "45e705967a7a94bf481fbb93c6f9ab6a14e4231445079b7d20731c8f80690c3f"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg6-solid-117gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG6 Solid 117gr",
+   "sha256": "e0fcb06842528a2efbd0e6e1fd2e41490a98a903392d4df601909dda6d41ace7"
+  },
+  {
+   "path": "projectiles/peregrine-2022-vrg6-solid-152gr-charlie-2022-10-28.json",
+   "kind": "projectile",
+   "name": "Peregrine - 2022, VRG6 Solid 152gr",
+   "sha256": "926b5d29aa66b10148e3e44014320d1e66267f4429b9b1917b932e8cce33fc93"
+  },
+  {
+   "path": "projectiles/sako-hammerhd-266d-286gr-charlie-2022-05-27.json",
+   "kind": "projectile",
+   "name": "Sako, HammerHd 266D 286gr",
+   "sha256": "69f89c38a040cc52fc5d202eabb4f9402c6ebf2d649fd4ec60afd5251e4bb14d"
+  },
+  {
+   "path": "projectiles/sako-powerhead-blade-162gr-joghurt-2022-06-27.json",
+   "kind": "projectile",
+   "name": "Sako, Powerhead Blade 162gr",
+   "sha256": "6a459093b2790e7e1246c859e15ea1257ca10b2a21af33a82ca0ca222d84d597"
+  },
+  {
+   "path": "projectiles/sierra-38-213-matchking-long-range-hpbt-5-bulk-299gr-barney-2022-05-28.json",
+   "kind": "projectile",
+   "name": "Sierra, 38 213 Matchking Long Range HPBT 5 (Bulk) 299gr",
+   "sha256": "ad97d0cc4a2fdc5411d3078ec08387d97cca7403203ccb70d9705544d0743988"
+  },
+  {
+   "path": "projectiles/sierra-38-213-matchking-long-range-hpbt-5-bulk-299gr-barney-2022-06-26.json",
+   "kind": "projectile",
+   "name": "Sierra, 38 213 Matchking Long Range HPBT 5 (Bulk) 299gr",
+   "sha256": "1c287a4493ca87b5047f37c50e4c7061b3d7225279c11fe625191dc11ba5f3b1"
+  },
+  {
+   "path": "projectiles/sierra-hpbt-mk-150gr-jt427v8-2023-01-24.json",
+   "kind": "projectile",
+   "name": "Sierra, HPBT MK 150gr",
+   "sha256": "d5d61bc74f1c4d6f28ded4aef002abdbccafb0b02d78f03bd5b5cb4b14cc6470"
+  },
+  {
+   "path": "projectiles/sierra-hpbt-mk-1755-150gr-nitrox-2023-05-01.json",
+   "kind": "projectile",
+   "name": "Sierra, HPBT MK 1755 150gr",
+   "sha256": "0fdae2259e83c7b721f45b0510497837fc6205037a8b504bbdf8930bfddc93d4"
+  },
+  {
+   "path": "projectiles/sierra-hpbt-mk-9377-77gr-charlie-2023-01-04.json",
+   "kind": "projectile",
+   "name": "Sierra, HPBT MK 9377 77gr",
+   "sha256": "12331afaa0df3d84693a8d15da753338a7cbedfe3e58d245c4085d5868c0936f"
+  },
+  {
+   "path": "projectiles/sierra-tgk-4340-140gr-charlie-2023-01-19.json",
+   "kind": "projectile",
+   "name": "Sierra, TGK 4340 140gr",
+   "sha256": "a8f7fc2a4772aacd00d0210d98b28be740253d89eb147a59d6446aa6219ce4f1"
+  },
+  {
+   "path": "projectiles/sig-sauer-elite-ball-fmj-fb-125gr-airwolf-2023-04-17.json",
+   "kind": "projectile",
+   "name": "Sig Sauer, Elite Ball FMJ FB 125gr",
+   "sha256": "3d475e270ebf722c6c0534ac1aa8ce3240d60a7a6a4d0cfac72950832ac72be6"
+  },
+  {
+   "path": "projectiles/vapor-trail-bullets-vt-tac-103gr-charlie-2023-05-03.json",
+   "kind": "projectile",
+   "name": "Vapor Trail Bullets, VT-TAC 103gr",
+   "sha256": "d9d16049ae437120edda53abf89c0674f14ab20faf6c4a286bedcf2711d25147"
+  }
+ ]
+}

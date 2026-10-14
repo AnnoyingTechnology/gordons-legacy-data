@@ -1,0 +1,42 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "powder",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Winchester_StaBALL_Match_-_2023_02_13_by_Tom24_2023.02.13.propellant",
+    "author": "Tom24",
+    "date": "2023-02-13",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "maker": "Winchester",
+    "product": "StaBALL Match",
+    "lot": "2023/02/13",
+    "heatOfExplosion": 3700000,
+    "heatCapacityRatio": 1.2,
+    "covolume": 0.001,
+    "grainDensity": 1600,
+    "bulkDensity": 890,
+    "burnModel": {
+      "kind": "grt",
+      "vivacity": 0.56,
+      "a0": 5.2232,
+      "a1": 0,
+      "z1": 0.4296,
+      "z2": 0.8867,
+      "coldTemperatureCoefficient": 0,
+      "hotTemperatureCoefficient": 0
+    },
+    "info": {
+      "description": "Based on Hodgdon Reloading Data website.\rCartridges considered:\r6.5 Creedmoor\r.270 Win\r.308 Win",
+      "origin": "GRT",
+      "createdBy": "grtuser",
+      "createdOn": "2023-02-13",
+      "modifiedBy": "2023-02-13",
+      "modifiedOn": "2023-02-13"
+    }
+  }
+}

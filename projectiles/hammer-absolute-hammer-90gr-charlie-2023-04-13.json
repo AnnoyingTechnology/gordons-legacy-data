@@ -1,0 +1,43 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Hammer_Absolute_Hammer_by_Charlie_2023.04.13.projectile",
+    "author": "Charlie",
+    "date": "2023-04-13",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Hammer, Absolute Hammer",
+    "maker": "Hammer",
+    "product": "Absolute Hammer",
+    "lot": "",
+    "nominalCaliber": ".257",
+    "diameter": 0.00653,
+    "mass": 0.0058319018999999995,
+    "length": 0.026670000000000003,
+    "base": {
+      "shape": "boattail",
+      "length": 0.0035299999999999997,
+      "diameterA": 0.006500000000000001,
+      "diameterB": 0.00571
+    },
+    "shotStartPressure": 20000000,
+    "boreResistanceAdjustment": -8300000,
+    "ballisticCoefficientG1": 248.88663119226237,
+    "ballisticCoefficientG7": 124.44331559613119,
+    "ubcsCode": "H2H1B2D1N2",
+    "info": {
+      "description": "Ogive does not contact rifling with Absolute Hammer bullets",
+      "origin": "",
+      "createdBy": "grtuser",
+      "createdOn": "2023-04-12",
+      "modifiedBy": "",
+      "modifiedOn": "2023-04-12"
+    }
+  }
+}

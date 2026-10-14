@@ -1,0 +1,42 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Berger_153_Long_Range_Hybrid_Target_by_Charlie_2022.07.29.projectile",
+    "author": "Charlie",
+    "date": "2022-07-29",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Berger, Long Range Hybrid Target",
+    "maker": "Berger",
+    "product": "Long Range Hybrid Target",
+    "lot": "2021",
+    "nominalCaliber": ".264",
+    "diameter": 0.00671,
+    "mass": 0.009946632685,
+    "length": 0.03846,
+    "base": {
+      "shape": "boattail",
+      "length": 0.00439,
+      "diameterA": 0.0067,
+      "diameterB": 0.0057
+    },
+    "shotStartPressure": 25000000,
+    "ballisticCoefficientG1": 487.9302882695765,
+    "ballisticCoefficientG7": 250.2927703515407,
+    "ubcsCode": "T??1B2S4N1",
+    "info": {
+      "description": "",
+      "origin": "",
+      "createdBy": "grtuser",
+      "createdOn": "2021-12-29",
+      "modifiedBy": "",
+      "modifiedOn": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Barnes_LRX_BT_30479_by_10kyler00_2022.05.29.projectile",
+    "author": "10kyler00",
+    "date": "2022-05-29",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Barnes, LRX BT 30479",
+    "maker": "Barnes",
+    "product": "LRX BT 30479",
+    "lot": "R001089-2 110v JW-M",
+    "nominalCaliber": ".257",
+    "diameter": 0.00653,
+    "mass": 0.006544689909999999,
+    "length": 0.0307,
+    "base": {
+      "shape": "boattail",
+      "length": 0.0036000000000000003,
+      "diameterA": 0.006500000000000001,
+      "diameterB": 0.0058
+    },
+    "shotStartPressure": 35000000,
+    "ballisticCoefficientG1": 281.22783185566374,
+    "ubcsCode": "",
+    "info": {
+      "description": "",
+      "origin": "",
+      "createdBy": "Z",
+      "createdOn": "2022-05-28",
+      "modifiedBy": "",
+      "modifiedOn": ""
+    }
+  }
+}

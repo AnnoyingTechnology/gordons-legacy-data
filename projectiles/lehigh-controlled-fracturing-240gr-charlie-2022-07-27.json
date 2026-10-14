@@ -1,0 +1,41 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Lehigh_.458_240_grain_Controlled_Fracturing_by_Charlie_2022.07.27.projectile",
+    "author": "Charlie",
+    "date": "2022-07-27",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Lehigh, Controlled Fracturing",
+    "maker": "Lehigh",
+    "product": "Controlled Fracturing",
+    "lot": "",
+    "nominalCaliber": ".458",
+    "diameter": 0.011630000000000001,
+    "mass": 0.015551738399999999,
+    "length": 0.026670000000000003,
+    "base": {
+      "shape": "hollow",
+      "length": 0.00394,
+      "diameterA": 0.01026,
+      "diameterB": 0.01026
+    },
+    "shotStartPressure": 13800000,
+    "ballisticCoefficientG1": 97.023601990204,
+    "ubcsCode": "",
+    "info": {
+      "description": "",
+      "origin": "",
+      "createdBy": "grtuser",
+      "createdOn": "2022-07-27",
+      "modifiedBy": "",
+      "modifiedOn": ""
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Hornady_SUB-X_30718_by_Charlie_2022.09.10.projectile",
+    "author": "Charlie",
+    "date": "2022-09-10",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Hornady, SUB-X 30718",
+    "maker": "Hornady",
+    "product": "SUB-X 30718",
+    "lot": "",
+    "nominalCaliber": ".308",
+    "diameter": 0.00782,
+    "mass": 0.01133980925,
+    "length": 0.02935,
+    "base": {
+      "shape": "flat"
+    },
+    "shotStartPressure": 25000000,
+    "ballisticCoefficientG1": 210.9208738917478,
+    "ubcsCode": "",
+    "info": {
+      "description": "9/9/2022\r300 Ham'r bullet COAL soft touch = 2.200\", hard COAL touch but not stuck = 2.220\".\r300 Ham'r bullet CBTO soft touch = 1.773\", hard CBTO touch but not stuck = 1.793\".\r7.62x39 bullet COAL soft toucj = 2.256\".\r7.62x39 bullet CBTO soft touch = 1.833\".\rBBTO = .7245\"\rSuitable for 30-30 at action COAL length of 2.555\".  This places neck mouth just below the cannelure.\rSoft touch is approx. 2.671\", way too long for use in magazine, single load only.\r\r",
+      "origin": "",
+      "createdBy": "grtuser",
+      "createdOn": "2022-09-09",
+      "modifiedBy": "",
+      "modifiedOn": "2022-09-09"
+    }
+  }
+}

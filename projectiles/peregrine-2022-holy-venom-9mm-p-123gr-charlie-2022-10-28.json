@@ -1,0 +1,40 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Peregrine-2022_by_Charlie_2022.10.28.projectile",
+    "author": "Charlie",
+    "date": "2022-10-28",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Peregrine - 2022, Holy Venom 9mm+P",
+    "maker": "Peregrine - 2022",
+    "product": "Holy Venom 9mm+P",
+    "lot": "",
+    "nominalCaliber": ".355",
+    "diameter": 0.00902,
+    "mass": 0.00797026593,
+    "length": 0.01811,
+    "base": {
+      "shape": "boattail",
+      "length": 0.0013000000000000002,
+      "diameterA": 0.00902,
+      "diameterB": 0.0086
+    },
+    "shotStartPressure": 4000000,
+    "ubcsCode": "",
+    "info": {
+      "description": "QL imported data, missing variables were filled with default values",
+      "origin": "",
+      "createdBy": "grtuser",
+      "createdOn": "2022-10-28",
+      "modifiedBy": "",
+      "modifiedOn": ""
+    }
+  }
+}

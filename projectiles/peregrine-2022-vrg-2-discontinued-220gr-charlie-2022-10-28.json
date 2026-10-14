@@ -1,0 +1,42 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Peregrine-2022_by_Charlie_2022.10.28.projectile",
+    "author": "Charlie",
+    "date": "2022-10-28",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Peregrine - 2022, VRG-2 (Discontinued)",
+    "maker": "Peregrine - 2022",
+    "product": "VRG-2 (Discontinued)",
+    "lot": "2019-06",
+    "nominalCaliber": ".323",
+    "diameter": 0.008199999999999999,
+    "mass": 0.014255760199999998,
+    "length": 0.0353,
+    "base": {
+      "shape": "boattail",
+      "length": 0.001,
+      "diameterA": 0.008199999999999999,
+      "diameterB": 0.004
+    },
+    "shotStartPressure": 29000000,
+    "boreResistanceAdjustment": -10000000,
+    "ballisticCoefficientG1": 220.76384800669604,
+    "ubcsCode": "",
+    "info": {
+      "description": "",
+      "origin": "",
+      "createdBy": "GRT",
+      "createdOn": "2022-10-28",
+      "modifiedBy": "",
+      "modifiedOn": ""
+    }
+  }
+}

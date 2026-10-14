@@ -1,0 +1,38 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Hornady_Sub-X_45031_by_Charlie_2022.09.10.projectile",
+    "author": "Charlie",
+    "date": "2022-09-10",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Hornady, Sub-X  #45031",
+    "maker": "Hornady",
+    "product": "Sub-X  #45031",
+    "lot": "Lot# 2212668",
+    "nominalCaliber": ".452",
+    "diameter": 0.01148,
+    "mass": 0.025595569449999998,
+    "length": 0.02822,
+    "base": {
+      "shape": "flat"
+    },
+    "shotStartPressure": 21000000,
+    "ballisticCoefficientG1": 210.9208738917478,
+    "ubcsCode": "",
+    "info": {
+      "description": "BBTO = .442\"",
+      "origin": "",
+      "createdBy": "grtuser",
+      "createdOn": "2022-09-09",
+      "modifiedBy": "",
+      "modifiedOn": "2022-09-09"
+    }
+  }
+}

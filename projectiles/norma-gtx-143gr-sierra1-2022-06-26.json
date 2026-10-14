@@ -1,0 +1,42 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Norma_.264_143_GTX_by_Sierra1_2022.06.26.projectile",
+    "author": "Sierra1",
+    "date": "2022-06-26",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Norma, GTX",
+    "maker": "Norma",
+    "product": "GTX",
+    "lot": "",
+    "nominalCaliber": ".264",
+    "diameter": 0.00671,
+    "mass": 0.009266244129999998,
+    "length": 0.03711,
+    "base": {
+      "shape": "boattail",
+      "length": 0.00436,
+      "diameterA": 0.00671,
+      "diameterB": 0.00536
+    },
+    "shotStartPressure": 25000000,
+    "ballisticCoefficientG1": 446.4491830708662,
+    "ballisticCoefficientG7": 225.68533506417015,
+    "ubcsCode": "",
+    "info": {
+      "description": "",
+      "origin": "",
+      "createdBy": "grtuser",
+      "createdOn": "2022-05-24",
+      "modifiedBy": "",
+      "modifiedOn": ""
+    }
+  }
+}

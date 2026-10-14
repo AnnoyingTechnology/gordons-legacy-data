@@ -1,0 +1,42 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "powder",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Reload_Swiss_RS_14_-_2023_01_27_by_Tom24_2023.01.27.propellant",
+    "author": "Tom24",
+    "date": "2023-01-27",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "maker": "Reload Swiss",
+    "product": "RS 14",
+    "lot": "2023/01/27",
+    "heatOfExplosion": 3200000,
+    "heatCapacityRatio": 1.228,
+    "covolume": 0.001,
+    "grainDensity": 1600,
+    "bulkDensity": 316,
+    "burnModel": {
+      "kind": "grt",
+      "vivacity": 3.147,
+      "a0": 9.7814,
+      "a1": 0,
+      "z1": 0.1799,
+      "z2": 0.7608,
+      "coldTemperatureCoefficient": 0,
+      "hotTemperatureCoefficient": 0
+    },
+    "info": {
+      "description": "",
+      "origin": "GRT",
+      "createdBy": "grtuser",
+      "createdOn": "2023-01-27",
+      "modifiedBy": "2023-01-27",
+      "modifiedOn": "2023-01-27"
+    }
+  }
+}

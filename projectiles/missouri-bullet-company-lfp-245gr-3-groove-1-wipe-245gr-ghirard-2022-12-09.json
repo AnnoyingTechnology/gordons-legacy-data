@@ -1,0 +1,38 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Missouri_Bullet_Company_LFP_245gr_3_groove_1_wipe_by_Ghirard_2022.12.09.projectile",
+    "author": "Ghirard",
+    "date": "2022-12-09",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Missouri Bullet Company, LFP 245gr 3 groove, 1 wipe",
+    "maker": "Missouri Bullet Company",
+    "product": "LFP 245gr 3 groove, 1 wipe",
+    "lot": "",
+    "nominalCaliber": ".308",
+    "diameter": 0.00785,
+    "mass": 0.01587573295,
+    "length": 0.03365,
+    "base": {
+      "shape": "flat"
+    },
+    "shotStartPressure": 10300000,
+    "ballisticCoefficientG1": 233.4191004402009,
+    "ubcsCode": "D0L7F1D4N1",
+    "info": {
+      "description": "",
+      "origin": "",
+      "createdBy": "grtuser",
+      "createdOn": "2022-11-01",
+      "modifiedBy": "",
+      "modifiedOn": ""
+    }
+  }
+}

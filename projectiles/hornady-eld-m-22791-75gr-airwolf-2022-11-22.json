@@ -1,0 +1,42 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Hornady_ELD-M_22791_by_Airwolf_2022.11.22.projectile",
+    "author": "Airwolf",
+    "date": "2022-11-22",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Hornady, ELD-M 22791",
+    "maker": "Hornady",
+    "product": "ELD-M 22791",
+    "lot": "2221280",
+    "nominalCaliber": ".224",
+    "diameter": 0.005690000000000001,
+    "mass": 0.004859918249999999,
+    "length": 0.0267,
+    "base": {
+      "shape": "boattail",
+      "length": 0.0046,
+      "diameterA": 0.005690000000000001,
+      "diameterB": 0.0045000000000000005
+    },
+    "shotStartPressure": 25000000,
+    "ballisticCoefficientG1": 328.33349369148743,
+    "ballisticCoefficientG7": 165.22135121520242,
+    "ubcsCode": "",
+    "info": {
+      "description": "Updated G1 and G7 to match packaging on lot # 2221280",
+      "origin": "",
+      "createdBy": "Airwolf",
+      "createdOn": "2022-11-22",
+      "modifiedBy": "",
+      "modifiedOn": ""
+    }
+  }
+}

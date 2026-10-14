@@ -1,0 +1,42 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "powder",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Hodgdon_Lil_Gun_QL_-_2023_05_03_by_Tom24_2023.05.05.propellant",
+    "author": "Tom24",
+    "date": "2023-05-05",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "maker": "Hodgdon",
+    "product": "Lil' Gun QL",
+    "lot": "2023/05/03",
+    "heatOfExplosion": 4090000,
+    "heatCapacityRatio": 1.163,
+    "covolume": 0.001,
+    "grainDensity": 1570,
+    "bulkDensity": 956,
+    "burnModel": {
+      "kind": "grt",
+      "vivacity": 0.915,
+      "a0": 7.1827,
+      "a1": 0,
+      "z1": 0.4555,
+      "z2": 0.5011,
+      "coldTemperatureCoefficient": 0,
+      "hotTemperatureCoefficient": 0
+    },
+    "info": {
+      "description": "QL Clone",
+      "origin": "GRT",
+      "createdBy": "grtuser",
+      "createdOn": "2023-05-03",
+      "modifiedBy": "2023-05-03",
+      "modifiedOn": "2023-05-03"
+    }
+  }
+}

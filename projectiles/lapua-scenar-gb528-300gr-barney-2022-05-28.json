@@ -1,0 +1,42 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "338LM_Lapua_Scenar_300gr_GB528_by_Barney_2022.05.28.projectile",
+    "author": "Barney",
+    "date": "2022-05-28",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Lapua, Scenar GB528",
+    "maker": "Lapua",
+    "product": "Scenar GB528",
+    "lot": "",
+    "nominalCaliber": ".338",
+    "diameter": 0.00859,
+    "mass": 0.019472072455,
+    "length": 0.0444,
+    "base": {
+      "shape": "boattail",
+      "length": 0.006200000000000001,
+      "diameterA": 0.00859,
+      "diameterB": 0.0070999999999999995
+    },
+    "shotStartPressure": 25000000,
+    "ballisticCoefficientG1": 517.4592106144213,
+    "ballisticCoefficientG7": 258.72960530721065,
+    "ubcsCode": "T0H1B2S4N4",
+    "info": {
+      "description": "",
+      "origin": "",
+      "createdBy": "Barney",
+      "createdOn": "2022-05-28",
+      "modifiedBy": "",
+      "modifiedOn": ""
+    }
+  }
+}

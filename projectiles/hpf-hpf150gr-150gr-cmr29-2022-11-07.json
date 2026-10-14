@@ -1,0 +1,40 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "HPF_HPF150GR_by_cmr29_2022.11.07.projectile",
+    "author": "cmr29",
+    "date": "2022-11-07",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "HPF, HPF150GR",
+    "maker": "HPF",
+    "product": "HPF150GR",
+    "lot": "",
+    "nominalCaliber": ".308",
+    "diameter": 0.00782,
+    "mass": 0.009719836499999999,
+    "length": 0.032,
+    "base": {
+      "shape": "boattail",
+      "length": 0.0029100000000000003,
+      "diameterA": 0.00782,
+      "diameterB": 0.0063
+    },
+    "shotStartPressure": 25000000,
+    "ubcsCode": "",
+    "info": {
+      "description": "",
+      "origin": "",
+      "createdBy": "Carlos Mateos",
+      "createdOn": "2022-09-25",
+      "modifiedBy": "",
+      "modifiedOn": ""
+    }
+  }
+}

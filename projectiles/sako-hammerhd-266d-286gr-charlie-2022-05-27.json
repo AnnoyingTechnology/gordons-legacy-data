@@ -1,0 +1,39 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Sako_HammerHd_266D_by_Charlie_2022.05.27.projectile",
+    "author": "Charlie",
+    "date": "2022-05-27",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Sako, HammerHd 266D",
+    "maker": "Sako",
+    "product": "HammerHd 266D",
+    "lot": "2021/10/29",
+    "nominalCaliber": ".366",
+    "diameter": 0.009300000000000001,
+    "mass": 0.018532488259999997,
+    "length": 0.032200000000000006,
+    "base": {
+      "shape": "flat"
+    },
+    "shotStartPressure": 25000000,
+    "ballisticCoefficientG1": 201.07789977679954,
+    "ubcsCode": "",
+    "maxSeatingDepth": 0.0165,
+    "info": {
+      "description": "measured Sako Hammerhead 266D\rmost of the measurements inclined to 32.2mm , some were 32.3mm\rSako diameters range on box: 9.26-9.28 mm\rEAN code: 6 438053 998779",
+      "origin": "",
+      "createdBy": "grtuser",
+      "createdOn": "2021-11-22",
+      "modifiedBy": "",
+      "modifiedOn": ""
+    }
+  }
+}

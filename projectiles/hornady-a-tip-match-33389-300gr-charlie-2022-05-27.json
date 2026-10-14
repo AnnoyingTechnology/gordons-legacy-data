@@ -1,0 +1,43 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Hornady_A-Tip_Match_300gr_33389_by_Charlie_2022.05.27.projectile",
+    "author": "Charlie",
+    "date": "2022-05-27",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Hornady, A-Tip Match 33389",
+    "maker": "Hornady",
+    "product": "A-Tip Match 33389",
+    "lot": "2020",
+    "nominalCaliber": ".338",
+    "diameter": 0.00859,
+    "mass": 0.019439672999999998,
+    "length": 0.047549999999999995,
+    "base": {
+      "shape": "boattail",
+      "length": 0.006500000000000001,
+      "diameterA": 0.00859,
+      "diameterB": 0.0069900000000000006
+    },
+    "shotStartPressure": 25000000,
+    "ballisticCoefficientG1": 606.7490472285945,
+    "ballisticCoefficientG7": 305.8352671430343,
+    "ubcsCode": "",
+    "material": "0",
+    "info": {
+      "description": "Created by M289 with help from Howland and SIDS01 from Sniper's Hide Forums.",
+      "origin": "",
+      "createdBy": "Marty",
+      "createdOn": "2020-05-29",
+      "modifiedBy": "Marty",
+      "modifiedOn": "2020-05-29"
+    }
+  }
+}

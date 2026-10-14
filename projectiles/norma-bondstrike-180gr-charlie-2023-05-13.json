@@ -1,0 +1,41 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Norma_Bondstrike_by_Charlie_2023.05.13.projectile",
+    "author": "Charlie",
+    "date": "2023-05-13",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Norma, Bondstrike",
+    "maker": "Norma",
+    "product": "Bondstrike",
+    "lot": "",
+    "nominalCaliber": ".308",
+    "diameter": 0.00782,
+    "mass": 0.011663803799999999,
+    "length": 0.03434,
+    "base": {
+      "shape": "boattail",
+      "length": 0.0053,
+      "diameterA": 0.00782,
+      "diameterB": 0.0066
+    },
+    "shotStartPressure": 25000000,
+    "ballisticCoefficientG1": 432.387791478083,
+    "ubcsCode": "",
+    "info": {
+      "description": "QL imported data, missing variables were filled with default values",
+      "origin": "",
+      "createdBy": "grtuser",
+      "createdOn": "2023-05-12",
+      "modifiedBy": "grtuser",
+      "modifiedOn": "2023-05-12"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Peregrine-2022_by_Charlie_2022.10.28.projectile",
+    "author": "Charlie",
+    "date": "2022-10-28",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Peregrine - 2022, Hog",
+    "maker": "Peregrine - 2022",
+    "product": "Hog",
+    "lot": "",
+    "nominalCaliber": ".429",
+    "diameter": 0.0109,
+    "mass": 0.011663803799999999,
+    "length": 0.0177,
+    "base": {
+      "shape": "boattail",
+      "length": 0.00125,
+      "diameterA": 0.0109,
+      "diameterB": 0.01065
+    },
+    "shotStartPressure": 10000000,
+    "ubcsCode": "",
+    "info": {
+      "description": "QL imported data, missing variables were filled with default values",
+      "origin": "",
+      "createdBy": "grtuser",
+      "createdOn": "2022-10-28",
+      "modifiedBy": "",
+      "modifiedOn": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Sierra_HPBT_MK_1755_by_Nitrox_2023.05.01.projectile",
+    "author": "Nitrox",
+    "date": "2023-05-01",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Sierra, HPBT MK 1755",
+    "maker": "Sierra",
+    "product": "HPBT MK 1755",
+    "lot": "2023",
+    "nominalCaliber": ".264",
+    "diameter": 0.00671,
+    "mass": 0.009719836499999999,
+    "length": 0.037770000000000005,
+    "base": {
+      "shape": "boattail",
+      "length": 0.0048,
+      "diameterA": 0.0067,
+      "diameterB": 0.0054600000000000004
+    },
+    "shotStartPressure": 25000000,
+    "ballisticCoefficientG1": 501.2886102827206,
+    "ubcsCode": "",
+    "info": {
+      "description": "",
+      "origin": "",
+      "createdBy": "nitrox",
+      "createdOn": "2023-04-30",
+      "modifiedBy": "",
+      "modifiedOn": "2023-05-01"
+    }
+  }
+}

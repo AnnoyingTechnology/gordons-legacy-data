@@ -1,0 +1,42 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Peregrine-2022_by_Charlie_2022.10.28.projectile",
+    "author": "Charlie",
+    "date": "2022-10-28",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Peregrine - 2022, VRG-3 Hybrid",
+    "maker": "Peregrine - 2022",
+    "product": "VRG-3 Hybrid",
+    "lot": "",
+    "nominalCaliber": ".264",
+    "diameter": 0.00671,
+    "mass": 0.0090718474,
+    "length": 0.032990000000000005,
+    "base": {
+      "shape": "boattail",
+      "length": 0.0032,
+      "diameterA": 0.00671,
+      "diameterB": 0.005900000000000001
+    },
+    "shotStartPressure": 29000000,
+    "boreResistanceAdjustment": -10000000,
+    "ballisticCoefficientG1": 181.3919515469031,
+    "ubcsCode": "",
+    "info": {
+      "description": "QL imported data, missing variables were filled with default values",
+      "origin": "",
+      "createdBy": "grtuser",
+      "createdOn": "2022-10-28",
+      "modifiedBy": "",
+      "modifiedOn": "2022-10-27"
+    }
+  }
+}

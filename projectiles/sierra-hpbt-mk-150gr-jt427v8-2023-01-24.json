@@ -1,0 +1,41 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Sierra_.264_150gr_HPBT_MK_by_JT427V8_2023.01.24.projectile",
+    "author": "JT427V8",
+    "date": "2023-01-24",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Sierra, HPBT MK",
+    "maker": "Sierra",
+    "product": "HPBT MK",
+    "lot": "#1765",
+    "nominalCaliber": ".264",
+    "diameter": 0.00671,
+    "mass": 0.009719836499999999,
+    "length": 0.038060000000000004,
+    "base": {
+      "shape": "boattail",
+      "length": 0.00566,
+      "diameterA": 0.00671,
+      "diameterB": 0.00555
+    },
+    "shotStartPressure": 25000000,
+    "ballisticCoefficientG1": 501.2886102827206,
+    "ubcsCode": "T0H1B2S4N1",
+    "info": {
+      "description": "Sierra MatchKing .264 150gr",
+      "origin": "",
+      "createdBy": "270Okie",
+      "createdOn": "2023-01-23",
+      "modifiedBy": "",
+      "modifiedOn": ""
+    }
+  }
+}

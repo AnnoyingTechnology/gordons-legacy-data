@@ -1,0 +1,39 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Badlands_125gr_.264_BD-2_by_z987k_2023.06.01.projectile",
+    "author": "z987k",
+    "date": "2023-06-01",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Badlands, 125gr .264 BD-2",
+    "maker": "Badlands",
+    "product": "125gr .264 BD-2",
+    "lot": "",
+    "nominalCaliber": ".264",
+    "diameter": 0.00671,
+    "mass": 0.00809986375,
+    "length": 0.03721,
+    "base": {
+      "shape": "flat"
+    },
+    "shotStartPressure": 15000000,
+    "ballisticCoefficientG1": 414.81105198710395,
+    "ballisticCoefficientG7": 212.3270130510261,
+    "ubcsCode": "",
+    "info": {
+      "description": "",
+      "origin": "",
+      "createdBy": "grtuser",
+      "createdOn": "2022-08-19",
+      "modifiedBy": "grtuser",
+      "modifiedOn": "2022-08-22"
+    }
+  }
+}

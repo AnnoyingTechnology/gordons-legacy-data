@@ -1,0 +1,41 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Norma_GTX_Match_HPBT_by_mykle_2023.03.23.projectile",
+    "author": "mykle",
+    "date": "2023-03-23",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Norma, GTX Match HPBT",
+    "maker": "Norma",
+    "product": "GTX Match HPBT",
+    "lot": "",
+    "nominalCaliber": ".264",
+    "diameter": 0.00671,
+    "mass": 0.0084238583,
+    "length": 0.0351,
+    "base": {
+      "shape": "boattail",
+      "length": 0.004900000000000001,
+      "diameterA": 0.00671,
+      "diameterB": 0.0053
+    },
+    "shotStartPressure": 25000000,
+    "ballisticCoefficientG1": 385.28212964225935,
+    "ubcsCode": "S0H1B2S4N1",
+    "info": {
+      "description": "Data received from Norma. They were measured by caliper on the factory 23.03.2023.",
+      "origin": "",
+      "createdBy": "mykle",
+      "createdOn": "2023-03-23",
+      "modifiedBy": "",
+      "modifiedOn": ""
+    }
+  }
+}

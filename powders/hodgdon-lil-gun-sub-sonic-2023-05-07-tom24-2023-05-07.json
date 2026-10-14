@@ -1,0 +1,42 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "powder",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Hodgdon_LilGun_sub-sonic_-_2023_05_07_by_Tom24_2023.05.07.propellant",
+    "author": "Tom24",
+    "date": "2023-05-07",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "maker": "Hodgdon",
+    "product": "Lil'Gun (sub-sonic)",
+    "lot": "2023/05/07",
+    "heatOfExplosion": 4090000,
+    "heatCapacityRatio": 1.14,
+    "covolume": 0.001,
+    "grainDensity": 1570,
+    "bulkDensity": 956,
+    "burnModel": {
+      "kind": "grt",
+      "vivacity": 0.86,
+      "a0": 100.3009,
+      "a1": 0,
+      "z1": 0.2378,
+      "z2": 0.8506,
+      "coldTemperatureCoefficient": 0,
+      "hotTemperatureCoefficient": 0
+    },
+    "info": {
+      "description": "Derived from Hodgdon publishes load data for sub-sonic loads. No information on barrel length, assumption 16 \"!",
+      "origin": "GRT",
+      "createdBy": "grtuser",
+      "createdOn": "2023-05-07",
+      "modifiedBy": "2023-05-07",
+      "modifiedOn": "2023-05-07"
+    }
+  }
+}

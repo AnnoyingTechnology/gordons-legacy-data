@@ -1,0 +1,43 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Peregrine-2022_by_Charlie_2022.10.28.projectile",
+    "author": "Charlie",
+    "date": "2022-10-28",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Peregrine - 2022, VLR-4",
+    "maker": "Peregrine - 2022",
+    "product": "VLR-4",
+    "lot": "",
+    "nominalCaliber": ".312",
+    "diameter": 0.00792,
+    "mass": 0.010886216879999999,
+    "length": 0.03449,
+    "base": {
+      "shape": "boattail",
+      "length": 0.0054,
+      "diameterA": 0.00792,
+      "diameterB": 0.00664
+    },
+    "shotStartPressure": 29000000,
+    "boreResistanceAdjustment": -10000000,
+    "ballisticCoefficientG1": 332.55191116932235,
+    "ballisticCoefficientG7": 182.09502112654226,
+    "ubcsCode": "",
+    "info": {
+      "description": "QL imported data, missing variables were filled with default values",
+      "origin": "",
+      "createdBy": "grtuser",
+      "createdOn": "2022-10-28",
+      "modifiedBy": "",
+      "modifiedOn": "2022-10-27"
+    }
+  }
+}

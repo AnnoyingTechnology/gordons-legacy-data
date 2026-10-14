@@ -1,0 +1,43 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Hammer_-_.284_by_Charlie_2023.01.13.projectile",
+    "author": "Charlie",
+    "date": "2023-01-13",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Hammer, 120gr. Hunter No SKU",
+    "maker": "Hammer",
+    "product": "120gr. Hunter No SKU",
+    "lot": "From Hammer Drawings",
+    "nominalCaliber": ".284",
+    "diameter": 0.00721,
+    "mass": 0.0077758691999999996,
+    "length": 0.02959,
+    "base": {
+      "shape": "boattail",
+      "length": 0.0029500000000000004,
+      "diameterA": 0.00721,
+      "diameterB": 0.0063
+    },
+    "shotStartPressure": 20000000,
+    "boreResistanceAdjustment": -8300000,
+    "ballisticCoefficientG1": 271.3848577407155,
+    "ballisticCoefficientG7": 135.69242887035776,
+    "ubcsCode": "",
+    "info": {
+      "description": "From Hammer Drawings",
+      "origin": "",
+      "createdBy": "grtuser",
+      "createdOn": "2023-01-11",
+      "modifiedBy": "",
+      "modifiedOn": ""
+    }
+  }
+}

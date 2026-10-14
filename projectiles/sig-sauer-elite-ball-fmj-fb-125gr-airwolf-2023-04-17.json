@@ -1,0 +1,37 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Sig_Sauer_Elite_Ball_FMJ_FB_by_Airwolf_2023.04.17.projectile",
+    "author": "Airwolf",
+    "date": "2023-04-17",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Sig Sauer, Elite Ball FMJ FB",
+    "maker": "Sig Sauer",
+    "product": "Elite Ball FMJ FB",
+    "lot": "",
+    "nominalCaliber": ".308",
+    "diameter": 0.00782,
+    "mass": 0.00809986375,
+    "length": 0.028190000000000003,
+    "base": {
+      "shape": "flat"
+    },
+    "shotStartPressure": 25000000,
+    "ubcsCode": "T0F2F2C5N1",
+    "info": {
+      "description": "",
+      "origin": "",
+      "createdBy": "Airwolf",
+      "createdOn": "2023-04-17",
+      "modifiedBy": "",
+      "modifiedOn": ""
+    }
+  }
+}

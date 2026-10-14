@@ -1,0 +1,43 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Peregrine-2022_by_Charlie_2022.10.28.projectile",
+    "author": "Charlie",
+    "date": "2022-10-28",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Peregrine - 2022, Glider GRM",
+    "maker": "Peregrine - 2022",
+    "product": "Glider GRM",
+    "lot": "05-2020",
+    "nominalCaliber": ".264",
+    "diameter": 0.00671,
+    "mass": 0.00809986375,
+    "length": 0.0366,
+    "base": {
+      "shape": "boattail",
+      "length": 0.00525,
+      "diameterA": 0.00671,
+      "diameterB": 0.0054
+    },
+    "shotStartPressure": 29000000,
+    "boreResistanceAdjustment": -10000000,
+    "ballisticCoefficientG1": 480.899592473185,
+    "ballisticCoefficientG7": 239.74672665695334,
+    "ubcsCode": "",
+    "info": {
+      "description": "",
+      "origin": "",
+      "createdBy": "GRT",
+      "createdOn": "2022-10-28",
+      "modifiedBy": "",
+      "modifiedOn": "2022-10-27"
+    }
+  }
+}

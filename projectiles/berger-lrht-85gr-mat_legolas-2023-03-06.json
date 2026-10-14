@@ -1,0 +1,42 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "85.5_Berger_LRHT_by_Mat_Legolas_2023.03.06.projectile",
+    "author": "Mat_Legolas",
+    "date": "2023-03-06",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Berger, LRHT",
+    "maker": "Berger",
+    "product": "LRHT",
+    "lot": "PR0557",
+    "nominalCaliber": ".224",
+    "diameter": 0.005690000000000001,
+    "mass": 0.005540306805,
+    "length": 0.02974,
+    "base": {
+      "shape": "boattail",
+      "length": 0.0035600000000000002,
+      "diameterA": 0.00483,
+      "diameterB": 0.00559
+    },
+    "shotStartPressure": 25000000,
+    "ballisticCoefficientG1": 368.4084597309195,
+    "ballisticCoefficientG7": 188.4226473432947,
+    "ubcsCode": "T0H1B2S4N1",
+    "info": {
+      "description": "",
+      "origin": "",
+      "createdBy": "grtuser",
+      "createdOn": "2022-12-31",
+      "modifiedBy": "",
+      "modifiedOn": ""
+    }
+  }
+}

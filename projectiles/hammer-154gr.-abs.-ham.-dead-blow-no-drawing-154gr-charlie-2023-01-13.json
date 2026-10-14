@@ -1,0 +1,43 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Hammer_-_.284_by_Charlie_2023.01.13.projectile",
+    "author": "Charlie",
+    "date": "2023-01-13",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Hammer, 154gr. Abs. Ham. Dead Blow No Drawing",
+    "maker": "Hammer",
+    "product": "154gr. Abs. Ham. Dead Blow No Drawing",
+    "lot": "No drawing or SKU",
+    "nominalCaliber": ".284",
+    "diameter": 0.00721,
+    "mass": 0.00997903214,
+    "length": 0.0381,
+    "base": {
+      "shape": "boattail",
+      "length": 0.00595,
+      "diameterA": 0.00721,
+      "diameterB": 0.00671
+    },
+    "shotStartPressure": 20000000,
+    "boreResistanceAdjustment": -8300000,
+    "ballisticCoefficientG1": 305.13219756339515,
+    "ballisticCoefficientG7": 152.56609878169758,
+    "ubcsCode": "",
+    "info": {
+      "description": "No drawing or SKU.",
+      "origin": "",
+      "createdBy": "Charlie",
+      "createdOn": "2023-01-10",
+      "modifiedBy": "",
+      "modifiedOn": "2023-01-11"
+    }
+  }
+}

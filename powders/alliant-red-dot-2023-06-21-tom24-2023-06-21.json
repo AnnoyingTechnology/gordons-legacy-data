@@ -1,0 +1,42 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "powder",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Alliant_Red_Dot_-_2023_06_21_by_Tom24_2023.06.21.propellant",
+    "author": "Tom24",
+    "date": "2023-06-21",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "maker": "Alliant",
+    "product": "Red Dot",
+    "lot": "2023/06/21",
+    "heatOfExplosion": 4538000,
+    "heatCapacityRatio": 1.2205,
+    "covolume": 0.001,
+    "grainDensity": 1640,
+    "bulkDensity": 458,
+    "burnModel": {
+      "kind": "grt",
+      "vivacity": 3.4,
+      "a0": 5.3606,
+      "a1": 0,
+      "z1": 0.1899,
+      "z2": 0.3999,
+      "coldTemperatureCoefficient": 0,
+      "hotTemperatureCoefficient": 0
+    },
+    "info": {
+      "description": "QL Clone!!",
+      "origin": "GRT",
+      "createdBy": "grtuser",
+      "createdOn": "2023-06-21",
+      "modifiedBy": "2023-06-21",
+      "modifiedOn": "2023-06-21"
+    }
+  }
+}

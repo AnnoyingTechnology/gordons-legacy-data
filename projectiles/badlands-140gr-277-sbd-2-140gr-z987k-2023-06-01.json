@@ -1,0 +1,42 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Badlands_140gr_277_SBD-2_by_z987k_2023.06.01.projectile",
+    "author": "z987k",
+    "date": "2023-06-01",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Badlands, 140gr 277 SBD-2",
+    "maker": "Badlands",
+    "product": "140gr 277 SBD-2",
+    "lot": "",
+    "nominalCaliber": ".277",
+    "diameter": 0.00704,
+    "mass": 0.0090718474,
+    "length": 0.03971,
+    "base": {
+      "shape": "boattail",
+      "length": 0.00719,
+      "diameterA": 0.00701,
+      "diameterB": 0.00584
+    },
+    "shotStartPressure": 15000000,
+    "ballisticCoefficientG1": 456.9952267654536,
+    "ballisticCoefficientG7": 234.12217001984007,
+    "ubcsCode": "H2B1B1D1N2",
+    "info": {
+      "description": "",
+      "origin": "",
+      "createdBy": "grtuser",
+      "createdOn": "2022-08-19",
+      "modifiedBy": "",
+      "modifiedOn": "2022-11-16"
+    }
+  }
+}

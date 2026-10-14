@@ -1,0 +1,41 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Hornady_A-MAX_26101_by_Charlie_2022.12.30.projectile",
+    "author": "Charlie",
+    "date": "2022-12-30",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Hornady, A-MAX 26101",
+    "maker": "Hornady",
+    "product": "A-MAX 26101",
+    "lot": "",
+    "nominalCaliber": ".264",
+    "diameter": 0.00671,
+    "mass": 0.006479891,
+    "length": 0.02662,
+    "base": {
+      "shape": "boattail",
+      "length": 0.0033,
+      "diameterA": 0.0067,
+      "diameterB": 0.0056
+    },
+    "shotStartPressure": 25000000,
+    "ballisticCoefficientG1": 274.19713605927217,
+    "ubcsCode": "",
+    "info": {
+      "description": "",
+      "origin": "",
+      "createdBy": "grtuser",
+      "createdOn": "2022-12-30",
+      "modifiedBy": "",
+      "modifiedOn": ""
+    }
+  }
+}

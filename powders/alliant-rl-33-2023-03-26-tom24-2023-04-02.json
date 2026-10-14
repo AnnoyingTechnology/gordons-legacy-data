@@ -1,0 +1,42 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "powder",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Alliant_RL_33_-_2023_03_26_by_Tom24_2023.04.02.propellant",
+    "author": "Tom24",
+    "date": "2023-04-02",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "maker": "Alliant",
+    "product": "RL 33",
+    "lot": "2023/03/26",
+    "heatOfExplosion": 3900000,
+    "heatCapacityRatio": 1.2155,
+    "covolume": 0.001,
+    "grainDensity": 1620,
+    "bulkDensity": 1011,
+    "burnModel": {
+      "kind": "grt",
+      "vivacity": 0.248,
+      "a0": 6.3434,
+      "a1": 0,
+      "z1": 0.5131,
+      "z2": 0.5645,
+      "coldTemperatureCoefficient": 0,
+      "hotTemperatureCoefficient": 0
+    },
+    "info": {
+      "description": "Alliant RL33 QL-Clone",
+      "origin": "GRT",
+      "createdBy": "grtuser",
+      "createdOn": "2023-03-26",
+      "modifiedBy": "2023-03-26",
+      "modifiedOn": "2023-03-26"
+    }
+  }
+}

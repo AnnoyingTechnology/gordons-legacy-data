@@ -1,0 +1,43 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Hammer_-_.284_by_Charlie_2023.01.13.projectile",
+    "author": "Charlie",
+    "date": "2023-01-13",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Hammer, 90gr. Hunter No SKU / No Drawing",
+    "maker": "Hammer",
+    "product": "90gr. Hunter No SKU / No Drawing",
+    "lot": "No drawing or SKU",
+    "nominalCaliber": ".284",
+    "diameter": 0.00721,
+    "mass": 0.0058319018999999995,
+    "length": 0.022940000000000002,
+    "base": {
+      "shape": "boattail",
+      "length": 0.0053300000000000005,
+      "diameterA": 0.00721,
+      "diameterB": 0.006500000000000001
+    },
+    "shotStartPressure": 20000000,
+    "boreResistanceAdjustment": -8300000,
+    "ballisticCoefficientG1": 193.34413440076884,
+    "ballisticCoefficientG7": 93.50825409200819,
+    "ubcsCode": "",
+    "info": {
+      "description": "No drawing available at time of entry.\rBoattail dimensions estimated.",
+      "origin": "",
+      "createdBy": "Charlie",
+      "createdOn": "2023-01-10",
+      "modifiedBy": "",
+      "modifiedOn": "2023-01-11"
+    }
+  }
+}

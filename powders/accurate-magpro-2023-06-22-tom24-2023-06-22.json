@@ -1,0 +1,42 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "powder",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Accurate_MAGPRO_-_2023_06_28_by_Tom24_2023.06.22.propellant",
+    "author": "Tom24",
+    "date": "2023-06-22",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "maker": "Accurate",
+    "product": "MAGPRO",
+    "lot": "2023/06/22",
+    "heatOfExplosion": 3880000,
+    "heatCapacityRatio": 1.214,
+    "covolume": 0.001,
+    "grainDensity": 1620,
+    "bulkDensity": 978,
+    "burnModel": {
+      "kind": "grt",
+      "vivacity": 0.32,
+      "a0": 9.3381,
+      "a1": 0,
+      "z1": 0.2476,
+      "z2": 0.2724,
+      "coldTemperatureCoefficient": 0,
+      "hotTemperatureCoefficient": 0
+    },
+    "info": {
+      "description": "",
+      "origin": "GRT",
+      "createdBy": "grtuser",
+      "createdOn": "2023-06-22",
+      "modifiedBy": "2023-06-22",
+      "modifiedOn": "2023-06-22"
+    }
+  }
+}

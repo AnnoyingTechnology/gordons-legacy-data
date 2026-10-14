@@ -1,0 +1,41 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "Peregrine-2022_by_Charlie_2022.10.28.projectile",
+    "author": "Charlie",
+    "date": "2022-10-28",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Peregrine - 2022, Sub-Sonic",
+    "maker": "Peregrine - 2022",
+    "product": "Sub-Sonic",
+    "lot": "",
+    "nominalCaliber": ".456",
+    "diameter": 0.01158,
+    "mass": 0.027215542199999998,
+    "length": 0.037899999999999996,
+    "base": {
+      "shape": "boattail",
+      "length": 0.0058,
+      "diameterA": 0.01158,
+      "diameterB": 0.0099
+    },
+    "shotStartPressure": 5000000,
+    "ballisticCoefficientG1": 232.71603086056174,
+    "ubcsCode": "",
+    "info": {
+      "description": "QL imported data, missing variables were filled with default values",
+      "origin": "",
+      "createdBy": "grtuser",
+      "createdOn": "2022-10-28",
+      "modifiedBy": "",
+      "modifiedOn": "2022-10-28"
+    }
+  }
+}

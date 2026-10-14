@@ -1,0 +1,41 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "projectile",
+  "provenance": {
+    "origin": "GRT community file (GRT Discord), CC0",
+    "source": "https://github.com/zen/grt_databases at 9d2f84d",
+    "file": "308_Sako_163gr_Powerhead_Blade_by_Joghurt_2022.06.27.projectile",
+    "author": "Joghurt",
+    "date": "2022-06-27",
+    "method": "shared GRT model, converted to SI",
+    "status": "unverified"
+  },
+  "value": {
+    "name": "Sako, Powerhead Blade",
+    "maker": "Sako",
+    "product": "Powerhead Blade",
+    "lot": "57510",
+    "nominalCaliber": ".308",
+    "diameter": 0.00782,
+    "mass": 0.010516863093,
+    "length": 0.03594,
+    "base": {
+      "shape": "boattail",
+      "length": 0.003,
+      "diameterA": 0.00782,
+      "diameterB": 0.00701
+    },
+    "shotStartPressure": 25000000,
+    "ballisticCoefficientG1": 281.22783185566374,
+    "ubcsCode": "H2B1B1C1N2",
+    "info": {
+      "description": "",
+      "origin": "",
+      "createdBy": "grtuser",
+      "createdOn": "2022-06-27",
+      "modifiedBy": "grtuser",
+      "modifiedOn": "2022-06-27"
+    }
+  }
+}
