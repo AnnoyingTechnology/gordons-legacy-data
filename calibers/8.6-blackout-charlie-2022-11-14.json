@@ -21,6 +21,7 @@
     "revisionDate": "0-0-0",
     "specificationUrl": "https://store-fwcq7xdl4a.mybigcommerce.com/content/8.6BLK%20CHAMBER.pdf\rhttps://store-fwcq7xdl4a.mybigcommerce.com/content/8.6BLK%20CARTRIDGE.pdf\r",
     "maxPressure": 404998000,
+    "typicalCaseCapacity": 0.0000030844281159999996,
     "sebertFactor": 0.6,
     "caseDimensions": {
       "caseLength": 0.0428,
@@ -83,7 +84,6 @@
       "PK": "4658.03",
       "PE": "5059.99",
       "EE": "0.00",
-      "V": "47.60",
       "M": "0.00",
       "c_alpha": "60.00",
       "c_alpha1": "90.00",

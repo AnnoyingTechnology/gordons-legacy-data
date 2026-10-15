@@ -21,6 +21,7 @@
     "revisionDate": "2020-0-0",
     "specificationUrl": "https://saami.org/wp-content/uploads/2020/06/6mm-ARC-Public-Introduction-Rev-2020-06-18.pdf",
     "maxPressure": 358527000,
+    "typicalCaseCapacity": 0.0000022485221769999996,
     "sebertFactor": 0.5,
     "caseDimensions": {
       "caseLength": 0.03785,
@@ -83,7 +84,6 @@
       "PK": "4123.06",
       "PE": "4481.59",
       "EE": "2500.13",
-      "V": "34.70",
       "M": "24.89",
       "c_alpha": "60.00",
       "c_alpha1": "90.00",

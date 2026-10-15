@@ -21,6 +21,7 @@
     "revisionDate": "",
     "specificationUrl": "https://saami.org/wp-content/uploads/2020/10/6.5-WBY-RPM-Public-Introduction-Orig-2020-09-27.pdf",
     "maxPressure": 448159000,
+    "typicalCaseCapacity": 0.000005345910074999999,
     "sebertFactor": 0.5,
     "caseDimensions": {
       "caseLength": 0.06528,
@@ -83,7 +84,6 @@
       "PK": "5153.83",
       "PE": "5601.99",
       "EE": "0.00",
-      "V": "82.50",
       "M": "0.00",
       "c_alpha": "70.00",
       "c_alpha1": "90.00",

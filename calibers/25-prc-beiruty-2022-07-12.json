@@ -21,6 +21,7 @@
     "revisionDate": "2018-08-13",
     "specificationUrl": "6-5-prc-180709-de.pdf",
     "maxPressure": 440003000,
+    "typicalCaseCapacity": 0.0000044063258799999995,
     "sebertFactor": 0.5,
     "caseDimensions": {
       "caseLength": 0.05156,
@@ -72,7 +73,6 @@
       "PK": "5059.99",
       "PE": "5500.02",
       "EE": "3999.66",
-      "V": "68.00",
       "M": "25.00",
       "c_alpha": "0.00",
       "c_alpha1": "0.00",

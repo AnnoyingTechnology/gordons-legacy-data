@@ -6,289 +6,289 @@
    "path": "calibers/.22-dasher-reyneke-charlie-2023-06-07.json",
    "kind": "caliber",
    "name": ".22 Dasher Reyneke",
-   "sha256": "14796b9aa548c7057cd4fa774a0b598cc41fc2eb7be201044327d77dde2da4af"
+   "sha256": "e843a241c6c52293343199749792ecf1c1d62dcc29273bb266a5fbc1b18a0000"
   },
   {
    "path": "calibers/.22-gt-rico11b-2023-02-09.json",
    "kind": "caliber",
    "name": ".22 GT",
-   "sha256": "4f62a7a634f3ae5009bd968f9cfa6555421f0f58f2c4379fe9d16cadf1d2e699"
+   "sha256": "f91aeedcde2ca168d951d22b9ff7c7ba6acb040efc39aed23b2e9cd7a892dcc6"
   },
   {
    "path": "calibers/.22-tcm-charlie-2022-02-15.json",
    "kind": "caliber",
    "name": ".22 TCM",
-   "sha256": "cae18c2320a22264bfa5365b684ef2efb43e6320647c3ae201934f63cabcb3a7"
+   "sha256": "5c89cfdcfa4fc8217c7fce1e4753ff0c973e0cae5f411782ae0f9d185f85c77f"
   },
   {
    "path": "calibers/.22-xc-charlie-2023-06-29.json",
    "kind": "caliber",
    "name": ".22 XC",
-   "sha256": "cb58e886480f6892aa40b54de4808dc8dc46042f4e4f51b52f06389a2b901f32"
+   "sha256": "9088c512da0c76e5c4c42cf24a3abeccbb8e46a08f55f759555fefdc7cdb23a6"
   },
   {
    "path": "calibers/.26-nosler-charlie-2023-01-17.json",
    "kind": "caliber",
    "name": ".26 Nosler",
-   "sha256": "5eaa058cc95a11323def0e8c2842390f0ed02949b4f0ba056ac3f0ecdee0dd40"
+   "sha256": "62028ab1be4c0116c8e6f917ef0b6a60686e2e28a1323aa00598112571545b33"
   },
   {
    "path": "calibers/.277-sig-fury-charlie-2022-05-30.json",
    "kind": "caliber",
    "name": ".277 SIG FURY",
-   "sha256": "eacf5ac5a37ce55a434627789551d3b24c71b07274361a9836642e78da7a449d"
+   "sha256": "30efc023ab66956aa7e7643914ad4c14dd5ada128175c74dbe82ce6ee32f6d26"
   },
   {
    "path": "calibers/.277-sig-fury-charlie-2023-01-03.json",
    "kind": "caliber",
    "name": ".277 SIG FURY",
-   "sha256": "8848ae88ad72280f8092e3bbec3e2e593b1b4d1de599077e5ab719f26fa94468"
+   "sha256": "b99450bcd0f279be9a90aa3a69c4ef028742a6315d4a3a27581422aa9ed9cdd2"
   },
   {
    "path": "calibers/.30-nosler-charlie-2023-01-17.json",
    "kind": "caliber",
    "name": ".30 Nosler",
-   "sha256": "4545e47986d58c1e48fb0b9126fedd066bef09ff567ae7cf340910266a1747a3"
+   "sha256": "b4ef903a34d368167c6a1fa217065945234473399d11ccfe7cea0660917a9981"
   },
   {
    "path": "calibers/.300-ham-r-charlie-2023-02-08.json",
    "kind": "caliber",
    "name": ".300 HAM'R",
-   "sha256": "d4139b8646b2cb9e24b68f258f9000a6efc61883abba0e25145515b03f1a99f3"
+   "sha256": "306d8ad45c53c7094986fb8c43e0ff936057622fd0b46b91d93ae8ecaa13a829"
   },
   {
    "path": "calibers/.300-prc-corrected-charlie-2023-01-06.json",
    "kind": "caliber",
    "name": ".300 PRC Corrected",
-   "sha256": "f0df9b8b24b6f344be0059d30b7caaa73222268e35cfd2a32b338b0d0c945fbd"
+   "sha256": "bf942b5df559d2f490b2d91d3f9086b21503303ed68c3181d1de16e2fc5f8b1a"
   },
   {
    "path": "calibers/.300-wsm-winchester-brand-charlie-2023-07-11.json",
    "kind": "caliber",
    "name": ".300 WSM Winchester Brand",
-   "sha256": "0f8b3594d362678943c11fd55264b89dc4ece2b0d98c39b7686470f58bf856fe"
+   "sha256": "2f3a35705921908d1e910033b8853d1f5172bf9f7c7b04d872016f13f7a637fb"
   },
   {
    "path": "calibers/.308-win.-federal-charlie-2023-06-28.json",
    "kind": "caliber",
    "name": ".308 Win. Federal",
-   "sha256": "4de7b0e1e8a39b71d10675cb8b8a761506261b32d0f60aa3c604fcd539e4132d"
+   "sha256": "4541b8ff6e3a02b20e00abe19c2b1c509512d5bcfba794625090d83712736f9e"
   },
   {
    "path": "calibers/.308-win.-hornady-charlie-2023-06-28.json",
    "kind": "caliber",
    "name": ".308 Win. Hornady",
-   "sha256": "5ad9cfa25deb96b91dd4e25e9ffc3fa113f2b99480c054f4cac0d7195796380a"
+   "sha256": "d83b48304d2b24aadf68ffb1a1aef0254aa56d0b5f49a621c8cb988e745d3d6d"
   },
   {
    "path": "calibers/.308-win.-lapua-1-charlie-2023-06-28.json",
    "kind": "caliber",
    "name": ".308 Win. Lapua #1",
-   "sha256": "c0e8540397c2cb4669e8f3b14a41a41271b4b3309d276737d9797ba7ddba102c"
+   "sha256": "922c6b61ed43bf84aced2d6ab1418483a043a751002d695d97a47f5bcd91b020"
   },
   {
    "path": "calibers/.308-win.-lapua-2-charlie-2023-06-28.json",
    "kind": "caliber",
    "name": ".308 Win. Lapua #2",
-   "sha256": "e9f294d456313a61c1dd21b1e83248637af4d50569681ad7b0739b3a80b78ae2"
+   "sha256": "acc630da4b2900038fc034d6bfcfcb7f41eccafe1d1b5110b6f1f5daf2f8087a"
   },
   {
    "path": "calibers/.308-win.-s-and-b-charlie-2023-06-28.json",
    "kind": "caliber",
    "name": ".308 Win. S and B",
-   "sha256": "ac1ad2f278c9c4356d0a19ada0a5dff9a58df401b1522f354e4366606c33abc2"
+   "sha256": "43c9f24732f8059be1d4348e4ac4fdabe102f95c21ea61e91121ea26ae93178c"
   },
   {
    "path": "calibers/.308-win.-sar-2018-charlie-2023-06-28.json",
    "kind": "caliber",
    "name": ".308 Win. SAR 2018",
-   "sha256": "5958de33f3f9fe6d04cf455684dfca2e471b339961ed3e21522fcd02d39c118f"
+   "sha256": "011ae9a860c5da65449e24a1bf047a4faa514b82630a8559033db231f17af0e2"
   },
   {
    "path": "calibers/.308-win.-winchester-charlie-2023-06-28.json",
    "kind": "caliber",
    "name": ".308 Win. Winchester",
-   "sha256": "d7a7e5f092e72f5488e366e02552f37703d70b554fc535c4ea90fb5f2cc5d449"
+   "sha256": "4e186a132464d71aa98e4a7c66e4423832a0f76b599a9a0e261e9c48da5119da"
   },
   {
    "path": "calibers/.327-fed-magnum-dpeppe01-2022-12-12.json",
    "kind": "caliber",
    "name": ".327 Fed Magnum",
-   "sha256": "f83758b81137fd9d6bfddfaf04c9604a0833a17ba63175f9ba46267143a2b9f2"
+   "sha256": "a0f168aa2f33399723b055fc88a6206d7ca9675502cc7bede8dd0eb6917a7403"
   },
   {
    "path": "calibers/.338-06-a-square-charlie-2022-10-19.json",
    "kind": "caliber",
    "name": ".338-06 A-Square",
-   "sha256": "00390c1281416ede3554c6a28c90a4e6589af36cb91354181d8aff7dc4cd193f"
+   "sha256": "bb3789a1de6ee94572bb51694def6492bb140049dd82ea532def78dc3c61e4f9"
   },
   {
    "path": "calibers/12-7-x-42-charlie-2023-02-11.json",
    "kind": "caliber",
    "name": "12,7 x 42",
-   "sha256": "ce84b6f6f4da84ee084b71a5a5fce6815fd0fa77a75b9c36d4a06de376a13a11"
+   "sha256": "821fe5d5969b262581302e3823b51a4a7e5735c392aeb137d0f63b87bcfd4ff2"
   },
   {
    "path": "calibers/12-7-x-42-charlie-2023-03-11.json",
    "kind": "caliber",
    "name": "12,7 x 42",
-   "sha256": "bcb3e20d4932c0593a0d469275d66d6ff98e8f1e511eef27aaab3f95e7c5e29b"
+   "sha256": "98a38ee745e1816e54c105f216d51f036b16a84da4196f5e0ffcddd48eceb5b9"
   },
   {
    "path": "calibers/22-grendel-ar15-platform-charlie-2023-02-28.json",
    "kind": "caliber",
    "name": "22 Grendel AR15 Platform",
-   "sha256": "e66229a2025f89480f4a4fdad4978b2eec6f922fe45f1c7c0f59f2739fad5e3f"
+   "sha256": "591b71363f569041e07ef9d2aef5aecbe5d8b207513e4318de6285838066d471"
   },
   {
    "path": "calibers/22-grendel-bolt-action-platform-charlie-2023-02-28.json",
    "kind": "caliber",
    "name": "22 Grendel Bolt Action Platform",
-   "sha256": "9bde4957ac388f9b43534c8c364b1152c913a4c88ee4546f037c77aa3b945fd6"
+   "sha256": "96d39242736af6da4896013fff85daaabae02cb78ac798929930c39ceeb90aa6"
   },
   {
    "path": "calibers/25-creedmoor-beiruty-2022-07-12.json",
    "kind": "caliber",
    "name": "25 Creedmoor",
-   "sha256": "b7293125358ff7a479cc273f9668b85a97e6d5b49e77766c1f17eda679e1a9ab"
+   "sha256": "a23eaf35fe69da91308940e2aa1c980c1cfe4abffcbe5eea0247c68f475649ef"
   },
   {
    "path": "calibers/25-prc-beiruty-2022-07-12.json",
    "kind": "caliber",
    "name": "25 PRC",
-   "sha256": "0015d5fed6072c4f1e2278a03fdbdf31a440e110d401e7e9f4f39cd887e9002a"
+   "sha256": "5299ac6f1485fe8bc881379301b4078cae6dfecee729fc93c320d6d41200b6d2"
   },
   {
    "path": "calibers/30-super-carry-charlie-2022-02-01.json",
    "kind": "caliber",
    "name": "30 Super Carry",
-   "sha256": "371d43a7740b152033bb175b6abe6c27f8f218a9d23fcef95c4d17a6e96f8cb4"
+   "sha256": "bf912e27277e30d7eb6e8cb8c55165421c708775c88f72b7a3df21aed92b3525"
   },
   {
    "path": "calibers/30-super-carry-charlie-2022-10-19.json",
    "kind": "caliber",
    "name": "30 Super Carry",
-   "sha256": "0ab8142b0b3cd22e2acb332dfd045e5da2e8f315670ca115c8cace581b00321f"
+   "sha256": "5d96d267b5a35089f1ddf6e7bc06b961e2d6cd003354f7ebbb6556bd6f613153"
   },
   {
    "path": "calibers/33xc-smokincache-2022-08-15.json",
    "kind": "caliber",
    "name": "33xc",
-   "sha256": "bf09ab22f36418a8b5db3b3f5c35b5990a87d5c69413f14866f82c9064377fb1"
+   "sha256": "4180e9c8731ce6a9f5a9dcc943d8f3d7810328c2d2796d1a5d0c6e5a76d83f93"
   },
   {
    "path": "calibers/400-legend-charlie-2023-04-26.json",
    "kind": "caliber",
    "name": "400 Legend",
-   "sha256": "5c82e7d4c0083c07385551ab4a7b0cb3d31f6e6bc9f949733729852254fee8d2"
+   "sha256": "cc1d95d537e1047c3e28412d2976fa3bce08d3d1598930bc1d414cb1730fdfe6"
   },
   {
    "path": "calibers/5.45-x-39-charlie-2022-05-25.json",
    "kind": "caliber",
    "name": "5.45 x 39",
-   "sha256": "65f9ec66c34185fb45056f8e111e39c6d6bbe39193a74ba3529cb77acf0c5d3a"
+   "sha256": "b70de3c66338ab1eae90abbfaf9b7b11122b282c204971cf7bfdeb7b85a2c9fb"
   },
   {
    "path": "calibers/50-beowulf-charlie-2023-02-11.json",
    "kind": "caliber",
    "name": "50 Beowulf",
-   "sha256": "4aacbfa9403353a6b289652d4bca509e1b4303c4bf0acc2a136c2af2374af1f0"
+   "sha256": "1c535435e02395f365dc4387c16b50dac1d33c20c1c4b4d27a28fd7eff3e0452"
   },
   {
    "path": "calibers/6-mm-arc-ar-15-charlie-2023-03-01.json",
    "kind": "caliber",
    "name": "6 mm ARC AR-15",
-   "sha256": "f3e31195316632728db5e270a90c474b204fe7367e76eb76a4f6bc869cc7f6a8"
+   "sha256": "4d77d47fb2eec3ecd3874e92931b03d13c5d07431f045a8d96fa6bb48e2340c4"
   },
   {
    "path": "calibers/6-mm-arc-bolt-gun-charlie-2023-03-01.json",
    "kind": "caliber",
    "name": "6 mm ARC Bolt Gun",
-   "sha256": "cb253f2d1f351919129fb3dd6a7ffcab3e7a9b3f7a50ef2d652678d8fcabc7c7"
+   "sha256": "aea800f1c4098a30e2a4debf02347e4cc25c784271f1e30b39021b42aa008178"
   },
   {
    "path": "calibers/6-mm-arc-gordon-2020-09-06.json",
    "kind": "caliber",
    "name": "6 mm ARC",
-   "sha256": "488bf5e2ddb7ad3943002999617151e9af8f77c614c6c209ff22ef5e9946c059"
+   "sha256": "24b63dcf090b74693604b0164439f59560d47f7340ee3216d0c6287c61c3bc0f"
   },
   {
    "path": "calibers/6-mm-gt-charlie-2023-02-08.json",
    "kind": "caliber",
    "name": "6 mm GT",
-   "sha256": "d1f983eb0a366b0c32af8607262c180444b7658be93732668bc7759a16ea5da6"
+   "sha256": "3cf053aaf863c7a5a3daf1690a722d74fd865580d03d9f15edb416b6eec63bdd"
   },
   {
    "path": "calibers/6-mm-gt-charlie-2023-03-24.json",
    "kind": "caliber",
    "name": "6 mm GT",
-   "sha256": "0523f07a483763e32a1b36ce0b01d46a32259f42ff4f66492dd8f4f26694d80c"
+   "sha256": "9271293026ac75bd947d1960d49b20b7284b78b79dab3ab979a0ad138a5d1439"
   },
   {
    "path": "calibers/6.5-06-a-square-charlie-2022-12-02.json",
    "kind": "caliber",
    "name": "6.5-06 A-Square",
-   "sha256": "59d39f1e3e01ffcc5d8a81c73611e8e6c3720080718db1d679145a8d02919605"
+   "sha256": "87aac16eada7eefef49963733fb4ad51288286610e2e8301e065d1f79a085fe0"
   },
   {
    "path": "calibers/6.5-prc-si-beirut-2022-11-23.json",
    "kind": "caliber",
    "name": "6.5 PRC SI",
-   "sha256": "581b7d0d648699f7564e5bd4554c7be659f10910667a8b2d468b9918c34c092f"
+   "sha256": "b1da921f75cdd93185c48976b6fac9ac0080f1b76107d16f1187e6f583d7c7d5"
   },
   {
    "path": "calibers/6.5-weatherby-rpm-charlie-2022-11-02.json",
    "kind": "caliber",
    "name": "6.5 Weatherby  RPM",
-   "sha256": "40f98fd4e8bc9bef3e2ddc7b53be948cd8a8ac9d528843e92d1fc59c80edb0a7"
+   "sha256": "88b94bc86adbabb806b6801c7566ed38b31ad692d6c9369c7d99563a27214e7a"
   },
   {
    "path": "calibers/6.8-western-charlie-2023-02-07.json",
    "kind": "caliber",
    "name": "6.8 Western",
-   "sha256": "e9008805cb1033f0714d13952476793480b218c4d0e097f8be5c1e5741fc934c"
+   "sha256": "4e9ad3b7feedc583c6aefb07d4a2eceee7d18f80a84638254232b292eb7f79f4"
   },
   {
    "path": "calibers/6.8-western-charlie-2023-02-17.json",
    "kind": "caliber",
    "name": "6.8 Western",
-   "sha256": "78a73d11d701e84fa9c86f6628fd35278fbfc998cc6902ad17259241659f2541"
+   "sha256": "16f0640c31a241d346a2bf4a77c5fcb0f7f0dd65c97e6c78652a541d17943dd3"
   },
   {
    "path": "calibers/7-300-prc-beiruty-2022-06-27.json",
    "kind": "caliber",
    "name": "7-300 PRC",
-   "sha256": "e4a1b6014269b5261e148319dc74f4b4edb96de7fc0f77632d2b106d8ae7065a"
+   "sha256": "f4a171e2e16fdb4f0678441d55ba9ba6272115f82ad80ad007a0f35031363068"
   },
   {
    "path": "calibers/7-prc-charlie-2023-02-09.json",
    "kind": "caliber",
    "name": "7 PRC",
-   "sha256": "ebd52ab656b13a1f8a0b35aba05056b8334c0b33e383913c5286f5c6a34d3b14"
+   "sha256": "a743701c92e579091677b133ef94e47f21a96c6d2ad7bd2c71c6cc4dfdc479f7"
   },
   {
    "path": "calibers/7-prc-w-charlie-2023-02-09.json",
    "kind": "caliber",
    "name": "7 PRC-W",
-   "sha256": "1eb067948a09c2cab7c794d22a7e58b1dc790b09d8b2b4c4abff1e3f8537e5cb"
+   "sha256": "b8ab30383a400686f44d66093040df9e35e0b041ca96dc92ce6dcff8ba15d06b"
   },
   {
    "path": "calibers/7mm-.300-norma-mag.-charlie-2023-01-19.json",
    "kind": "caliber",
    "name": "7mm .300 Norma Mag. ",
-   "sha256": "5022e9b937033c480c0246bcb1487364625e65720ef9599add1e37b0d775fca9"
+   "sha256": "a81ed7f172b6f54a670647f02d41603d79b0ee4b8147ddb880c9d46dd1a6700a"
   },
   {
    "path": "calibers/7mm-precision-rifle-cartridge-gews-2022-06-27.json",
    "kind": "caliber",
    "name": "7mm Precision Rifle Cartridge",
-   "sha256": "4f15879b75a983d52137ce99b857cd64d4bf71630044a6d1ce0daa3097b0a17e"
+   "sha256": "bae95726135d971e25b6113406bb340b16c50a03d3fb30046e289751afd9daaf"
   },
   {
    "path": "calibers/8.6-blackout-charlie-2022-11-14.json",
    "kind": "caliber",
    "name": "8.6 Blackout",
-   "sha256": "edf1fcf05d37914949c11b70cb164165ca2f98051e8b60bb1873fb82cb7ed13e"
+   "sha256": "0c8efd2831485b28ac289eb49698d6c3b35402d86530c45791dc9bd5f84873a9"
   },
   {
    "path": "powders/accurate-magpro-2023-06-22-tom24-2023-06-22.json",

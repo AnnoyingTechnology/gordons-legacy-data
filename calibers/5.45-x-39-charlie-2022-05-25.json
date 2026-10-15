@@ -21,6 +21,7 @@
     "revisionDate": "2015-5-19",
     "specificationUrl": "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/5-45-x-39-en.pdf",
     "maxPressure": 354997000,
+    "typicalCaseCapacity": 0.0000018338091529999998,
     "sebertFactor": 0.6,
     "caseDimensions": {
       "caseLength": 0.03982,
@@ -83,7 +84,6 @@
       "PK": "4083.01",
       "PE": "4438.02",
       "EE": "1800.53",
-      "V": "28.30",
       "M": "17.53",
       "c_alpha": "40.48",
       "c_alpha1": "30.00",

@@ -21,6 +21,7 @@
     "revisionDate": "2000-06-07",
     "specificationUrl": "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page41.pdf",
     "maxPressure": 310264000,
+    "typicalCaseCapacity": 0.0000012311792899999998,
     "sebertFactor": 0.75,
     "caseDimensions": {
       "caseLength": 0.03048,
@@ -83,7 +84,6 @@
       "PK": "3102.64",
       "PE": "3102.64",
       "EE": "0.00",
-      "V": "19.00",
       "M": "12.45",
       "c_alpha": "0.00",
       "c_alpha1": "25.00",

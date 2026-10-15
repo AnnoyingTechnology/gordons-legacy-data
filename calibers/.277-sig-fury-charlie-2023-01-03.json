@@ -21,6 +21,7 @@
     "revisionDate": "0-0-0",
     "specificationUrl": "https://saami.org/wp-content/uploads/2020/11/277-Sig-Public-Introduction-Orig-2020-11-11.pdf",
     "maxPressure": 551581000,
+    "typicalCaseCapacity": 0.0000036287389599999995,
     "sebertFactor": 0.5,
     "caseDimensions": {
       "caseLength": 0.05118,
@@ -83,7 +84,6 @@
       "PK": "6343.18",
       "PE": "6894.76",
       "EE": "3658.00",
-      "V": "56.00",
       "M": "36.83",
       "c_alpha": "60.00",
       "c_alpha1": "90.00",

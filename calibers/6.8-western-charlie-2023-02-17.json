@@ -21,6 +21,7 @@
     "revisionDate": "0-0-0",
     "specificationUrl": "https://saami.org/wp-content/uploads/2020/11/6.8-Western-Public-Introduction-Orig-2020-11-01.pdf",
     "maxPressure": 448159000,
+    "typicalCaseCapacity": 0.000004859918249999999,
     "sebertFactor": 0.5,
     "caseDimensions": {
       "caseLength": 0.05131,
@@ -83,7 +84,6 @@
       "PK": "5171.07",
       "PE": "5584.75",
       "EE": "0.00",
-      "V": "75.00",
       "M": "24.89",
       "c_alpha": "70.00",
       "c_alpha1": "90.00",

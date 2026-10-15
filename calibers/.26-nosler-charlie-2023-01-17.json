@@ -21,6 +21,7 @@
     "revisionDate": "0-0-0",
     "specificationUrl": "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/26-nosler-211012-en.pdf",
     "maxPressure": 440000000,
+    "typicalCaseCapacity": 0.000006518770345999998,
     "sebertFactor": 0.5,
     "caseDimensions": {
       "caseLength": 0.06579,
@@ -83,7 +84,6 @@
       "PK": "5060.00",
       "PE": "5500.00",
       "EE": "4500.00",
-      "V": "100.60",
       "M": "25.00",
       "c_alpha": "70.00",
       "c_alpha1": "90.00",

@@ -21,6 +21,7 @@
     "revisionDate": "",
     "specificationUrl": "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/300-norma-mag-en.pdf",
     "maxPressure": 440003000,
+    "typicalCaseCapacity": 0.0000067390866399999985,
     "sebertFactor": 0.5,
     "caseDimensions": {
       "caseLength": 0.0633,
@@ -83,7 +84,6 @@
       "PK": "5059.99",
       "PE": "5500.02",
       "EE": "5485.64",
-      "V": "104.00",
       "M": "24.89",
       "c_alpha": "41.00",
       "c_alpha1": "90.00",

@@ -21,6 +21,7 @@
     "revisionDate": "2020-02-16",
     "specificationUrl": "6-5-creedmoor-ge.pdf",
     "maxPressure": 435000000,
+    "typicalCaseCapacity": 0.0000034861813579999993,
     "sebertFactor": 0.5,
     "caseDimensions": {
       "caseLength": 0.04877,
@@ -72,7 +73,6 @@
       "PK": "5003.00",
       "PE": "5438.00",
       "EE": "3400.00",
-      "V": "53.80",
       "M": "25.00",
       "c_alpha": "0.00",
       "c_alpha1": "0.00",

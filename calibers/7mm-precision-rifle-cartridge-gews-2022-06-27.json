@@ -21,6 +21,7 @@
     "revisionDate": "2022-6-7",
     "specificationUrl": "https://saami.org/wp-content/uploads/2022/06/Public-Introduction-7mm-Precision-Rifle-Cartridge-2022-06-16.pdf",
     "maxPressure": 448159000,
+    "typicalCaseCapacity": 0.000005345910074999999,
     "sebertFactor": 0.5,
     "caseDimensions": {
       "caseLength": 0.057912,
@@ -83,7 +84,6 @@
       "PK": "5153.83",
       "PE": "5601.99",
       "EE": "4715.00",
-      "V": "82.50",
       "M": "25.00",
       "c_alpha": "60.00",
       "c_alpha1": "90.00",

@@ -21,6 +21,7 @@
     "revisionDate": "2019-6-7",
     "specificationUrl": "",
     "maxPressure": 435000000,
+    "typicalCaseCapacity": 0.0000029613101869999997,
     "sebertFactor": 0.5,
     "caseDimensions": {
       "caseLength": 0.04435,
@@ -83,7 +84,6 @@
       "PK": "5003.00",
       "PE": "5438.00",
       "EE": "3300.00",
-      "V": "45.70",
       "M": "25.00",
       "c_alpha": "70.00",
       "c_alpha1": "90.00",

@@ -21,6 +21,7 @@
     "revisionDate": "2020-11-10",
     "specificationUrl": "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/300-prc-190408-en.pdf",
     "maxPressure": 440003000,
+    "typicalCaseCapacity": 0.00000622069536,
     "sebertFactor": 0.5,
     "caseDimensions": {
       "caseLength": 0.06553,
@@ -83,7 +84,6 @@
       "PK": "5060.00",
       "PE": "5500.00",
       "EE": "5800.19",
-      "V": "96.00",
       "M": "24.89",
       "c_alpha": "60.00",
       "c_alpha1": "90.00",
