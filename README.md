@@ -44,4 +44,6 @@ Intake rules (main repository, `docs/PLAN.md`, Data):
   velocity and pressure data, factual specifications (bullet weight, length, BC; cartridge dimensions).
 - Not accepted: GRT's database or anything derived from it; whole tables copied from manufacturers'
   manuals.
-- Data changes are safety-critical: each one needs the maintainer's review.
+- Data changes are safety-critical: each one needs the maintainer's review. CI checks every change
+  with the main repository's validator (`tools/data/validate-repository.ts`): index and files agree,
+  hashes match, every file is a valid component. A green check is necessary, not sufficient.

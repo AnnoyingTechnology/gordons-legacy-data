@@ -1,0 +1,31 @@
+name: Check
+
+# Every change is checked with the main repository's validator: index.json lists every component file
+# and only those, the SHA-256s match, and every file is a component Gordon's Legacy reads, its values
+# checked like a saved load's. Data changes are safety-critical: a green check is necessary, not
+# sufficient; each change still needs the maintainer's review.
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          path: data
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: AnnoyingTechnology/gordons-legacy
+          path: app
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: 24
+      - run: npm ci
+        working-directory: app
+      - run: node tools/data/validate-repository.ts ../data
+        working-directory: app
