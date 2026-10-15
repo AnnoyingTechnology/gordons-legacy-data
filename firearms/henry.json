@@ -1,0 +1,4031 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by Henry Repeating Arms; facts, released in this repository under CC0",
+    "source": "https://www.henryusa.com",
+    "file": "",
+    "author": "Henry Repeating Arms",
+    "date": "2026-10-15",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H6 Big Boy Carbine .41 Magnum (No Loading Gate)",
+      "maker": "Henry",
+      "model": "H006MR41",
+      "cartridge": ".41 Magnum",
+      "barrel": {
+        "name": "Henry H6 Big Boy Carbine .41 Magnum (No Loading Gate)",
+        "length": 0.4191,
+        "twistLength": 0.4572,
+        "gunMass": 3.519876791,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h6-big-boy-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "7.76 lbs.",
+          "twist": "1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H6 Big Boy Carbine .44 Magnum/.44 Spl",
+      "maker": "Henry",
+      "model": "H006GR",
+      "cartridge": ".44 Magnum/.44 Spl",
+      "barrel": {
+        "name": "Henry H6 Big Boy Carbine .44 Magnum/.44 Spl",
+        "length": 0.4191,
+        "twistLength": 0.508,
+        "gunMass": 3.519876791,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h6-big-boy-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "7.76 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H6 Big Boy Carbine .45 Colt",
+      "maker": "Henry",
+      "model": "H006GCR",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Henry H6 Big Boy Carbine .45 Colt",
+        "length": 0.4191,
+        "twistLength": 0.4064,
+        "gunMass": 3.519876791,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h6-big-boy-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "7.76 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H6 Big Boy Carbine .327 Fed. Magnum/.32 H&R Magnum (No Loading Gate)",
+      "maker": "Henry",
+      "model": "H006MR327",
+      "cartridge": ".327 Fed Magnum/.32 H&R Mag",
+      "barrel": {
+        "name": "Henry H6 Big Boy Carbine .327 Fed. Magnum/.32 H&R Magnum (No Loading Gate)",
+        "length": 0.4191,
+        "twistLength": 0.4064,
+        "gunMass": 3.519876791,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h6-big-boy-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "7.76 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H6 Big Boy Carbine .357 Magnum/.38 Spl",
+      "maker": "Henry",
+      "model": "H006GMR",
+      "cartridge": ".357 Magnum/.38 Spl",
+      "barrel": {
+        "name": "Henry H6 Big Boy Carbine .357 Magnum/.38 Spl",
+        "length": 0.4191,
+        "twistLength": 0.4064,
+        "gunMass": 3.519876791,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h6-big-boy-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "7.76 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H6 Big Boy Eagle Scout Tribute 2nd Edition .44 Magnum/.44Spl",
+      "maker": "Henry",
+      "model": "H006GES2",
+      "cartridge": ".44 Magnum/.44 Spl",
+      "barrel": {
+        "name": "Henry H6 Big Boy Eagle Scout Tribute 2nd Edition .44 Magnum/.44Spl",
+        "length": 0.508,
+        "twistLength": 0.508,
+        "gunMass": 3.937181772,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/eagle-scout-centennial-tribute-second-edition/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "8.68 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H6 Big Boy Limited Edition .44 Magnum/.44 Spl",
+      "maker": "Henry",
+      "model": "H006GD",
+      "cartridge": ".44 Magnum/.44 Spl",
+      "barrel": {
+        "name": "Henry H6 Big Boy Limited Edition .44 Magnum/.44 Spl",
+        "length": 0.508,
+        "twistLength": 0.508,
+        "gunMass": 3.937181772,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h6-big-boy-limited-edition-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "8.68 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H6 Big Boy Limited Edition Rifle .45 Colt",
+      "maker": "Henry",
+      "model": "H006GCD",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Henry H6 Big Boy Limited Edition Rifle .45 Colt",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.937181772,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h6-big-boy-limited-edition-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "8.68 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H6 Big Boy Limited Edition Rifle .357 Magnum/.38 Spl",
+      "maker": "Henry",
+      "model": "H006GMD",
+      "cartridge": ".357 Magnum/.38 Spl",
+      "barrel": {
+        "name": "Henry H6 Big Boy Limited Edition Rifle .357 Magnum/.38 Spl",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.937181772,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h6-big-boy-limited-edition-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "8.68 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H6 Big Boy Rifle .41 Magnum (No Loading Gate)",
+      "maker": "Henry",
+      "model": "H006M41",
+      "cartridge": ".41 Magnum",
+      "barrel": {
+        "name": "Henry H6 Big Boy Rifle .41 Magnum (No Loading Gate)",
+        "length": 0.508,
+        "twistLength": 0.4572,
+        "gunMass": 3.937181772,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h6-big-boy-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "8.68 lbs.",
+          "twist": "1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H6 Big Boy Rifle .44 Magnum/.44 Spl",
+      "maker": "Henry",
+      "model": "H006G",
+      "cartridge": ".44 Magnum/.44 Spl",
+      "barrel": {
+        "name": "Henry H6 Big Boy Rifle .44 Magnum/.44 Spl",
+        "length": 0.508,
+        "twistLength": 0.508,
+        "gunMass": 3.937181772,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h6-big-boy-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "8.68 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H6 Big Boy Rifle .44 Magnum/.44 Spl Large Loop",
+      "maker": "Henry",
+      "model": "H006GL",
+      "cartridge": ".44 Magnum/.44 Spl",
+      "barrel": {
+        "name": "Henry H6 Big Boy Rifle .44 Magnum/.44 Spl Large Loop",
+        "length": 0.508,
+        "twistLength": 0.508,
+        "gunMass": 3.937181772,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h6-big-boy-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "8.68 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H6 Big Boy Rifle .45 Colt",
+      "maker": "Henry",
+      "model": "H006GC",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Henry H6 Big Boy Rifle .45 Colt",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.937181772,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h6-big-boy-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "8.68 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H6 Big Boy Rifle .45 Colt Large Loop",
+      "maker": "Henry",
+      "model": "H006GCL",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Henry H6 Big Boy Rifle .45 Colt Large Loop",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.937181772,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h6-big-boy-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "8.68 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H6 Big Boy Rifle .327 Fed. Magnum/.32 H&R Magnum (No Loading Gate)",
+      "maker": "Henry",
+      "model": "H006M327",
+      "cartridge": ".327 Fed Magnum/.32 H&R Mag",
+      "barrel": {
+        "name": "Henry H6 Big Boy Rifle .327 Fed. Magnum/.32 H&R Magnum (No Loading Gate)",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.937181772,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h6-big-boy-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "8.68 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H6 Big Boy Rifle .357 Magnum/.38 Spl",
+      "maker": "Henry",
+      "model": "H006GM",
+      "cartridge": ".357 Magnum/.38 Spl",
+      "barrel": {
+        "name": "Henry H6 Big Boy Rifle .357 Magnum/.38 Spl",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.937181772,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h6-big-boy-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "8.68 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H6 Big Boy Rifle .357 Magnum/.38 Spl Large Loop",
+      "maker": "Henry",
+      "model": "H006GMLL",
+      "cartridge": ".357 Magnum/.38 Spl",
+      "barrel": {
+        "name": "Henry H6 Big Boy Rifle .357 Magnum/.38 Spl Large Loop",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.937181772,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h6-big-boy-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "8.68 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H6 Mare's Leg Pistol .44 Magnum/.44 Spl",
+      "maker": "Henry",
+      "model": "H006GML",
+      "cartridge": ".44 Magnum/.44 Spl",
+      "barrel": {
+        "name": "Henry H6 Mare's Leg Pistol .44 Magnum/.44 Spl",
+        "length": 0.32766,
+        "twistLength": 0.508,
+        "gunMass": 2.626299822,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h6-mares-leg-pistol/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "12.9\"",
+          "weight": "5.79 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H6 Mare's Leg Pistol .45 Colt",
+      "maker": "Henry",
+      "model": "H006GCML",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Henry H6 Mare's Leg Pistol .45 Colt",
+        "length": 0.32766,
+        "twistLength": 0.4064,
+        "gunMass": 2.626299822,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h6-mares-leg-pistol/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "12.9\"",
+          "weight": "5.79 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H6 Mare's Leg Pistol .357 Magnum/.38 Spl Large Loop",
+      "maker": "Henry",
+      "model": "H006GMML",
+      "cartridge": ".357 Magnum/.38 Spl",
+      "barrel": {
+        "name": "Henry H6 Mare's Leg Pistol .357 Magnum/.38 Spl Large Loop",
+        "length": 0.32766,
+        "twistLength": 0.4064,
+        "gunMass": 2.626299822,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h6-mares-leg-pistol/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "12.9\"",
+          "weight": "5.79 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H9 All-Weather Rifle .30-30 Win",
+      "maker": "Henry",
+      "model": "H009GAW",
+      "cartridge": ".30-30",
+      "barrel": {
+        "name": "Henry H9 All-Weather Rifle .30-30 Win",
+        "length": 0.508,
+        "twistLength": 0.3048,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h9-all-weather-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.00 lbs.",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H9 American Cattleman Tribute Edition Rifle .30-30 Win",
+      "maker": "Henry",
+      "model": "H009BGLAC",
+      "cartridge": ".30-30",
+      "barrel": {
+        "name": "Henry H9 American Cattleman Tribute Edition Rifle .30-30 Win",
+        "length": 0.508,
+        "twistLength": 0.3048,
+        "gunMass": 3.764816671,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/american-cattleman-tribute-edition/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "8.30 lbs.",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H9 Bear's Leg Pistol .30-30 Win",
+      "maker": "Henry",
+      "model": "H009GBLX-3030",
+      "cartridge": ".30-30",
+      "barrel": {
+        "name": "Henry H9 Bear's Leg Pistol .30-30 Win",
+        "length": 0.35052,
+        "twistLength": 0.3048,
+        "gunMass": 2.989173718,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/bears-leg-pistol/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "13.8\"",
+          "weight": "6.59 lbs.",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H9 Big Boy Rifle .30-30 Win",
+      "maker": "Henry",
+      "model": "H009BG",
+      "cartridge": ".30-30",
+      "barrel": {
+        "name": "Henry H9 Big Boy Rifle .30-30 Win",
+        "length": 0.508,
+        "twistLength": 0.3048,
+        "gunMass": 3.764816671,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h9-big-boy-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "8.30 lbs.",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H9 Big Boy Rifle .30-30 Win Large Loop",
+      "maker": "Henry",
+      "model": "H009BGL",
+      "cartridge": ".30-30",
+      "barrel": {
+        "name": "Henry H9 Big Boy Rifle .30-30 Win Large Loop",
+        "length": 0.508,
+        "twistLength": 0.3048,
+        "gunMass": 3.764816671,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h9-big-boy-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "8.30 lbs.",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H9 Big Boy Wildlife Edition Rifle .30-30 Win",
+      "maker": "Henry",
+      "model": "H009BGWL",
+      "cartridge": ".30-30",
+      "barrel": {
+        "name": "Henry H9 Big Boy Wildlife Edition Rifle .30-30 Win",
+        "length": 0.508,
+        "twistLength": 0.3048,
+        "gunMass": 3.764816671,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/brass-wildlife-edition/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "8.30 lbs.",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H9 Classic Rifle .30-30 Win",
+      "maker": "Henry",
+      "model": "H009G",
+      "cartridge": ".30-30",
+      "barrel": {
+        "name": "Henry H9 Classic Rifle .30-30 Win",
+        "length": 0.508,
+        "twistLength": 0.3048,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h9-classic-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.00 lbs.",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H9 Classic Rifle .30-30 Win Large Loop",
+      "maker": "Henry",
+      "model": "H009GL",
+      "cartridge": ".30-30",
+      "barrel": {
+        "name": "Henry H9 Classic Rifle .30-30 Win Large Loop",
+        "length": 0.508,
+        "twistLength": 0.3048,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h9-classic-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.00 lbs.",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H9 Classic Rifle .360 Buckhammer",
+      "maker": "Henry",
+      "model": "H009G-360BH",
+      "cartridge": ".360 Buckhammer",
+      "barrel": {
+        "name": "Henry H9 Classic Rifle .360 Buckhammer",
+        "length": 0.508,
+        "twistLength": 0.3048,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h9-classic-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.00 lbs.",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H9 Classic Wildlife Edition Rifle .30-30 Win",
+      "maker": "Henry",
+      "model": "H009GWL",
+      "cartridge": ".30-30",
+      "barrel": {
+        "name": "Henry H9 Classic Wildlife Edition Rifle .30-30 Win",
+        "length": 0.508,
+        "twistLength": 0.3048,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/steel-wildlife-edition/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.00 lbs.",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H9 Color Case Hardened Rifle .30-30 Win",
+      "maker": "Henry",
+      "model": "H009GCC",
+      "cartridge": ".30-30",
+      "barrel": {
+        "name": "Henry H9 Color Case Hardened Rifle .30-30 Win",
+        "length": 0.508,
+        "twistLength": 0.3048,
+        "gunMass": 3.87367884,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h9-color-case-hardened-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "8.54 lbs.",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H9 Explorer Carbine .30-30 Win (Burnt Bronze)",
+      "maker": "Henry",
+      "model": "H009XCW-3030",
+      "cartridge": ".30-30",
+      "barrel": {
+        "name": "Henry H9 Explorer Carbine .30-30 Win (Burnt Bronze)",
+        "length": 0.4191,
+        "twistLength": 0.3048,
+        "gunMass": 3.061748497,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h9-explorer-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "6.75 lbs.",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H9 Explorer Carbine .360 Buckhammer (Burnt Bronze)",
+      "maker": "Henry",
+      "model": "H009XCW-360BH",
+      "cartridge": ".360 Buckhammer",
+      "barrel": {
+        "name": "Henry H9 Explorer Carbine .360 Buckhammer (Burnt Bronze)",
+        "length": 0.4191,
+        "twistLength": 0.3048,
+        "gunMass": 3.061748497,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h9-explorer-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "6.75 lbs.",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H9 Protector Carbine .30-30 Win",
+      "maker": "Henry",
+      "model": "H009PGR-3030",
+      "cartridge": ".30-30",
+      "barrel": {
+        "name": "Henry H9 Protector Carbine .30-30 Win",
+        "length": 0.4191,
+        "twistLength": 0.3048,
+        "gunMass": 3.061748497,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h9-protector-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "6.75 lbs.",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H9 Protector Carbine .360 Buckhammer",
+      "maker": "Henry",
+      "model": "H009PGR-360",
+      "cartridge": ".360 Buckhammer",
+      "barrel": {
+        "name": "Henry H9 Protector Carbine .360 Buckhammer",
+        "length": 0.4191,
+        "twistLength": 0.3048,
+        "gunMass": 3.061748497,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h9-protector-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "6.75 lbs.",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H9 Provider Rifle .30-30 Win",
+      "maker": "Henry",
+      "model": "H009PG-3030",
+      "cartridge": ".30-30",
+      "barrel": {
+        "name": "Henry H9 Provider Rifle .30-30 Win",
+        "length": 0.508,
+        "twistLength": 0.3048,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h9-provider-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.0 lbs.",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H9 Provider Rifle .35 Rem",
+      "maker": "Henry",
+      "model": "H009PG-35R",
+      "cartridge": ".35 Rem",
+      "barrel": {
+        "name": "Henry H9 Provider Rifle .35 Rem",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h9-provider-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.0 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H9 Provider Rifle .38-55 Win",
+      "maker": "Henry",
+      "model": "H009PG-3855",
+      "cartridge": ".38-55",
+      "barrel": {
+        "name": "Henry H9 Provider Rifle .38-55 Win",
+        "length": 0.508,
+        "twistLength": 0.4572,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h9-provider-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.0 lbs.",
+          "twist": "1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H9 Provider Rifle .360 Buckhammer",
+      "maker": "Henry",
+      "model": "H009PG-360",
+      "cartridge": ".360 Buckhammer",
+      "barrel": {
+        "name": "Henry H9 Provider Rifle .360 Buckhammer",
+        "length": 0.508,
+        "twistLength": 0.3048,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h9-provider-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.0 lbs.",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H9 SPD HUSH Series Carbine .30-30 Win",
+      "maker": "Henry",
+      "model": "H009H",
+      "cartridge": ".30-30",
+      "barrel": {
+        "name": "Henry H9 SPD HUSH Series Carbine .30-30 Win",
+        "length": 0.4191,
+        "twistLength": 0.3048,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/spd-hush-series/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "7.0 lbs.",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H9 X Model .30-30 Win",
+      "maker": "Henry",
+      "model": "H009X",
+      "cartridge": ".30-30",
+      "barrel": {
+        "name": "Henry H9 X Model .30-30 Win",
+        "length": 0.542925,
+        "twistLength": 0.3048,
+        "gunMass": 3.660490426,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h9-x-model/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "21.375\"",
+          "weight": "8.07 lbs.",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H9 X Model .360 Buckhammer",
+      "maker": "Henry",
+      "model": "H009X-360BH",
+      "cartridge": ".360 Buckhammer",
+      "barrel": {
+        "name": "Henry H9 X Model .360 Buckhammer",
+        "length": 0.542925,
+        "twistLength": 0.3048,
+        "gunMass": 3.660490426,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h9-x-model/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "21.375\"",
+          "weight": "8.07 lbs.",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H10 All-Weather Pic Rail Rifle .45-70 Gov't",
+      "maker": "Henry",
+      "model": "H010GAWP",
+      "cartridge": ".45-70 Gov't",
+      "barrel": {
+        "name": "Henry H10 All-Weather Pic Rail Rifle .45-70 Gov't",
+        "length": 0.468122,
+        "twistLength": 0.508,
+        "gunMass": 3.220505827,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h10-all-weather-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "18.43\"",
+          "weight": "7.10 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H10 All-Weather Rifle .45-70 Gov't",
+      "maker": "Henry",
+      "model": "H010GAW",
+      "cartridge": ".45-70 Gov't",
+      "barrel": {
+        "name": "Henry H10 All-Weather Rifle .45-70 Gov't",
+        "length": 0.468122,
+        "twistLength": 0.508,
+        "gunMass": 3.21143398,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h10-all-weather-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "18.43\"",
+          "weight": "7.08 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H10 America's 250th Anniversary Tribute Edition Rifle .45-70 Gov't",
+      "maker": "Henry",
+      "model": "H010BG-250",
+      "cartridge": ".45-70 Gov't",
+      "barrel": {
+        "name": "Henry H10 America's 250th Anniversary Tribute Edition Rifle .45-70 Gov't",
+        "length": 0.5588,
+        "twistLength": 0.508,
+        "gunMass": 3.674098197,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/americas-250th-tribute-edition-collection/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "22\"",
+          "weight": "8.10 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H10 Bear's Leg Pistol .45-70 Gov't",
+      "maker": "Henry",
+      "model": "H010GBLX-4570",
+      "cartridge": ".45-70 Gov't",
+      "barrel": {
+        "name": "Henry H10 Bear's Leg Pistol .45-70 Gov't",
+        "length": 0.35052,
+        "twistLength": 0.508,
+        "gunMass": 2.989173718,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/bears-leg-pistol/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "13.8\"",
+          "weight": "6.59 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H10 Big Boy Rifle .45-70 Gov't",
+      "maker": "Henry",
+      "model": "H010BG",
+      "cartridge": ".45-70 Gov't",
+      "barrel": {
+        "name": "Henry H10 Big Boy Rifle .45-70 Gov't",
+        "length": 0.5588,
+        "twistLength": 0.508,
+        "gunMass": 3.674098197,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h10-big-boy-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "22\"",
+          "weight": "8.10 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H10 Big Boy Wildlife Edition Rifle .45-70 Gov't",
+      "maker": "Henry",
+      "model": "H010BGWL",
+      "cartridge": ".45-70 Gov't",
+      "barrel": {
+        "name": "Henry H10 Big Boy Wildlife Edition Rifle .45-70 Gov't",
+        "length": 0.5588,
+        "twistLength": 0.508,
+        "gunMass": 3.674098197,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/brass-wildlife-edition/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "22\"",
+          "weight": "8.10 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H10 Classic Wildlife Edition Rifle .45-70 Gov't",
+      "maker": "Henry",
+      "model": "H010GWL",
+      "cartridge": ".45-70 Gov't",
+      "barrel": {
+        "name": "Henry H10 Classic Wildlife Edition Rifle .45-70 Gov't",
+        "length": 0.468122,
+        "twistLength": 0.508,
+        "gunMass": 3.21143398,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/steel-wildlife-edition/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "18.43\"",
+          "weight": "7.08 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H10 Color Case Hardened Rifle .45-70 Gov't",
+      "maker": "Henry",
+      "model": "H010GCC",
+      "cartridge": ".45-70 Gov't",
+      "barrel": {
+        "name": "Henry H10 Color Case Hardened Rifle .45-70 Gov't",
+        "length": 0.5588,
+        "twistLength": 0.508,
+        "gunMass": 3.674098197,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h10-color-case-hardened-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "22\"",
+          "weight": "8.10 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H10 Explorer Carbine .45-70 Gov't (Burnt Bronze)",
+      "maker": "Henry",
+      "model": "H010XCW-4570",
+      "cartridge": ".45-70 Gov't",
+      "barrel": {
+        "name": "Henry H10 Explorer Carbine .45-70 Gov't (Burnt Bronze)",
+        "length": 0.4191,
+        "twistLength": 0.508,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h10-explorer-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "7.0 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H10 Protector Carbine .45-70 Gov't",
+      "maker": "Henry",
+      "model": "H010PGR-4570",
+      "cartridge": ".45-70 Gov't",
+      "barrel": {
+        "name": "Henry H10 Protector Carbine .45-70 Gov't",
+        "length": 0.4191,
+        "twistLength": 0.508,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h10-protector-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "7.0 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H10 Provider Rifle .45-70 Gov't",
+      "maker": "Henry",
+      "model": "H010PG-4570",
+      "cartridge": ".45-70 Gov't",
+      "barrel": {
+        "name": "Henry H10 Provider Rifle .45-70 Gov't",
+        "length": 0.508,
+        "twistLength": 0.508,
+        "gunMass": 3.288544682,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h10-provider-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.25 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H10 SPD CRUSR Carbine .45-70 Gov't",
+      "maker": "Henry",
+      "model": "H010FE",
+      "cartridge": ".45-70 Gov't",
+      "barrel": {
+        "name": "Henry H10 SPD CRUSR Carbine .45-70 Gov't",
+        "length": 0.4191,
+        "twistLength": 0.5588,
+        "gunMass": 3.039068879,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/spd-crusr-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "6.7 lbs.",
+          "twist": "1:22"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H10 SPD HUSH Series Carbine .45-70 Gov't",
+      "maker": "Henry",
+      "model": "H010H",
+      "cartridge": ".45-70 Gov't",
+      "barrel": {
+        "name": "Henry H10 SPD HUSH Series Carbine .45-70 Gov't",
+        "length": 0.4191,
+        "twistLength": 0.5588,
+        "gunMass": 3.039068879,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/spd-hush-series/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "6.7 lbs.",
+          "twist": "1:22"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H10 Spirit of the Corps 250th Anniversary Tribute Edition Rifle .45-70 Gov't",
+      "maker": "Henry",
+      "model": "H010BGMC",
+      "cartridge": ".45-70 Gov't",
+      "barrel": {
+        "name": "Henry H10 Spirit of the Corps 250th Anniversary Tribute Edition Rifle .45-70 Gov't",
+        "length": 0.5588,
+        "twistLength": 0.508,
+        "gunMass": 3.674098197,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/spirit-of-the-corps-2nd-edition/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "22\"",
+          "weight": "8.10 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H10 X Model .45-70 Gov't",
+      "maker": "Henry",
+      "model": "H010X",
+      "cartridge": ".45-70 Gov't",
+      "barrel": {
+        "name": "Henry H10 X Model .45-70 Gov't",
+        "length": 0.50292,
+        "twistLength": 0.508,
+        "gunMass": 3.356583538,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h10-x-model/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "19.8\"",
+          "weight": "7.4 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H11 New Original Henry Iron Frame Rifle .44-40 WCF",
+      "maker": "Henry",
+      "model": "H011IF",
+      "cartridge": ".44-40 WCF",
+      "barrel": {
+        "name": "Henry H11 New Original Henry Iron Frame Rifle .44-40 WCF",
+        "length": 0.6223,
+        "twistLength": 0.9144,
+        "gunMass": 4.08233133,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h11-new-original-henry-iron-framed-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24.5\"",
+          "weight": "9.00 lbs.",
+          "twist": "1:36"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H11 New Original Henry Limited 3rd Edition Rifle .44-40 WCF",
+      "maker": "Henry",
+      "model": "H011D3",
+      "cartridge": ".44-40 WCF",
+      "barrel": {
+        "name": "Henry H11 New Original Henry Limited 3rd Edition Rifle .44-40 WCF",
+        "length": 0.6223,
+        "twistLength": 0.9144,
+        "gunMass": 4.08233133,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h11-new-original-henry-limited-3rd-edition/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24.5\"",
+          "weight": "9.00 lbs.",
+          "twist": "1:36"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H11 New Original Henry Rare Carbine .44-40 WCF",
+      "maker": "Henry",
+      "model": "H011R",
+      "cartridge": ".44-40 WCF",
+      "barrel": {
+        "name": "Henry H11 New Original Henry Rare Carbine .44-40 WCF",
+        "length": 0.5207,
+        "twistLength": 0.9144,
+        "gunMass": 3.850999221,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h11-new-original-henry-rare-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20.5\"",
+          "weight": "8.49 lbs.",
+          "twist": "1:36"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H11 New Original Henry Rifle .44-40 WCF",
+      "maker": "Henry",
+      "model": "H011",
+      "cartridge": ".44-40 WCF",
+      "barrel": {
+        "name": "Henry H11 New Original Henry Rifle .44-40 WCF",
+        "length": 0.6223,
+        "twistLength": 0.9144,
+        "gunMass": 4.08233133,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h11-new-original-henry-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24.5\"",
+          "weight": "9.00 lbs.",
+          "twist": "1:36"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H11 New Original Henry Rifle .45 Colt",
+      "maker": "Henry",
+      "model": "H011C",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Henry H11 New Original Henry Rifle .45 Colt",
+        "length": 0.6223,
+        "twistLength": 0.4064,
+        "gunMass": 4.08233133,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h11-new-original-henry-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24.5\"",
+          "weight": "9.00 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H11 New Original Henry Silver Limited Edition .44-40 WCF",
+      "maker": "Henry",
+      "model": "H011SD",
+      "cartridge": ".44-40 WCF",
+      "barrel": {
+        "name": "Henry H11 New Original Henry Silver Limited Edition .44-40 WCF",
+        "length": 0.6223,
+        "twistLength": 0.9144,
+        "gunMass": 4.08233133,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h11-new-original-henry-silver-limited-edition/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24.5\"",
+          "weight": "9.00 lbs.",
+          "twist": "1:36"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 All-Weather Rifle .44 Magnum/.44 Spl",
+      "maker": "Henry",
+      "model": "H012GAW",
+      "cartridge": ".44 Magnum/.44 Spl",
+      "barrel": {
+        "name": "Henry H12 All-Weather Rifle .44 Magnum/.44 Spl",
+        "length": 0.508,
+        "twistLength": 0.508,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-all-weather-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.00 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 All-Weather Rifle .45 Colt",
+      "maker": "Henry",
+      "model": "H012GCAW",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Henry H12 All-Weather Rifle .45 Colt",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-all-weather-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.00 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 All-Weather Rifle .357 Magnum/.38 Spl",
+      "maker": "Henry",
+      "model": "H012GMAW",
+      "cartridge": ".357 Magnum/.38 Spl",
+      "barrel": {
+        "name": "Henry H12 All-Weather Rifle .357 Magnum/.38 Spl",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-all-weather-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.00 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Bear's Leg Pistol .44 Magnum/.44 Spl",
+      "maker": "Henry",
+      "model": "H012GBLX-44",
+      "cartridge": ".44 Magnum/.44 Spl",
+      "barrel": {
+        "name": "Henry H12 Bear's Leg Pistol .44 Magnum/.44 Spl",
+        "length": 0.35052,
+        "twistLength": 0.508,
+        "gunMass": 2.608156128,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/bears-leg-pistol/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "13.8\"",
+          "weight": "5.75 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Bear's Leg Pistol .357 Magnum/.38 Spl",
+      "maker": "Henry",
+      "model": "H012GBLX-357",
+      "cartridge": ".357 Magnum/.38 Spl",
+      "barrel": {
+        "name": "Henry H12 Bear's Leg Pistol .357 Magnum/.38 Spl",
+        "length": 0.35052,
+        "twistLength": 0.4064,
+        "gunMass": 2.608156128,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/bears-leg-pistol/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "13.8\"",
+          "weight": "5.75 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Classic Carbine .41 Magnum (No Loading Gate)",
+      "maker": "Henry",
+      "model": "H012MR41",
+      "cartridge": ".41 Magnum",
+      "barrel": {
+        "name": "Henry H12 Classic Carbine .41 Magnum (No Loading Gate)",
+        "length": 0.4191,
+        "twistLength": 0.4572,
+        "gunMass": 2.989173718,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-classic-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "6.59 lbs.",
+          "twist": "1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Classic Carbine .44 Magnum/.44 Spl",
+      "maker": "Henry",
+      "model": "H012GR",
+      "cartridge": ".44 Magnum/.44 Spl",
+      "barrel": {
+        "name": "Henry H12 Classic Carbine .44 Magnum/.44 Spl",
+        "length": 0.4191,
+        "twistLength": 0.508,
+        "gunMass": 2.989173718,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-classic-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "6.59 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Classic Carbine .45 Colt",
+      "maker": "Henry",
+      "model": "H012GCR",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Henry H12 Classic Carbine .45 Colt",
+        "length": 0.4191,
+        "twistLength": 0.4064,
+        "gunMass": 2.989173718,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-classic-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "6.59 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Classic Carbine .327 Fed. Magnum/.32 H&R Magnum (No Loading Gate)",
+      "maker": "Henry",
+      "model": "H012MR327",
+      "cartridge": ".327 Fed Magnum/.32 H&R Mag",
+      "barrel": {
+        "name": "Henry H12 Classic Carbine .327 Fed. Magnum/.32 H&R Magnum (No Loading Gate)",
+        "length": 0.4191,
+        "twistLength": 0.4064,
+        "gunMass": 2.989173718,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-classic-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "6.59 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Classic Carbine .357 Magnum/.38 Spl",
+      "maker": "Henry",
+      "model": "H012GMR",
+      "cartridge": ".357 Magnum/.38 Spl",
+      "barrel": {
+        "name": "Henry H12 Classic Carbine .357 Magnum/.38 Spl",
+        "length": 0.4191,
+        "twistLength": 0.4064,
+        "gunMass": 2.989173718,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-classic-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "6.59 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Classic Rifle .41 Magnum (No Loading Gate)",
+      "maker": "Henry",
+      "model": "H012M41",
+      "cartridge": ".41 Magnum",
+      "barrel": {
+        "name": "Henry H12 Classic Rifle .41 Magnum (No Loading Gate)",
+        "length": 0.508,
+        "twistLength": 0.4572,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-classic-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.00 lbs.",
+          "twist": "1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Classic Rifle .44 Magnum/.44 Spl",
+      "maker": "Henry",
+      "model": "H012G",
+      "cartridge": ".44 Magnum/.44 Spl",
+      "barrel": {
+        "name": "Henry H12 Classic Rifle .44 Magnum/.44 Spl",
+        "length": 0.508,
+        "twistLength": 0.508,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-classic-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.00 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Classic Rifle .44 Magnum/.44 Spl Large Loop",
+      "maker": "Henry",
+      "model": "H012GL",
+      "cartridge": ".44 Magnum/.44 Spl",
+      "barrel": {
+        "name": "Henry H12 Classic Rifle .44 Magnum/.44 Spl Large Loop",
+        "length": 0.508,
+        "twistLength": 0.508,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-classic-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.00 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Classic Rifle .45 Colt",
+      "maker": "Henry",
+      "model": "H012GC",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Henry H12 Classic Rifle .45 Colt",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-classic-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.00 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Classic Rifle .45 Colt Large Loop",
+      "maker": "Henry",
+      "model": "H012GCL",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Henry H12 Classic Rifle .45 Colt Large Loop",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-classic-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.00 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Classic Rifle .327 Fed. Magnum/.32 H&R Magnum (No Loading Gate)",
+      "maker": "Henry",
+      "model": "H012M327",
+      "cartridge": ".327 Fed Magnum/.32 H&R Mag",
+      "barrel": {
+        "name": "Henry H12 Classic Rifle .327 Fed. Magnum/.32 H&R Magnum (No Loading Gate)",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-classic-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.00 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Classic Rifle .357 Magnum/.38 Spl",
+      "maker": "Henry",
+      "model": "H012GM",
+      "cartridge": ".357 Magnum/.38 Spl",
+      "barrel": {
+        "name": "Henry H12 Classic Rifle .357 Magnum/.38 Spl",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-classic-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.00 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Classic Rifle .357 Magnum/.38 Spl Large Loop",
+      "maker": "Henry",
+      "model": "H012GML",
+      "cartridge": ".357 Magnum/.38 Spl",
+      "barrel": {
+        "name": "Henry H12 Classic Rifle .357 Magnum/.38 Spl Large Loop",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-classic-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.00 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Color Case Hardened Carbine .44 Magnum/.44 Spl",
+      "maker": "Henry",
+      "model": "H012GRCC",
+      "cartridge": ".44 Magnum/.44 Spl",
+      "barrel": {
+        "name": "Henry H12 Color Case Hardened Carbine .44 Magnum/.44 Spl",
+        "length": 0.4191,
+        "twistLength": 0.508,
+        "gunMass": 3.361119462,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-color-case-hardened-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "7.41 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Color Case Hardened Carbine .45 Colt",
+      "maker": "Henry",
+      "model": "H012GCRCC",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Henry H12 Color Case Hardened Carbine .45 Colt",
+        "length": 0.4191,
+        "twistLength": 0.4064,
+        "gunMass": 3.229577674,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-color-case-hardened-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "7.12 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Color Case Hardened Carbine .357 Magnum/.38 Spl",
+      "maker": "Henry",
+      "model": "H012GMRCC",
+      "cartridge": ".357 Magnum/.38 Spl",
+      "barrel": {
+        "name": "Henry H12 Color Case Hardened Carbine .357 Magnum/.38 Spl",
+        "length": 0.4191,
+        "twistLength": 0.4064,
+        "gunMass": 3.361119462,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-color-case-hardened-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "7.41 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Color Case Hardened Rifle .44 Magnum/.44 Spl",
+      "maker": "Henry",
+      "model": "H012GCC",
+      "cartridge": ".44 Magnum/.44 Spl",
+      "barrel": {
+        "name": "Henry H12 Color Case Hardened Rifle .44 Magnum/.44 Spl",
+        "length": 0.508,
+        "twistLength": 0.508,
+        "gunMass": 3.556164181,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-color-case-hardened-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.84 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Color Case Hardened Rifle .45 Colt",
+      "maker": "Henry",
+      "model": "H012GCCC",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Henry H12 Color Case Hardened Rifle .45 Colt",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.556164181,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-color-case-hardened-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.84 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Color Case Hardened Rifle .357 Magnum/.38 Spl",
+      "maker": "Henry",
+      "model": "H012GMCC",
+      "cartridge": ".357 Magnum/.38 Spl",
+      "barrel": {
+        "name": "Henry H12 Color Case Hardened Rifle .357 Magnum/.38 Spl",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.556164181,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-color-case-hardened-rifle-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.84 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Explorer Carbine .44 Magnum/.44 Spl (Burnt Bronze)",
+      "maker": "Henry",
+      "model": "H012XCW-44M",
+      "cartridge": ".44 Magnum/.44 Spl",
+      "barrel": {
+        "name": "Henry H12 Explorer Carbine .44 Magnum/.44 Spl (Burnt Bronze)",
+        "length": 0.4191,
+        "twistLength": 0.508,
+        "gunMass": 2.989173718,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-explorer-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "6.59 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Explorer Carbine .357 Magnum/.38 Spl (Burnt Bronze)",
+      "maker": "Henry",
+      "model": "H012XCW-357",
+      "cartridge": ".357 Magnum/.38 Spl",
+      "barrel": {
+        "name": "Henry H12 Explorer Carbine .357 Magnum/.38 Spl (Burnt Bronze)",
+        "length": 0.4191,
+        "twistLength": 0.4064,
+        "gunMass": 2.989173718,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-explorer-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "6.59 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Protector Carbine .44 Magnum/.44 Spl",
+      "maker": "Henry",
+      "model": "H012PGR-44M",
+      "cartridge": ".44 Magnum/.44 Spl",
+      "barrel": {
+        "name": "Henry H12 Protector Carbine .44 Magnum/.44 Spl",
+        "length": 0.4191,
+        "twistLength": 0.508,
+        "gunMass": 2.989173718,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-protector-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "6.59 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Protector Carbine .357 Magnum/.38 Spl",
+      "maker": "Henry",
+      "model": "H012PGR-357",
+      "cartridge": ".357 Magnum/.38 Spl",
+      "barrel": {
+        "name": "Henry H12 Protector Carbine .357 Magnum/.38 Spl",
+        "length": 0.4191,
+        "twistLength": 0.4064,
+        "gunMass": 2.989173718,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-protector-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "6.59 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Provider Rifle .44 Magnum/.44 Spl",
+      "maker": "Henry",
+      "model": "H012PG-44M",
+      "cartridge": ".44 Magnum/.44 Spl",
+      "barrel": {
+        "name": "Henry H12 Provider Rifle .44 Magnum/.44 Spl",
+        "length": 0.508,
+        "twistLength": 0.508,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-provider-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.00 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 Provider Rifle .357 Magnum/.38 Spl",
+      "maker": "Henry",
+      "model": "H012PG-357",
+      "cartridge": ".357 Magnum/.38 Spl",
+      "barrel": {
+        "name": "Henry H12 Provider Rifle .357 Magnum/.38 Spl",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-provider-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.00 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 SPD HUSH Series Carbine .44 Magnum/.44 Spl",
+      "maker": "Henry",
+      "model": "H012H",
+      "cartridge": ".44 Magnum/.44 Spl",
+      "barrel": {
+        "name": "Henry H12 SPD HUSH Series Carbine .44 Magnum/.44 Spl",
+        "length": 0.4191,
+        "twistLength": 0.4064,
+        "gunMass": 3.129787353,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/spd-hush-series/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "6.9 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 SPD HUSH Series Carbine .45 Colt",
+      "maker": "Henry",
+      "model": "H012CH",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Henry H12 SPD HUSH Series Carbine .45 Colt",
+        "length": 0.4191,
+        "twistLength": 0.4064,
+        "gunMass": 2.902991168,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/spd-hush-series/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "6.4 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 SPD HUSH Series Carbine .357 Magnum/.38 Spl",
+      "maker": "Henry",
+      "model": "H012MH",
+      "cartridge": ".357 Magnum/.38 Spl",
+      "barrel": {
+        "name": "Henry H12 SPD HUSH Series Carbine .357 Magnum/.38 Spl",
+        "length": 0.4191,
+        "twistLength": 0.4064,
+        "gunMass": 2.902991168,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/spd-hush-series/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "6.4 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 X Model .44 Magnum/.44 Spl",
+      "maker": "Henry",
+      "model": "H012X",
+      "cartridge": ".44 Magnum/.44 Spl",
+      "barrel": {
+        "name": "Henry H12 X Model .44 Magnum/.44 Spl",
+        "length": 0.44196,
+        "twistLength": 0.508,
+        "gunMass": 3.311224301,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-x-model/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "17.4\"",
+          "weight": "7.3 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 X Model .45 Colt",
+      "maker": "Henry",
+      "model": "H012CX",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Henry H12 X Model .45 Colt",
+        "length": 0.44196,
+        "twistLength": 0.4064,
+        "gunMass": 3.311224301,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-x-model/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "17.4\"",
+          "weight": "7.3 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H12 X Model .357 Magnum/.38 Spl",
+      "maker": "Henry",
+      "model": "H012MX",
+      "cartridge": ".357 Magnum/.38 Spl",
+      "barrel": {
+        "name": "Henry H12 X Model .357 Magnum/.38 Spl",
+        "length": 0.44196,
+        "twistLength": 0.4064,
+        "gunMass": 3.311224301,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h12-x-model/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "17.4\"",
+          "weight": "7.3 lbs",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H14 Long Ranger Big Woods Carbine .308 Win/7.62x51 NATO",
+      "maker": "Henry",
+      "model": "H014SBWB-308",
+      "cartridge": ".308 Win/7.62x51 NATO",
+      "barrel": {
+        "name": "Henry H14 Long Ranger Big Woods Carbine .308 Win/7.62x51 NATO",
+        "length": 0.4699,
+        "twistLength": 0.254,
+        "gunMass": 3.129787353,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h14-long-ranger-big-woods-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "18.5\"",
+          "weight": "6.9 lbs.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H14 Long Ranger Deluxe Rifle .223 Rem/5.56 NATO",
+      "maker": "Henry",
+      "model": "H014D-223",
+      "cartridge": ".223 Rem/5.56 NATO",
+      "barrel": {
+        "name": "Henry H14 Long Ranger Deluxe Rifle .223 Rem/5.56 NATO",
+        "length": 0.508,
+        "twistLength": 0.2286,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h14-long-ranger-deluxe-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7 lbs.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H14 Long Ranger Deluxe Rifle .243 Win",
+      "maker": "Henry",
+      "model": "H014D-243",
+      "cartridge": ".243 Win",
+      "barrel": {
+        "name": "Henry H14 Long Ranger Deluxe Rifle .243 Win",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h14-long-ranger-deluxe-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7 lbs.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H14 Long Ranger Deluxe Rifle .308 Win/7.62x51 NATO",
+      "maker": "Henry",
+      "model": "H014D-308",
+      "cartridge": ".308 Win/7.62x51 NATO",
+      "barrel": {
+        "name": "Henry H14 Long Ranger Deluxe Rifle .308 Win/7.62x51 NATO",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h14-long-ranger-deluxe-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7 lbs.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H14 Long Ranger Express Carbine .223 Rem/5.56 NATO",
+      "maker": "Henry",
+      "model": "H014RP-223",
+      "cartridge": ".223 Rem/5.56 NATO",
+      "barrel": {
+        "name": "Henry H14 Long Ranger Express Carbine .223 Rem/5.56 NATO",
+        "length": 0.4191,
+        "twistLength": 0.2286,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h14-long-ranger-express-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "7 lbs.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H14 Long Ranger Rifle .223 Rem/5.56 NATO",
+      "maker": "Henry",
+      "model": "H014S-223",
+      "cartridge": ".223 Rem/5.56 NATO",
+      "barrel": {
+        "name": "Henry H14 Long Ranger Rifle .223 Rem/5.56 NATO",
+        "length": 0.508,
+        "twistLength": 0.2286,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h14-long-ranger-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7 lbs.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H14 Long Ranger Rifle .223 Rem/5.56 NATO (Unsighted)",
+      "maker": "Henry",
+      "model": "H014-223",
+      "cartridge": ".223 Rem/5.56 NATO",
+      "barrel": {
+        "name": "Henry H14 Long Ranger Rifle .223 Rem/5.56 NATO (Unsighted)",
+        "length": 0.508,
+        "twistLength": 0.2286,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h14-long-ranger-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7 lbs.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H14 Long Ranger Rifle .243 Win",
+      "maker": "Henry",
+      "model": "H014S-243",
+      "cartridge": ".243 Win",
+      "barrel": {
+        "name": "Henry H14 Long Ranger Rifle .243 Win",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h14-long-ranger-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7 lbs.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H14 Long Ranger Rifle .243 Win (Unsighted)",
+      "maker": "Henry",
+      "model": "H014-243",
+      "cartridge": ".243 Win",
+      "barrel": {
+        "name": "Henry H14 Long Ranger Rifle .243 Win (Unsighted)",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h14-long-ranger-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7 lbs.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H14 Long Ranger Rifle .308 Win/7.62x51 NATO",
+      "maker": "Henry",
+      "model": "H014S-308",
+      "cartridge": ".308 Win/7.62x51 NATO",
+      "barrel": {
+        "name": "Henry H14 Long Ranger Rifle .308 Win/7.62x51 NATO",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h14-long-ranger-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7 lbs.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H14 Long Ranger Rifle .308 Win/7.62x51 NATO (Unsighted)",
+      "maker": "Henry",
+      "model": "H014-308",
+      "cartridge": ".308 Win/7.62x51 NATO",
+      "barrel": {
+        "name": "Henry H14 Long Ranger Rifle .308 Win/7.62x51 NATO (Unsighted)",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h14-long-ranger-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7 lbs.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H14 Long Ranger Rifle 6.5 Creedmoor",
+      "maker": "Henry",
+      "model": "H014S-65",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Henry H14 Long Ranger Rifle 6.5 Creedmoor",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h14-long-ranger-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "22\"",
+          "weight": "7 lbs.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H14 Long Ranger Rifle 6.5 Creedmoor (Unsighted)",
+      "maker": "Henry",
+      "model": "H014-65",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Henry H14 Long Ranger Rifle 6.5 Creedmoor (Unsighted)",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h14-long-ranger-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "22\"",
+          "weight": "7 lbs.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H14 Long Ranger Wildlife Edition Rifle .223 Rem/5.56 NATO",
+      "maker": "Henry",
+      "model": "H014WL-223",
+      "cartridge": ".223 Rem/5.56 NATO",
+      "barrel": {
+        "name": "Henry H14 Long Ranger Wildlife Edition Rifle .223 Rem/5.56 NATO",
+        "length": 0.508,
+        "twistLength": 0.2286,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h14-long-ranger-wildlife-edition-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7 lbs.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H14 Long Ranger Wildlife Edition Rifle .243 Win",
+      "maker": "Henry",
+      "model": "H014WL-243",
+      "cartridge": ".243 Win",
+      "barrel": {
+        "name": "Henry H14 Long Ranger Wildlife Edition Rifle .243 Win",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h14-long-ranger-wildlife-edition-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7 lbs.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H14 Long Ranger Wildlife Edition Rifle .308 Win/7.62x51 NATO",
+      "maker": "Henry",
+      "model": "H014WL-308",
+      "cartridge": ".308 Win/7.62x51 NATO",
+      "barrel": {
+        "name": "Henry H14 Long Ranger Wildlife Edition Rifle .308 Win/7.62x51 NATO",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h14-long-ranger-wildlife-edition-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7 lbs.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H15 Brass Single Shot Rifle .44 Magnum/.44 Spl",
+      "maker": "Henry",
+      "model": "H015B-44",
+      "cartridge": ".44 Magnum/.44 Spl",
+      "barrel": {
+        "name": "Henry H15 Brass Single Shot Rifle .44 Magnum/.44 Spl",
+        "length": 0.5588,
+        "twistLength": 0.508,
+        "gunMass": 3.238649522,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h15-single-shot-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "22\"",
+          "weight": "7.14 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H15 Brass Single Shot Rifle .45-70 Gov't",
+      "maker": "Henry",
+      "model": "H015B-4570",
+      "cartridge": ".45-70 Gov't",
+      "barrel": {
+        "name": "Henry H15 Brass Single Shot Rifle .45-70 Gov't",
+        "length": 0.5588,
+        "twistLength": 0.508,
+        "gunMass": 3.179682514,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h15-single-shot-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "22\"",
+          "weight": "7.01 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H15 Brass Single Shot Rifle .357 Magnum/.38 Spl",
+      "maker": "Henry",
+      "model": "H015B-357",
+      "cartridge": ".357 Magnum/.38 Spl",
+      "barrel": {
+        "name": "Henry H15 Brass Single Shot Rifle .357 Magnum/.38 Spl",
+        "length": 0.5588,
+        "twistLength": 0.4064,
+        "gunMass": 3.342975767,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h15-single-shot-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "22\"",
+          "weight": "7.37 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H15 Steel Single Shot Rifle .30-30 Win",
+      "maker": "Henry",
+      "model": "H015-3030",
+      "cartridge": ".30-30",
+      "barrel": {
+        "name": "Henry H15 Steel Single Shot Rifle .30-30 Win",
+        "length": 0.5588,
+        "twistLength": 0.3048,
+        "gunMass": 3.034532955,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h15-single-shot-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "22\"",
+          "weight": "6.69 lbs.",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H15 Steel Single Shot Rifle .44 Magnum/.44 Spl",
+      "maker": "Henry",
+      "model": "H015-44",
+      "cartridge": ".44 Magnum/.44 Spl",
+      "barrel": {
+        "name": "Henry H15 Steel Single Shot Rifle .44 Magnum/.44 Spl",
+        "length": 0.5588,
+        "twistLength": 0.508,
+        "gunMass": 3.157002895,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h15-single-shot-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "22\"",
+          "weight": "6.96 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H15 Steel Single Shot Rifle .45-70 Gov't",
+      "maker": "Henry",
+      "model": "H015-4570",
+      "cartridge": ".45-70 Gov't",
+      "barrel": {
+        "name": "Henry H15 Steel Single Shot Rifle .45-70 Gov't",
+        "length": 0.5588,
+        "twistLength": 0.508,
+        "gunMass": 3.098035887,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h15-single-shot-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "22\"",
+          "weight": "6.83 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H15 Steel Single Shot Rifle .223 Rem/5.56 NATO",
+      "maker": "Henry",
+      "model": "H015-223",
+      "cartridge": ".223 Rem/5.56 NATO",
+      "barrel": {
+        "name": "Henry H15 Steel Single Shot Rifle .223 Rem/5.56 NATO",
+        "length": 0.5588,
+        "twistLength": 0.2286,
+        "gunMass": 3.256793217,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h15-single-shot-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "22\"",
+          "weight": "7.18 lbs.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H15 Steel Single Shot Rifle .243 Win",
+      "maker": "Henry",
+      "model": "H015-243",
+      "cartridge": ".243 Win",
+      "barrel": {
+        "name": "Henry H15 Steel Single Shot Rifle .243 Win",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gunMass": 3.220505827,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h15-single-shot-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "22\"",
+          "weight": "7.10 lbs.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H15 Steel Single Shot Rifle .308 Win/7.62x51 NATO",
+      "maker": "Henry",
+      "model": "H015-308",
+      "cartridge": ".308 Win/7.62x51 NATO",
+      "barrel": {
+        "name": "Henry H15 Steel Single Shot Rifle .308 Win/7.62x51 NATO",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gunMass": 3.147931048,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h15-single-shot-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "22\"",
+          "weight": "6.94 lbs.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H15 Steel Single Shot Rifle .350 Legend",
+      "maker": "Henry",
+      "model": "H015-350",
+      "cartridge": ".350 Legend",
+      "barrel": {
+        "name": "Henry H15 Steel Single Shot Rifle .350 Legend",
+        "length": 0.5588,
+        "twistLength": 0.4064,
+        "gunMass": 3.256793217,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h15-single-shot-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "22\"",
+          "weight": "7.18 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H15 Steel Single Shot Rifle .357 Magnum/.38 Spl",
+      "maker": "Henry",
+      "model": "H015-357",
+      "cartridge": ".357 Magnum/.38 Spl",
+      "barrel": {
+        "name": "Henry H15 Steel Single Shot Rifle .357 Magnum/.38 Spl",
+        "length": 0.5588,
+        "twistLength": 0.4064,
+        "gunMass": 3.256793217,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h15-single-shot-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "22\"",
+          "weight": "7.18 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H15 Steel Single Shot Rifle .360 Buckhammer",
+      "maker": "Henry",
+      "model": "H015-360BH",
+      "cartridge": ".360 Buckhammer",
+      "barrel": {
+        "name": "Henry H15 Steel Single Shot Rifle .360 Buckhammer",
+        "length": 0.5588,
+        "twistLength": 0.3048,
+        "gunMass": 3.034532955,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h15-single-shot-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "22\"",
+          "weight": "6.69 lbs.",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H15 Steel Single Shot Rifle .450 Bushmaster",
+      "maker": "Henry",
+      "model": "H015-450",
+      "cartridge": ".450 Bushmaster",
+      "barrel": {
+        "name": "Henry H15 Steel Single Shot Rifle .450 Bushmaster",
+        "length": 0.5588,
+        "twistLength": 0.508,
+        "gunMass": 3.05267665,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h15-single-shot-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "22\"",
+          "weight": "6.73 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H15 Steel Single Shot Youth Rifle .243 Win",
+      "maker": "Henry",
+      "model": "H015Y-243",
+      "cartridge": ".243 Win",
+      "barrel": {
+        "name": "Henry H15 Steel Single Shot Youth Rifle .243 Win",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gunMass": 3.152466972,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h15-single-shot-youth-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "22\"",
+          "weight": "6.95 lbs.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H17 Big Boy Deadeye Revolver .357 Magnum/.38 Spl (Birdshead Grip)",
+      "maker": "Henry",
+      "model": "H017BDMA",
+      "cartridge": ".357 Magnum/.38 Spl",
+      "barrel": {
+        "name": "Henry H17 Big Boy Deadeye Revolver .357 Magnum/.38 Spl (Birdshead Grip)",
+        "length": 0.1016,
+        "twistLength": 0.4064,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h17-big-boy-deadeye-revolver/",
+        "retrieved": "2026-10-15",
+        "published": {
+          "barrelLength": "4\"",
+          "weight": "34 oz.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H17 Big Boy Deadeye Revolver .357 Magnum/.38 Spl (Gunfighter Grip)",
+      "maker": "Henry",
+      "model": "H017GDMA",
+      "cartridge": ".357 Magnum/.38 Spl",
+      "barrel": {
+        "name": "Henry H17 Big Boy Deadeye Revolver .357 Magnum/.38 Spl (Gunfighter Grip)",
+        "length": 0.1016,
+        "twistLength": 0.4064,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h17-big-boy-deadeye-revolver/",
+        "retrieved": "2026-10-15",
+        "published": {
+          "barrelLength": "4\"",
+          "weight": "35 oz.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H17 Big Boy Revolver .357 Magnum/.38 Spl (Birdshead Grip)",
+      "maker": "Henry",
+      "model": "H017BDM",
+      "cartridge": ".357 Magnum/.38 Spl",
+      "barrel": {
+        "name": "Henry H17 Big Boy Revolver .357 Magnum/.38 Spl (Birdshead Grip)",
+        "length": 0.1016,
+        "twistLength": 0.4064,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h17-big-boy-revolver/",
+        "retrieved": "2026-10-15",
+        "published": {
+          "barrelLength": "4\"",
+          "weight": "34 oz.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H17 Big Boy Revolver .357 Magnum/.38 Spl (Gunfighter Grip)",
+      "maker": "Henry",
+      "model": "H017GDM",
+      "cartridge": ".357 Magnum/.38 Spl",
+      "barrel": {
+        "name": "Henry H17 Big Boy Revolver .357 Magnum/.38 Spl (Gunfighter Grip)",
+        "length": 0.1016,
+        "twistLength": 0.4064,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h17-big-boy-revolver/",
+        "retrieved": "2026-10-15",
+        "published": {
+          "barrelLength": "4\"",
+          "weight": "35 oz.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H23 Lever Action Supreme Rifle (LASR) .223 Rem/5.56 NATO",
+      "maker": "Henry",
+      "model": "H023-223",
+      "cartridge": ".223 Rem/5.56 NATO",
+      "barrel": {
+        "name": "Henry H23 Lever Action Supreme Rifle (LASR) .223 Rem/5.56 NATO",
+        "length": 0.4572,
+        "twistLength": 0.2032,
+        "gunMass": 3.016389261,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h23-lever-action-supreme-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "18\"",
+          "weight": "6.65 lbs.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H23 Lever Action Supreme Rifle (LASR) .300 Blackout",
+      "maker": "Henry",
+      "model": "H023-300",
+      "cartridge": ".300 Blackout",
+      "barrel": {
+        "name": "Henry H23 Lever Action Supreme Rifle (LASR) .300 Blackout",
+        "length": 0.4191,
+        "twistLength": 0.1778,
+        "gunMass": 2.916598939,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h23-lever-action-supreme-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.5\"",
+          "weight": "6.43 lbs.",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H23 Lever Action Supreme Rifle (LASR) .450 Bushmaster",
+      "maker": "Henry",
+      "model": "H023-450",
+      "cartridge": ".450 Bushmaster",
+      "barrel": {
+        "name": "Henry H23 Lever Action Supreme Rifle (LASR) .450 Bushmaster",
+        "length": 0.4572,
+        "twistLength": 0.6096,
+        "gunMass": 2.902991168,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h23-lever-action-supreme-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "18\"",
+          "weight": "6.4 lbs.",
+          "twist": "1:24"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H23 SPD PREDATOR Rifle .223 Rem/5.56 NATO",
+      "maker": "Henry",
+      "model": "H023-223XCF",
+      "cartridge": ".223 Rem/5.56 NATO",
+      "barrel": {
+        "name": "Henry H23 SPD PREDATOR Rifle .223 Rem/5.56 NATO",
+        "length": 0.4572,
+        "twistLength": 0.2032,
+        "gunMass": 2.816808618,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/spd-predator/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "18\"",
+          "weight": "6.21 lbs.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H24 Signature Rifle .30-30 Win",
+      "maker": "Henry",
+      "model": "H024-3030",
+      "cartridge": ".30-30",
+      "barrel": {
+        "name": "Henry H24 Signature Rifle .30-30 Win",
+        "length": 0.508,
+        "twistLength": 0.3048,
+        "gunMass": 3.401942775,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h24-signature-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.5 lbs.",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H24 Signature Rifle .35 Rem",
+      "maker": "Henry",
+      "model": "H024-35",
+      "cartridge": ".35 Rem",
+      "barrel": {
+        "name": "Henry H24 Signature Rifle .35 Rem",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.401942775,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h24-signature-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.5 lbs.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H24 Signature Rifle .38-55 Win",
+      "maker": "Henry",
+      "model": "H024-3855",
+      "cartridge": ".38-55",
+      "barrel": {
+        "name": "Henry H24 Signature Rifle .38-55 Win",
+        "length": 0.508,
+        "twistLength": 0.4572,
+        "gunMass": 3.401942775,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h24-signature-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.5 lbs.",
+          "twist": "1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H24 Signature Rifle .45-70 Gov't",
+      "maker": "Henry",
+      "model": "H024-4570",
+      "cartridge": ".45-70 Gov't",
+      "barrel": {
+        "name": "Henry H24 Signature Rifle .45-70 Gov't",
+        "length": 0.50292,
+        "twistLength": 0.508,
+        "gunMass": 3.215969903,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h24-signature-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "19.8\"",
+          "weight": "7.09 lbs.",
+          "twist": "1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H24 Signature Rifle .360 Buckhammer",
+      "maker": "Henry",
+      "model": "H024-360BH",
+      "cartridge": ".360 Buckhammer",
+      "barrel": {
+        "name": "Henry H24 Signature Rifle .360 Buckhammer",
+        "length": 0.508,
+        "twistLength": 0.3048,
+        "gunMass": 3.401942775,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h24-signature-rifle/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "7.5 lbs.",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H27 Homesteader Carbine 9mm",
+      "maker": "Henry",
+      "model": "H027-H9",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Henry H27 Homesteader Carbine 9mm",
+        "length": 0.415798,
+        "twistLength": 0.254,
+        "gunMass": 2.993709642,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h27-homesteader-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.37\"",
+          "weight": "6.6 lbs.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H27 Homesteader Carbine 9mm (Non-threaded w/ Glock &reg; Mag Well)",
+      "maker": "Henry",
+      "model": "H027N-H9G",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Henry H27 Homesteader Carbine 9mm (Non-threaded w/ Glock &reg; Mag Well)",
+        "length": 0.473964,
+        "twistLength": 0.254,
+        "gunMass": 3.039068879,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h27-homesteader-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "18.66\"",
+          "weight": "6.7 lbs.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H27 Homesteader Carbine 9mm (w/ Glock &reg; Mag Well)",
+      "maker": "Henry",
+      "model": "H027-H9G",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Henry H27 Homesteader Carbine 9mm (w/ Glock &reg; Mag Well)",
+        "length": 0.415798,
+        "twistLength": 0.254,
+        "gunMass": 2.993709642,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h27-homesteader-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.37\"",
+          "weight": "6.6 lbs.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H27 Homesteader Carbine 9mm (w/ SIG &reg; /M&P &reg; Mag Well)",
+      "maker": "Henry",
+      "model": "H027-H9S",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Henry H27 Homesteader Carbine 9mm (w/ SIG &reg; /M&P &reg; Mag Well)",
+        "length": 0.415798,
+        "twistLength": 0.254,
+        "gunMass": 2.993709642,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h27-homesteader-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.37\"",
+          "weight": "6.6 lbs.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H27 Homesteader M-LOK &reg; Brushed Bronze Carbine 9mm (Non-threaded w/ Glock &reg; Mag Well)",
+      "maker": "Henry",
+      "model": "H027C1N-H9G",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Henry H27 Homesteader M-LOK &reg; Brushed Bronze Carbine 9mm (Non-threaded w/ Glock &reg; Mag Well)",
+        "length": 0.473964,
+        "twistLength": 0.254,
+        "gunMass": 3.039068879,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h27-homesteader-m-lok-brushed-bronze-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "18.66\"",
+          "weight": "6.7 lbs.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry H27 Homesteader M-LOK &reg; Brushed Bronze Carbine 9mm (w/ Glock &reg; Mag Well)",
+      "maker": "Henry",
+      "model": "H027C1-H9G",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Henry H27 Homesteader M-LOK &reg; Brushed Bronze Carbine 9mm (w/ Glock &reg; Mag Well)",
+        "length": 0.415798,
+        "twistLength": 0.254,
+        "gunMass": 2.993709642,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/h27-homesteader-m-lok-brushed-bronze-carbine/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16.37\"",
+          "weight": "6.6 lbs.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Henry The Spirit of ’76 Semiquincentennial Edition .44-40 WCF",
+      "maker": "Henry",
+      "model": "H011S-250",
+      "cartridge": ".44-40 WCF",
+      "barrel": {
+        "name": "Henry The Spirit of ’76 Semiquincentennial Edition .44-40 WCF",
+        "length": 0.6223,
+        "twistLength": 0.9144,
+        "gunMass": 4.08233133,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Henry Repeating Arms",
+        "url": "https://www.henryusa.com/firearm/the-spirit-of-76-semiquincentennial-edition/",
+        "retrieved": "2026-10-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24.5\"",
+          "weight": "9.00 lbs.",
+          "twist": "1:36"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2166 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by Glock Ges.m.b.H.; facts, released in this repository under CC0",
+    "source": "https://us.glock.com",
+    "file": "",
+    "author": "Glock Ges.m.b.H.",
+    "date": "2026-10-15",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 17",
+      "maker": "Glock",
+      "model": "17",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 17",
+        "length": 0.114,
+        "gunMass": 0.705,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g17",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "114 mm | 4.49 inch",
+          "weight": "705 g | 24.87 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 17 Gen4",
+      "maker": "Glock",
+      "model": "17 Gen4",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 17 Gen4",
+        "length": 0.114,
+        "gunMass": 0.705,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g17-gen4",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "114 mm | 4.49 inch",
+          "weight": "705 g | 24.87 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 17 Gen4 MOS",
+      "maker": "Glock",
+      "model": "17 Gen4 MOS",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 17 Gen4 MOS",
+        "length": 0.114,
+        "gunMass": 0.705,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g17-gen4-mos",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "114 mm | 4.49 inch",
+          "weight": "705 g | 24.87 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 17 Gen5",
+      "maker": "Glock",
+      "model": "17 Gen5",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 17 Gen5",
+        "length": 0.114,
+        "gunMass": 0.708,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g17-gen5",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "114 mm | 4.49 inch",
+          "weight": "708 g | 24.97 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 17 Gen5 MOS",
+      "maker": "Glock",
+      "model": "17 Gen5 MOS",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 17 Gen5 MOS",
+        "length": 0.114,
+        "gunMass": 0.705,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g17-gen5-mos",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "114 mm | 4.49 inch",
+          "weight": "705 g | 24.87 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 17 Gen6",
+      "maker": "Glock",
+      "model": "17 Gen6",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 17 Gen6",
+        "length": 0.114,
+        "gunMass": 0.68,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g17-gen6",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "114 mm | 4.49 inch",
+          "weight": "680 g | 23.99 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 17 V",
+      "maker": "Glock",
+      "model": "17 V",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 17 V",
+        "length": 0.114,
+        "gunMass": 0.67,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g17-v",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "114 mm | 4.49 inch",
+          "weight": "670 g | 23.63 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 17 V MOS",
+      "maker": "Glock",
+      "model": "17 V MOS",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 17 V MOS",
+        "length": 0.114,
+        "gunMass": 0.705,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g17-v-mos",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "114 mm | 4.49 inch",
+          "weight": "705 g | 24.87 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 17L",
+      "maker": "Glock",
+      "model": "17L",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 17L",
+        "length": 0.153,
+        "gunMass": 0.755,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g17l",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "153 mm | 6.02 inch",
+          "weight": "755 g | 26.63 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 17L Gen5 MOS",
+      "maker": "Glock",
+      "model": "17L Gen5 MOS",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 17L Gen5 MOS",
+        "length": 0.153,
+        "gunMass": 0.72,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g17l-gen5-mos",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "153 mm I 6.02 inch",
+          "weight": "720 g I 25.40 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 19",
+      "maker": "Glock",
+      "model": "19",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 19",
+        "length": 0.102,
+        "gunMass": 0.67,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g19",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm | 4.02 inch",
+          "weight": "670 g | 23.63 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 19 Gen4",
+      "maker": "Glock",
+      "model": "19 Gen4",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 19 Gen4",
+        "length": 0.102,
+        "gunMass": 0.67,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g19-gen4",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm | 4.02 inch",
+          "weight": "670 g | 23.63 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 19 Gen4 MOS",
+      "maker": "Glock",
+      "model": "19 Gen4 MOS",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 19 Gen4 MOS",
+        "length": 0.102,
+        "gunMass": 0.67,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g19-gen4-mos",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm | 4.02 inch",
+          "weight": "670 g | 23.63 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 19 Gen5",
+      "maker": "Glock",
+      "model": "19 Gen5",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 19 Gen5",
+        "length": 0.102,
+        "gunMass": 0.67,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g19-gen5",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm | 4.02 inch",
+          "weight": "670 g | 23.63 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 19 Gen5 MOS",
+      "maker": "Glock",
+      "model": "19 Gen5 MOS",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 19 Gen5 MOS",
+        "length": 0.102,
+        "gunMass": 0.675,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g19-gen5-mos",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm | 4.02 inch",
+          "weight": "675 g | 23.81 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 19 Gen6",
+      "maker": "Glock",
+      "model": "19 Gen6",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 19 Gen6",
+        "length": 0.102,
+        "gunMass": 0.64,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g19-gen6",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm | 4.02 inch",
+          "weight": "640 g | 22.58 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 19 V",
+      "maker": "Glock",
+      "model": "19 V",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 19 V",
+        "length": 0.102,
+        "gunMass": 0.67,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g19-v",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm | 4.02 inch",
+          "weight": "670 g | 23.63 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 19 V MOS",
+      "maker": "Glock",
+      "model": "19 V MOS",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 19 V MOS",
+        "length": 0.102,
+        "gunMass": 0.67,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g19-v-mos",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm | 4.02 inch",
+          "weight": "670 g | 23.63 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 19X",
+      "maker": "Glock",
+      "model": "19X",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 19X",
+        "length": 0.102,
+        "gunMass": 0.704,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g19x",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm | 4.02 inch",
+          "weight": "704 g | 24.83 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 19X V",
+      "maker": "Glock",
+      "model": "19X V",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 19X V",
+        "length": 0.102,
+        "gunMass": 0.704,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/commercial-firearms/pistols/19x-v",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm | 4.02 inch",
+          "weight": "704 g | 24.83 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 20 Gen4",
+      "maker": "Glock",
+      "model": "20 Gen4",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Glock 20 Gen4",
+        "length": 0.117,
+        "gunMass": 0.87,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g20-gen4",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "117 mm | 4.61 inch",
+          "weight": "870 g | 30.69 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 20 SF",
+      "maker": "Glock",
+      "model": "20 SF",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Glock 20 SF",
+        "length": 0.117,
+        "gunMass": 0.865,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g20-sf",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "117 mm | 4.61 inch",
+          "weight": "865 g | 30.51 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 20 V MOS",
+      "maker": "Glock",
+      "model": "20 V MOS",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Glock 20 V MOS",
+        "length": 0.117,
+        "gunMass": 0.805,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g20-gen5-mos",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "117 mm I 4.61 inch",
+          "weight": "805 g I 28.40 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 21 Gen4",
+      "maker": "Glock",
+      "model": "21 Gen4",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Glock 21 Gen4",
+        "length": 0.117,
+        "gunMass": 0.83,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g21-gen4",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "117 mm | 4.61 inch",
+          "weight": "830 g | 29.28 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 21 MOS",
+      "maker": "Glock",
+      "model": "21 MOS",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Glock 21 MOS",
+        "length": 0.117,
+        "gunMass": 0.825,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g21-gen5-mos",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "117 mm I 4.61 inch",
+          "weight": "825 g I 29.10 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 21 SF",
+      "maker": "Glock",
+      "model": "21 SF",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Glock 21 SF",
+        "length": 0.117,
+        "gunMass": 0.825,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g21-sf",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "117 mm | 4.61 inch",
+          "weight": "825 g | 29.10 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 21 V MOS",
+      "maker": "Glock",
+      "model": "21 V MOS",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Glock 21 V MOS",
+        "length": 0.117,
+        "gunMass": 0.825,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g21-v-mos",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "117 mm I 4.61 inch",
+          "weight": "825 g I 29.10 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 22",
+      "maker": "Glock",
+      "model": "22",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Glock 22",
+        "length": 0.114,
+        "gunMass": 0.725,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g22",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "114 mm | 4.49 inch",
+          "weight": "725 g | 25.57 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 22 Gen4",
+      "maker": "Glock",
+      "model": "22 Gen4",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Glock 22 Gen4",
+        "length": 0.114,
+        "gunMass": 0.725,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g22-gen4",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "114 mm | 4.49 inch",
+          "weight": "725 g | 25.57 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 22 Gen5",
+      "maker": "Glock",
+      "model": "22 Gen5",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Glock 22 Gen5",
+        "length": 0.114,
+        "gunMass": 0.806,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g22-gen5",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "114 mm | 4.49 inch",
+          "weight": "806 g | 28.43 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 22 Gen5 MOS",
+      "maker": "Glock",
+      "model": "22 Gen5 MOS",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Glock 22 Gen5 MOS",
+        "length": 0.114,
+        "gunMass": 0.806,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g22-gen5-mos",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "114 mm | 4.49 inch",
+          "weight": "806 g | 28.43 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 22P",
+      "maker": "Glock",
+      "model": "22P",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Glock 22P",
+        "length": 0.114,
+        "gunMass": 0.73,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g22p",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "114 mm | 4.49 inch",
+          "weight": "730 g | 25.75 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 23",
+      "maker": "Glock",
+      "model": "23",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Glock 23",
+        "length": 0.102,
+        "gunMass": 0.67,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g23",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm | 4.02 inch",
+          "weight": "670 g | 23.63 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 23 Cut",
+      "maker": "Glock",
+      "model": "23 Cut",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Glock 23 Cut",
+        "length": 0.102,
+        "gunMass": 0.57,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g23-cut",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm | 4.02 inch",
+          "weight": "570 g | 20.11 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 23 Gen4",
+      "maker": "Glock",
+      "model": "23 Gen4",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Glock 23 Gen4",
+        "length": 0.102,
+        "gunMass": 0.675,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g23-gen4",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm | 4.02 inch",
+          "weight": "675 g | 23.81 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 23 Gen5 MOS",
+      "maker": "Glock",
+      "model": "23 Gen5 MOS",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Glock 23 Gen5 MOS",
+        "length": 0.102,
+        "gunMass": 0.756,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g23-gen5-mos",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm | 4.02 inch",
+          "weight": "756 g | 26.67 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 23 V",
+      "maker": "Glock",
+      "model": "23 V",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Glock 23 V",
+        "length": 0.102,
+        "gunMass": 0.756,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g23-v",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm | 4.02 inch",
+          "weight": "756 g | 26.67 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 23P",
+      "maker": "Glock",
+      "model": "23P",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Glock 23P",
+        "length": 0.102,
+        "gunMass": 0.675,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g23p",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm | 4.02 inch",
+          "weight": "675 g | 23.81 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 24",
+      "maker": "Glock",
+      "model": "24",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Glock 24",
+        "length": 0.153,
+        "gunMass": 0.84,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g24",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "153 mm | 6.02 inch",
+          "weight": "840 g | 29.63 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 26",
+      "maker": "Glock",
+      "model": "26",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 26",
+        "length": 0.087,
+        "gunMass": 0.61,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g26",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "87 mm | 3.43 inch",
+          "weight": "610 g | 21.52 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 26 Gen4",
+      "maker": "Glock",
+      "model": "26 Gen4",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 26 Gen4",
+        "length": 0.087,
+        "gunMass": 0.61,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g26-gen4",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "87 mm | 3.43 inch",
+          "weight": "610 g | 21.52 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 26 Gen5",
+      "maker": "Glock",
+      "model": "26 Gen5",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 26 Gen5",
+        "length": 0.087,
+        "gunMass": 0.615,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g26-gen5",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "87 mm | 3.43 inch",
+          "weight": "615 g | 21.69 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 26 Gen5 MOS",
+      "maker": "Glock",
+      "model": "26 Gen5 MOS",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 26 Gen5 MOS",
+        "length": 0.087,
+        "gunMass": 0.615,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g26-gen5-mos",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "87 mm | 3.43 inch",
+          "weight": "615 g | 21.69 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 26 V",
+      "maker": "Glock",
+      "model": "26 V",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 26 V",
+        "length": 0.087,
+        "gunMass": 0.615,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g26-v",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "87 mm | 3.43 inch",
+          "weight": "615 g | 21.69 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 26 V MOS",
+      "maker": "Glock",
+      "model": "26 V MOS",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 26 V MOS",
+        "length": 0.087,
+        "gunMass": 0.575,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g26-v-mos",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "87 mm | 3.43 inch",
+          "weight": "575 g | 20.28 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 27",
+      "maker": "Glock",
+      "model": "27",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Glock 27",
+        "length": 0.087,
+        "gunMass": 0.605,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g27",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "87 mm | 3.43 inch",
+          "weight": "605 g | 21.34 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 27 Gen4",
+      "maker": "Glock",
+      "model": "27 Gen4",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Glock 27 Gen4",
+        "length": 0.087,
+        "gunMass": 0.605,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g27-gen4",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "87 mm | 3.43 inch",
+          "weight": "605 g | 21.34 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 27 Gen5",
+      "maker": "Glock",
+      "model": "27 Gen5",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Glock 27 Gen5",
+        "length": 0.087,
+        "gunMass": 0.676,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g27-gen5",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "87 mm | 3.43 inch",
+          "weight": "676 g | 23.85 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 29 Gen4",
+      "maker": "Glock",
+      "model": "29 Gen4",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Glock 29 Gen4",
+        "length": 0.096,
+        "gunMass": 0.76,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g29-gen4",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "96 mm | 3.78 inch",
+          "weight": "760 g | 26.81 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 29 Gen5",
+      "maker": "Glock",
+      "model": "29 Gen5",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Glock 29 Gen5",
+        "length": 0.096,
+        "gunMass": 0.76,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g29-gen5",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "96 mm I 3.78 inch",
+          "weight": "760 g I 26.81 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 29 SF",
+      "maker": "Glock",
+      "model": "29 SF",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Glock 29 SF",
+        "length": 0.096,
+        "gunMass": 0.76,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g29-sf",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "96 mm | 3.78 inch",
+          "weight": "760 g | 26.81 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 30 Gen4",
+      "maker": "Glock",
+      "model": "30 Gen4",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Glock 30 Gen4",
+        "length": 0.096,
+        "gunMass": 0.745,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g30-gen4",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "96 mm | 3.78 inch",
+          "weight": "745 g | 26.28 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 30 Gen5",
+      "maker": "Glock",
+      "model": "30 Gen5",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Glock 30 Gen5",
+        "length": 0.096,
+        "gunMass": 0.745,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g30-gen5",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "96 mm I 3.78 inch",
+          "weight": "745 g I 26.28 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 30 SF",
+      "maker": "Glock",
+      "model": "30 SF",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Glock 30 SF",
+        "length": 0.096,
+        "gunMass": 0.745,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g30-sf",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "96 mm | 3.78 inch",
+          "weight": "745 g | 26.28 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 30S",
+      "maker": "Glock",
+      "model": "30S",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Glock 30S",
+        "length": 0.096,
+        "gunMass": 0.645,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g30s",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "96 mm | 3.78 inch",
+          "weight": "645 g | 22.75 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 31",
+      "maker": "Glock",
+      "model": "31",
+      "cartridge": ".357",
+      "barrel": {
+        "name": "Glock 31",
+        "length": 0.114,
+        "gunMass": 0.74,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g31",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "114 mm | 4.49 inch",
+          "weight": "740 g | 26.10 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 31 Gen4",
+      "maker": "Glock",
+      "model": "31 Gen4",
+      "cartridge": ".357",
+      "barrel": {
+        "name": "Glock 31 Gen4",
+        "length": 0.114,
+        "gunMass": 0.74,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g31-gen4",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "114 mm | 4.49 inch",
+          "weight": "740 g | 26.10 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 32",
+      "maker": "Glock",
+      "model": "32",
+      "cartridge": ".357",
+      "barrel": {
+        "name": "Glock 32",
+        "length": 0.102,
+        "gunMass": 0.69,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g32",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm | 4.02 inch",
+          "weight": "690 g | 24.34 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 32 Gen4",
+      "maker": "Glock",
+      "model": "32 Gen4",
+      "cartridge": ".357",
+      "barrel": {
+        "name": "Glock 32 Gen4",
+        "length": 0.102,
+        "gunMass": 0.69,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g32-gen4",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm | 4.02 inch",
+          "weight": "690 g | 24.34 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 33",
+      "maker": "Glock",
+      "model": "33",
+      "cartridge": ".357",
+      "barrel": {
+        "name": "Glock 33",
+        "length": 0.087,
+        "gunMass": 0.62,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g33",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "87 mm | 3.43 inch",
+          "weight": "620 g | 21.87 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 33 Gen4",
+      "maker": "Glock",
+      "model": "33 Gen4",
+      "cartridge": ".357",
+      "barrel": {
+        "name": "Glock 33 Gen4",
+        "length": 0.087,
+        "gunMass": 0.62,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g33-gen4",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "87 mm | 3.43 inch",
+          "weight": "620 g | 21.87 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 34",
+      "maker": "Glock",
+      "model": "34",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 34",
+        "length": 0.135,
+        "gunMass": 0.735,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g34",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "135 mm | 5.31 inch",
+          "weight": "735 g | 25.93 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 34 Gen4",
+      "maker": "Glock",
+      "model": "34 Gen4",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 34 Gen4",
+        "length": 0.135,
+        "gunMass": 0.735,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g34-gen4",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "135 mm | 5.31 inch",
+          "weight": "735 g | 25.93 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 34 Gen4 MOS",
+      "maker": "Glock",
+      "model": "34 Gen4 MOS",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 34 Gen4 MOS",
+        "length": 0.135,
+        "gunMass": 0.74,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g34-gen4-mos",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "135 mm | 5.31 inch",
+          "weight": "740 g | 26.10 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 34 Gen5 MOS",
+      "maker": "Glock",
+      "model": "34 Gen5 MOS",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 34 Gen5 MOS",
+        "length": 0.135,
+        "gunMass": 0.743,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g34-gen5-mos",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "135 mm | 5.31 inch",
+          "weight": "743 g | 26.21 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 35",
+      "maker": "Glock",
+      "model": "35",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Glock 35",
+        "length": 0.135,
+        "gunMass": 0.78,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g35",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "135 mm | 5.31 inch",
+          "weight": "780 g | 27.51 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 35 Gen4",
+      "maker": "Glock",
+      "model": "35 Gen4",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Glock 35 Gen4",
+        "length": 0.135,
+        "gunMass": 0.785,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g35-gen4",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "135 mm | 5.31 inch",
+          "weight": "785 g | 27.69 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 35 Gen4 MOS",
+      "maker": "Glock",
+      "model": "35 Gen4 MOS",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Glock 35 Gen4 MOS",
+        "length": 0.135,
+        "gunMass": 0.785,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g35-gen4-mos",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "135 mm | 5.31 inch",
+          "weight": "785 g | 27.69 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 36",
+      "maker": "Glock",
+      "model": "36",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Glock 36",
+        "length": 0.096,
+        "gunMass": 0.635,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g36",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "96 mm | 3.78 inch",
+          "weight": "635 g | 22.40 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 37",
+      "maker": "Glock",
+      "model": "37",
+      "cartridge": ".45 G.A.P.",
+      "barrel": {
+        "name": "Glock 37",
+        "length": 0.114,
+        "gunMass": 0.815,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g37",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "114 mm | 4.49 inch",
+          "weight": "815 g | 28.75 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 38",
+      "maker": "Glock",
+      "model": "38",
+      "cartridge": ".45 G.A.P.",
+      "barrel": {
+        "name": "Glock 38",
+        "length": 0.102,
+        "gunMass": 0.755,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g38",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm | 4.02 inch",
+          "weight": "755 g | 26.63 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 39",
+      "maker": "Glock",
+      "model": "39",
+      "cartridge": ".45 G.A.P.",
+      "barrel": {
+        "name": "Glock 39",
+        "length": 0.087,
+        "gunMass": 0.685,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g39",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "87 mm | 3.43 inch",
+          "weight": "685 g | 24.16 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 40 Gen4 MOS",
+      "maker": "Glock",
+      "model": "40 Gen4 MOS",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Glock 40 Gen4 MOS",
+        "length": 0.153,
+        "gunMass": 1.005,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g40-gen4-mos",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "153 mm | 6.02 inch",
+          "weight": "1005 g | 35.45 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 41 Gen4",
+      "maker": "Glock",
+      "model": "41 Gen4",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Glock 41 Gen4",
+        "length": 0.135,
+        "gunMass": 0.76,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g41-gen4",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "135 mm | 5.31 inch",
+          "weight": "760 g | 26.81 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 41 Gen4 MOS",
+      "maker": "Glock",
+      "model": "41 Gen4 MOS",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Glock 41 Gen4 MOS",
+        "length": 0.135,
+        "gunMass": 0.755,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g41-gen4-mos",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "135 mm | 5.31 inch",
+          "weight": "755 g | 26.63 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 42",
+      "maker": "Glock",
+      "model": "42",
+      "cartridge": ".380 Auto",
+      "barrel": {
+        "name": "Glock 42",
+        "length": 0.0825,
+        "gunMass": 0.39,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g42",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "82.5 mm | 3.25 inch",
+          "weight": "390 g | 13.76 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 43",
+      "maker": "Glock",
+      "model": "43",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 43",
+        "length": 0.0865,
+        "gunMass": 0.51,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g43",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "86.5 mm | 3.41 inch",
+          "weight": "510 g | 17.99 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 43X",
+      "maker": "Glock",
+      "model": "43X",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 43X",
+        "length": 0.087,
+        "gunMass": 0.53,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g43x-us",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "87 mm | 3.41 inch",
+          "weight": "530 g | 18.70 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 43X MOS",
+      "maker": "Glock",
+      "model": "43X MOS",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 43X MOS",
+        "length": 0.087,
+        "gunMass": 0.526,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g43x-mos",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "87 mm | 3.41 inch",
+          "weight": "526 g | 18.55 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 45",
+      "maker": "Glock",
+      "model": "45",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 45",
+        "length": 0.102,
+        "gunMass": 0.694,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g45",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm | 4.02 inch",
+          "weight": "694 g | 24.48 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 45 Gen6",
+      "maker": "Glock",
+      "model": "45 Gen6",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 45 Gen6",
+        "length": 0.102,
+        "gunMass": 0.655,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g45-gen6",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm | 4.02 inch",
+          "weight": "655 g | 23.10 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 45 MOS",
+      "maker": "Glock",
+      "model": "45 MOS",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 45 MOS",
+        "length": 0.102,
+        "gunMass": 0.695,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g45-mos",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm | 4.02 inch",
+          "weight": "695 g | 24.52 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 45 V",
+      "maker": "Glock",
+      "model": "45 V",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 45 V",
+        "length": 0.102,
+        "gunMass": 0.65,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g45-v",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm | 4.02 inch",
+          "weight": "650 g | 22.93 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 47 MOS",
+      "maker": "Glock",
+      "model": "47 MOS",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 47 MOS",
+        "length": 0.114,
+        "gunMass": 0.735,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/law-enforcement/pistols/g47-mos",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "114 mm | 4.49 inch",
+          "weight": "735 g | 25.93 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 48",
+      "maker": "Glock",
+      "model": "48",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 48",
+        "length": 0.106,
+        "gunMass": 0.588,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g48",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "106 mm | 4.17 inch",
+          "weight": "588 g | 20.74 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Glock 48 MOS",
+      "maker": "Glock",
+      "model": "48 MOS",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Glock 48 MOS",
+        "length": 0.106,
+        "gunMass": 0.584,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Glock Ges.m.b.H.",
+        "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g48-mos",
+        "retrieved": "2026-10-15",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "106 mm | 4.17 inch",
+          "weight": "584 g | 20.60 oz"
+        }
+      }
+    }
+  ]
+}

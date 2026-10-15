@@ -291,6 +291,60 @@
    "sha256": "0c8efd2831485b28ac289eb49698d6c3b35402d86530c45791dc9bd5f84873a9"
   },
   {
+   "path": "firearms/bergara.json",
+   "kind": "firearm",
+   "name": "Bergara",
+   "sha256": "d48a81b61171cb581f4b5d840809dfa55a845c366b12c81ffb548ef7dacd5477"
+  },
+  {
+   "path": "firearms/cz.json",
+   "kind": "firearm",
+   "name": "CZ",
+   "sha256": "1700dcba20fc8abf98bba5c116529d3b3f31c9f4c8c583ead11d8b38cc54c592"
+  },
+  {
+   "path": "firearms/glock.json",
+   "kind": "firearm",
+   "name": "Glock",
+   "sha256": "ba0592acf2e2342303355b18748052d450fc4aa566e9d51161433245df5e2593"
+  },
+  {
+   "path": "firearms/henry.json",
+   "kind": "firearm",
+   "name": "Henry",
+   "sha256": "acf52eff6666248897acc294164a120f6de98cdb3e8aafaef1e1eb4373b2f14c"
+  },
+  {
+   "path": "firearms/ruger.json",
+   "kind": "firearm",
+   "name": "Ruger",
+   "sha256": "5fd838b85beca5a55bf75a257003f02eb1823a7307ee8152a66ee8c6b71a21bb"
+  },
+  {
+   "path": "firearms/sako.json",
+   "kind": "firearm",
+   "name": "Sako",
+   "sha256": "91cdf53ba2d3b1b737b63feec6ee1a3e77323385cda988246d723f99b9a7d635"
+  },
+  {
+   "path": "firearms/savage-arms.json",
+   "kind": "firearm",
+   "name": "Savage Arms",
+   "sha256": "5317164e5f9cab0cff7e2413eabbef771119e6f4ce25ab126d14f8603011aa5e"
+  },
+  {
+   "path": "firearms/smith-wesson.json",
+   "kind": "firearm",
+   "name": "Smith & Wesson",
+   "sha256": "c1d53fecccbdc3ea7c5b786b20c3371a025efd2d462e26573da3f4846d77c3e4"
+  },
+  {
+   "path": "firearms/tikka.json",
+   "kind": "firearm",
+   "name": "Tikka",
+   "sha256": "9449be08b71db433177f4f5ed9245e795531bda5e751d1cb744e0f1d7867da58"
+  },
+  {
    "path": "powders/accurate-magpro-2023-06-22-tom24-2023-06-22.json",
    "kind": "powder",
    "name": "Accurate MAGPRO 2023/06/22",
