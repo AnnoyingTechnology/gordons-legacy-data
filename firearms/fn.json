@@ -1,0 +1,3694 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by FN America, LLC; facts, released in this repository under CC0",
+    "source": "https://fnamerica.com",
+    "file": "",
+    "author": "FN America, LLC",
+    "date": "2026-10-16",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 1776",
+      "maker": "FN",
+      "model": "15 1776",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 1776",
+        "length": 0.4064,
+        "twistLength": 0.1778,
+        "gunMass": 2.99371,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-15-1776/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "16\"",
+          "weight": "6.6 lb.",
+          "twist": "1:7\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 Carbine",
+      "maker": "FN",
+      "model": "15 Carbine",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 Carbine",
+        "length": 0.4064,
+        "twistLength": 0.1778,
+        "gunMass": 3.147931,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-15-carbine/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "16\" (Heavy Barrel)",
+          "weight": "6.94 lb.",
+          "twist": "1:7\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 Competition",
+      "maker": "FN",
+      "model": "15 Competition",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 Competition",
+        "length": 0.4572,
+        "twistLength": 0.2032,
+        "gunMass": 3.674098,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-15-competition/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "18\"",
+          "weight": "8.1 lb.",
+          "twist": "1:8 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 DMR II",
+      "maker": "FN",
+      "model": "15 DMR II",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 DMR II",
+        "length": 0.4572,
+        "gunMass": 3.188754,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-15-dmr-ii/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "18\"",
+          "weight": "7.03 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 DMR II CA",
+      "maker": "FN",
+      "model": "15 DMR II CA",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 DMR II CA",
+        "length": 0.4572,
+        "gunMass": 3.175147,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-15-dmr-ii-ca/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "18\"",
+          "weight": "7 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 DMR3",
+      "maker": "FN",
+      "model": "15 DMR3",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 DMR3",
+        "length": 0.4572,
+        "twistLength": 0.2032,
+        "gunMass": 3.356584,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/rifles/fn-15-dmr3/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "18\"",
+          "weight": "7.4 lb.",
+          "twist": "1:8 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 Guardian",
+      "maker": "FN",
+      "model": "15 Guardian",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 Guardian",
+        "length": 0.4064,
+        "twistLength": 0.1778,
+        "gunMass": 2.99371,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/rifles/fn-15-guardian/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "16\"",
+          "weight": "6.6 lb.",
+          "twist": "1:7 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 Military Collector M4",
+      "maker": "FN",
+      "model": "15 Military Collector M4",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 Military Collector M4",
+        "length": 0.4064,
+        "twistLength": 0.1778,
+        "gunMass": 2.99371,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/rifles/fn-15-military-collector-m4/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "16\" Overall Length, has permanently attached compensator",
+          "weight": "6.6 lb.",
+          "twist": "1:7 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 Military Collector M16",
+      "maker": "FN",
+      "model": "15 Military Collector M16",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 Military Collector M16",
+        "length": 0.508,
+        "twistLength": 0.1778,
+        "gunMass": 3.719457,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/rifles/fn-15-military-collector-m16/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "20\"",
+          "weight": "8.2 lb.",
+          "twist": "1:7 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 MOE SLG",
+      "maker": "FN",
+      "model": "15 MOE SLG",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 MOE SLG",
+        "length": 0.4064,
+        "twistLength": 0.1778,
+        "gunMass": 3.084428,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-rifles/fn-15-moe-slg/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "16\"",
+          "weight": "6.8 lb.",
+          "twist": "1:7\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 PATROL",
+      "maker": "FN",
+      "model": "15 PATROL",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 PATROL",
+        "length": 0.2921,
+        "gunMass": 2.812273,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/law-enforcement/fn-15-patrol/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "11.5\"",
+          "weight": "6.2 Lbs."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 Patrol Carbine",
+      "maker": "FN",
+      "model": "15 Patrol Carbine",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 Patrol Carbine",
+        "length": 0.4064,
+        "twistLength": 0.1778,
+        "gunMass": 2.721554,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-15-patrol-carbine/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "16\"",
+          "weight": "6 lb.",
+          "twist": "1:7\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 Patrol SBR 10.5\"",
+      "maker": "FN",
+      "model": "15 Patrol SBR 10.5\"",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 Patrol SBR 10.5\"",
+        "length": 0.2667,
+        "twistLength": 0.1778,
+        "gunMass": 2.685267,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-15-patrol-sbr-10-5/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "10.5\"",
+          "weight": "5.92 lb.",
+          "twist": "1:7\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 Patrol SBR 14.5\"",
+      "maker": "FN",
+      "model": "15 Patrol SBR 14.5\"",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 Patrol SBR 14.5\"",
+        "length": 0.3683,
+        "twistLength": 0.1778,
+        "gunMass": 2.732894,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-15-patrol-sbr-14-5/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "14.5\"",
+          "weight": "6.025 lb.",
+          "twist": "1:7\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 Pistol .300 BLK",
+      "maker": "FN",
+      "model": "15 Pistol .300 BLK",
+      "cartridge": ".300 BLK (7.62x35mm)",
+      "barrel": {
+        "name": "FN 15 Pistol .300 BLK",
+        "length": 0.3048,
+        "gunMass": 2.562797,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-15-pistol-300-blk/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".300 BLK (7.62x35mm)",
+          "barrelLength": "12\"",
+          "weight": "5.65 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 Pistol 5.56",
+      "maker": "FN",
+      "model": "15 Pistol 5.56",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 Pistol 5.56",
+        "length": 0.2667,
+        "gunMass": 2.35868,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-15-pistol-5-56/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "10.5\"",
+          "weight": "5.2 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 Rifle",
+      "maker": "FN",
+      "model": "15 Rifle",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 Rifle",
+        "length": 0.508,
+        "twistLength": 0.1778,
+        "gunMass": 3.615131,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-15-rifle/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "20\" (Heavy Barrel)",
+          "weight": "7.97 lb.",
+          "twist": "1:7\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 Sporting",
+      "maker": "FN",
+      "model": "15 Sporting",
+      "cartridge": ".223 Remington",
+      "barrel": {
+        "name": "FN 15 Sporting",
+        "length": 0.4572,
+        "twistLength": 0.2032,
+        "gunMass": 3.492661,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-15-sporting/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".223 Remington",
+          "barrelLength": "18\"",
+          "weight": "7.7 lb.",
+          "twist": "1:8\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 SRP",
+      "maker": "FN",
+      "model": "15 SRP",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 SRP",
+        "length": 0.41275,
+        "twistLength": 0.1778,
+        "gunMass": 2.99371,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-15-srp/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "16.25\"",
+          "weight": "6.6 lb",
+          "twist": "1:7\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 SRP G2",
+      "maker": "FN",
+      "model": "15 SRP G2",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 SRP G2",
+        "length": 0.4064,
+        "twistLength": 0.1778,
+        "gunMass": 2.834952,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/fn-15-series/fn-15-srp-g2/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "16\"",
+          "weight": "6.25 lb.",
+          "twist": "1:7\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 SRP G2P",
+      "maker": "FN",
+      "model": "15 SRP G2P",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 SRP G2P",
+        "length": 0.2921,
+        "twistLength": 0.1778,
+        "gunMass": 2.630836,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/law-enforcement/fn-15-srp-g2p/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "11.5\"",
+          "weight": "5.8lbs",
+          "twist": "1:7\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 SRP G2PH",
+      "maker": "FN",
+      "model": "15 SRP G2PH",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 SRP G2PH",
+        "length": 0.2921,
+        "twistLength": 0.1778,
+        "gunMass": 2.630836,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/law-enforcement/fn-15-srp-g2ph/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "11.5\"",
+          "weight": "5.8lbs",
+          "twist": "1:7\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 SRP G2PH S2M",
+      "maker": "FN",
+      "model": "15 SRP G2PH S2M",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 SRP G2PH S2M",
+        "length": 0.2921,
+        "twistLength": 0.1778,
+        "gunMass": 2.676195,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/law-enforcement/fn-15-srp-g2ph-s2m/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "11.5\"",
+          "weight": "5.9lb",
+          "twist": "1:7 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 SRP G2PH S3B",
+      "maker": "FN",
+      "model": "15 SRP G2PH S3B",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 SRP G2PH S3B",
+        "length": 0.2921,
+        "twistLength": 0.1778,
+        "gunMass": 2.721554,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/law-enforcement/fn-15-srp-g2ph-s3b/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "11.5\"",
+          "weight": "6 Lb.",
+          "twist": "1:7 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 SRP Tactical",
+      "maker": "FN",
+      "model": "15 SRP Tactical",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 SRP Tactical",
+        "length": 0.4064,
+        "gunMass": 2.721554,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-15-srp-tactical/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "16\"",
+          "weight": "6.0 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 TAC3",
+      "maker": "FN",
+      "model": "15 TAC3",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 TAC3",
+        "length": 0.4064,
+        "gunMass": 3.175147,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/rifles/fn-15-tac3/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "16\"",
+          "weight": "7 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 TAC3 Duty",
+      "maker": "FN",
+      "model": "15 TAC3 Duty",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 TAC3 Duty",
+        "length": 0.4064,
+        "gunMass": 2.94835,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/rifles/fn-15-tac3-duty/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "16\"",
+          "weight": "6.5 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 Tactical .300 BLK II",
+      "maker": "FN",
+      "model": "15 Tactical .300 BLK II",
+      "cartridge": ".300 BLK (7.62x35mm)",
+      "barrel": {
+        "name": "FN 15 Tactical .300 BLK II",
+        "length": 0.4064,
+        "gunMass": 3.134323,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-15-tactical-300-blk/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".300 BLK (7.62x35mm)",
+          "barrelLength": "16\"",
+          "weight": "6.91 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 Tactical Carbine FDE P-LOK",
+      "maker": "FN",
+      "model": "15 Tactical Carbine FDE P-LOK",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 Tactical Carbine FDE P-LOK",
+        "length": 0.4064,
+        "gunMass": 3.265865,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-15-tactical-carbine-fde-p-lok/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "16\"",
+          "weight": "7.2 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 Tactical II",
+      "maker": "FN",
+      "model": "15 Tactical II",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 Tactical II",
+        "length": 0.4064,
+        "gunMass": 3.039069,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-15-tactical-ii/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "16\"",
+          "weight": "6.7 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 Tactical II CA",
+      "maker": "FN",
+      "model": "15 Tactical II CA",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 Tactical II CA",
+        "length": 0.4064,
+        "gunMass": 3.175147,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-15-tactical-ii-ca/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "16\"",
+          "weight": "7 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 15 Tactical II FDE/BLK",
+      "maker": "FN",
+      "model": "15 Tactical II FDE/BLK",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 15 Tactical II FDE/BLK",
+        "length": 0.4064,
+        "gunMass": 3.039069,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-15-tactical-carbine-fdeblk/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "16\"",
+          "weight": "6.7 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 16 SRP G2 H",
+      "maker": "FN",
+      "model": "16 SRP G2 H",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 16 SRP G2 H",
+        "length": 0.2921,
+        "gunMass": 2.540117,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/law-enforcement/fn-16-srp-g2-h/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "11.5\"",
+          "weight": "5.6 Lbs."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 16 SRP G2P H S3B",
+      "maker": "FN",
+      "model": "16 SRP G2P H S3B",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN 16 SRP G2P H S3B",
+        "length": 0.2921,
+        "gunMass": 2.721554,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/law-enforcement/fn-16-srp-g2p-h-s3b/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "11.5\"",
+          "weight": "6 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 303-P",
+      "maker": "FN",
+      "model": "303-P",
+      "cartridge": ".68",
+      "barrel": {
+        "name": "FN 303-P",
+        "length": 0.1905,
+        "gunMass": 1.573966,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-303-p/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".68",
+          "barrelLength": "7.5\"",
+          "weight": "3.47 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 309 MRD",
+      "maker": "FN",
+      "model": "309 MRD",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN 309 MRD",
+        "length": 0.09652,
+        "twistLength": 0.254,
+        "gunMass": 0.637864,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/pistols/fn-309-mrd/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "3.8\"",
+          "weight": "22.5 oz.",
+          "twist": "1:10 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 503",
+      "maker": "FN",
+      "model": "503",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN 503",
+        "length": 0.07874,
+        "twistLength": 0.254,
+        "gunMass": 0.59534,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-503/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "3.1\"",
+          "weight": "21 oz.",
+          "twist": "1:10 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 503 FDE",
+      "maker": "FN",
+      "model": "503 FDE",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN 503 FDE",
+        "length": 0.07874,
+        "twistLength": 0.254,
+        "gunMass": 0.59534,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-503-fde/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "3.1\"",
+          "weight": "21 oz.",
+          "twist": "1:10 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 509",
+      "maker": "FN",
+      "model": "509",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN 509",
+        "length": 0.1016,
+        "twistLength": 0.254,
+        "gunMass": 0.762602,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/pistols/fn-509/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4.0\"",
+          "weight": "26.9 oz.",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 509 C MRD-LE",
+      "maker": "FN",
+      "model": "509 C MRD-LE",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN 509 C MRD-LE",
+        "length": 0.09398,
+        "twistLength": 0.254,
+        "gunMass": 0.722913,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/law-enforcement/fn-509c-mrd-le/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "3.7\"",
+          "weight": "25.5 oz.",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 509 CC Edge",
+      "maker": "FN",
+      "model": "509 CC Edge",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN 509 CC Edge",
+        "length": 0.10668,
+        "twistLength": 0.254,
+        "gunMass": 0.722913,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/pistols/fn-509-cc-edge/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4.2\"",
+          "weight": "25.5 oz",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 509 CC Edge XL",
+      "maker": "FN",
+      "model": "509 CC Edge XL",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN 509 CC Edge XL",
+        "length": 0.10668,
+        "twistLength": 0.254,
+        "gunMass": 0.822136,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/fn-509-series/fn-509-cc-edge-xl/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4.2\"",
+          "weight": "29 oz",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 509 Compact",
+      "maker": "FN",
+      "model": "509 Compact",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN 509 Compact",
+        "length": 0.09398,
+        "twistLength": 0.254,
+        "gunMass": 0.722913,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/pistols/fn-509-compact/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "3.7\"",
+          "weight": "25.5 oz.",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 509 Compact MRD",
+      "maker": "FN",
+      "model": "509 Compact MRD",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN 509 Compact MRD",
+        "length": 0.09398,
+        "twistLength": 0.254,
+        "gunMass": 0.722913,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/fn-509-series/fn-509-compact-mrd/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "3.7\"",
+          "weight": "25.5 oz.",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 509 Compact MRD w/ Compensator",
+      "maker": "FN",
+      "model": "509 Compact MRD w/ Compensator",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN 509 Compact MRD w/ Compensator",
+        "length": 0.102108,
+        "twistLength": 0.254,
+        "gunMass": 0.722913,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/pistols/fn-509-compact-mrd-comp/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4.02\"",
+          "weight": "25.5 oz.",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 509 Compact Tactical",
+      "maker": "FN",
+      "model": "509 Compact Tactical",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN 509 Compact Tactical",
+        "length": 0.109728,
+        "twistLength": 0.254,
+        "gunMass": 0.742758,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/pistols/fn-509-compact-tactical-blk/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4.32\"",
+          "weight": "26.2 oz.",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 509 F MRD-LE",
+      "maker": "FN",
+      "model": "509 F MRD-LE",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN 509 F MRD-LE",
+        "length": 0.1143,
+        "twistLength": 0.254,
+        "gunMass": 0.765437,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/law-enforcement/fn-509f-mrd-le/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4.5\"",
+          "weight": "27 oz.",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 509 FDE/BLK",
+      "maker": "FN",
+      "model": "509 FDE/BLK",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN 509 FDE/BLK",
+        "length": 0.1016,
+        "twistLength": 0.254,
+        "gunMass": 0.762602,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-509-fdeblk/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4.0\"",
+          "weight": "26.9 oz.",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 509 Fullsize MRD",
+      "maker": "FN",
+      "model": "509 Fullsize MRD",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN 509 Fullsize MRD",
+        "length": 0.1143,
+        "twistLength": 0.254,
+        "gunMass": 0.765437,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/pistols/fn-509f-mrd/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4.5\"",
+          "weight": "27 oz.",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 509 LS Edge",
+      "maker": "FN",
+      "model": "509 LS Edge",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN 509 LS Edge",
+        "length": 0.127,
+        "twistLength": 0.254,
+        "gunMass": 0.878835,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/pistols/fn-509-ls-edge/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "5\"",
+          "weight": "31 oz.",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 509 M MRD-LE",
+      "maker": "FN",
+      "model": "509 M MRD-LE",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN 509 M MRD-LE",
+        "length": 0.1016,
+        "twistLength": 0.254,
+        "gunMass": 0.751262,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/law-enforcement/fn-509m-mrd-le/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4.0\"",
+          "weight": "26.5 oz.",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 509 Midsize",
+      "maker": "FN",
+      "model": "509 Midsize",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN 509 Midsize",
+        "length": 0.1016,
+        "twistLength": 0.254,
+        "gunMass": 0.751262,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/pistols/fn-509-midsize/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4.0\"",
+          "weight": "26.5 oz.",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 509 Midsize MRD",
+      "maker": "FN",
+      "model": "509 Midsize MRD",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN 509 Midsize MRD",
+        "length": 0.1016,
+        "twistLength": 0.254,
+        "gunMass": 0.751262,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/pistols/fn-509-midsize-mrd/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4.0\"",
+          "weight": "26.5 oz.",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 509 Midsize Tactical",
+      "maker": "FN",
+      "model": "509 Midsize Tactical",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN 509 Midsize Tactical",
+        "length": 0.1143,
+        "twistLength": 0.254,
+        "gunMass": 0.790952,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/pistols/fn-509-midsize-tactical/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4.5\"",
+          "weight": "27.9 oz.",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 509 MRD-LE",
+      "maker": "FN",
+      "model": "509 MRD-LE",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN 509 MRD-LE",
+        "length": 0.1016,
+        "twistLength": 0.254,
+        "gunMass": 0.765437,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/law-enforcement/fn-509-mrd-le/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4.0\"",
+          "weight": "27 oz.",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 509 MRD-LE Compensated",
+      "maker": "FN",
+      "model": "509 MRD-LE Compensated",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN 509 MRD-LE Compensated",
+        "length": 0.102108,
+        "twistLength": 0.254,
+        "gunMass": 0.816466,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/law-enforcement/fn-509-mrd-le-comp/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4.02\"",
+          "weight": "28.8 oz.",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 509 Tactical",
+      "maker": "FN",
+      "model": "509 Tactical",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN 509 Tactical",
+        "length": 0.1143,
+        "twistLength": 0.254,
+        "gunMass": 0.790952,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/pistols/fn-509-tactical/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4.5\"",
+          "weight": "27.9 oz.",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 510 MRD",
+      "maker": "FN",
+      "model": "510 MRD",
+      "cartridge": "10mm",
+      "barrel": {
+        "name": "FN 510 MRD",
+        "length": 0.10414,
+        "twistLength": 0.4064,
+        "gunMass": 0.878835,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/pistols/fn-510-mrd/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "10mm",
+          "barrelLength": "4.1\"",
+          "weight": "31.0 oz",
+          "twist": "1:16 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 510 Tactical",
+      "maker": "FN",
+      "model": "510 Tactical",
+      "cartridge": "10mm",
+      "barrel": {
+        "name": "FN 510 Tactical",
+        "length": 0.119634,
+        "twistLength": 0.4064,
+        "gunMass": 0.907185,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/pistols/fn-510-tactical/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "10mm",
+          "barrelLength": "4.71\"",
+          "weight": "32.0 oz",
+          "twist": "1:16 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 545 MRD",
+      "maker": "FN",
+      "model": "545 MRD",
+      "cartridge": ".45 ACP",
+      "barrel": {
+        "name": "FN 545 MRD",
+        "length": 0.10414,
+        "twistLength": 0.4064,
+        "gunMass": 0.850486,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/pistols/fn-545-mrd/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 ACP",
+          "barrelLength": "4.1\"",
+          "weight": "30 oz",
+          "twist": "1:16 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 545 MRD-LE",
+      "maker": "FN",
+      "model": "545 MRD-LE",
+      "cartridge": ".45 ACP",
+      "barrel": {
+        "name": "FN 545 MRD-LE",
+        "length": 0.10414,
+        "twistLength": 0.4064,
+        "gunMass": 0.850486,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/law-enforcement/fn-545-mrd-le/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 ACP",
+          "barrelLength": "4.1\"",
+          "weight": "30 oz (empty)",
+          "twist": "1:16 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN 545 Tactical",
+      "maker": "FN",
+      "model": "545 Tactical",
+      "cartridge": ".45 ACP",
+      "barrel": {
+        "name": "FN 545 Tactical",
+        "length": 0.119634,
+        "twistLength": 0.4064,
+        "gunMass": 0.878835,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/pistols/fn-545-tactical/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 ACP",
+          "barrelLength": "4.71\"",
+          "weight": "31.0 oz",
+          "twist": "1:16 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN EVOLYS LICC-AMG LIGHT MACHINE GUN",
+      "maker": "FN",
+      "model": "EVOLYS LICC-AMG LIGHT MACHINE GUN",
+      "cartridge": ".264 LICC (6.5x43mm)",
+      "barrel": {
+        "name": "FN EVOLYS LICC-AMG LIGHT MACHINE GUN",
+        "length": 0.3683,
+        "gunMass": 6.259575,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/military/fn-evolys-licc-amg/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".264 LICC (6.5x43mm)",
+          "barrelLength": "14.5\"",
+          "weight": "13.8 lbs."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN Five-seveN",
+      "maker": "FN",
+      "model": "Five-seveN",
+      "cartridge": "5.7x28mm",
+      "barrel": {
+        "name": "FN Five-seveN",
+        "length": 0.12192,
+        "twistLength": 0.2286,
+        "gunMass": 0.59534,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/pistols/fn-five-seven/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.7x28mm",
+          "barrelLength": "4.8\"",
+          "weight": "21 oz. (without mag)",
+          "twist": "1:9\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN Five-seveN MRD",
+      "maker": "FN",
+      "model": "Five-seveN MRD",
+      "cartridge": "5.7x28mm",
+      "barrel": {
+        "name": "FN Five-seveN MRD",
+        "length": 0.12192,
+        "twistLength": 0.2286,
+        "gunMass": 0.714408,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/pistols/fn-five-seven-mrd/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.7x28mm",
+          "barrelLength": "4.8\"",
+          "weight": "25.2 oz. (without mag)",
+          "twist": "1:9\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN FNAR Competition",
+      "maker": "FN",
+      "model": "FNAR Competition",
+      "cartridge": "7.62x51mm",
+      "barrel": {
+        "name": "FN FNAR Competition",
+        "length": 0.508,
+        "gunMass": 4.036972,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-rifles/fnar-competition/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62x51mm",
+          "barrelLength": "20\" (fluted)",
+          "weight": "8.9 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN FNAR Standard",
+      "maker": "FN",
+      "model": "FNAR Standard",
+      "cartridge": "7.62x51mm",
+      "barrel": {
+        "name": "FN FNAR Standard",
+        "length": 0.4064,
+        "twistLength": 0.3048,
+        "gunMass": 3.685438,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fnar-standard/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62x51mm",
+          "barrelLength": "16\"",
+          "weight": "8.125 lb.",
+          "twist": "1:12\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN FNS-9",
+      "maker": "FN",
+      "model": "FNS-9",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN FNS-9",
+        "length": 0.1016,
+        "twistLength": 0.254,
+        "gunMass": 0.714408,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-pistols/fns-9/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4.0\"",
+          "weight": "25.2 oz.",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN FNS-9 Compact",
+      "maker": "FN",
+      "model": "FNS-9 Compact",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN FNS-9 Compact",
+        "length": 0.09144,
+        "twistLength": 0.254,
+        "gunMass": 0.663379,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fns-9-compact/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "3.6\"",
+          "weight": "23.4 oz.",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN FNS-9 Compact FDE",
+      "maker": "FN",
+      "model": "FNS-9 Compact FDE",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN FNS-9 Compact FDE",
+        "length": 0.09144,
+        "twistLength": 0.254,
+        "gunMass": 0.663379,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fns-9-compact-fde/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "3.6\"",
+          "weight": "23.4 oz.",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN FNS-9 Compact FDE/BLK",
+      "maker": "FN",
+      "model": "FNS-9 Compact FDE/BLK",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN FNS-9 Compact FDE/BLK",
+        "length": 0.09144,
+        "twistLength": 0.254,
+        "gunMass": 0.663379,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fns-9-compact-fdeblk/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "3.6\"",
+          "weight": "23.4 oz.",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN FNS-9 Longslide",
+      "maker": "FN",
+      "model": "FNS-9 Longslide",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN FNS-9 Longslide",
+        "length": 0.127,
+        "twistLength": 0.254,
+        "gunMass": 0.751262,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-pistols/fns-9-longslide/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "5.0\"",
+          "weight": "26.5 oz.",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN FNS-40",
+      "maker": "FN",
+      "model": "FNS-40",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "FN FNS-40",
+        "length": 0.1016,
+        "twistLength": 0.4064,
+        "gunMass": 0.779612,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-pistols/fns-40/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".40 S&W",
+          "barrelLength": "4.0\"",
+          "weight": "27.5 oz.",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN FNS-40 Compact",
+      "maker": "FN",
+      "model": "FNS-40 Compact",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "FN FNS-40 Compact",
+        "length": 0.09144,
+        "twistLength": 0.4064,
+        "gunMass": 0.731418,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-pistols/fns-40-compact/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".40 S&W",
+          "barrelLength": "3.6\"",
+          "weight": "25.8 oz.",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN FNS-40 Longslide",
+      "maker": "FN",
+      "model": "FNS-40 Longslide",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "FN FNS-40 Longslide",
+        "length": 0.127,
+        "twistLength": 0.4064,
+        "gunMass": 0.841981,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-pistols/fns-40-longslide/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".40 S&W",
+          "barrelLength": "5.0\"",
+          "weight": "29.7 oz.",
+          "twist": "1:16 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN FNX-9",
+      "maker": "FN",
+      "model": "FNX-9",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN FNX-9",
+        "length": 0.1016,
+        "twistLength": 0.254,
+        "gunMass": 0.620855,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/pistols/fnx-9/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4.0\"",
+          "weight": "21.9 oz.",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN FNX-40",
+      "maker": "FN",
+      "model": "FNX-40",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "FN FNX-40",
+        "length": 0.1016,
+        "twistLength": 0.4064,
+        "gunMass": 0.776777,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-pistols/fnx-40/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".40 S&W",
+          "barrelLength": "4.0\"",
+          "weight": "27.4 oz.",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN FNX-45",
+      "maker": "FN",
+      "model": "FNX-45",
+      "cartridge": ".45 ACP",
+      "barrel": {
+        "name": "FN FNX-45",
+        "length": 0.1143,
+        "twistLength": 0.4064,
+        "gunMass": 0.941204,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/pistols/fnx-45/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 ACP",
+          "barrelLength": "4.5\"",
+          "weight": "33.2 oz.",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN FNX-45 FDE/BLK",
+      "maker": "FN",
+      "model": "FNX-45 FDE/BLK",
+      "cartridge": ".45 ACP",
+      "barrel": {
+        "name": "FN FNX-45 FDE/BLK",
+        "length": 0.1143,
+        "twistLength": 0.4064,
+        "gunMass": 0.941204,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fnx-45-fdeblk/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 ACP",
+          "barrelLength": "4.5\"",
+          "weight": "33.2 oz.",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN FNX-45 Tactical",
+      "maker": "FN",
+      "model": "FNX-45 Tactical",
+      "cartridge": ".45 ACP",
+      "barrel": {
+        "name": "FN FNX-45 Tactical",
+        "length": 0.13462,
+        "twistLength": 0.4064,
+        "gunMass": 0.944039,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/pistols/fnx-45-tactical/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 ACP",
+          "barrelLength": "5.3\"",
+          "weight": "33.3 oz.",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN FNX-45 Tactical FDE/BLK",
+      "maker": "FN",
+      "model": "FNX-45 Tactical FDE/BLK",
+      "cartridge": ".45 ACP",
+      "barrel": {
+        "name": "FN FNX-45 Tactical FDE/BLK",
+        "length": 0.13462,
+        "twistLength": 0.4064,
+        "gunMass": 0.944039,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fnx-45-tactical-fdeblk/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 ACP",
+          "barrelLength": "5.3\"",
+          "weight": "33.3 oz.",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN FS2000",
+      "maker": "FN",
+      "model": "FS2000",
+      "cartridge": "5.56x45mm (.223 Rem.)",
+      "barrel": {
+        "name": "FN FS2000",
+        "length": 0.442976,
+        "gunMass": 3.565236,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-fs2000/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm (.223 Rem.)",
+          "barrelLength": "17.44\"",
+          "weight": "7.86 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN HIGH POWER",
+      "maker": "FN",
+      "model": "HIGH POWER",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN HIGH POWER",
+        "length": 0.11938,
+        "twistLength": 0.254,
+        "gunMass": 1.133981,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/fn-high-power-series/fn-high-power/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4.7\"",
+          "weight": "40 oz.",
+          "twist": "1:10\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN M4A1",
+      "maker": "FN",
+      "model": "M4A1",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "FN M4A1",
+        "length": 0.3683,
+        "twistLength": 0.1778,
+        "gunMass": 2.884847,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/rifles/fn-m4a1/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "14.5\"",
+          "weight": "6.36 lb.",
+          "twist": "1:7\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN M240/C",
+      "maker": "FN",
+      "model": "M240/C",
+      "cartridge": "7.62x51mm NATO",
+      "barrel": {
+        "name": "FN M240/C",
+        "length": 0.55118,
+        "gunMass": 10.069751,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/machine-guns/fn-m240c/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62x51mm NATO",
+          "barrelLength": "21.7\"",
+          "weight": "22.2 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN M240D",
+      "maker": "FN",
+      "model": "M240D",
+      "cartridge": "7.62x51mm NATO",
+      "barrel": {
+        "name": "FN M240D",
+        "length": 0.55118,
+        "gunMass": 10.387265,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/machine-guns/fn-m240d/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62x51mm NATO",
+          "barrelLength": "21.7\"",
+          "weight": "22.9 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN M240H",
+      "maker": "FN",
+      "model": "M240H",
+      "cartridge": "7.62x51mm NATO",
+      "barrel": {
+        "name": "FN M240H",
+        "length": 0.55118,
+        "gunMass": 11.702683,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/machine-guns/fn-m240h/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62x51mm NATO",
+          "barrelLength": "21.7\"",
+          "weight": "25.8 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN M249 PARA",
+      "maker": "FN",
+      "model": "M249 PARA",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN M249 PARA",
+        "length": 0.41402,
+        "twistLength": 0.1778,
+        "gunMass": 7.234798,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/machine-guns/fn-m249-para/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "16.3\"",
+          "weight": "15.95 lb.",
+          "twist": "1:7 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN M249 SAW",
+      "maker": "FN",
+      "model": "M249 SAW",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN M249 SAW",
+        "length": 0.5207,
+        "twistLength": 0.1778,
+        "gunMass": 7.71107,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/machine-guns/fn-m249-saw/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "20.5\"",
+          "weight": "17 lb.",
+          "twist": "1:7\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN M249S",
+      "maker": "FN",
+      "model": "M249S",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN M249S",
+        "length": 0.4699,
+        "twistLength": 0.1778,
+        "gunMass": 7.801789,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/rifles/fn-m249s/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "18.5\"",
+          "weight": "17.2 lb.",
+          "twist": "1:7 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN M249S PARA",
+      "maker": "FN",
+      "model": "M249S PARA",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN M249S PARA",
+        "length": 0.40894,
+        "twistLength": 0.1778,
+        "gunMass": 7.257478,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/rifles/fn-m249s-para/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "16.1\"",
+          "weight": "16 lb.",
+          "twist": "1:7 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN M249S PARA FDE",
+      "maker": "FN",
+      "model": "M249S PARA FDE",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN M249S PARA FDE",
+        "length": 0.40894,
+        "twistLength": 0.1778,
+        "gunMass": 7.257478,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/fn-m249s-series/fn-m249s-para-fde/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "16.1\"",
+          "weight": "16 lb.",
+          "twist": "1:7 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN M249S Standard FDE",
+      "maker": "FN",
+      "model": "M249S Standard FDE",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN M249S Standard FDE",
+        "length": 0.4699,
+        "twistLength": 0.1778,
+        "gunMass": 7.801789,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/fn-m249s-series/fn-m249s-standard-fde/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "18.5\"",
+          "weight": "17.2 lb.",
+          "twist": "1:7 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN MK 16",
+      "maker": "FN",
+      "model": "MK 16",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN MK 16",
+        "length": 0.3556,
+        "gunMass": 3.265865,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/rifles/fn-mk-16/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "14\"",
+          "weight": "7.2 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN MK 16 CQC",
+      "maker": "FN",
+      "model": "MK 16 CQC",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN MK 16 CQC",
+        "length": 0.254,
+        "gunMass": 3.039069,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/rifles/fn-mk-16-cqc/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "10\"",
+          "weight": "6.7 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN MK 16 LB",
+      "maker": "FN",
+      "model": "MK 16 LB",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN MK 16 LB",
+        "length": 0.4572,
+        "gunMass": 3.492661,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/rifles/fn-mk-16-lb/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "18\"",
+          "weight": "7.7 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN MK 17",
+      "maker": "FN",
+      "model": "MK 17",
+      "cartridge": "7.62x51mm",
+      "barrel": {
+        "name": "FN MK 17",
+        "length": 0.4064,
+        "gunMass": 3.58338,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/rifles/fn-mk-17/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62x51mm",
+          "barrelLength": "16\"",
+          "weight": "7.9 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN MK 17 CQC",
+      "maker": "FN",
+      "model": "MK 17 CQC",
+      "cartridge": "7.62x51mm",
+      "barrel": {
+        "name": "FN MK 17 CQC",
+        "length": 0.3302,
+        "gunMass": 3.492661,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/rifles/fn-mk-17-cqc/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62x51mm",
+          "barrelLength": "13\"",
+          "weight": "7.7 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN MK 17 LB",
+      "maker": "FN",
+      "model": "MK 17 LB",
+      "cartridge": "7.62x51mm",
+      "barrel": {
+        "name": "FN MK 17 LB",
+        "length": 0.508,
+        "gunMass": 3.764817,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/military/fn-mk-17-lb/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62x51mm",
+          "barrelLength": "20\"",
+          "weight": "8.3 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN MK 20 SSR",
+      "maker": "FN",
+      "model": "MK 20 SSR",
+      "cartridge": "7.62x51mm",
+      "barrel": {
+        "name": "FN MK 20 SSR",
+        "length": 0.508,
+        "gunMass": 4.848902,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/rifles/fn-mk20-ssr/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62x51mm",
+          "barrelLength": "20\"",
+          "weight": "10.69 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN MK 46 MOD 1",
+      "maker": "FN",
+      "model": "MK 46 MOD 1",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "FN MK 46 MOD 1",
+        "length": 0.41402,
+        "gunMass": 7.003466,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/machine-guns/fn-mk-46-mod-1/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "16.3\"",
+          "weight": "15.44 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN MK 46 MOD 2",
+      "maker": "FN",
+      "model": "MK 46 MOD 2",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "FN MK 46 MOD 2",
+        "length": 0.41402,
+        "gunMass": 7.003466,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/machine-guns/fn-mk-46-mod-2/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "16.3\"",
+          "weight": "15.44 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN MK 48 MOD 1",
+      "maker": "FN",
+      "model": "MK 48 MOD 1",
+      "cartridge": "7.62x51mm NATO",
+      "barrel": {
+        "name": "FN MK 48 MOD 1",
+        "length": 0.50165,
+        "gunMass": 8.282597,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/machine-guns/fn-mk-48-mod-1/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62x51mm NATO",
+          "barrelLength": "19.75\"",
+          "weight": "18.26 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN MK 48 MOD 2",
+      "maker": "FN",
+      "model": "MK 48 MOD 2",
+      "cartridge": "7.62x51mm NATO",
+      "barrel": {
+        "name": "FN MK 48 MOD 2",
+        "length": 0.50165,
+        "gunMass": 8.282597,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/machine-guns/fn-mk-48-mod-2/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62x51mm NATO",
+          "barrelLength": "19.75\"",
+          "weight": "18.26 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN P90",
+      "maker": "FN",
+      "model": "P90",
+      "cartridge": "5.7x28mm",
+      "barrel": {
+        "name": "FN P90",
+        "length": 0.263906,
+        "twistLength": 0.2286,
+        "gunMass": 2.630836,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/rifles/fn-p90/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.7x28mm",
+          "barrelLength": "10.39\"",
+          "weight": "5.8 lb.",
+          "twist": "1:9\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN PS90",
+      "maker": "FN",
+      "model": "PS90",
+      "cartridge": "5.7x28mm",
+      "barrel": {
+        "name": "FN PS90",
+        "length": 0.4064,
+        "gunMass": 2.84856,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/rifles/fn-ps90-standard/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.7x28mm",
+          "barrelLength": "16\"",
+          "weight": "6.28 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN PS90 50rd",
+      "maker": "FN",
+      "model": "PS90 50rd",
+      "cartridge": "5.7x28mm",
+      "barrel": {
+        "name": "FN PS90 50rd",
+        "length": 0.407416,
+        "gunMass": 2.84856,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/law-enforcement/fn-ps90-50-rd/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.7x28mm",
+          "barrelLength": "16.04\"",
+          "weight": "6.28 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN Reflex",
+      "maker": "FN",
+      "model": "Reflex",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN Reflex",
+        "length": 0.08382,
+        "twistLength": 0.254,
+        "gunMass": 0.521631,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/pistols/fn-reflex/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "3.3\"",
+          "weight": "18.4 oz.",
+          "twist": "1:10 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN Reflex MRD",
+      "maker": "FN",
+      "model": "Reflex MRD",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN Reflex MRD",
+        "length": 0.08382,
+        "twistLength": 0.254,
+        "gunMass": 0.521631,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/pistols/fn-reflex-mrd/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "3.3\"",
+          "weight": "18.4 oz.",
+          "twist": "1:10 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN Reflex MRD-LE",
+      "maker": "FN",
+      "model": "Reflex MRD-LE",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN Reflex MRD-LE",
+        "length": 0.08382,
+        "twistLength": 0.254,
+        "gunMass": 0.521631,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/law-enforcement/fn-reflex-mrd-le/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "3.3\"",
+          "weight": "18.4 oz.",
+          "twist": "1:10 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN Reflex XL MRD",
+      "maker": "FN",
+      "model": "Reflex XL MRD",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN Reflex XL MRD",
+        "length": 0.09652,
+        "twistLength": 0.254,
+        "gunMass": 0.56699,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/pistols/fn-reflex-xl-mrd/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "3.8\"",
+          "weight": "20 oz.",
+          "twist": "1:10 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN Reflex XL MRD-LE",
+      "maker": "FN",
+      "model": "Reflex XL MRD-LE",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "FN Reflex XL MRD-LE",
+        "length": 0.09652,
+        "twistLength": 0.254,
+        "gunMass": 0.56699,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/law-enforcement/fn-reflex-xl-mrd-le/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "3.8\"",
+          "weight": "20 oz.",
+          "twist": "1:10 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN SCAR 16 CQC",
+      "maker": "FN",
+      "model": "SCAR 16 CQC",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN SCAR 16 CQC",
+        "length": 0.254,
+        "gunMass": 3.039069,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/law-enforcement/fn-scar-16-cqc/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "10\"",
+          "weight": "6.7 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN SCAR 16 Standard",
+      "maker": "FN",
+      "model": "SCAR 16 Standard",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN SCAR 16 Standard",
+        "length": 0.3556,
+        "gunMass": 3.265865,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/law-enforcement/fn-scar-16-standard/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "14\"",
+          "weight": "7.2 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN SCAR 16S",
+      "maker": "FN",
+      "model": "SCAR 16S",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN SCAR 16S",
+        "length": 0.41275,
+        "gunMass": 3.288545,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-rifles/fn-scar-16s-rch/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "16.25\"",
+          "weight": "7.25 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN SCAR 16S : Coming Soon",
+      "maker": "FN",
+      "model": "SCAR 16S : Coming Soon",
+      "cartridge": "5.56x45 mm",
+      "barrel": {
+        "name": "FN SCAR 16S : Coming Soon",
+        "length": 0.41275,
+        "gunMass": 3.946254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/rifles/fn-scar-16s/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45 mm",
+          "barrelLength": "16.25\"",
+          "weight": "8.7 lbs."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN SCAR 16S NRCH",
+      "maker": "FN",
+      "model": "SCAR 16S NRCH",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN SCAR 16S NRCH",
+        "length": 0.41275,
+        "gunMass": 3.288545,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-scar-16s-nrch/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "16.25\"",
+          "weight": "7.25 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN SCAR 16S NRCH Desert Limited Edition",
+      "maker": "FN",
+      "model": "SCAR 16S NRCH Desert Limited Edition",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN SCAR 16S NRCH Desert Limited Edition",
+        "length": 0.41275,
+        "gunMass": 3.288545,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-scar-16s-desert/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "16.25\"",
+          "weight": "7.25 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN SCAR 16S NRCH MultiCam",
+      "maker": "FN",
+      "model": "SCAR 16S NRCH MultiCam",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN SCAR 16S NRCH MultiCam",
+        "length": 0.41275,
+        "gunMass": 3.288545,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-scar-16s-mulitcam/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "16.25\"",
+          "weight": "7.25 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN SCAR 16S NRCH Woodland Limited Edition",
+      "maker": "FN",
+      "model": "SCAR 16S NRCH Woodland Limited Edition",
+      "cartridge": "5.56x45mm",
+      "barrel": {
+        "name": "FN SCAR 16S NRCH Woodland Limited Edition",
+        "length": 0.41275,
+        "gunMass": 3.288545,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-scar-16s-woodland/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm",
+          "barrelLength": "16.25\"",
+          "weight": "7.25 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN SCAR 17 CQC",
+      "maker": "FN",
+      "model": "SCAR 17 CQC",
+      "cartridge": "7.62x51mm NATO",
+      "barrel": {
+        "name": "FN SCAR 17 CQC",
+        "length": 0.3302,
+        "gunMass": 3.492661,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/rifles/fn-scar-17-cqc/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62x51mm NATO",
+          "barrelLength": "13\"",
+          "weight": "7.7 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN SCAR 17 Standard",
+      "maker": "FN",
+      "model": "SCAR 17 Standard",
+      "cartridge": "7.62x51mm",
+      "barrel": {
+        "name": "FN SCAR 17 Standard",
+        "length": 0.4064,
+        "gunMass": 3.58338,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/law-enforcement/fn-scar-17-standard/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62x51mm",
+          "barrelLength": "16\"",
+          "weight": "7.9 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN SCAR 17S",
+      "maker": "FN",
+      "model": "SCAR 17S",
+      "cartridge": "7.62x51mm",
+      "barrel": {
+        "name": "FN SCAR 17S",
+        "length": 0.41275,
+        "twistLength": 0.3048,
+        "gunMass": 3.628739,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-rifles/fn-scar-17s-rch/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62x51mm",
+          "barrelLength": "16.25\"",
+          "weight": "8.0 lb.",
+          "twist": "1:12 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN SCAR 17S DMR",
+      "maker": "FN",
+      "model": "SCAR 17S DMR",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "FN SCAR 17S DMR",
+        "length": 0.41275,
+        "gunMass": 4.309128,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-scar-17s-dmr/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "16.25\"",
+          "weight": "9.5 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN SCAR 17S NRCH",
+      "maker": "FN",
+      "model": "SCAR 17S NRCH",
+      "cartridge": "7.62x51mm",
+      "barrel": {
+        "name": "FN SCAR 17S NRCH",
+        "length": 0.41275,
+        "twistLength": 0.3048,
+        "gunMass": 3.628739,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-scar-17s-nrch/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62x51mm",
+          "barrelLength": "16.25\"",
+          "weight": "8.0 lb.",
+          "twist": "1:12 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN SCAR 17S NRCH Desert Limited Edition",
+      "maker": "FN",
+      "model": "SCAR 17S NRCH Desert Limited Edition",
+      "cartridge": "7.62x51mm",
+      "barrel": {
+        "name": "FN SCAR 17S NRCH Desert Limited Edition",
+        "length": 0.41275,
+        "twistLength": 0.3048,
+        "gunMass": 3.628739,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-scar-17s-nrch-desert/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62x51mm",
+          "barrelLength": "16.25\"",
+          "weight": "8.0 lb.",
+          "twist": "1:12 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN SCAR 17S NRCH MultiCam",
+      "maker": "FN",
+      "model": "SCAR 17S NRCH MultiCam",
+      "cartridge": "7.62x51mm",
+      "barrel": {
+        "name": "FN SCAR 17S NRCH MultiCam",
+        "length": 0.41275,
+        "twistLength": 0.3048,
+        "gunMass": 3.628739,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-scar-17s-nrch-multicam/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62x51mm",
+          "barrelLength": "16.25\"",
+          "weight": "8.0 lb.",
+          "twist": "1:12 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN SCAR 17S NRCH Woodland Limited Edition",
+      "maker": "FN",
+      "model": "SCAR 17S NRCH Woodland Limited Edition",
+      "cartridge": "7.62x51mm",
+      "barrel": {
+        "name": "FN SCAR 17S NRCH Woodland Limited Edition",
+        "length": 0.41275,
+        "twistLength": 0.3048,
+        "gunMass": 3.628739,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-scar-17s-nrch-woodland/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62x51mm",
+          "barrelLength": "16.25\"",
+          "weight": "8.0 lb.",
+          "twist": "1:12 RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN SCAR 20S NRCH Desert Limited Edition",
+      "maker": "FN",
+      "model": "SCAR 20S NRCH Desert Limited Edition",
+      "cartridge": "7.62x51 mm",
+      "barrel": {
+        "name": "FN SCAR 20S NRCH Desert Limited Edition",
+        "length": 0.508,
+        "gunMass": 5.261671,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-scar-20s-nrch-desert/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62x51 mm",
+          "barrelLength": "20\"",
+          "weight": "11.6 lbs."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN SCAR 20S NRCH MultiCam",
+      "maker": "FN",
+      "model": "SCAR 20S NRCH MultiCam",
+      "cartridge": "7.62x51 mm",
+      "barrel": {
+        "name": "FN SCAR 20S NRCH MultiCam",
+        "length": 0.508,
+        "gunMass": 5.261671,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-scar-20s-nrch-multicam/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62x51 mm",
+          "barrelLength": "20\"",
+          "weight": "11.6 lbs."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN SCAR 20S NRCH Woodland Limited Edition",
+      "maker": "FN",
+      "model": "SCAR 20S NRCH Woodland Limited Edition",
+      "cartridge": "7.62x51 mm",
+      "barrel": {
+        "name": "FN SCAR 20S NRCH Woodland Limited Edition",
+        "length": 0.508,
+        "gunMass": 5.261671,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-scar-20s-nrch-woodland/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62x51 mm",
+          "barrelLength": "20\"",
+          "weight": "11.6 lbs."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN SCAR-SC",
+      "maker": "FN",
+      "model": "SCAR-SC",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "FN SCAR-SC",
+        "length": 0.1905,
+        "gunMass": 3.129787,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/riflescarbines-select-fire/fn-scar-sc/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "7.5\"",
+          "weight": "6.9 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN SPR A1",
+      "maker": "FN",
+      "model": "SPR A1",
+      "cartridge": ".308 Winchester",
+      "barrel": {
+        "name": "FN SPR A1",
+        "length": 0.6096,
+        "gunMass": 5.261671,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-spr-a1/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".308 Winchester",
+          "barrelLength": "24\" non-fluted",
+          "weight": "11.6 lb."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN SPR A1a",
+      "maker": "FN",
+      "model": "SPR A1a",
+      "cartridge": ".308 Winchester",
+      "barrel": {
+        "name": "FN SPR A1a",
+        "length": 0.508,
+        "twistLength": 0.3048,
+        "gunMass": 5.386409,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-spr-a1a/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".308 Winchester",
+          "barrelLength": "20\"",
+          "weight": "11.875 lb.",
+          "twist": "1:12\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "FN SPR A3G",
+      "maker": "FN",
+      "model": "SPR A3G",
+      "cartridge": ".308 Winchester",
+      "barrel": {
+        "name": "FN SPR A3G",
+        "length": 0.6096,
+        "twistLength": 0.3048,
+        "gunMass": 5.216312,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "FN America, LLC",
+        "url": "https://fnamerica.com/products/discontinued-products/fn-spr-a3g/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".308 Winchester",
+          "barrelLength": "24\"",
+          "weight": "11.5 lb.",
+          "twist": "1:12\" RH"
+        }
+      }
+    }
+  ]
+}

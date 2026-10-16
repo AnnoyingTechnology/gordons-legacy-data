@@ -1,0 +1,432 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by Ed Brown Products, Inc.; facts, released in this repository under CC0",
+    "source": "https://www.edbrown.com",
+    "file": "",
+    "author": "Ed Brown Products, Inc.",
+    "date": "2026-10-16",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ed Brown 1776 Commemorative Edition",
+      "maker": "Ed Brown",
+      "model": "1776 Commemorative Edition",
+      "cartridge": "45 ACP",
+      "barrel": {
+        "name": "Ed Brown 1776 Commemorative Edition",
+        "length": 0.127,
+        "gunMass": 1.077282,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Ed Brown Products, Inc.",
+        "url": "https://www.edbrown.com/1776-commemorative-edition/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "45 ACP",
+          "barrelLength": "5\"",
+          "weight": "Approximately 38 oz. with unloaded magazine"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ed Brown Classic Custom",
+      "maker": "Ed Brown",
+      "model": "Classic Custom",
+      "cartridge": "45 ACP",
+      "barrel": {
+        "name": "Ed Brown Classic Custom",
+        "length": 0.127,
+        "gunMass": 1.133981,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Ed Brown Products, Inc.",
+        "url": "https://www.edbrown.com/classic-custom/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "45 ACP",
+          "barrelLength": "5\"",
+          "weight": "Approximately 40 oz. with unloaded magazine"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ed Brown Classic Custom Enhanced",
+      "maker": "Ed Brown",
+      "model": "Classic Custom Enhanced",
+      "cartridge": "45 ACP",
+      "barrel": {
+        "name": "Ed Brown Classic Custom Enhanced",
+        "length": 0.127,
+        "gunMass": 1.133981,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Ed Brown Products, Inc.",
+        "url": "https://www.edbrown.com/classic-custom-enhanced/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "45 ACP",
+          "barrelLength": "5\"",
+          "weight": "Approximately 40 oz. with unloaded magazine"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ed Brown EVO-E9",
+      "maker": "Ed Brown",
+      "model": "EVO-E9",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Ed Brown EVO-E9",
+        "length": 0.1016,
+        "gunMass": 0.992233,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Ed Brown Products, Inc.",
+        "url": "https://www.edbrown.com/evo-e9/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4\"",
+          "weight": "Approximately 35 oz. with unloaded magazine"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ed Brown EVO-E9-LW",
+      "maker": "Ed Brown",
+      "model": "EVO-E9-LW",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Ed Brown EVO-E9-LW",
+        "length": 0.1016,
+        "gunMass": 0.850486,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Ed Brown Products, Inc.",
+        "url": "https://www.edbrown.com/evo-e9-lw/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4\"",
+          "weight": "Approximately 30 oz. with unloaded magazine"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ed Brown EVO-KC9",
+      "maker": "Ed Brown",
+      "model": "EVO-KC9",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Ed Brown EVO-KC9",
+        "length": 0.1016,
+        "gunMass": 0.963884,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Ed Brown Products, Inc.",
+        "url": "https://www.edbrown.com/evo-kc9/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4\"",
+          "weight": "Approximately 34 oz. with unloaded magazine"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ed Brown EVO-KC9-G4",
+      "maker": "Ed Brown",
+      "model": "EVO-KC9-G4",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Ed Brown EVO-KC9-G4",
+        "length": 0.1016,
+        "gunMass": 0.963884,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Ed Brown Products, Inc.",
+        "url": "https://www.edbrown.com/evo-kc9-g4/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4\"",
+          "weight": "Approximately 34 oz. with unloaded magazine"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ed Brown EVO-KC9-G4-HOLO",
+      "maker": "Ed Brown",
+      "model": "EVO-KC9-G4-HOLO",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Ed Brown EVO-KC9-G4-HOLO",
+        "length": 0.1016,
+        "gunMass": 0.992233,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Ed Brown Products, Inc.",
+        "url": "https://www.edbrown.com/evo-kc9-g4-holo/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4\"",
+          "weight": "Approximately 35 oz. with unloaded magazine"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ed Brown EVO-KC9-LW",
+      "maker": "Ed Brown",
+      "model": "EVO-KC9-LW",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Ed Brown EVO-KC9-LW",
+        "length": 0.1016,
+        "gunMass": 0.765437,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Ed Brown Products, Inc.",
+        "url": "https://www.edbrown.com/evo-kc9-lw/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4\"",
+          "weight": "Approximately 27 oz. with unloaded magazine"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ed Brown Executive Commander",
+      "maker": "Ed Brown",
+      "model": "Executive Commander",
+      "cartridge": "45 ACP • 9mm available by request",
+      "barrel": {
+        "name": "Ed Brown Executive Commander",
+        "length": 0.10795,
+        "gunMass": 1.077282,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Ed Brown Products, Inc.",
+        "url": "https://www.edbrown.com/executive-commander/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "45 ACP • 9mm available by request",
+          "barrelLength": "4.25\"",
+          "weight": "Approximately 38 oz. with unloaded magazine"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ed Brown Executive Elite",
+      "maker": "Ed Brown",
+      "model": "Executive Elite",
+      "cartridge": "45 ACP",
+      "barrel": {
+        "name": "Ed Brown Executive Elite",
+        "length": 0.127,
+        "gunMass": 1.077282,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Ed Brown Products, Inc.",
+        "url": "https://www.edbrown.com/executive-elite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "45 ACP",
+          "barrelLength": "5\"",
+          "weight": "Approximately 38 oz. with unloaded magazine"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ed Brown Kobra Carry Signature Edition",
+      "maker": "Ed Brown",
+      "model": "Kobra Carry Signature Edition",
+      "cartridge": "45 ACP",
+      "barrel": {
+        "name": "Ed Brown Kobra Carry Signature Edition",
+        "length": 0.10795,
+        "gunMass": 0.992233,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Ed Brown Products, Inc.",
+        "url": "https://www.edbrown.com/kobra-carry-signature-edition/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "45 ACP",
+          "barrelLength": "4.25\"",
+          "weight": "Approximately 35 oz. with unloaded magazine"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ed Brown SFC-SOCOM",
+      "maker": "Ed Brown",
+      "model": "SFC-SOCOM",
+      "cartridge": "45 ACP",
+      "barrel": {
+        "name": "Ed Brown SFC-SOCOM",
+        "length": 0.10795,
+        "gunMass": 1.077282,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Ed Brown Products, Inc.",
+        "url": "https://www.edbrown.com/sfc-socom/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "45 ACP",
+          "barrelLength": "4.25\" Commander",
+          "weight": "Approximately 38 oz. with unloaded magazine"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ed Brown Signature Edition",
+      "maker": "Ed Brown",
+      "model": "Signature Edition",
+      "cartridge": "45 ACP",
+      "barrel": {
+        "name": "Ed Brown Signature Edition",
+        "length": 0.127,
+        "gunMass": 1.133981,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Ed Brown Products, Inc.",
+        "url": "https://www.edbrown.com/signature-edition/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "45 ACP",
+          "barrelLength": "5\"",
+          "weight": "Approximately 40 oz. with unloaded magazine"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ed Brown SOCOM Edition",
+      "maker": "Ed Brown",
+      "model": "SOCOM Edition",
+      "cartridge": "45 ACP",
+      "barrel": {
+        "name": "Ed Brown SOCOM Edition",
+        "length": 0.127,
+        "gunMass": 1.219029,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Ed Brown Products, Inc.",
+        "url": "https://www.edbrown.com/socom-edition/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "45 ACP",
+          "barrelLength": "5\"",
+          "weight": "Approximately 43 oz. with unloaded magazine"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ed Brown Special Forces",
+      "maker": "Ed Brown",
+      "model": "Special Forces",
+      "cartridge": "45 ACP",
+      "barrel": {
+        "name": "Ed Brown Special Forces",
+        "length": 0.127,
+        "gunMass": 1.077282,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Ed Brown Products, Inc.",
+        "url": "https://www.edbrown.com/special-forces/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "45 ACP",
+          "barrelLength": "5\"",
+          "weight": "Approximately 38 oz. with unloaded magazine"
+        }
+      }
+    }
+  ]
+}

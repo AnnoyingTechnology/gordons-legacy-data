@@ -1,0 +1,946 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by Grand Power; facts, released in this repository under CC0",
+    "source": "https://grandpower.eu",
+    "file": "",
+    "author": "Grand Power",
+    "date": "2026-10-16",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power CP32",
+      "maker": "Grand Power",
+      "model": "CP32",
+      "cartridge": ".32 ACP (7,65 Browning)",
+      "barrel": {
+        "name": "Grand Power CP32",
+        "length": 0.0975,
+        "gunMass": 0.79,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/civilian/cp32/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": ".32 ACP (7,65 Browning)",
+          "barrelLength": "97,5 mm",
+          "weight": "790 g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power CP380",
+      "maker": "Grand Power",
+      "model": "CP380",
+      "cartridge": ".380 ACP",
+      "barrel": {
+        "name": "Grand Power CP380",
+        "length": 0.085,
+        "gunMass": 0.737,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/380-acp/cp380/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": ".380 ACP",
+          "barrelLength": "85,0 mm",
+          "weight": "737 g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power GP R308",
+      "maker": "Grand Power",
+      "model": "GP R308",
+      "cartridge": ".308 (7.62x51 NATO)",
+      "barrel": {
+        "name": "Grand Power GP R308",
+        "length": 0.508,
+        "gunMass": 3.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/r15-freya/gp-r308/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".308 (7.62x51 NATO)",
+          "barrelLength": "20\"",
+          "weight": "3600 g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power K100",
+      "maker": "Grand Power",
+      "model": "K100",
+      "cartridge": "9mm Luger",
+      "barrel": {
+        "name": "Grand Power K100",
+        "length": 0.108,
+        "gunMass": 0.82,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/k100/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "9mm Luger",
+          "barrelLength": "108 mm",
+          "weight": "820 g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power K100 Mk23",
+      "maker": "Grand Power",
+      "model": "K100 Mk23",
+      "cartridge": "9x19",
+      "barrel": {
+        "name": "Grand Power K100 Mk23",
+        "length": 0.108,
+        "gunMass": 0.785,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/k100-mk23/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "9x19",
+          "barrelLength": "108 mm",
+          "weight": "785g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power K100 X-TRIM",
+      "maker": "Grand Power",
+      "model": "K100 X-TRIM",
+      "cartridge": "9mm Luger",
+      "barrel": {
+        "name": "Grand Power K100 X-TRIM",
+        "length": 0.108,
+        "gunMass": 0.79,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/k100-x-trim/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "9mm Luger",
+          "barrelLength": "108 mm",
+          "weight": "790 g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power LP24",
+      "maker": "Grand Power",
+      "model": "LP24",
+      "cartridge": "9x19",
+      "barrel": {
+        "name": "Grand Power LP24",
+        "length": 0.1208,
+        "gunMass": 0.62,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/lp24/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9x19",
+          "barrelLength": "120,8 mm",
+          "weight": "620 g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power LP380",
+      "maker": "Grand Power",
+      "model": "LP380",
+      "cartridge": ".380 ACP",
+      "barrel": {
+        "name": "Grand Power LP380",
+        "length": 0.1183,
+        "gunMass": 0.82,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/380-acp/lp380/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": ".380 ACP",
+          "barrelLength": "118,3 mm",
+          "weight": "820 g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power P1",
+      "maker": "Grand Power",
+      "model": "P1",
+      "cartridge": "9mm Luger",
+      "barrel": {
+        "name": "Grand Power P1",
+        "length": 0.093,
+        "gunMass": 0.77,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/p1/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "9mm Luger",
+          "barrelLength": "93 mm",
+          "weight": "770 g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power P1 Mk23",
+      "maker": "Grand Power",
+      "model": "P1 Mk23",
+      "cartridge": "9x19",
+      "barrel": {
+        "name": "Grand Power P1 Mk23",
+        "length": 0.093,
+        "gunMass": 0.735,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/p1-mk23/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "9x19",
+          "barrelLength": "93 mm",
+          "weight": "735g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power P1 Ultra",
+      "maker": "Grand Power",
+      "model": "P1 Ultra",
+      "cartridge": "9mm Luger",
+      "barrel": {
+        "name": "Grand Power P1 Ultra",
+        "length": 0.093,
+        "gunMass": 0.73,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/p1-ultra/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "9mm Luger",
+          "barrelLength": "93 mm",
+          "weight": "730 g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power P1S Mk23",
+      "maker": "Grand Power",
+      "model": "P1S Mk23",
+      "cartridge": "9mm Luger",
+      "barrel": {
+        "name": "Grand Power P1S Mk23",
+        "length": 0.093,
+        "gunMass": 0.64,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/p1s-mk23/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm Luger",
+          "barrelLength": "93 mm",
+          "weight": "640 g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power P11",
+      "maker": "Grand Power",
+      "model": "P11",
+      "cartridge": "9mm Luger",
+      "barrel": {
+        "name": "Grand Power P11",
+        "length": 0.085,
+        "gunMass": 0.737,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/p11/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "9mm Luger",
+          "barrelLength": "85 mm",
+          "weight": "737 g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power P24",
+      "maker": "Grand Power",
+      "model": "P24",
+      "cartridge": "9x19",
+      "barrel": {
+        "name": "Grand Power P24",
+        "length": 0.0931,
+        "gunMass": 0.48,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/p24/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9x19",
+          "barrelLength": "93,1 mm",
+          "weight": "480 g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power P45",
+      "maker": "Grand Power",
+      "model": "P45",
+      "cartridge": ".45 ACP",
+      "barrel": {
+        "name": "Grand Power P45",
+        "length": 0.108,
+        "gunMass": 0.847,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/civilian/p45/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": ".45 ACP",
+          "barrelLength": "108 mm",
+          "weight": "847 g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power P45L",
+      "maker": "Grand Power",
+      "model": "P45L",
+      "cartridge": ".45 ACP",
+      "barrel": {
+        "name": "Grand Power P45L",
+        "length": 0.127,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/civilian/p45l/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".45 ACP",
+          "barrelLength": "127 mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power P380",
+      "maker": "Grand Power",
+      "model": "P380",
+      "cartridge": ".380 ACP",
+      "barrel": {
+        "name": "Grand Power P380",
+        "length": 0.105,
+        "gunMass": 0.78,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/380-acp/p380/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": ".380 ACP",
+          "barrelLength": "105,0 mm",
+          "weight": "780 g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power Q1",
+      "maker": "Grand Power",
+      "model": "Q1",
+      "cartridge": "9mm Luger",
+      "barrel": {
+        "name": "Grand Power Q1",
+        "length": 0.096,
+        "gunMass": 0.68,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/q1/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm Luger",
+          "barrelLength": "96 mm",
+          "weight": "680 g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power Q1 Mk23",
+      "maker": "Grand Power",
+      "model": "Q1 Mk23",
+      "cartridge": "9x19",
+      "barrel": {
+        "name": "Grand Power Q1 Mk23",
+        "length": 0.093,
+        "gunMass": 0.755,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/q1-mk23/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "9x19",
+          "barrelLength": "93 mm",
+          "weight": "755g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power Q1S",
+      "maker": "Grand Power",
+      "model": "Q1S",
+      "cartridge": "9mm Luger",
+      "barrel": {
+        "name": "Grand Power Q1S",
+        "length": 0.093,
+        "gunMass": 0.65,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/q1s/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm Luger",
+          "barrelLength": "93 mm",
+          "weight": "650 g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power Q1S Mk23",
+      "maker": "Grand Power",
+      "model": "Q1S Mk23",
+      "cartridge": "9mm Luger",
+      "barrel": {
+        "name": "Grand Power Q1S Mk23",
+        "length": 0.093,
+        "gunMass": 0.65,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/q1s-mk23/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm Luger",
+          "barrelLength": "93 mm",
+          "weight": "650 g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power Q100",
+      "maker": "Grand Power",
+      "model": "Q100",
+      "cartridge": "9mm Luger",
+      "barrel": {
+        "name": "Grand Power Q100",
+        "length": 0.096,
+        "gunMass": 0.76,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/q100/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm Luger",
+          "barrelLength": "96 mm",
+          "weight": "760 g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power Q100 Mk23",
+      "maker": "Grand Power",
+      "model": "Q100 Mk23",
+      "cartridge": "9x19",
+      "barrel": {
+        "name": "Grand Power Q100 Mk23",
+        "length": 0.108,
+        "gunMass": 0.81,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/q100-mk23/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "9x19",
+          "barrelLength": "108 mm",
+          "weight": "810g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power ROXOR",
+      "maker": "Grand Power",
+      "model": "ROXOR",
+      "cartridge": "9x17 mm Browning Court (.380ACP)",
+      "barrel": {
+        "name": "Grand Power ROXOR",
+        "length": 0.1267,
+        "gunMass": 0.885,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/380-acp/roxor/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9x17 mm Browning Court (.380ACP)",
+          "barrelLength": "126,7 mm",
+          "weight": "885 g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power STRIBOG AP9A3",
+      "maker": "Grand Power",
+      "model": "STRIBOG AP9A3",
+      "cartridge": "9x19 NATO",
+      "barrel": {
+        "name": "Grand Power STRIBOG AP9A3",
+        "length": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/law-enforcement-and-military/stribog-ap9a3/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "9x19 NATO",
+          "barrelLength": "8\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power STRIBOG SP9 A3",
+      "maker": "Grand Power",
+      "model": "STRIBOG SP9 A3",
+      "cartridge": "9x19 Luger",
+      "barrel": {
+        "name": "Grand Power STRIBOG SP9 A3",
+        "length": 0.2032,
+        "gunMass": 2.06,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/stribog-line/9x19-luger-stribog-line/stribog-sp9-a3/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9x19 Luger",
+          "barrelLength": "8\"",
+          "weight": "2,06kg"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power STRIBOG SP9 A3S",
+      "maker": "Grand Power",
+      "model": "STRIBOG SP9 A3S",
+      "cartridge": "9x19 Luger",
+      "barrel": {
+        "name": "Grand Power STRIBOG SP9 A3S",
+        "length": 0.2032,
+        "gunMass": 2.35,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/stribog-line/9x19-luger-stribog-line/stribog-sp9-a3s/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9x19 Luger",
+          "barrelLength": "8\"",
+          "weight": "2,35kg"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power STRIBOG SP9 A3SG",
+      "maker": "Grand Power",
+      "model": "STRIBOG SP9 A3SG",
+      "cartridge": "9x19 Luger",
+      "barrel": {
+        "name": "Grand Power STRIBOG SP9 A3SG",
+        "length": 0.114,
+        "gunMass": 2.35,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/stribog-line/9x19-luger-stribog-line/stribog-sp9-a3sg/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9x19 Luger",
+          "barrelLength": "114mm",
+          "weight": "2,35kg"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power STRIBOG SP10",
+      "maker": "Grand Power",
+      "model": "STRIBOG SP10",
+      "cartridge": "10 mm AUTO",
+      "barrel": {
+        "name": "Grand Power STRIBOG SP10",
+        "length": 0.2032,
+        "gunMass": 2.468,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/stribog-line/10-mm-auto/stribog-sp10/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "10 mm AUTO",
+          "barrelLength": "8\"",
+          "weight": "2468g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power STRIBOG SP45",
+      "maker": "Grand Power",
+      "model": "STRIBOG SP45",
+      "cartridge": ".45 ACP",
+      "barrel": {
+        "name": "Grand Power STRIBOG SP45",
+        "length": 0.2032,
+        "gunMass": 2.468,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/stribog-line/45acp-stribog-line/stribog-sp45/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 ACP",
+          "barrelLength": "8\"",
+          "weight": "2468g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power STRIBOG SP380",
+      "maker": "Grand Power",
+      "model": "STRIBOG SP380",
+      "cartridge": ".380 ACP",
+      "barrel": {
+        "name": "Grand Power STRIBOG SP380",
+        "length": 0.2032,
+        "gunMass": 2.4,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/stribog-line/civilian-stribog-line/stribog-sp380/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".380 ACP",
+          "barrelLength": "8\"",
+          "weight": "2400 g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power STRIBOG SR9 A3",
+      "maker": "Grand Power",
+      "model": "STRIBOG SR9 A3",
+      "cartridge": "9x19 Luger",
+      "barrel": {
+        "name": "Grand Power STRIBOG SR9 A3",
+        "length": 0.254,
+        "gunMass": 2.46,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/stribog-line/9x19-luger-stribog-line/stribog-sr9-a3/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9x19 Luger",
+          "barrelLength": "10\"",
+          "weight": "2,46kg"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power STRIBOG SR9 A3 Gen2",
+      "maker": "Grand Power",
+      "model": "STRIBOG SR9 A3 Gen2",
+      "cartridge": "9x19 Luger",
+      "barrel": {
+        "name": "Grand Power STRIBOG SR9 A3 Gen2",
+        "length": 0.254,
+        "gunMass": 2.46,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/stribog-line/9x19-luger-stribog-line/sr9-a3-gen2/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9x19 Luger",
+          "barrelLength": "10\"",
+          "weight": "2,46kg"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power X-CALIBUR",
+      "maker": "Grand Power",
+      "model": "X-CALIBUR",
+      "cartridge": "9mm Luger",
+      "barrel": {
+        "name": "Grand Power X-CALIBUR",
+        "length": 0.1267,
+        "gunMass": 0.885,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/x-calibur/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "9mm Luger",
+          "barrelLength": "126,7 mm",
+          "weight": "885 g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power X-Calibur Match Mk23",
+      "maker": "Grand Power",
+      "model": "X-Calibur Match Mk23",
+      "cartridge": "9x19",
+      "barrel": {
+        "name": "Grand Power X-Calibur Match Mk23",
+        "length": 0.121,
+        "gunMass": 1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/x-calibur-match-mk23/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "9x19",
+          "barrelLength": "121 mm",
+          "weight": "1000g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Grand Power X-Calibur Mk23",
+      "maker": "Grand Power",
+      "model": "X-Calibur Mk23",
+      "cartridge": "9x19",
+      "barrel": {
+        "name": "Grand Power X-Calibur Mk23",
+        "length": 0.121,
+        "gunMass": 0.872,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Grand Power",
+        "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/x-calibur-mk23/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "caliber": "9x19",
+          "barrelLength": "121 mm",
+          "weight": "872g"
+        }
+      }
+    }
+  ]
+}

@@ -7,7 +7,7 @@
     "source": "https://us.glock.com",
     "file": "",
     "author": "Glock Ges.m.b.H.",
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "method": "read from the maker's own specification pages",
     "status": "published specification, not measured"
   },
@@ -29,7 +29,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g17",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "114 mm | 4.49 inch",
@@ -54,7 +54,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g17-gen4",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "114 mm | 4.49 inch",
@@ -79,7 +79,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g17-gen4-mos",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "114 mm | 4.49 inch",
@@ -104,7 +104,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g17-gen5",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "114 mm | 4.49 inch",
@@ -129,7 +129,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g17-gen5-mos",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "114 mm | 4.49 inch",
@@ -154,7 +154,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g17-gen6",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "114 mm | 4.49 inch",
@@ -179,7 +179,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g17-v",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "114 mm | 4.49 inch",
@@ -204,7 +204,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g17-v-mos",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "114 mm | 4.49 inch",
@@ -229,7 +229,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g17l",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "153 mm | 6.02 inch",
@@ -254,7 +254,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g17l-gen5-mos",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "153 mm I 6.02 inch",
@@ -279,7 +279,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g19",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm | 4.02 inch",
@@ -304,7 +304,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g19-gen4",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm | 4.02 inch",
@@ -329,7 +329,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g19-gen4-mos",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm | 4.02 inch",
@@ -354,7 +354,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g19-gen5",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm | 4.02 inch",
@@ -379,7 +379,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g19-gen5-mos",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm | 4.02 inch",
@@ -404,7 +404,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g19-gen6",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm | 4.02 inch",
@@ -429,7 +429,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g19-v",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm | 4.02 inch",
@@ -454,7 +454,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g19-v-mos",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm | 4.02 inch",
@@ -479,7 +479,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g19x",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm | 4.02 inch",
@@ -504,7 +504,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/commercial-firearms/pistols/19x-v",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm | 4.02 inch",
@@ -529,7 +529,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g20-gen4",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "117 mm | 4.61 inch",
@@ -554,7 +554,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g20-sf",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "117 mm | 4.61 inch",
@@ -579,7 +579,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g20-gen5-mos",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "117 mm I 4.61 inch",
@@ -604,7 +604,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g21-gen4",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "117 mm | 4.61 inch",
@@ -629,7 +629,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g21-gen5-mos",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "117 mm I 4.61 inch",
@@ -654,7 +654,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g21-sf",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "117 mm | 4.61 inch",
@@ -679,7 +679,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g21-v-mos",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "117 mm I 4.61 inch",
@@ -704,7 +704,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g22",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "114 mm | 4.49 inch",
@@ -729,7 +729,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g22-gen4",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "114 mm | 4.49 inch",
@@ -754,7 +754,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g22-gen5",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "114 mm | 4.49 inch",
@@ -779,7 +779,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g22-gen5-mos",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "114 mm | 4.49 inch",
@@ -804,7 +804,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g22p",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "114 mm | 4.49 inch",
@@ -829,7 +829,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g23",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm | 4.02 inch",
@@ -854,7 +854,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g23-cut",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm | 4.02 inch",
@@ -879,7 +879,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g23-gen4",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm | 4.02 inch",
@@ -904,7 +904,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g23-gen5-mos",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm | 4.02 inch",
@@ -929,7 +929,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g23-v",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm | 4.02 inch",
@@ -954,7 +954,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g23p",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm | 4.02 inch",
@@ -979,7 +979,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g24",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "153 mm | 6.02 inch",
@@ -1004,7 +1004,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g26",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "87 mm | 3.43 inch",
@@ -1029,7 +1029,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g26-gen4",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "87 mm | 3.43 inch",
@@ -1054,7 +1054,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g26-gen5",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "87 mm | 3.43 inch",
@@ -1079,7 +1079,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g26-gen5-mos",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "87 mm | 3.43 inch",
@@ -1104,7 +1104,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g26-v",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "87 mm | 3.43 inch",
@@ -1129,7 +1129,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g26-v-mos",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "87 mm | 3.43 inch",
@@ -1154,7 +1154,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g27",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "87 mm | 3.43 inch",
@@ -1179,7 +1179,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g27-gen4",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "87 mm | 3.43 inch",
@@ -1204,7 +1204,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g27-gen5",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "87 mm | 3.43 inch",
@@ -1229,7 +1229,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g29-gen4",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "96 mm | 3.78 inch",
@@ -1254,7 +1254,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g29-gen5",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "96 mm I 3.78 inch",
@@ -1279,7 +1279,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g29-sf",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "96 mm | 3.78 inch",
@@ -1304,7 +1304,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g30-gen4",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "96 mm | 3.78 inch",
@@ -1329,7 +1329,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g30-gen5",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "96 mm I 3.78 inch",
@@ -1354,7 +1354,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g30-sf",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "96 mm | 3.78 inch",
@@ -1379,7 +1379,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g30s",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "96 mm | 3.78 inch",
@@ -1404,7 +1404,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g31",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "114 mm | 4.49 inch",
@@ -1429,7 +1429,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g31-gen4",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "114 mm | 4.49 inch",
@@ -1454,7 +1454,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g32",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm | 4.02 inch",
@@ -1479,7 +1479,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g32-gen4",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm | 4.02 inch",
@@ -1504,7 +1504,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g33",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "87 mm | 3.43 inch",
@@ -1529,7 +1529,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g33-gen4",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "87 mm | 3.43 inch",
@@ -1554,7 +1554,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g34",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "135 mm | 5.31 inch",
@@ -1579,7 +1579,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g34-gen4",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "135 mm | 5.31 inch",
@@ -1604,7 +1604,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g34-gen4-mos",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "135 mm | 5.31 inch",
@@ -1629,7 +1629,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g34-gen5-mos",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "135 mm | 5.31 inch",
@@ -1654,7 +1654,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g35",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "135 mm | 5.31 inch",
@@ -1679,7 +1679,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g35-gen4",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "135 mm | 5.31 inch",
@@ -1704,7 +1704,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g35-gen4-mos",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "135 mm | 5.31 inch",
@@ -1729,7 +1729,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g36",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "96 mm | 3.78 inch",
@@ -1754,7 +1754,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g37",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "114 mm | 4.49 inch",
@@ -1779,7 +1779,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g38",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm | 4.02 inch",
@@ -1804,7 +1804,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g39",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "87 mm | 3.43 inch",
@@ -1829,7 +1829,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g40-gen4-mos",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "153 mm | 6.02 inch",
@@ -1854,7 +1854,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g41-gen4",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "135 mm | 5.31 inch",
@@ -1879,7 +1879,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g41-gen4-mos",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "135 mm | 5.31 inch",
@@ -1904,7 +1904,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g42",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "82.5 mm | 3.25 inch",
@@ -1929,7 +1929,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g43",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "86.5 mm | 3.41 inch",
@@ -1954,7 +1954,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g43x-us",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "87 mm | 3.41 inch",
@@ -1979,7 +1979,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g43x-mos",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "87 mm | 3.41 inch",
@@ -2004,7 +2004,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g45",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm | 4.02 inch",
@@ -2029,7 +2029,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g45-gen6",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm | 4.02 inch",
@@ -2054,7 +2054,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g45-mos",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm | 4.02 inch",
@@ -2079,7 +2079,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g45-v",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm | 4.02 inch",
@@ -2104,7 +2104,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/law-enforcement/pistols/g47-mos",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "114 mm | 4.49 inch",
@@ -2129,7 +2129,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g48",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "106 mm | 4.17 inch",
@@ -2154,7 +2154,7 @@
         "kind": "published",
         "publisher": "Glock Ges.m.b.H.",
         "url": "https://us.glock.com/en/products/commercial-firearms/pistols/g48-mos",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "106 mm | 4.17 inch",

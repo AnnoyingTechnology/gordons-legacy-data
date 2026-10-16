@@ -1,0 +1,2055 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by Davide Pedersoli & C.; facts, released in this repository under CC0",
+    "source": "https://www.davidepedersoli.com",
+    "file": "",
+    "author": "Davide Pedersoli & C.",
+    "date": "2026-10-16",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 86/71 Lever Action \"Droptine Classic\"",
+      "maker": "Davide Pedersoli",
+      "model": "86/71 Lever Action \"Droptine Classic\"",
+      "cartridge": ".30-30 Winchester",
+      "barrel": {
+        "name": "Pedersoli 86/71 Lever Action \"Droptine Classic\"",
+        "length": 0.483,
+        "twistLength": 0.305,
+        "gunMass": 3.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/8671-lever-action-droptine-classic-30-30-winchester",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".30-30 Winchester",
+          "barrelLength": "483,00 mm | 19 in",
+          "weight": "3,800 kg | 8.6 lbs",
+          "twist": "305 mm | 1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 86/71 Lever Action \"Droptine\"",
+      "maker": "Davide Pedersoli",
+      "model": "86/71 Lever Action \"Droptine\"",
+      "cartridge": ".30-30 Winchester",
+      "barrel": {
+        "name": "Pedersoli 86/71 Lever Action \"Droptine\"",
+        "length": 0.483,
+        "twistLength": 0.305,
+        "gunMass": 3.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/8671-lever-action-droptine-30-30-winchester",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".30-30 Winchester",
+          "barrelLength": "483,00 mm | 19 in",
+          "weight": "3,800 kg | 8.6 lbs",
+          "twist": "305 mm | 1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 86/71 Lever Action \"Guidemaster-X\"",
+      "maker": "Davide Pedersoli",
+      "model": "86/71 Lever Action \"Guidemaster-X\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 86/71 Lever Action \"Guidemaster-X\"",
+        "length": 0.483,
+        "twistLength": 0.46,
+        "gunMass": 3.5,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/8671-lever-action-guidemaster-x-4570",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "483,00 mm | 19 in",
+          "weight": "3,500 kg | 7.94 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 86/71 Lever Action Boarbuster \"Apocalypse\"",
+      "maker": "Davide Pedersoli",
+      "model": "86/71 Lever Action Boarbuster \"Apocalypse\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 86/71 Lever Action Boarbuster \"Apocalypse\"",
+        "length": 0.4318,
+        "twistLength": 0.46,
+        "gunMass": 3.45,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/8671-lever-action-boarbuster-apocalypse-4570",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "431,80 mm | 17 in",
+          "weight": "3,450 kg",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 86/71 Lever Action Boarbuster \"Evolution\"",
+      "maker": "Davide Pedersoli",
+      "model": "86/71 Lever Action Boarbuster \"Evolution\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 86/71 Lever Action Boarbuster \"Evolution\"",
+        "length": 0.483,
+        "twistLength": 0.46,
+        "gunMass": 3.7,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/8671-lever-action-boarbuster-evolution",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "483,00 mm | 19 in",
+          "weight": "3,700 kg | 8.15 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 86/71 Lever Action Boarbuster \"HV-1 Camo\"",
+      "maker": "Davide Pedersoli",
+      "model": "86/71 Lever Action Boarbuster \"HV-1 Camo\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 86/71 Lever Action Boarbuster \"HV-1 Camo\"",
+        "length": 0.483,
+        "twistLength": 0.46,
+        "gunMass": 3.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/8671-lever-action-boarbuster-hv1-camo",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "483,00 mm | 19 in",
+          "weight": "3,600 kg | 7.94 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 86/71 Lever Action Boarbuster \"Mark II\"",
+      "maker": "Davide Pedersoli",
+      "model": "86/71 Lever Action Boarbuster \"Mark II\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 86/71 Lever Action Boarbuster \"Mark II\"",
+        "length": 0.483,
+        "twistLength": 0.46,
+        "gunMass": 3.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/lever-action-boarbuster-mark-ii-2",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "483,00 mm | 19 in",
+          "weight": "3,600 kg | 8.15 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 86/71 Lever Action Boarbuster \"Shadow\"",
+      "maker": "Davide Pedersoli",
+      "model": "86/71 Lever Action Boarbuster \"Shadow\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 86/71 Lever Action Boarbuster \"Shadow\"",
+        "length": 0.483,
+        "twistLength": 0.46,
+        "gunMass": 3.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/8671-lever-action-boarbuster-shadow",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "483,00 mm | 19 in",
+          "weight": "3,600 kg | 7.71 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 86/71 Lever Action Premium",
+      "maker": "Davide Pedersoli",
+      "model": "86/71 Lever Action Premium",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 86/71 Lever Action Premium",
+        "length": 0.61,
+        "twistLength": 0.46,
+        "gunMass": 3.7,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/86-71-lever-action-premium",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "610,00 mm | 24 in",
+          "weight": "3,700 kg | 8.15 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Billy's Sharps 32\" .45-70 Gov.",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Billy's Sharps 32\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 1874 Billy's Sharps 32\" .45-70 Gov.",
+        "length": 0.813,
+        "twistLength": 0.46,
+        "gunMass": 4.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-billy-s-sharps-32",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "813,00 mm | 32 in",
+          "weight": "4,800 kg | 10.79 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Billy's Sharps 32\" .45-90 Sharps",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Billy's Sharps 32\"",
+      "cartridge": ".45-90 Sharps",
+      "barrel": {
+        "name": "Pedersoli 1874 Billy's Sharps 32\" .45-90 Sharps",
+        "length": 0.813,
+        "twistLength": 0.46,
+        "gunMass": 4.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-billy-s-sharps-32",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-90 Sharps",
+          "barrelLength": "813,00 mm | 32 in",
+          "weight": "4,800 kg | 10.79 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps \"Q\" Down Under Sporting 34\" .45-70 Gov.",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps \"Q\" Down Under Sporting 34\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps \"Q\" Down Under Sporting 34\" .45-70 Gov.",
+        "length": 0.864,
+        "twistLength": 0.46,
+        "gunMass": 5.9,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-q-down-under-sporting-34",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "864,00 mm | 34 in",
+          "weight": "5,900 kg | 13.21 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps \"Q\" Down Under Sporting 34\" .45-90 Sharps",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps \"Q\" Down Under Sporting 34\"",
+      "cartridge": ".45-90 Sharps",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps \"Q\" Down Under Sporting 34\" .45-90 Sharps",
+        "length": 0.864,
+        "twistLength": 0.46,
+        "gunMass": 5.9,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-q-down-under-sporting-34",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-90 Sharps",
+          "barrelLength": "864,00 mm | 34 in",
+          "weight": "5,900 kg | 13.21 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps \"Q\" Down Under Sporting 34\" .45-110 Sharps",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps \"Q\" Down Under Sporting 34\"",
+      "cartridge": ".45-110 Sharps",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps \"Q\" Down Under Sporting 34\" .45-110 Sharps",
+        "length": 0.864,
+        "twistLength": 0.46,
+        "gunMass": 5.9,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-q-down-under-sporting-34",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-110 Sharps",
+          "barrelLength": "864,00 mm | 34 in",
+          "weight": "5,900 kg | 13.21 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps \"Q\" Down Under Sporting 34\" .45-120",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps \"Q\" Down Under Sporting 34\"",
+      "cartridge": ".45-120",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps \"Q\" Down Under Sporting 34\" .45-120",
+        "length": 0.864,
+        "twistLength": 0.46,
+        "gunMass": 5.9,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-q-down-under-sporting-34",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-120",
+          "barrelLength": "864,00 mm | 34 in",
+          "weight": "5,900 kg | 13.21 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps Boss 34\" .45-70 Gov.",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps Boss 34\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps Boss 34\" .45-70 Gov.",
+        "length": 0.864,
+        "twistLength": 0.46,
+        "gunMass": 6.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-boss-34",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "864,00 mm | 34 in",
+          "weight": "6,100 kg | 13.44 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps Boss 34\" .45-90 Sharps",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps Boss 34\"",
+      "cartridge": ".45-90 Sharps",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps Boss 34\" .45-90 Sharps",
+        "length": 0.864,
+        "twistLength": 0.46,
+        "gunMass": 6.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-boss-34",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-90 Sharps",
+          "barrelLength": "864,00 mm | 34 in",
+          "weight": "6,100 kg | 13.44 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps Buffalo 30\" .45-70 Gov.",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps Buffalo 30\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps Buffalo 30\" .45-70 Gov.",
+        "length": 0.762,
+        "twistLength": 0.46,
+        "gunMass": 5.7,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-buffalo-30",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "762,00 mm | 30 in",
+          "weight": "5,700 kg | 12.77 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps Buffalo 30\" .45-90 Sharps",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps Buffalo 30\"",
+      "cartridge": ".45-90 Sharps",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps Buffalo 30\" .45-90 Sharps",
+        "length": 0.762,
+        "twistLength": 0.46,
+        "gunMass": 5.7,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-buffalo-30",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-90 Sharps",
+          "barrelLength": "762,00 mm | 30 in",
+          "weight": "5,700 kg | 12.77 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps Business 32\"",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps Business 32\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps Business 32\"",
+        "length": 0.813,
+        "twistLength": 0.46,
+        "gunMass": 4.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-business-32",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "813,00 mm | 32 in",
+          "weight": "4,800 kg | 10.57 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps Cavalry Carbine 22\"",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps Cavalry Carbine 22\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps Cavalry Carbine 22\"",
+        "length": 0.56,
+        "twistLength": 0.46,
+        "gunMass": 3.7,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-cavalry-carbine-22",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "560,00 mm | 22 in",
+          "weight": "3,700 kg | 8.37 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps Competition 34\" .45-70 Gov.",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps Competition 34\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps Competition 34\" .45-70 Gov.",
+        "length": 0.864,
+        "twistLength": 0.46,
+        "gunMass": 5.9,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-competition-34",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "864,00 mm | 34 in",
+          "weight": "5,900 kg | 12.99 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps Competition 34\" .45-90 Sharps",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps Competition 34\"",
+      "cartridge": ".45-90 Sharps",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps Competition 34\" .45-90 Sharps",
+        "length": 0.864,
+        "twistLength": 0.46,
+        "gunMass": 5.9,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-competition-34",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-90 Sharps",
+          "barrelLength": "864,00 mm | 34 in",
+          "weight": "5,900 kg | 12.99 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps Creedmoor N°2 30\" .45-70 Gov.",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps Creedmoor N°2 30\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps Creedmoor N°2 30\" .45-70 Gov.",
+        "length": 0.762,
+        "twistLength": 0.46,
+        "gunMass": 4.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-creedmoor-n2-30",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "762,00 mm | 30 in",
+          "weight": "4,600 kg | 10.13 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps Creedmoor N°2 30\" .45-90 Sharps",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps Creedmoor N°2 30\"",
+      "cartridge": ".45-90 Sharps",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps Creedmoor N°2 30\" .45-90 Sharps",
+        "length": 0.762,
+        "twistLength": 0.46,
+        "gunMass": 4.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-creedmoor-n2-30",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-90 Sharps",
+          "barrelLength": "762,00 mm | 30 in",
+          "weight": "4,600 kg | 10.13 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps Infantry 30\"",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps Infantry 30\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps Infantry 30\"",
+        "length": 0.76,
+        "twistLength": 0.46,
+        "gunMass": 4.4,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-infantry-30",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "760,00 mm | 30 in",
+          "weight": "4,400 kg | 9.69 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps Old West \"Maple\" 30\"",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps Old West \"Maple\" 30\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps Old West \"Maple\" 30\"",
+        "length": 0.762,
+        "twistLength": 0.46,
+        "gunMass": 5.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-old-west-maple-30",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "762,00 mm | 30 in",
+          "weight": "5,200 kg | 11.46 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps Old West \"Walnut\" 30\"",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps Old West \"Walnut\" 30\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps Old West \"Walnut\" 30\"",
+        "length": 0.762,
+        "twistLength": 0.46,
+        "gunMass": 5.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-old-west-walnut-30",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "762,00 mm | 30 in",
+          "weight": "5,200 kg | 11.46 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps Silhouette 32\" .45-70 Gov.",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps Silhouette 32\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps Silhouette 32\" .45-70 Gov.",
+        "length": 0.813,
+        "twistLength": 0.46,
+        "gunMass": 4.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-silhouette-32",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "813,00 mm | 32 in",
+          "weight": "4,800 kg | 10.57 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps Silhouette 32\" .45-90 Sharps",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps Silhouette 32\"",
+      "cartridge": ".45-90 Sharps",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps Silhouette 32\" .45-90 Sharps",
+        "length": 0.813,
+        "twistLength": 0.46,
+        "gunMass": 4.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-silhouette-32",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-90 Sharps",
+          "barrelLength": "813,00 mm | 32 in",
+          "weight": "4,800 kg | 10.57 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 SHARPS SILHOUETTE LX .45-70",
+      "maker": "Davide Pedersoli",
+      "model": "1874 SHARPS SILHOUETTE LX .45-70",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 1874 SHARPS SILHOUETTE LX .45-70",
+        "length": 0.813,
+        "twistLength": 0.46,
+        "gunMass": 4.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-silhouette-lx-45-70",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "813,00 mm | 32 in",
+          "weight": "4,800 kg | 10.79 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps Sniper 30\"",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps Sniper 30\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps Sniper 30\"",
+        "length": 0.76,
+        "twistLength": 0.46,
+        "gunMass": 4.4,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-sniper-30",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "760,00 mm | 30 in",
+          "weight": "4,400 kg | 9.69 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps Sporting 32\" .45-70 Gov.",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps Sporting 32\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps Sporting 32\" .45-70 Gov.",
+        "length": 0.813,
+        "twistLength": 0.46,
+        "gunMass": 4.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-sporting-n3-32",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "813,00 mm | 32 in",
+          "weight": "4,800 kg | 10.57 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps Sporting 32\" .45-90 Sharps",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps Sporting 32\"",
+      "cartridge": ".45-90 Sharps",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps Sporting 32\" .45-90 Sharps",
+        "length": 0.813,
+        "twistLength": 0.46,
+        "gunMass": 4.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-sporting-n3-32",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-90 Sharps",
+          "barrelLength": "813,00 mm | 32 in",
+          "weight": "4,800 kg | 10.57 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps Sporting DELUXE .45-70 Gov.",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps Sporting DELUXE",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps Sporting DELUXE .45-70 Gov.",
+        "length": 0.813,
+        "twistLength": 0.46,
+        "gunMass": 4.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-sporting-lx-45-70",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "813,00 mm | 32 in",
+          "weight": "4,800 kg | 10.79 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps Sporting DELUXE .45-90 Sharps",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps Sporting DELUXE",
+      "cartridge": ".45-90 Sharps",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps Sporting DELUXE .45-90 Sharps",
+        "length": 0.813,
+        "twistLength": 0.46,
+        "gunMass": 4.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-sporting-lx-45-70",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-90 Sharps",
+          "barrelLength": "813,00 mm | 32 in",
+          "weight": "4,800 kg | 10.79 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1874 Sharps Sporting EXTRA DELUXE",
+      "maker": "Davide Pedersoli",
+      "model": "1874 Sharps Sporting EXTRA DELUXE",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 1874 Sharps Sporting EXTRA DELUXE",
+        "length": 0.813,
+        "twistLength": 0.46,
+        "gunMass": 4.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1874-sharps-sporting-llx-45-70",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "813,00 mm | 32 in",
+          "weight": "4,800 kg | 10.79 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1886 Lever Action Hunter Light",
+      "maker": "Davide Pedersoli",
+      "model": "1886 Lever Action Hunter Light",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 1886 Lever Action Hunter Light",
+        "length": 0.559,
+        "twistLength": 0.46,
+        "gunMass": 3.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1886-lever-action-hunter-light",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "559,00 mm | 22 in",
+          "weight": "3,300 kg | 7.11 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1886 Lever Action Sporting",
+      "maker": "Davide Pedersoli",
+      "model": "1886 Lever Action Sporting",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 1886 Lever Action Sporting",
+        "length": 0.66,
+        "twistLength": 0.46,
+        "gunMass": 4.5,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1886-lever-action-sporting",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "660,00 mm | 26 in",
+          "weight": "4,500 kg | 9.81 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli 1886 Lever Action Sporting Classic",
+      "maker": "Davide Pedersoli",
+      "model": "1886 Lever Action Sporting Classic",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli 1886 Lever Action Sporting Classic",
+        "length": 0.66,
+        "twistLength": 0.46,
+        "gunMass": 4.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/1886-lever-action-sporting-classic",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "660,00 mm | 26 in",
+          "weight": "4,200 kg | 9.26 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli CAR. SPRINGFIELD TRAPDOOR 45/70 EXTRA-LX",
+      "maker": "Davide Pedersoli",
+      "model": "CAR. SPRINGFIELD TRAPDOOR 45/70 EXTRA-LX",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli CAR. SPRINGFIELD TRAPDOOR 45/70 EXTRA-LX",
+        "length": 0.558,
+        "twistLength": 0.56,
+        "gunMass": 3.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/car-springfield-trapdoor-4570-extra-lx",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "558,00 mm | 22 in",
+          "weight": "3,300 kg | 7.27 lbs",
+          "twist": "560 mm | 1:22"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli CAR. SPRINGFIELD TRAPDOOR 45/70 LUX",
+      "maker": "Davide Pedersoli",
+      "model": "CAR. SPRINGFIELD TRAPDOOR 45/70 LUX",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli CAR. SPRINGFIELD TRAPDOOR 45/70 LUX",
+        "length": 0.558,
+        "twistLength": 0.56,
+        "gunMass": 3.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/car-springfield-trapdoor-4570-lux",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "558,00 mm | 22 in",
+          "weight": "3,300 kg | 7.27 lbs",
+          "twist": "560 mm | 1:22"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Kodiak Mark IV 22\" 8x57 mm JRS",
+      "maker": "Davide Pedersoli",
+      "model": "Kodiak Mark IV 22\"",
+      "cartridge": "8x57 mm JRS",
+      "barrel": {
+        "name": "Pedersoli Kodiak Mark IV 22\" 8x57 mm JRS",
+        "length": 0.56,
+        "twistLength": 0.25,
+        "gunMass": 4.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/kodiak-mark-iv-22",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "8x57 mm JRS",
+          "barrelLength": "560,00 mm | 22 in",
+          "weight": "4,300 kg | 9.69 lbs",
+          "twist": "250 mm | 1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Kodiak Mark IV 22\" 9,3x74 mm R",
+      "maker": "Davide Pedersoli",
+      "model": "Kodiak Mark IV 22\"",
+      "cartridge": "9,3x74 mm R",
+      "barrel": {
+        "name": "Pedersoli Kodiak Mark IV 22\" 9,3x74 mm R",
+        "length": 0.56,
+        "twistLength": 0.36,
+        "gunMass": 4.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/kodiak-mark-iv-22",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9,3x74 mm R",
+          "barrelLength": "560,00 mm | 22 in",
+          "weight": "4,300 kg | 9.69 lbs",
+          "twist": "360 mm | 1:14"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Kodiak Mark IV 24\" .45-70 Gov.",
+      "maker": "Davide Pedersoli",
+      "model": "Kodiak Mark IV 24\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli Kodiak Mark IV 24\" .45-70 Gov.",
+        "length": 0.61,
+        "twistLength": 0.46,
+        "gunMass": 4.5,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/kodiak-mark-iv-24",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "610,00 mm | 24 in",
+          "weight": "4,500 kg | 10.13 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Kodiak Mark IV 24\" .450 Nitro Express",
+      "maker": "Davide Pedersoli",
+      "model": "Kodiak Mark IV 24\"",
+      "cartridge": ".450 Nitro Express",
+      "barrel": {
+        "name": "Pedersoli Kodiak Mark IV 24\" .450 Nitro Express",
+        "length": 0.61,
+        "twistLength": 0.46,
+        "gunMass": 4.5,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/kodiak-mark-iv-24",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".450 Nitro Express",
+          "barrelLength": "610,00 mm | 24 in",
+          "weight": "4,500 kg | 10.13 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Kodiak Survivalist",
+      "maker": "Davide Pedersoli",
+      "model": "Kodiak Survivalist",
+      "cartridge": ".44 Rem. Mag.",
+      "barrel": {
+        "name": "Pedersoli Kodiak Survivalist",
+        "length": 0.46,
+        "twistLength": 0.508,
+        "gunMass": 2.605,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/kodiak-survivalist-44-rem-mag",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".44 Rem. Mag.",
+          "barrelLength": "460,00 mm | 18 1/8 in",
+          "weight": "2,605 kg | 5,73 lbs",
+          "twist": "508 mm | 1:20"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli M.86/71 LEVER ACTION CLASSIC DELUXE",
+      "maker": "Davide Pedersoli",
+      "model": "M.86/71 LEVER ACTION CLASSIC DELUXE",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli M.86/71 LEVER ACTION CLASSIC DELUXE",
+        "length": 0.61,
+        "twistLength": 0.46,
+        "gunMass": 3.7,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/m8671-lever-action-classic-deluxe",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "610,00 mm | 24 in",
+          "weight": "3,700 kg | 8.15 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Pedersoli High Wall Classic 30\"",
+      "maker": "Davide Pedersoli",
+      "model": "Pedersoli High Wall Classic 30\"",
+      "cartridge": ".38-55 WINCHESTER",
+      "barrel": {
+        "name": "Pedersoli Pedersoli High Wall Classic 30\"",
+        "length": 0.762,
+        "twistLength": 0.305,
+        "gunMass": 5.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/pedersoli-high-wall-classic-30",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".38-55 WINCHESTER",
+          "barrelLength": "762,00 mm | 30 in",
+          "weight": "5,300 kg | 11.67 lbs",
+          "twist": "305 mm | 1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Pedersoli High Wall Classic 32\" .45-70 Gov.",
+      "maker": "Davide Pedersoli",
+      "model": "Pedersoli High Wall Classic 32\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli Pedersoli High Wall Classic 32\" .45-70 Gov.",
+        "length": 0.813,
+        "twistLength": 0.46,
+        "gunMass": 5.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/pedersoli-high-wall-classic-32",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "813,00 mm | 32 in",
+          "weight": "5,300 kg | 11.67 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Pedersoli High Wall Classic 32\" .45-90 Sharps",
+      "maker": "Davide Pedersoli",
+      "model": "Pedersoli High Wall Classic 32\"",
+      "cartridge": ".45-90 Sharps",
+      "barrel": {
+        "name": "Pedersoli Pedersoli High Wall Classic 32\" .45-90 Sharps",
+        "length": 0.813,
+        "twistLength": 0.46,
+        "gunMass": 5.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/pedersoli-high-wall-classic-32",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-90 Sharps",
+          "barrelLength": "813,00 mm | 32 in",
+          "weight": "5,300 kg | 11.67 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Pedersoli High Wall Sporting 30\"",
+      "maker": "Davide Pedersoli",
+      "model": "Pedersoli High Wall Sporting 30\"",
+      "cartridge": ".38-55 WINCHESTER",
+      "barrel": {
+        "name": "Pedersoli Pedersoli High Wall Sporting 30\"",
+        "length": 0.762,
+        "twistLength": 0.305,
+        "gunMass": 5.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/pedersoli-high-wall-sporting-30",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".38-55 WINCHESTER",
+          "barrelLength": "762,00 mm | 30 in",
+          "weight": "5,300 kg | 11.67 lbs",
+          "twist": "305 mm | 1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Pedersoli High Wall Sporting 32\" .45-70 Gov.",
+      "maker": "Davide Pedersoli",
+      "model": "Pedersoli High Wall Sporting 32\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli Pedersoli High Wall Sporting 32\" .45-70 Gov.",
+        "length": 0.813,
+        "twistLength": 0.46,
+        "gunMass": 5.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/pedersoli-high-wall-sporting-32",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "813,00 mm | 32 in",
+          "weight": "5,300 kg | 11.67 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Pedersoli High Wall Sporting 32\" .45-90 Sharps",
+      "maker": "Davide Pedersoli",
+      "model": "Pedersoli High Wall Sporting 32\"",
+      "cartridge": ".45-90 Sharps",
+      "barrel": {
+        "name": "Pedersoli Pedersoli High Wall Sporting 32\" .45-90 Sharps",
+        "length": 0.813,
+        "twistLength": 0.46,
+        "gunMass": 5.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/pedersoli-high-wall-sporting-32",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-90 Sharps",
+          "barrelLength": "813,00 mm | 32 in",
+          "weight": "5,300 kg | 11.67 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Revolver Doc Holliday blued 4,2\"",
+      "maker": "Davide Pedersoli",
+      "model": "Revolver Doc Holliday blued 4,2\"",
+      "cartridge": ".38 Special",
+      "barrel": {
+        "name": "Pedersoli Revolver Doc Holliday blued 4,2\"",
+        "length": 0.107,
+        "twistLength": 0.45,
+        "gunMass": 0.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/revolver-doc-holliday-blued-42",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".38 Special",
+          "barrelLength": "107,00 mm | 4,2 in",
+          "weight": "0,800 kg | 1.76 lbs",
+          "twist": "450 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Revolver Doc Holliday blued 5\"",
+      "maker": "Davide Pedersoli",
+      "model": "Revolver Doc Holliday blued 5\"",
+      "cartridge": ".38 Special",
+      "barrel": {
+        "name": "Pedersoli Revolver Doc Holliday blued 5\"",
+        "length": 0.127,
+        "twistLength": 0.45,
+        "gunMass": 0.85,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/revolver-doc-holliday-blued-5",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".38 Special",
+          "barrelLength": "127,00 mm | 5 in",
+          "weight": "0,850 kg | 1.87 lbs",
+          "twist": "450 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Revolver Doc Holliday nickel 4,2\"",
+      "maker": "Davide Pedersoli",
+      "model": "Revolver Doc Holliday nickel 4,2\"",
+      "cartridge": ".38 Special",
+      "barrel": {
+        "name": "Pedersoli Revolver Doc Holliday nickel 4,2\"",
+        "length": 0.107,
+        "twistLength": 0.45,
+        "gunMass": 0.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/revolver-doc-holliday-nickel-42",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".38 Special",
+          "barrelLength": "107,00 mm | 4,2 in",
+          "weight": "0,800 kg | 1.76 lbs",
+          "twist": "450 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Revolver Doc Holliday nickel 5\"",
+      "maker": "Davide Pedersoli",
+      "model": "Revolver Doc Holliday nickel 5\"",
+      "cartridge": ".38 Special",
+      "barrel": {
+        "name": "Pedersoli Revolver Doc Holliday nickel 5\"",
+        "length": 0.127,
+        "twistLength": 0.45,
+        "gunMass": 0.85,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/revolver-doc-holliday-nickel-5",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".38 Special",
+          "barrelLength": "127,00 mm | 5 in",
+          "weight": "0,850 kg | 1.87 lbs",
+          "twist": "450 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Rolling Block \"Super Match\" 34\" .45-70 Gov.",
+      "maker": "Davide Pedersoli",
+      "model": "Rolling Block \"Super Match\" 34\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli Rolling Block \"Super Match\" 34\" .45-70 Gov.",
+        "length": 0.864,
+        "twistLength": 0.46,
+        "gunMass": 5.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/rolling-block-super-match-34",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "864,00 mm | 34 in",
+          "weight": "5,300 kg | 11.89 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Rolling Block \"Super Match\" 34\" .45-90 Sharps",
+      "maker": "Davide Pedersoli",
+      "model": "Rolling Block \"Super Match\" 34\"",
+      "cartridge": ".45-90 Sharps",
+      "barrel": {
+        "name": "Pedersoli Rolling Block \"Super Match\" 34\" .45-90 Sharps",
+        "length": 0.864,
+        "twistLength": 0.46,
+        "gunMass": 5.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/rolling-block-super-match-34",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-90 Sharps",
+          "barrelLength": "864,00 mm | 34 in",
+          "weight": "5,300 kg | 11.89 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Rolling Block Baby Carabine 20\"",
+      "maker": "Davide Pedersoli",
+      "model": "Rolling Block Baby Carabine 20\"",
+      "cartridge": ".357 Magnum",
+      "barrel": {
+        "name": "Pedersoli Rolling Block Baby Carabine 20\"",
+        "length": 0.508,
+        "twistLength": 0.46,
+        "gunMass": 3.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/rolling-block-baby-carabine-20",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Magnum",
+          "barrelLength": "508,00 mm | 20 in",
+          "weight": "3,600 kg | 7.93 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Rolling Block Long Range Creedmoor 30\" .45-70 Gov.",
+      "maker": "Davide Pedersoli",
+      "model": "Rolling Block Long Range Creedmoor 30\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli Rolling Block Long Range Creedmoor 30\" .45-70 Gov.",
+        "length": 0.762,
+        "twistLength": 0.46,
+        "gunMass": 4.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/rolling-block-long-range-creedmoor-30",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "762,00 mm | 30 in",
+          "weight": "4,600 kg | 10.35 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Rolling Block Long Range Creedmoor 30\" .45-90 Sharps",
+      "maker": "Davide Pedersoli",
+      "model": "Rolling Block Long Range Creedmoor 30\"",
+      "cartridge": ".45-90 Sharps",
+      "barrel": {
+        "name": "Pedersoli Rolling Block Long Range Creedmoor 30\" .45-90 Sharps",
+        "length": 0.762,
+        "twistLength": 0.46,
+        "gunMass": 4.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/rolling-block-long-range-creedmoor-30",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-90 Sharps",
+          "barrelLength": "762,00 mm | 30 in",
+          "weight": "4,600 kg | 10.35 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Rolling Block Silhouette 30\"",
+      "maker": "Davide Pedersoli",
+      "model": "Rolling Block Silhouette 30\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli Rolling Block Silhouette 30\"",
+        "length": 0.762,
+        "twistLength": 0.46,
+        "gunMass": 4.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/rolling-block-silhouette-30",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "762,00 mm | 30 in",
+          "weight": "4,600 kg | 10.13 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Rolling Block Sporting .30-30 Winchester",
+      "maker": "Davide Pedersoli",
+      "model": "Rolling Block Sporting",
+      "cartridge": ".30-30 Winchester",
+      "barrel": {
+        "name": "Pedersoli Rolling Block Sporting .30-30 Winchester",
+        "length": 0.711,
+        "twistLength": 0.306,
+        "gunMass": 3.9,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/rolling-block-sporting",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".30-30 Winchester",
+          "barrelLength": "711,00 mm | 28 in",
+          "weight": "3,900 kg | 8.81 lbs",
+          "twist": "306 mm | 1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Rolling Block Sporting .38-55 WINCHESTER",
+      "maker": "Davide Pedersoli",
+      "model": "Rolling Block Sporting",
+      "cartridge": ".38-55 WINCHESTER",
+      "barrel": {
+        "name": "Pedersoli Rolling Block Sporting .38-55 WINCHESTER",
+        "length": 0.711,
+        "twistLength": 0.46,
+        "gunMass": 3.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/rolling-block-sporting",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".38-55 WINCHESTER",
+          "barrelLength": "711,00 mm | 28 in",
+          "weight": "3,800 kg | 8.59 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Rolling Block Sporting .45-70 Gov.",
+      "maker": "Davide Pedersoli",
+      "model": "Rolling Block Sporting",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli Rolling Block Sporting .45-70 Gov.",
+        "length": 0.762,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/rolling-block-sporting",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "762 mm | 30\" in"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Rolling Block Target 30\" .45-70 Gov.",
+      "maker": "Davide Pedersoli",
+      "model": "Rolling Block Target 30\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli Rolling Block Target 30\" .45-70 Gov.",
+        "length": 0.762,
+        "twistLength": 0.46,
+        "gunMass": 4.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/rolling-block-target-30",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "762,00 mm | 30 in",
+          "weight": "4,600 kg | 10.13 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Rolling Block Target 30\" .357 Magnum",
+      "maker": "Davide Pedersoli",
+      "model": "Rolling Block Target 30\"",
+      "cartridge": ".357 Magnum",
+      "barrel": {
+        "name": "Pedersoli Rolling Block Target 30\" .357 Magnum",
+        "length": 0.762,
+        "twistLength": 0.46,
+        "gunMass": 4.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/rolling-block-target-30",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Magnum",
+          "barrelLength": "762,00 mm | 30 in",
+          "weight": "4,800 kg | 10.57 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Springfield Trapdoor Carabine 22\"",
+      "maker": "Davide Pedersoli",
+      "model": "Springfield Trapdoor Carabine 22\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli Springfield Trapdoor Carabine 22\"",
+        "length": 0.558,
+        "twistLength": 0.56,
+        "gunMass": 3.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/springfield-trapdoor-carabine-22",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "558,00 mm | 22 in",
+          "weight": "3,300 kg | 7.27 lbs",
+          "twist": "560 mm | 1:22"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Springfield Trapdoor Long Range Rifle 32\"",
+      "maker": "Davide Pedersoli",
+      "model": "Springfield Trapdoor Long Range Rifle 32\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli Springfield Trapdoor Long Range Rifle 32\"",
+        "length": 0.828,
+        "twistLength": 0.46,
+        "gunMass": 4.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/springfield-trapdoor-long-range-rifle-32",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "828,00 mm | 32 5/8 in",
+          "weight": "4,300 kg | 9.25 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Springfield Trapdoor Officer 26\"",
+      "maker": "Davide Pedersoli",
+      "model": "Springfield Trapdoor Officer 26\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli Springfield Trapdoor Officer 26\"",
+        "length": 0.66,
+        "twistLength": 0.46,
+        "gunMass": 3.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/springfield-trapdoor-officer-26",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "660,00 mm | 26 in",
+          "weight": "3,600 kg | 7.71 lbs",
+          "twist": "460 mm | 1:18"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Pedersoli Springfield Trapdoor Rifle 32\"",
+      "maker": "Davide Pedersoli",
+      "model": "Springfield Trapdoor Rifle 32\"",
+      "cartridge": ".45-70 Gov.",
+      "barrel": {
+        "name": "Pedersoli Springfield Trapdoor Rifle 32\"",
+        "length": 0.828,
+        "twistLength": 0.56,
+        "gunMass": 4.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Davide Pedersoli & C.",
+        "url": "https://www.davidepedersoli.com/prodotto/springfield-trapdoor-rifle-32",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45-70 Gov.",
+          "barrelLength": "828,00 mm | 32 5/8 in",
+          "weight": "4,100 kg | 8.81 lbs",
+          "twist": "560 mm | 1:22"
+        }
+      }
+    }
+  ]
+}

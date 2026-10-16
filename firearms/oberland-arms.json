@@ -1,0 +1,978 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by Oberland Arms GmbH; facts, released in this repository under CC0",
+    "source": "https://www.oberlandarms.com",
+    "file": "",
+    "author": "Oberland Arms GmbH",
+    "date": "2026-10-16",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 A4, Lauf 20\", BL M-LOK Handguard 13\" slim, OA M4-Schaft, BUIS, MFD",
+      "maker": "Oberland Arms",
+      "model": "OA-15 A4, Lauf 20\", BL M-LOK Handguard 13\" slim, OA M4-Schaft, BUIS, MFD",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 A4, Lauf 20\", BL M-LOK Handguard 13\" slim, OA M4-Schaft, BUIS, MFD",
+        "length": 0.51,
+        "gunMass": 3.4,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/black-label/337/oa-15-a4-lauf-20-bl-m-lok-handguard-13-slim-oa-m4-schaft-buis-mfd",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "20\" / 51cm",
+          "weight": "3,4kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 BL C4 Sport, mit BKA Bescheid zum sportlichen Schießen freigegeben!",
+      "maker": "Oberland Arms",
+      "model": "OA-15 BL C4 Sport, mit BKA Bescheid zum sportlichen Schießen freigegeben!",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 BL C4 Sport, mit BKA Bescheid zum sportlichen Schießen freigegeben!",
+        "length": 0.267,
+        "gunMass": 2.9,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/black-label/506/oa-15-bl-c4-sport-mit-bka-bescheid-zum-sportlichen-schiessen-freigegeben",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "10,5\" / 26,7cm",
+          "weight": "2,9kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 BL C4, Blood Diamond 10.5\" - moderne Interpretation des Themas XM177",
+      "maker": "Oberland Arms",
+      "model": "OA-15 BL C4, Blood Diamond 10.5\" - moderne Interpretation des Themas XM177",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 BL C4, Blood Diamond 10.5\" - moderne Interpretation des Themas XM177",
+        "length": 0.267,
+        "gunMass": 2.9,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/black-label/493/oa-15-bl-c4-blood-diamond-10.5-moderne-interpretation-des-themas-xm177",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "10,5\" / 26,7cm",
+          "weight": "2,9kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 BL C9 Sport 10.5\" mit BKA Bescheid zum sportlichen Schießen",
+      "maker": "Oberland Arms",
+      "model": "OA-15 BL C9 Sport 10.5\" mit BKA Bescheid zum sportlichen Schießen",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Oberland Arms OA-15 BL C9 Sport 10.5\" mit BKA Bescheid zum sportlichen Schießen",
+        "length": 0.267,
+        "gunMass": 3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/kal.-9mm/537/oa-15-bl-c9-sport-10.5-mit-bka-bescheid-zum-sportlichen-schiessen",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "10,5\" / 26,7cm",
+          "weight": "3,0kg",
+          "caliber": "9mm Luger / 9x19mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 BL C9, 10,5\", BL M-LOK Handguard 9\" slim, OA M4-Schaft, BUIS",
+      "maker": "Oberland Arms",
+      "model": "OA-15 BL C9, 10,5\", BL M-LOK Handguard 9\" slim, OA M4-Schaft, BUIS",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Oberland Arms OA-15 BL C9, 10,5\", BL M-LOK Handguard 9\" slim, OA M4-Schaft, BUIS",
+        "length": 0.267,
+        "gunMass": 3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/kal.-9mm/358/oa-15-bl-c9-10-5-bl-m-lok-handguard-9-slim-oa-m4-schaft-buis",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "10,5\" / 26,7cm",
+          "weight": "3,0kg",
+          "caliber": "9mm Luger / 9x19mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 BL Classic A4 20\", A2 Frontsight, A3 Carryhandle, M4-Handguard, A2 Hinterschaft",
+      "maker": "Oberland Arms",
+      "model": "OA-15 BL Classic A4 20\", A2 Frontsight, A3 Carryhandle, M4-Handguard, A2 Hinterschaft",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 BL Classic A4 20\", A2 Frontsight, A3 Carryhandle, M4-Handguard, A2 Hinterschaft",
+        "length": 0.51,
+        "gunMass": 3.4,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/black-label/341/oa-15-bl-classic-a4-20-a2-frontsight-a3-carryhandle-m4-handguard-a2-hinterschaft",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "20\" / 51cm",
+          "weight": "3,4kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 BL Classic C4, 10,5\", A2 Frontsight, A3 Carryhandle, M4-Handguard, OA M4-Schaft",
+      "maker": "Oberland Arms",
+      "model": "OA-15 BL Classic C4, 10,5\", A2 Frontsight, A3 Carryhandle, M4-Handguard, OA M4-Schaft",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 BL Classic C4, 10,5\", A2 Frontsight, A3 Carryhandle, M4-Handguard, OA M4-Schaft",
+        "length": 0.267,
+        "gunMass": 2.9,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/black-label/338/oa-15-bl-classic-c4-10-5-a2-frontsight-a3-carryhandle-m4-handguard-oa-m4-schaft",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "10,5\" / 26,7cm",
+          "weight": "2,9kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 BL Classic M4, 14,5\", A2 Frontsight, A3 Carryhandle, M4-Handguard, OA M4-Schaft",
+      "maker": "Oberland Arms",
+      "model": "OA-15 BL Classic M4, 14,5\", A2 Frontsight, A3 Carryhandle, M4-Handguard, OA M4-Schaft",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 BL Classic M4, 14,5\", A2 Frontsight, A3 Carryhandle, M4-Handguard, OA M4-Schaft",
+        "length": 0.368,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/black-label/339/oa-15-bl-classic-m4-14-5-a2-frontsight-a3-carryhandle-m4-handguard-oa-m4-schaft",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "14,5\" / 36,8cm",
+          "weight": "3,1kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 BL Classic M5, 16,75\", A2 Frontsight, A3 Carryhandle, M4-Handguard, OA M4-Schaft",
+      "maker": "Oberland Arms",
+      "model": "OA-15 BL Classic M5, 16,75\", A2 Frontsight, A3 Carryhandle, M4-Handguard, OA M4-Schaft",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 BL Classic M5, 16,75\", A2 Frontsight, A3 Carryhandle, M4-Handguard, OA M4-Schaft",
+        "length": 0.4065,
+        "gunMass": 3.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/black-label/340/oa-15-bl-classic-m5-16-75-a2-frontsight-a3-carryhandle-m4-handguard-oa-m4-schaft",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "16\" / 40,65cm",
+          "weight": "3,2kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 BL M4 Sport, mit BKA Bescheid zum sportlichen Schießen freigegeben!",
+      "maker": "Oberland Arms",
+      "model": "OA-15 BL M4 Sport, mit BKA Bescheid zum sportlichen Schießen freigegeben!",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 BL M4 Sport, mit BKA Bescheid zum sportlichen Schießen freigegeben!",
+        "length": 0.368,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/black-label/508/oa-15-bl-m4-sport-mit-bka-bescheid-zum-sportlichen-schiessen-freigegeben",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "14,5\" / 36,8cm",
+          "weight": "3,1kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 BL M12 Sport, mit BKA Bescheid zum sportlichen Schießen freigegeben!",
+      "maker": "Oberland Arms",
+      "model": "OA-15 BL M12 Sport, mit BKA Bescheid zum sportlichen Schießen freigegeben!",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 BL M12 Sport, mit BKA Bescheid zum sportlichen Schießen freigegeben!",
+        "length": 0.317,
+        "gunMass": 2.9,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/black-label/507/oa-15-bl-m12-sport-mit-bka-bescheid-zum-sportlichen-schiessen-freigegeben",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "12,5\" / 317mm",
+          "weight": "2,9kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 BL M12, Lauf 12,5\", BL M-LOK Handguard 11.5\" slim, OA M4-Schaft, BUIS, MFD",
+      "maker": "Oberland Arms",
+      "model": "OA-15 BL M12, Lauf 12,5\", BL M-LOK Handguard 11.5\" slim, OA M4-Schaft, BUIS, MFD",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 BL M12, Lauf 12,5\", BL M-LOK Handguard 11.5\" slim, OA M4-Schaft, BUIS, MFD",
+        "length": 0.317,
+        "gunMass": 2.9,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/black-label/494/oa-15-bl-m12-lauf-12-5-bl-m-lok-handguard-11.5-slim-oa-m4-schaft-buis-mfd",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "12,5\" / 317mm",
+          "weight": "2,9kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 C4, Lauf 10,5\", BL M-LOK Handguard 9\" slim, OA M4-Schaft, BUIS, MFD",
+      "maker": "Oberland Arms",
+      "model": "OA-15 C4, Lauf 10,5\", BL M-LOK Handguard 9\" slim, OA M4-Schaft, BUIS, MFD",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 C4, Lauf 10,5\", BL M-LOK Handguard 9\" slim, OA M4-Schaft, BUIS, MFD",
+        "length": 0.267,
+        "gunMass": 2.9,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/black-label/334/oa-15-c4-lauf-10-5-bl-m-lok-handguard-9-slim-oa-m4-schaft-buis-mfd",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "10,5\" / 26,7cm",
+          "weight": "2,9kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 G96c - Custom Shop Design, Lauf 12.5\", Topausstattung",
+      "maker": "Oberland Arms",
+      "model": "OA-15 G96c - Custom Shop Design, Lauf 12.5\", Topausstattung",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 G96c - Custom Shop Design, Lauf 12.5\", Topausstattung",
+        "length": 0.3175,
+        "gunMass": 3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/premium-series/466/oa-15-g96c-custom-shop-design-lauf-12.5-topausstattung",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "12,5\" / 317,5mm",
+          "weight": "ca. 3,0kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 G96k - Custom Shop Design, Lauf 14.5\", Topausstattung",
+      "maker": "Oberland Arms",
+      "model": "OA-15 G96k - Custom Shop Design, Lauf 14.5\", Topausstattung",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 G96k - Custom Shop Design, Lauf 14.5\", Topausstattung",
+        "length": 0.368,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/premium-series/478/oa-15-g96k-custom-shop-design-lauf-14.5-topausstattung",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "14,5\" / 368mm",
+          "weight": "ca. 3,1kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 GC - Gordon Carbine 12.5 - Custom Shop Design, Lauf 12.5\", Clone des Colt Carbine",
+      "maker": "Oberland Arms",
+      "model": "OA-15 GC - Gordon Carbine 12.5 - Custom Shop Design, Lauf 12.5\", Clone des Colt Carbine",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 GC - Gordon Carbine 12.5 - Custom Shop Design, Lauf 12.5\", Clone des Colt Carbine",
+        "length": 0.317,
+        "gunMass": 3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/premium-series/482/oa-15-gc-gordon-carbine-12.5-custom-shop-design-lauf-12.5-clone-des-colt-carbine",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "12,5\" / 317mm",
+          "weight": "ca. 3,0kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 M4, Lauf 14,5\", BL M-LOK Handguard 13\" slim, OA M4-Schaft, BUIS, MFD",
+      "maker": "Oberland Arms",
+      "model": "OA-15 M4, Lauf 14,5\", BL M-LOK Handguard 13\" slim, OA M4-Schaft, BUIS, MFD",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 M4, Lauf 14,5\", BL M-LOK Handguard 13\" slim, OA M4-Schaft, BUIS, MFD",
+        "length": 0.368,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/black-label/335/oa-15-m4-lauf-14-5-bl-m-lok-handguard-13-slim-oa-m4-schaft-buis-mfd",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "14,5\" / 36,8cm",
+          "weight": "3,1kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 M5, Lauf 16,75\", BL M-LOK Handguard 13\" slim, OA M4-Schaft, BUIS, MFD",
+      "maker": "Oberland Arms",
+      "model": "OA-15 M5, Lauf 16,75\", BL M-LOK Handguard 13\" slim, OA M4-Schaft, BUIS, MFD",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 M5, Lauf 16,75\", BL M-LOK Handguard 13\" slim, OA M4-Schaft, BUIS, MFD",
+        "length": 0.4065,
+        "gunMass": 3.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/black-label/336/oa-15-m5-lauf-16-75-bl-m-lok-handguard-13-slim-oa-m4-schaft-buis-mfd",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "16\" / 40,65cm",
+          "weight": "3,2kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 M10, 10,7\", OA MDR M-LOK Handguard 9,5\", OA M4-Schaft, BUIS, MFD...",
+      "maker": "Oberland Arms",
+      "model": "OA-15 M10, 10,7\", OA MDR M-LOK Handguard 9,5\", OA M4-Schaft, BUIS, MFD...",
+      "cartridge": ".300 AAC Blackout",
+      "barrel": {
+        "name": "Oberland Arms OA-15 M10, 10,7\", OA MDR M-LOK Handguard 9,5\", OA M4-Schaft, BUIS, MFD...",
+        "length": 0.272,
+        "gunMass": 2.9,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/kal..300blk/362/oa-15-m10-10-7-oa-mdr-m-lok-handguard-9-5-oa-m4-schaft-buis-mfd...",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "10,7\" / 27,2cm",
+          "weight": "2,9kg",
+          "caliber": ".300BLK (Blackout)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 P9, 7\" Lauf, Kal. 9mmLuger (Kurzwaffe), OA MSR Handgaurd 5,5\", OA M4-Leichtschaft, BUIS...",
+      "maker": "Oberland Arms",
+      "model": "OA-15 P9, 7\" Lauf, Kal. 9mmLuger (Kurzwaffe), OA MSR Handgaurd 5,5\", OA M4-Leichtschaft, BUIS...",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Oberland Arms OA-15 P9, 7\" Lauf, Kal. 9mmLuger (Kurzwaffe), OA MSR Handgaurd 5,5\", OA M4-Leichtschaft, BUIS...",
+        "length": 0.178,
+        "gunMass": 2.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/kal.-9mm/361/oa-15-p9-7-lauf-kal.-9mmluger-kurzwaffe-oa-msr-handgaurd-5-5-oa-m4-leichtschaft-buis...",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "7\" / 17,8cm (Lauf Cerakote schwarz beschichtet)",
+          "weight": "2,6kg",
+          "caliber": "9mm Luger / 9x19mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 PR DMR, Lauf 20\", OA MDR M-LOK Handguard 13\", OA M4-Schaft BUIS, Triggertech Duty Trigger , MF",
+      "maker": "Oberland Arms",
+      "model": "OA-15 PR DMR, Lauf 20\", OA MDR M-LOK Handguard 13\", OA M4-Schaft BUIS, Triggertech Duty Trigger , MF",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 PR DMR, Lauf 20\", OA MDR M-LOK Handguard 13\", OA M4-Schaft BUIS, Triggertech Duty Trigger , MF",
+        "length": 0.51,
+        "gunMass": 3.7,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/premium-series/345/oa-15-pr-dmr-lauf-20-oa-mdr-m-lok-handguard-13-oa-m4-schaft-buis-triggertech-duty-trigger-mf",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "20\" / 51cm",
+          "weight": "3,7kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 PR M4 Sport mit BKA Bescheid für das sportliche Schießen",
+      "maker": "Oberland Arms",
+      "model": "OA-15 PR M4 Sport mit BKA Bescheid für das sportliche Schießen",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 PR M4 Sport mit BKA Bescheid für das sportliche Schießen",
+        "length": 0.368,
+        "gunMass": 3.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/premium-series/540/oa-15-pr-m4-sport-mit-bka-bescheid-fuer-das-sportliche-schiessen",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "14,5\" / 368mm",
+          "weight": "3,2kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 PR M4, Lauf 14,5\", OA MDR M-LOK Handguard 13\", OA M4-Schaft BUIS, MFD",
+      "maker": "Oberland Arms",
+      "model": "OA-15 PR M4, Lauf 14,5\", OA MDR M-LOK Handguard 13\", OA M4-Schaft BUIS, MFD",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 PR M4, Lauf 14,5\", OA MDR M-LOK Handguard 13\", OA M4-Schaft BUIS, MFD",
+        "length": 0.368,
+        "gunMass": 3.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/premium-series/471/oa-15-pr-m4-lauf-14-5-oa-mdr-m-lok-handguard-13-oa-m4-schaft-buis-mfd",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "14,5\" / 368mm",
+          "weight": "3,2kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 PR M5, Lauf 16,75\", OA MDR M-LOK Handguard 13\", OA M4-Schaft BUIS, MFD",
+      "maker": "Oberland Arms",
+      "model": "OA-15 PR M5, Lauf 16,75\", OA MDR M-LOK Handguard 13\", OA M4-Schaft BUIS, MFD",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 PR M5, Lauf 16,75\", OA MDR M-LOK Handguard 13\", OA M4-Schaft BUIS, MFD",
+        "length": 0.4065,
+        "gunMass": 3.4,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/premium-series/344/oa-15-pr-m5-lauf-16-75-oa-mdr-m-lok-handguard-13-oa-m4-schaft-buis-mfd",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "16\" / 40,65cm",
+          "weight": "3,4kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 PR M7 Sport 8\" mit BKA Bescheid für das sportliche Schießen",
+      "maker": "Oberland Arms",
+      "model": "OA-15 PR M7 Sport 8\" mit BKA Bescheid für das sportliche Schießen",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 PR M7 Sport 8\" mit BKA Bescheid für das sportliche Schießen",
+        "length": 0.2,
+        "gunMass": 2.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/premium-series/539/oa-15-pr-m7-sport-8-mit-bka-bescheid-fuer-das-sportliche-schiessen",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "8\" / 20cm",
+          "weight": "2,8kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 PR M7, Lauf 8\", OA MDR M-LOK Handguard 7\", OA M4-Schaft, BUIS, MFD",
+      "maker": "Oberland Arms",
+      "model": "OA-15 PR M7, Lauf 8\", OA MDR M-LOK Handguard 7\", OA M4-Schaft, BUIS, MFD",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 PR M7, Lauf 8\", OA MDR M-LOK Handguard 7\", OA M4-Schaft, BUIS, MFD",
+        "length": 0.2,
+        "gunMass": 2.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/premium-series/346/oa-15-pr-m7-lauf-8-oa-mdr-m-lok-handguard-7-oa-m4-schaft-buis-mfd",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "8\" / 20cm",
+          "weight": "2,8kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 PR M8 Sport 10.5\" mit BKA Bescheid für das sportliche Schießen",
+      "maker": "Oberland Arms",
+      "model": "OA-15 PR M8 Sport 10.5\" mit BKA Bescheid für das sportliche Schießen",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 PR M8 Sport 10.5\" mit BKA Bescheid für das sportliche Schießen",
+        "length": 0.254,
+        "gunMass": 2.9,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/premium-series/538/oa-15-pr-m8-sport-10.5-mit-bka-bescheid-fuer-das-sportliche-schiessen",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "10\" / 25,4cm",
+          "weight": "2,9kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 PR M8, Lauf 10\", OA MDR M-LOK Handguard 9,5\", OA M4-Schaft, BUIS, MFD",
+      "maker": "Oberland Arms",
+      "model": "OA-15 PR M8, Lauf 10\", OA MDR M-LOK Handguard 9,5\", OA M4-Schaft, BUIS, MFD",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 PR M8, Lauf 10\", OA MDR M-LOK Handguard 9,5\", OA M4-Schaft, BUIS, MFD",
+        "length": 0.254,
+        "gunMass": 2.9,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/premium-series/347/oa-15-pr-m8-lauf-10-oa-mdr-m-lok-handguard-9-5-oa-m4-schaft-buis-mfd",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "10\" / 25,4cm",
+          "weight": "2,9kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 PR M9 SHORT, 12\" Heavy Barrel, OA MSR Handguard 9,5\", beids. Sicherung, OA M4-Schaft, BUIS ...",
+      "maker": "Oberland Arms",
+      "model": "OA-15 PR M9 SHORT, 12\" Heavy Barrel, OA MSR Handguard 9,5\", beids. Sicherung, OA M4-Schaft, BUIS ...",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Oberland Arms OA-15 PR M9 SHORT, 12\" Heavy Barrel, OA MSR Handguard 9,5\", beids. Sicherung, OA M4-Schaft, BUIS ...",
+        "length": 0.3,
+        "gunMass": 2.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/kal.-9mm/360/oa-15-pr-m9-short-12-heavy-barrel-oa-msr-handguard-9-5-beids.-sicherung-oa-m4-schaft-buis...",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "12\" / 300mm",
+          "weight": "2,8kg",
+          "caliber": "9mm Luger / 9x19mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 PR M9, 16.75\" Heavy Barrel, OA MSR Handguard 13\", beids. Sicherung, OA M4-Schaft, BUIS ...",
+      "maker": "Oberland Arms",
+      "model": "OA-15 PR M9, 16.75\" Heavy Barrel, OA MSR Handguard 13\", beids. Sicherung, OA M4-Schaft, BUIS ...",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Oberland Arms OA-15 PR M9, 16.75\" Heavy Barrel, OA MSR Handguard 13\", beids. Sicherung, OA M4-Schaft, BUIS ...",
+        "length": 0.42545,
+        "gunMass": 3.5,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/kal.-9mm/472/oa-15-pr-m9-16.75-heavy-barrel-oa-msr-handguard-13-beids.-sicherung-oa-m4-schaft-buis...",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "16.75\" / 425mm",
+          "weight": "3,5kg",
+          "caliber": "9mm Luger / 9x19mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 PR M11, 12.5\" Heavy Barrel, OA MSR Handguard 9,5\", beids. Sicherung, OA M4-Schaft, Mündungsgew",
+      "maker": "Oberland Arms",
+      "model": "OA-15 PR M11, 12.5\" Heavy Barrel, OA MSR Handguard 9,5\", beids. Sicherung, OA M4-Schaft, Mündungsgew",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 PR M11, 12.5\" Heavy Barrel, OA MSR Handguard 9,5\", beids. Sicherung, OA M4-Schaft, Mündungsgew",
+        "length": 0.317,
+        "gunMass": 3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/premium-series/349/oa-15-pr-m11-12.5-heavy-barrel-oa-msr-handguard-9-5-beids.-sicherung-oa-m4-schaft-muendungsgew",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "12.5\" / 317mm",
+          "weight": "3,0kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 PR Super Match, 20\" Bull Barrel Matchlauf, OA MDR M-LOK Handguard 13\", OA Sportschaft fix...",
+      "maker": "Oberland Arms",
+      "model": "OA-15 PR Super Match, 20\" Bull Barrel Matchlauf, OA MDR M-LOK Handguard 13\", OA Sportschaft fix...",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 PR Super Match, 20\" Bull Barrel Matchlauf, OA MDR M-LOK Handguard 13\", OA Sportschaft fix...",
+        "length": 0.51,
+        "gunMass": 4.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/premium-series/348/oa-15-pr-super-match-20-bull-barrel-matchlauf-oa-mdr-m-lok-handguard-13-oa-sportschaft-fix...",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "20\" / 51cm",
+          "weight": "4,2kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 SL10, Lauf 10\", OA MDR M-LOK Handguard 9,5\", OA M4-Leichtschaft, MFD, BUIS",
+      "maker": "Oberland Arms",
+      "model": "OA-15 SL10, Lauf 10\", OA MDR M-LOK Handguard 9,5\", OA M4-Leichtschaft, MFD, BUIS",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 SL10, Lauf 10\", OA MDR M-LOK Handguard 9,5\", OA M4-Leichtschaft, MFD, BUIS",
+        "length": 0.254,
+        "gunMass": 2.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/premium-super-light/350/oa-15-sl10-lauf-10-oa-mdr-m-lok-handguard-9-5-oa-m4-leichtschaft-mfd-buis",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "10\" / 25,4cm",
+          "weight": "2,6kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 SL14, Lauf 14\", OA MDR M-LOK Handguard 13\", OA M4-Leichtschaft, BUIS, MFD",
+      "maker": "Oberland Arms",
+      "model": "OA-15 SL14, Lauf 14\", OA MDR M-LOK Handguard 13\", OA M4-Leichtschaft, BUIS, MFD",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 SL14, Lauf 14\", OA MDR M-LOK Handguard 13\", OA M4-Leichtschaft, BUIS, MFD",
+        "length": 0.368,
+        "gunMass": 2.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/premium-super-light/351/oa-15-sl14-lauf-14-oa-mdr-m-lok-handguard-13-oa-m4-leichtschaft-buis-mfd",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "14,5\" / 36,8cm",
+          "weight": "2,8kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 SL16, Lauf 16,75\", OA MDR M-LOK Handguard 13\", OA M4-Leichtschaft, BUIS, MFD",
+      "maker": "Oberland Arms",
+      "model": "OA-15 SL16, Lauf 16,75\", OA MDR M-LOK Handguard 13\", OA M4-Leichtschaft, BUIS, MFD",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 SL16, Lauf 16,75\", OA MDR M-LOK Handguard 13\", OA M4-Leichtschaft, BUIS, MFD",
+        "length": 0.425,
+        "gunMass": 2.9,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/premium-super-light/473/oa-15-sl16-lauf-16-75-oa-mdr-m-lok-handguard-13-oa-m4-leichtschaft-buis-mfd",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "16.75 Zoll / 425mm",
+          "weight": "2,9kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 SPR MK12 Mod.0 - Custom Shop Design, Lauf 18\", exzellenter Nachbau des SPR MK12 Mod0",
+      "maker": "Oberland Arms",
+      "model": "OA-15 SPR MK12 Mod.0 - Custom Shop Design, Lauf 18\", exzellenter Nachbau des SPR MK12 Mod0",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 SPR MK12 Mod.0 - Custom Shop Design, Lauf 18\", exzellenter Nachbau des SPR MK12 Mod0",
+        "length": 0.4572,
+        "gunMass": 4.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/premium-series/483/oa-15-spr-mk12-mod.0-custom-shop-design-lauf-18-exzellenter-nachbau-des-spr-mk12-mod0",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "18\" / 457,2mm",
+          "weight": "ca. 4,1kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Oberland Arms OA-15 XM177 Sport - Lauf 16.5\", fest montierter XM MFD, Lothar Walther LW50 Stainless Steel...",
+      "maker": "Oberland Arms",
+      "model": "OA-15 XM177 Sport - Lauf 16.5\", fest montierter XM MFD, Lothar Walther LW50 Stainless Steel...",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Oberland Arms OA-15 XM177 Sport - Lauf 16.5\", fest montierter XM MFD, Lothar Walther LW50 Stainless Steel...",
+        "length": 0.425,
+        "gunMass": 3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Oberland Arms GmbH",
+        "url": "https://www.oberlandarms.com/waffen/premium-series/579/oa-15-xm177-sport-lauf-16.5-fest-montierter-xm-mfd-lothar-walther-lw50-stainless-steel...",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "16.5\" / 425mm",
+          "weight": "ca. 3,0kg",
+          "caliber": ".223Rem./5,56x45mm"
+        }
+      }
+    }
+  ]
+}
