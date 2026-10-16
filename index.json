@@ -303,6 +303,12 @@
    "sha256": "1700dcba20fc8abf98bba5c116529d3b3f31c9f4c8c583ead11d8b38cc54c592"
   },
   {
+   "path": "firearms/desert-tech.json",
+   "kind": "firearm",
+   "name": "Desert Tech",
+   "sha256": "8e3165a15b5621ad7f4985ef58dbe7056c1ed8aaa5f0c0980c937f1f0b5f6467"
+  },
+  {
    "path": "firearms/glock.json",
    "kind": "firearm",
    "name": "Glock",
