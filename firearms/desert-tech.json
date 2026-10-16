@@ -1,0 +1,2219 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by Desert Tech; facts, released in this repository under CC0",
+    "source": "https://deserttech.com",
+    "file": "",
+    "author": "Desert Tech",
+    "date": "2026-10-16",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech HTI Rifle .50 BMG 29\" (HTI-RF-D-BB)",
+      "maker": "Desert Tech",
+      "model": "HTI Rifle",
+      "cartridge": ".50 BMG",
+      "barrel": {
+        "name": "Desert Tech HTI Rifle .50 BMG 29\" (HTI-RF-D-BB)",
+        "length": 0.7366,
+        "gunMass": 8.845051215,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/hti-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "HTI-RF-D-BB",
+          "caliber": ".50 BMG",
+          "barrelLength": "29\"",
+          "weight": "19.5lb",
+          "twist": "1:10.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech HTI Rifle .50 BMG 29\" (HTI-RF-D-FF)",
+      "maker": "Desert Tech",
+      "model": "HTI Rifle",
+      "cartridge": ".50 BMG",
+      "barrel": {
+        "name": "Desert Tech HTI Rifle .50 BMG 29\" (HTI-RF-D-FF)",
+        "length": 0.7366,
+        "gunMass": 8.845051215,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/hti-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "HTI-RF-D-FF",
+          "caliber": ".50 BMG",
+          "barrelLength": "29\"",
+          "weight": "19.5lb",
+          "twist": "1:10.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech HTI Rifle .375 CheyTac 29\" (HTI-RF-A-BB)",
+      "maker": "Desert Tech",
+      "model": "HTI Rifle",
+      "cartridge": ".375 CheyTac",
+      "barrel": {
+        "name": "Desert Tech HTI Rifle .375 CheyTac 29\" (HTI-RF-A-BB)",
+        "length": 0.7366,
+        "gunMass": 8.845051215,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/hti-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "HTI-RF-A-BB",
+          "caliber": ".375 CheyTac",
+          "barrelLength": "29\"",
+          "weight": "19.5lb",
+          "twist": "1:10.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech HTI Rifle .375 CheyTac 29\" (HTI-RF-A-FF)",
+      "maker": "Desert Tech",
+      "model": "HTI Rifle",
+      "cartridge": ".375 CheyTac",
+      "barrel": {
+        "name": "Desert Tech HTI Rifle .375 CheyTac 29\" (HTI-RF-A-FF)",
+        "length": 0.7366,
+        "gunMass": 8.845051215,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/hti-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "HTI-RF-A-FF",
+          "caliber": ".375 CheyTac",
+          "barrelLength": "29\"",
+          "weight": "19.5lb",
+          "twist": "1:10.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle .300 BLK 16\" (MDR-RF-D1630-FE-B)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": ".300 BLK",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle .300 BLK 16\" (MDR-RF-D1630-FE-B)",
+        "length": 0.4064,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-D1630-FE-B",
+          "caliber": ".300 BLK",
+          "barrelLength": "16\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle .300 BLK 16\" (MDR-RF-D1630-FE-F)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": ".300 BLK",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle .300 BLK 16\" (MDR-RF-D1630-FE-F)",
+        "length": 0.4064,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-D1630-FE-F",
+          "caliber": ".300 BLK",
+          "barrelLength": "16\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 16\" (MDR-RF-B1630-FE-B)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 16\" (MDR-RF-B1630-FE-B)",
+        "length": 0.4064,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-B1630-FE-B",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "16\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 16\" (MDR-RF-B1630-FE-F)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 16\" (MDR-RF-B1630-FE-F)",
+        "length": 0.4064,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-B1630-FE-F",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "16\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 16\" (MDR-RF-B1630-FE-T)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 16\" (MDR-RF-B1630-FE-T)",
+        "length": 0.4064,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-B1630-FE-T",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "16\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 16\" (MDR-RF-B1630-SE-B)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 16\" (MDR-RF-B1630-SE-B)",
+        "length": 0.4064,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-B1630-SE-B",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "16\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 16\" (MDR-RF-B1630-SE-F)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 16\" (MDR-RF-B1630-SE-F)",
+        "length": 0.4064,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-B1630-SE-F",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "16\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 16\" (MDR-RF-B1630-SE-T)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 16\" (MDR-RF-B1630-SE-T)",
+        "length": 0.4064,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-B1630-SE-T",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "16\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 20\" (MDR-RF-B2010-FE-T)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 20\" (MDR-RF-B2010-FE-T)",
+        "length": 0.508,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-B2010-FE-T",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "20\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 20\" (MDR-RF-B2010-FEC-B)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 20\" (MDR-RF-B2010-FEC-B)",
+        "length": 0.508,
+        "gunMass": 4.127690567,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-B2010-FEC-B",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "20\"",
+          "weight": "9.1lb",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 20\" (MDR-RF-B2010-FEC-F)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 20\" (MDR-RF-B2010-FEC-F)",
+        "length": 0.508,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-B2010-FEC-F",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "20\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 20\" (MDR-RF-B2010-FEC-T)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 20\" (MDR-RF-B2010-FEC-T)",
+        "length": 0.508,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-B2010-FEC-T",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "20\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 20\" (MDR-RF-B2010-SEC-B)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 20\" (MDR-RF-B2010-SEC-B)",
+        "length": 0.508,
+        "gunMass": 3.864606992,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-B2010-SEC-B",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "20\"",
+          "weight": "8.52lb",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 20\" (MDR-RF-B2030-FE-T)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 20\" (MDR-RF-B2030-FE-T)",
+        "length": 0.508,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-B2030-FE-T",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "20\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 20\" (MDR-RF-B2030-SE-B)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 20\" (MDR-RF-B2030-SE-B)",
+        "length": 0.508,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-B2030-SE-B",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "20\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 20\" (MDR-RF-B2030-SE-F)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 20\" (MDR-RF-B2030-SE-F)",
+        "length": 0.508,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-B2030-SE-F",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "20\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 20\" (MDR-RF-B2030-SE-T)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 5.56 NATO / .223 Rem 20\" (MDR-RF-B2030-SE-T)",
+        "length": 0.508,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-B2030-SE-T",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "20\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 6.5 Creedmoor 20\" (MDR-RF-C2010-FE-F)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 6.5 Creedmoor 20\" (MDR-RF-C2010-FE-F)",
+        "length": 0.508,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-C2010-FE-F",
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "20\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 6.5 Creedmoor 20\" (MDR-RF-C2010-FEC-F)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 6.5 Creedmoor 20\" (MDR-RF-C2010-FEC-F)",
+        "length": 0.508,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-C2010-FEC-F",
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "20\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 6.5 Creedmoor 20\" (MDR-RF-C2020-FE-F)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 6.5 Creedmoor 20\" (MDR-RF-C2020-FE-F)",
+        "length": 0.508,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-C2020-FE-F",
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "20\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 7.62 NATO / .308 Win 16\" (MDR-RF-A1610-FE-T)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "7.62 NATO / .308 Win",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 7.62 NATO / .308 Win 16\" (MDR-RF-A1610-FE-T)",
+        "length": 0.4064,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-A1610-FE-T",
+          "caliber": "7.62 NATO / .308 Win",
+          "barrelLength": "16\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 7.62 NATO / .308 Win 16\" (MDR-RF-A1620-FE-B)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "7.62 NATO / .308 Win",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 7.62 NATO / .308 Win 16\" (MDR-RF-A1620-FE-B)",
+        "length": 0.4064,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-A1620-FE-B",
+          "caliber": "7.62 NATO / .308 Win",
+          "barrelLength": "16\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 7.62 NATO / .308 Win 16\" (MDR-RF-A1620-FE-F)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "7.62 NATO / .308 Win",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 7.62 NATO / .308 Win 16\" (MDR-RF-A1620-FE-F)",
+        "length": 0.4064,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-A1620-FE-F",
+          "caliber": "7.62 NATO / .308 Win",
+          "barrelLength": "16\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 7.62 NATO / .308 Win 16\" (MDR-RF-A1620-FE-T)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "7.62 NATO / .308 Win",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 7.62 NATO / .308 Win 16\" (MDR-RF-A1620-FE-T)",
+        "length": 0.4064,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-A1620-FE-T",
+          "caliber": "7.62 NATO / .308 Win",
+          "barrelLength": "16\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 7.62 NATO / .308 Win 20\" (MDR-RF-A2010-FE-B)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "7.62 NATO / .308 Win",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 7.62 NATO / .308 Win 20\" (MDR-RF-A2010-FE-B)",
+        "length": 0.508,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-A2010-FE-B",
+          "caliber": "7.62 NATO / .308 Win",
+          "barrelLength": "20\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 7.62 NATO / .308 Win 20\" (MDR-RF-A2010-FE-T)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "7.62 NATO / .308 Win",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 7.62 NATO / .308 Win 20\" (MDR-RF-A2010-FE-T)",
+        "length": 0.508,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-A2010-FE-T",
+          "caliber": "7.62 NATO / .308 Win",
+          "barrelLength": "20\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 7.62 NATO / .308 Win 20\" (MDR-RF-A2010-FEC-B)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "7.62 NATO / .308 Win",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 7.62 NATO / .308 Win 20\" (MDR-RF-A2010-FEC-B)",
+        "length": 0.508,
+        "gunMass": 4.127690567,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-A2010-FEC-B",
+          "caliber": "7.62 NATO / .308 Win",
+          "barrelLength": "20\"",
+          "weight": "9.1lb",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 7.62 NATO / .308 Win 20\" (MDR-RF-A2010-FEC-F)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "7.62 NATO / .308 Win",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 7.62 NATO / .308 Win 20\" (MDR-RF-A2010-FEC-F)",
+        "length": 0.508,
+        "gunMass": 4.127690567,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-A2010-FEC-F",
+          "caliber": "7.62 NATO / .308 Win",
+          "barrelLength": "20\"",
+          "weight": "9.1lb",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 7.62 NATO / .308 Win 20\" (MDR-RF-A2010-FEC-T)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "7.62 NATO / .308 Win",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 7.62 NATO / .308 Win 20\" (MDR-RF-A2010-FEC-T)",
+        "length": 0.508,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-A2010-FEC-T",
+          "caliber": "7.62 NATO / .308 Win",
+          "barrelLength": "20\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 7.62 NATO / .308 Win 20\" (MDR-RF-A2020-FE-B)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "7.62 NATO / .308 Win",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 7.62 NATO / .308 Win 20\" (MDR-RF-A2020-FE-B)",
+        "length": 0.508,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-A2020-FE-B",
+          "caliber": "7.62 NATO / .308 Win",
+          "barrelLength": "20\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech MDRx Rifle 7.62 NATO / .308 Win 20\" (MDR-RF-A2020-FE-F)",
+      "maker": "Desert Tech",
+      "model": "MDRx Rifle",
+      "cartridge": "7.62 NATO / .308 Win",
+      "barrel": {
+        "name": "Desert Tech MDRx Rifle 7.62 NATO / .308 Win 20\" (MDR-RF-A2020-FE-F)",
+        "length": 0.508,
+        "gunMass": 4.014292475,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/mdrx-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "MDR-RF-A2020-FE-F",
+          "caliber": "7.62 NATO / .308 Win",
+          "barrelLength": "20\"",
+          "weight": "8.85lb",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech Quattro-15 Lite Pistol .223 Wylde 11.5\" (QTR-PS-A1153M-B)",
+      "maker": "Desert Tech",
+      "model": "Quattro-15 Lite Pistol",
+      "cartridge": ".223 Wylde",
+      "barrel": {
+        "name": "Desert Tech Quattro-15 Lite Pistol .223 Wylde 11.5\" (QTR-PS-A1153M-B)",
+        "length": 0.2921,
+        "gunMass": 2.948350405,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/quattro-15-lite-pistol-with-qmag-53-223rem-556nato-11-5-53-round-blackqtr-ps-a1153m-b",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "QTR-PS-A1153M-B",
+          "caliber": ".223 Wylde",
+          "barrelLength": "11.5\"",
+          "weight": "6.5 lbs",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech Quattro-15 Lite Rifle 5.56 NATO / .223 Rem 16\" (QTR-RF-A1653M-B)",
+      "maker": "Desert Tech",
+      "model": "Quattro-15 Lite Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech Quattro-15 Lite Rifle 5.56 NATO / .223 Rem 16\" (QTR-RF-A1653M-B)",
+        "length": 0.4064,
+        "gunMass": 3.016389261,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/quattro-15-lite-rifle-223rem-556nato-16-53-round-black-with-qmag-53qtr-rf-a1653m-b",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "QTR-RF-A1653M-B",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "16\"",
+          "weight": "6.65 lbs",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech Quattro-15 Pistol 5.56 NATO / .223 Rem 11.5\" (QTR-PS-A1153-B)",
+      "maker": "Desert Tech",
+      "model": "Quattro-15 Pistol",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech Quattro-15 Pistol 5.56 NATO / .223 Rem 11.5\" (QTR-PS-A1153-B)",
+        "length": 0.2921,
+        "gunMass": 2.948350405,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/quattro-15-pistol",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "QTR-PS-A1153-B",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "11.5\"",
+          "weight": "6.5 lbs",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech Quattro-15 Rifle 5.56 NATO / .223 Rem 16\" (QTR-RF-A1653-B)",
+      "maker": "Desert Tech",
+      "model": "Quattro-15 Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech Quattro-15 Rifle 5.56 NATO / .223 Rem 16\" (QTR-RF-A1653-B)",
+        "length": 0.4064,
+        "gunMass": 3.016389261,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/quattro-15-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "QTR-RF-A1653-B",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "16\"",
+          "weight": "6.65 lbs",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech SRS A2 Covert Rifle 6.5 Creedmoor 18\" (SRS-RF-C-D18R-BB)",
+      "maker": "Desert Tech",
+      "model": "SRS A2 Covert Rifle",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Desert Tech SRS A2 Covert Rifle 6.5 Creedmoor 18\" (SRS-RF-C-D18R-BB)",
+        "length": 0.4572,
+        "twistLength": 0.2032,
+        "gunMass": 4.309127515,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/srs-a2-covert-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "SRS-RF-C-D18R-BB",
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "18\"",
+          "weight": "9.5lb",
+          "twist": "1 in 8\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech SRS A2 Covert Rifle 6.5 Creedmoor 18\" (SRS-RF-C-D18R-FF)",
+      "maker": "Desert Tech",
+      "model": "SRS A2 Covert Rifle",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Desert Tech SRS A2 Covert Rifle 6.5 Creedmoor 18\" (SRS-RF-C-D18R-FF)",
+        "length": 0.4572,
+        "twistLength": 0.2032,
+        "gunMass": 4.309127515,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/srs-a2-covert-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "SRS-RF-C-D18R-FF",
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "18\"",
+          "weight": "9.5lb",
+          "twist": "1 in 8\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech SRS A2 Covert Rifle 7.62 NATO / .308 Win 16\" (SRS-RF-C-C16R-BB)",
+      "maker": "Desert Tech",
+      "model": "SRS A2 Covert Rifle",
+      "cartridge": "7.62 NATO / .308 Win",
+      "barrel": {
+        "name": "Desert Tech SRS A2 Covert Rifle 7.62 NATO / .308 Win 16\" (SRS-RF-C-C16R-BB)",
+        "length": 0.4064,
+        "twistLength": 0.2794,
+        "gunMass": 4.036972093,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/srs-a2-covert-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "SRS-RF-C-C16R-BB",
+          "caliber": "7.62 NATO / .308 Win",
+          "barrelLength": "16\"",
+          "weight": "8.9lb",
+          "twist": "1 in 11\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech SRS A2 Covert Rifle 7.62 NATO / .308 Win 16\" (SRS-RF-C-C16R-FF)",
+      "maker": "Desert Tech",
+      "model": "SRS A2 Covert Rifle",
+      "cartridge": "7.62 NATO / .308 Win",
+      "barrel": {
+        "name": "Desert Tech SRS A2 Covert Rifle 7.62 NATO / .308 Win 16\" (SRS-RF-C-C16R-FF)",
+        "length": 0.4064,
+        "twistLength": 0.2794,
+        "gunMass": 4.036972093,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/srs-a2-covert-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "SRS-RF-C-C16R-FF",
+          "caliber": "7.62 NATO / .308 Win",
+          "barrelLength": "16\"",
+          "weight": "8.9lb",
+          "twist": "1 in 11\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech SRS M2 Rifle .338 Lapua Mag 26\" (SRS-RF-M-G26R-BB)",
+      "maker": "Desert Tech",
+      "model": "SRS M2 Rifle",
+      "cartridge": ".338 Lapua Mag",
+      "barrel": {
+        "name": "Desert Tech SRS M2 Rifle .338 Lapua Mag 26\" (SRS-RF-M-G26R-BB)",
+        "length": 0.6604,
+        "twistLength": 0.2286,
+        "gunMass": 4.173049804,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/srs-m2-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "SRS-RF-M-G26R-BB",
+          "caliber": ".338 Lapua Mag",
+          "barrelLength": "26\"",
+          "weight": "9.2lb",
+          "twist": "1 in 9\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech SRS M2 Rifle .338 Lapua Mag 26\" (SRS-RF-M-G26R-BF)",
+      "maker": "Desert Tech",
+      "model": "SRS M2 Rifle",
+      "cartridge": ".338 Lapua Mag",
+      "barrel": {
+        "name": "Desert Tech SRS M2 Rifle .338 Lapua Mag 26\" (SRS-RF-M-G26R-BF)",
+        "length": 0.6604,
+        "twistLength": 0.2286,
+        "gunMass": 4.173049804,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/srs-m2-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "SRS-RF-M-G26R-BF",
+          "caliber": ".338 Lapua Mag",
+          "barrelLength": "26\"",
+          "weight": "9.2lb",
+          "twist": "1 in 9\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech SRS M2 Rifle .338 Lapua Mag 26\" (SRS-RF-M-G26R-FF)",
+      "maker": "Desert Tech",
+      "model": "SRS M2 Rifle",
+      "cartridge": ".338 Lapua Mag",
+      "barrel": {
+        "name": "Desert Tech SRS M2 Rifle .338 Lapua Mag 26\" (SRS-RF-M-G26R-FF)",
+        "length": 0.6604,
+        "twistLength": 0.2286,
+        "gunMass": 4.173049804,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/srs-m2-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "SRS-RF-M-G26R-FF",
+          "caliber": ".338 Lapua Mag",
+          "barrelLength": "26\"",
+          "weight": "9.2lb",
+          "twist": "1 in 9\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech SRS M2 Rifle 6.5 Creedmoor 26\" (SRS-RF-M-D26R-BB)",
+      "maker": "Desert Tech",
+      "model": "SRS M2 Rifle",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Desert Tech SRS M2 Rifle 6.5 Creedmoor 26\" (SRS-RF-M-D26R-BB)",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gunMass": 4.309127515,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/srs-m2-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "SRS-RF-M-D26R-BB",
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "26\"",
+          "weight": "9.5lb",
+          "twist": "1 in 8\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech SRS M2 Rifle 6.5 Creedmoor 26\" (SRS-RF-M-D26R-FF)",
+      "maker": "Desert Tech",
+      "model": "SRS M2 Rifle",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Desert Tech SRS M2 Rifle 6.5 Creedmoor 26\" (SRS-RF-M-D26R-FF)",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gunMass": 4.309127515,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/srs-m2-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "SRS-RF-M-D26R-FF",
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "26\"",
+          "weight": "9.5lb",
+          "twist": "1 in 8\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech SRS M2 Rifle 7.62 NATO / .308 Win 22\" (SRS-RF-M-C22R-BB)",
+      "maker": "Desert Tech",
+      "model": "SRS M2 Rifle",
+      "cartridge": "7.62 NATO / .308 Win",
+      "barrel": {
+        "name": "Desert Tech SRS M2 Rifle 7.62 NATO / .308 Win 22\" (SRS-RF-M-C22R-BB)",
+        "length": 0.5588,
+        "twistLength": 0.2794,
+        "gunMass": 4.036972093,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/srs-m2-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "SRS-RF-M-C22R-BB",
+          "caliber": "7.62 NATO / .308 Win",
+          "barrelLength": "22\"",
+          "weight": "8.9lb",
+          "twist": "1 in 11\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech SRS M2 Rifle 7.62 NATO / .308 Win 22\" (SRS-RF-M-C22R-FF)",
+      "maker": "Desert Tech",
+      "model": "SRS M2 Rifle",
+      "cartridge": "7.62 NATO / .308 Win",
+      "barrel": {
+        "name": "Desert Tech SRS M2 Rifle 7.62 NATO / .308 Win 22\" (SRS-RF-M-C22R-FF)",
+        "length": 0.5588,
+        "twistLength": 0.2794,
+        "gunMass": 4.036972093,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/srs-m2-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "SRS-RF-M-C22R-FF",
+          "caliber": "7.62 NATO / .308 Win",
+          "barrelLength": "22\"",
+          "weight": "8.9lb",
+          "twist": "1 in 11\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Micron Rifle .300 BLK 11.5\" (WLV-RF-D1130-B)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Micron Rifle",
+      "cartridge": ".300 BLK",
+      "barrel": {
+        "name": "Desert Tech WLVRN Micron Rifle .300 BLK 11.5\" (WLV-RF-D1130-B)",
+        "length": 0.2921,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-micron-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-D1130-B",
+          "caliber": ".300 BLK",
+          "barrelLength": "11.5\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Micron Rifle .300 BLK 11.5\" (WLV-RF-D1130-F)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Micron Rifle",
+      "cartridge": ".300 BLK",
+      "barrel": {
+        "name": "Desert Tech WLVRN Micron Rifle .300 BLK 11.5\" (WLV-RF-D1130-F)",
+        "length": 0.2921,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-micron-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-D1130-F",
+          "caliber": ".300 BLK",
+          "barrelLength": "11.5\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Micron Rifle .300 BLK 11.5\" (WLV-RF-D1130-T)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Micron Rifle",
+      "cartridge": ".300 BLK",
+      "barrel": {
+        "name": "Desert Tech WLVRN Micron Rifle .300 BLK 11.5\" (WLV-RF-D1130-T)",
+        "length": 0.2921,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-micron-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-D1130-T",
+          "caliber": ".300 BLK",
+          "barrelLength": "11.5\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Micron Rifle 5.56 NATO / .223 Rem 11.5\" (WLV-RF-B1130-B)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Micron Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech WLVRN Micron Rifle 5.56 NATO / .223 Rem 11.5\" (WLV-RF-B1130-B)",
+        "length": 0.2921,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-micron-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-B1130-B",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "11.5\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Micron Rifle 5.56 NATO / .223 Rem 11.5\" (WLV-RF-B1130-F)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Micron Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech WLVRN Micron Rifle 5.56 NATO / .223 Rem 11.5\" (WLV-RF-B1130-F)",
+        "length": 0.2921,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-micron-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-B1130-F",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "11.5\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Micron Rifle 5.56 NATO / .223 Rem 11.5\" (WLV-RF-B1130-T)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Micron Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech WLVRN Micron Rifle 5.56 NATO / .223 Rem 11.5\" (WLV-RF-B1130-T)",
+        "length": 0.2921,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-micron-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-B1130-T",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "11.5\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle .300 BLK 16\" (WLV-RF-D1630-B)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": ".300 BLK",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle .300 BLK 16\" (WLV-RF-D1630-B)",
+        "length": 0.4064,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-D1630-B",
+          "caliber": ".300 BLK",
+          "barrelLength": "16\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle .300 BLK 16\" (WLV-RF-D1630-F)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": ".300 BLK",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle .300 BLK 16\" (WLV-RF-D1630-F)",
+        "length": 0.4064,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-D1630-F",
+          "caliber": ".300 BLK",
+          "barrelLength": "16\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle .300 BLK 16\" (WLV-RF-D1630-T)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": ".300 BLK",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle .300 BLK 16\" (WLV-RF-D1630-T)",
+        "length": 0.4064,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-D1630-T",
+          "caliber": ".300 BLK",
+          "barrelLength": "16\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle 5.56 NATO / .223 Rem 16\" (WLV-RF-B1630-B)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle 5.56 NATO / .223 Rem 16\" (WLV-RF-B1630-B)",
+        "length": 0.4064,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-B1630-B",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "16\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle 5.56 NATO / .223 Rem 16\" (WLV-RF-B1630-F)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle 5.56 NATO / .223 Rem 16\" (WLV-RF-B1630-F)",
+        "length": 0.4064,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-B1630-F",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "16\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle 5.56 NATO / .223 Rem 16\" (WLV-RF-B1630-T)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle 5.56 NATO / .223 Rem 16\" (WLV-RF-B1630-T)",
+        "length": 0.4064,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-B1630-T",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "16\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle 5.56 NATO / .223 Rem 20\" (WLV-RF-B2010-C-B)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle 5.56 NATO / .223 Rem 20\" (WLV-RF-B2010-C-B)",
+        "length": 0.508,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-B2010-C-B",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "20\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle 5.56 NATO / .223 Rem 20\" (WLV-RF-B2010-C-F)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle 5.56 NATO / .223 Rem 20\" (WLV-RF-B2010-C-F)",
+        "length": 0.508,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-B2010-C-F",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "20\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle 5.56 NATO / .223 Rem 20\" (WLV-RF-B2010-C-T)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle 5.56 NATO / .223 Rem 20\" (WLV-RF-B2010-C-T)",
+        "length": 0.508,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-B2010-C-T",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "20\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle 5.56 NATO / .223 Rem 20\" (WLV-RF-B2030-B)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle 5.56 NATO / .223 Rem 20\" (WLV-RF-B2030-B)",
+        "length": 0.508,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-B2030-B",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "20\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle 5.56 NATO / .223 Rem 20\" (WLV-RF-B2030-F)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle 5.56 NATO / .223 Rem 20\" (WLV-RF-B2030-F)",
+        "length": 0.508,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-B2030-F",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "20\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle 5.56 NATO / .223 Rem 20\" (WLV-RF-B2030-T)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": "5.56 NATO / .223 Rem",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle 5.56 NATO / .223 Rem 20\" (WLV-RF-B2030-T)",
+        "length": 0.508,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-B2030-T",
+          "caliber": "5.56 NATO / .223 Rem",
+          "barrelLength": "20\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle 6.5 Creedmoor 20\" (WLV-RF-C2010-C-B)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle 6.5 Creedmoor 20\" (WLV-RF-C2010-C-B)",
+        "length": 0.508,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-C2010-C-B",
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "20\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle 6.5 Creedmoor 20\" (WLV-RF-C2010-C-F)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle 6.5 Creedmoor 20\" (WLV-RF-C2010-C-F)",
+        "length": 0.508,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-C2010-C-F",
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "20\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle 6.5 Creedmoor 20\" (WLV-RF-C2010-C-T)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle 6.5 Creedmoor 20\" (WLV-RF-C2010-C-T)",
+        "length": 0.508,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-C2010-C-T",
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "20\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle 6.5 Creedmoor 20\" (WLV-RF-C2020-B)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle 6.5 Creedmoor 20\" (WLV-RF-C2020-B)",
+        "length": 0.508,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-C2020-B",
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "20\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle 6.5 Creedmoor 20\" (WLV-RF-C2020-F)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle 6.5 Creedmoor 20\" (WLV-RF-C2020-F)",
+        "length": 0.508,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-C2020-F",
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "20\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle 6.5 Creedmoor 20\" (WLV-RF-C2020-T)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle 6.5 Creedmoor 20\" (WLV-RF-C2020-T)",
+        "length": 0.508,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-C2020-T",
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "20\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle 7.62 NATO / .308 Win 16\" (WLV-RF-A1620-B)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": "7.62 NATO / .308 Win",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle 7.62 NATO / .308 Win 16\" (WLV-RF-A1620-B)",
+        "length": 0.4064,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-A1620-B",
+          "caliber": "7.62 NATO / .308 Win",
+          "barrelLength": "16\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle 7.62 NATO / .308 Win 16\" (WLV-RF-A1620-F)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": "7.62 NATO / .308 Win",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle 7.62 NATO / .308 Win 16\" (WLV-RF-A1620-F)",
+        "length": 0.4064,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-A1620-F",
+          "caliber": "7.62 NATO / .308 Win",
+          "barrelLength": "16\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle 7.62 NATO / .308 Win 16\" (WLV-RF-A1620-T)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": "7.62 NATO / .308 Win",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle 7.62 NATO / .308 Win 16\" (WLV-RF-A1620-T)",
+        "length": 0.4064,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-A1620-T",
+          "caliber": "7.62 NATO / .308 Win",
+          "barrelLength": "16\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle 7.62 NATO / .308 Win 20\" (WLV-RF-A2010-C-B)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": "7.62 NATO / .308 Win",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle 7.62 NATO / .308 Win 20\" (WLV-RF-A2010-C-B)",
+        "length": 0.508,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-A2010-C-B",
+          "caliber": "7.62 NATO / .308 Win",
+          "barrelLength": "20\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle 7.62 NATO / .308 Win 20\" (WLV-RF-A2010-C-F)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": "7.62 NATO / .308 Win",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle 7.62 NATO / .308 Win 20\" (WLV-RF-A2010-C-F)",
+        "length": 0.508,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-A2010-C-F",
+          "caliber": "7.62 NATO / .308 Win",
+          "barrelLength": "20\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle 7.62 NATO / .308 Win 20\" (WLV-RF-A2010-C-T)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": "7.62 NATO / .308 Win",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle 7.62 NATO / .308 Win 20\" (WLV-RF-A2010-C-T)",
+        "length": 0.508,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-A2010-C-T",
+          "caliber": "7.62 NATO / .308 Win",
+          "barrelLength": "20\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle 7.62 NATO / .308 Win 20\" (WLV-RF-A2020-B)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": "7.62 NATO / .308 Win",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle 7.62 NATO / .308 Win 20\" (WLV-RF-A2020-B)",
+        "length": 0.508,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-A2020-B",
+          "caliber": "7.62 NATO / .308 Win",
+          "barrelLength": "20\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle 7.62 NATO / .308 Win 20\" (WLV-RF-A2020-F)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": "7.62 NATO / .308 Win",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle 7.62 NATO / .308 Win 20\" (WLV-RF-A2020-F)",
+        "length": 0.508,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-A2020-F",
+          "caliber": "7.62 NATO / .308 Win",
+          "barrelLength": "20\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech WLVRN Rifle 7.62 NATO / .308 Win 20\" (WLV-RF-A2020-T)",
+      "maker": "Desert Tech",
+      "model": "WLVRN Rifle",
+      "cartridge": "7.62 NATO / .308 Win",
+      "barrel": {
+        "name": "Desert Tech WLVRN Rifle 7.62 NATO / .308 Win 20\" (WLV-RF-A2020-T)",
+        "length": 0.508,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/wlvrn-rifle",
+        "retrieved": "2026-10-16",
+        "published": {
+          "partNumber": "WLV-RF-A2020-T",
+          "caliber": "7.62 NATO / .308 Win",
+          "barrelLength": "20\""
+        }
+      }
+    }
+  ]
+}
