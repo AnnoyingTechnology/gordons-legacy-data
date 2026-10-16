@@ -1,0 +1,648 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by Sabatti; facts, released in this repository under CC0",
+    "source": "https://www.sabatti.it",
+    "file": "",
+    "author": "Sabatti",
+    "date": "2026-10-16",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti Rover All Around .308 Winchester",
+      "maker": "Sabatti",
+      "model": "Rover All Around",
+      "cartridge": ".308 Winchester",
+      "barrel": {
+        "name": "Sabatti Rover All Around .308 Winchester",
+        "length": 0.44958,
+        "gunMass": 2.902991168,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/rover-all-around",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".308 Winchester",
+          "barrelLength": "45cm / 17.7\"",
+          "weight": "2,9 kg / 6.4 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti Rover Shooter .308 Winchester",
+      "maker": "Sabatti",
+      "model": "Rover Shooter",
+      "cartridge": ".308 Winchester",
+      "barrel": {
+        "name": "Sabatti Rover Shooter .308 Winchester",
+        "length": 0.51,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/rover-shooter",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 Winchester",
+          "barrelLength": "51 cm / 20\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti Rover Shooter 6.5 Creedmoor",
+      "maker": "Sabatti",
+      "model": "Rover Shooter",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Sabatti Rover Shooter 6.5 Creedmoor",
+        "length": 0.51,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/rover-shooter",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "51 cm / 20\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti Rover Shooter 6.5 PRC",
+      "maker": "Sabatti",
+      "model": "Rover Shooter",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Sabatti Rover Shooter 6.5 PRC",
+        "length": 0.51,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/rover-shooter",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "51 cm / 20\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti Rover Traqueur .308 Winchester",
+      "maker": "Sabatti",
+      "model": "Rover Traqueur",
+      "cartridge": ".308 Winchester",
+      "barrel": {
+        "name": "Sabatti Rover Traqueur .308 Winchester",
+        "length": 0.45974,
+        "gunMass": 2.812272694,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/rover-traqueur",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".308 Winchester",
+          "barrelLength": "46 cm / 18.1\"",
+          "weight": "2,8 kg / 6.2 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti Rover Traqueur 8x57 JS",
+      "maker": "Sabatti",
+      "model": "Rover Traqueur",
+      "cartridge": "8x57 JS",
+      "barrel": {
+        "name": "Sabatti Rover Traqueur 8x57 JS",
+        "length": 0.45974,
+        "gunMass": 2.812272694,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/rover-traqueur",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "8x57 JS",
+          "barrelLength": "46 cm / 18.1\"",
+          "weight": "2,8 kg / 6.2 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti Rover Varmint Syn .308 Winchester",
+      "maker": "Sabatti",
+      "model": "Rover Varmint Syn",
+      "cartridge": ".308 Winchester",
+      "barrel": {
+        "name": "Sabatti Rover Varmint Syn .308 Winchester",
+        "length": 0.61,
+        "gunMass": 3.900894382,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/rover-varmint-syn",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".308 Winchester",
+          "barrelLength": "61cm / 24\"",
+          "weight": "3.9 kg / 8.6lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti Rover Varmint Syn 6,5x47 Lapua",
+      "maker": "Sabatti",
+      "model": "Rover Varmint Syn",
+      "cartridge": "6,5x47 Lapua",
+      "barrel": {
+        "name": "Sabatti Rover Varmint Syn 6,5x47 Lapua",
+        "length": 0.61,
+        "gunMass": 3.900894382,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/rover-varmint-syn",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6,5x47 Lapua",
+          "barrelLength": "61cm / 24\"",
+          "weight": "3.9 kg / 8.6lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti Rover Varmint Syn 6.5 Creedmoor",
+      "maker": "Sabatti",
+      "model": "Rover Varmint Syn",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Sabatti Rover Varmint Syn 6.5 Creedmoor",
+        "length": 0.61,
+        "gunMass": 3.900894382,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/rover-varmint-syn",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "61cm / 24\"",
+          "weight": "3.9 kg / 8.6lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti Rover Varmint Syn 6.5 PRC",
+      "maker": "Sabatti",
+      "model": "Rover Varmint Syn",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Sabatti Rover Varmint Syn 6.5 PRC",
+        "length": 0.61,
+        "gunMass": 3.900894382,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/rover-varmint-syn",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "61cm / 24\"",
+          "weight": "3.9 kg / 8.6lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti SKL20 .30-06 Springfield",
+      "maker": "Sabatti",
+      "model": "SKL20",
+      "cartridge": ".30-06 Springfield",
+      "barrel": {
+        "name": "Sabatti SKL20 .30-06 Springfield",
+        "length": 0.61,
+        "gunMass": 2.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/Kipplauf%20SKL-20",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".30-06 Springfield",
+          "barrelLength": "61 cm / 24\"",
+          "weight": "2,6 kg"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti SKL20 .243 Winchester",
+      "maker": "Sabatti",
+      "model": "SKL20",
+      "cartridge": ".243 Winchester",
+      "barrel": {
+        "name": "Sabatti SKL20 .243 Winchester",
+        "length": 0.61,
+        "gunMass": 2.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/Kipplauf%20SKL-20",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".243 Winchester",
+          "barrelLength": "61 cm / 24\"",
+          "weight": "2,6 kg"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti SKL20 .270 Winchester",
+      "maker": "Sabatti",
+      "model": "SKL20",
+      "cartridge": ".270 Winchester",
+      "barrel": {
+        "name": "Sabatti SKL20 .270 Winchester",
+        "length": 0.61,
+        "gunMass": 2.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/Kipplauf%20SKL-20",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".270 Winchester",
+          "barrelLength": "61 cm / 24\"",
+          "weight": "2,6 kg"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti SKL20 .300 Winchester Magnum",
+      "maker": "Sabatti",
+      "model": "SKL20",
+      "cartridge": ".300 Winchester Magnum",
+      "barrel": {
+        "name": "Sabatti SKL20 .300 Winchester Magnum",
+        "length": 0.61,
+        "gunMass": 2.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/Kipplauf%20SKL-20",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".300 Winchester Magnum",
+          "barrelLength": "61 cm / 24\"",
+          "weight": "2,6 kg"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti SKL20 .308 Winchester",
+      "maker": "Sabatti",
+      "model": "SKL20",
+      "cartridge": ".308 Winchester",
+      "barrel": {
+        "name": "Sabatti SKL20 .308 Winchester",
+        "length": 0.61,
+        "gunMass": 2.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/Kipplauf%20SKL-20",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".308 Winchester",
+          "barrelLength": "61 cm / 24\"",
+          "weight": "2,6 kg"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti SKL20 6,5x57R",
+      "maker": "Sabatti",
+      "model": "SKL20",
+      "cartridge": "6,5x57R",
+      "barrel": {
+        "name": "Sabatti SKL20 6,5x57R",
+        "length": 0.61,
+        "gunMass": 2.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/Kipplauf%20SKL-20",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6,5x57R",
+          "barrelLength": "61 cm / 24\"",
+          "weight": "2,6 kg"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti SKL20 7x57R",
+      "maker": "Sabatti",
+      "model": "SKL20",
+      "cartridge": "7x57R",
+      "barrel": {
+        "name": "Sabatti SKL20 7x57R",
+        "length": 0.61,
+        "gunMass": 2.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/Kipplauf%20SKL-20",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7x57R",
+          "barrelLength": "61 cm / 24\"",
+          "weight": "2,6 kg"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti SKL20 7x65R",
+      "maker": "Sabatti",
+      "model": "SKL20",
+      "cartridge": "7x65R",
+      "barrel": {
+        "name": "Sabatti SKL20 7x65R",
+        "length": 0.61,
+        "gunMass": 2.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/Kipplauf%20SKL-20",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7x65R",
+          "barrelLength": "61 cm / 24\"",
+          "weight": "2,6 kg"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti SKL20 8x57JRS",
+      "maker": "Sabatti",
+      "model": "SKL20",
+      "cartridge": "8x57JRS",
+      "barrel": {
+        "name": "Sabatti SKL20 8x57JRS",
+        "length": 0.61,
+        "gunMass": 2.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/Kipplauf%20SKL-20",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "8x57JRS",
+          "barrelLength": "61 cm / 24\"",
+          "weight": "2,6 kg"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti SSP-223 .223 Remington",
+      "maker": "Sabatti",
+      "model": "SSP-223",
+      "cartridge": ".223 Remington",
+      "barrel": {
+        "name": "Sabatti SSP-223 .223 Remington",
+        "length": 0.61,
+        "gunMass": 4.599426632,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/ssp-223",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".223 Remington",
+          "barrelLength": "61 cm / 24\"",
+          "weight": "4,6 kg / 10.14 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti Storm (Next Generation) .308 Winchester",
+      "maker": "Sabatti",
+      "model": "Storm (Next Generation)",
+      "cartridge": ".308 Winchester",
+      "barrel": {
+        "name": "Sabatti Storm (Next Generation) .308 Winchester",
+        "length": 0.61,
+        "gunMass": 4.599426632,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/storm",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".308 Winchester",
+          "barrelLength": "61 cm / 24\"",
+          "weight": "4,6 kg / 10.14lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti Storm (Next Generation) 6,5 Creedmoor",
+      "maker": "Sabatti",
+      "model": "Storm (Next Generation)",
+      "cartridge": "6,5 Creedmoor",
+      "barrel": {
+        "name": "Sabatti Storm (Next Generation) 6,5 Creedmoor",
+        "length": 0.61,
+        "gunMass": 4.599426632,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/storm",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6,5 Creedmoor",
+          "barrelLength": "61 cm / 24\"",
+          "weight": "4,6 kg / 10.14lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti TLD White Fluted .308 Winchester",
+      "maker": "Sabatti",
+      "model": "TLD White Fluted",
+      "cartridge": ".308 Winchester",
+      "barrel": {
+        "name": "Sabatti TLD White Fluted .308 Winchester",
+        "length": 0.71,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/tld-blue-fluted",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 Winchester",
+          "barrelLength": "71 cm / 28\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti TLD White Fluted 6,5 Creedmoor",
+      "maker": "Sabatti",
+      "model": "TLD White Fluted",
+      "cartridge": "6,5 Creedmoor",
+      "barrel": {
+        "name": "Sabatti TLD White Fluted 6,5 Creedmoor",
+        "length": 0.71,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/tld-blue-fluted",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6,5 Creedmoor",
+          "barrelLength": "71 cm / 28\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Sabatti TLD White Fluted 6,5x47 Lapua",
+      "maker": "Sabatti",
+      "model": "TLD White Fluted",
+      "cartridge": "6,5x47 Lapua",
+      "barrel": {
+        "name": "Sabatti TLD White Fluted 6,5x47 Lapua",
+        "length": 0.71,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sabatti",
+        "url": "https://www.sabatti.it/it/prodotto/tld-blue-fluted",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6,5x47 Lapua",
+          "barrelLength": "71 cm / 28\""
+        }
+      }
+    }
+  ]
+}

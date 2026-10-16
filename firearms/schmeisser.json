@@ -1,0 +1,367 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by Schmeisser GmbH; facts, released in this repository under CC0",
+    "source": "https://schmeisser-germany.com",
+    "file": "",
+    "author": "Schmeisser GmbH",
+    "date": "2026-10-16",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Schmeisser AR15 DMR",
+      "maker": "Schmeisser",
+      "model": "AR15 DMR",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Schmeisser AR15 DMR",
+        "length": 0.46,
+        "twistLength": 0.2032,
+        "gunMass": 4.35,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Schmeisser GmbH",
+        "url": "https://schmeisser-germany.com/en/ar15-dmr-2/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "46 cm",
+          "weight": "4.350 g",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Schmeisser AR15 Dynamic L",
+      "maker": "Schmeisser",
+      "model": "AR15 Dynamic L",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Schmeisser AR15 Dynamic L",
+        "length": 0.425,
+        "twistLength": 0.2286,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Schmeisser GmbH",
+        "url": "https://schmeisser-germany.com/en/ar15-dynamic-l-2/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "42,5 cm",
+          "weight": "3.100 g",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Schmeisser AR15 M4FL",
+      "maker": "Schmeisser",
+      "model": "AR15 M4FL",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Schmeisser AR15 M4FL",
+        "length": 0.3683,
+        "twistLength": 0.2286,
+        "gunMass": 3.25,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Schmeisser GmbH",
+        "url": "https://schmeisser-germany.com/en/ar15-m4fl-2/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "37 cm / 14.5\" Free Float",
+          "weight": "3.250 g",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Schmeisser AR15 M4FL Sport",
+      "maker": "Schmeisser",
+      "model": "AR15 M4FL Sport",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Schmeisser AR15 M4FL Sport",
+        "length": 0.37,
+        "twistLength": 0.2286,
+        "gunMass": 3.635,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Schmeisser GmbH",
+        "url": "https://schmeisser-germany.com/en/ar15-m4fl-sport-2/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "37 cm",
+          "weight": "3.635 g",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Schmeisser AR15 M5FL",
+      "maker": "Schmeisser",
+      "model": "AR15 M5FL",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Schmeisser AR15 M5FL",
+        "length": 0.425,
+        "twistLength": 0.2286,
+        "gunMass": 3.55,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Schmeisser GmbH",
+        "url": "https://schmeisser-germany.com/en/ar15-m5fl-2/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "42,5 cm",
+          "weight": "3.550 g",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Schmeisser AR15 S4F",
+      "maker": "Schmeisser",
+      "model": "AR15 S4F",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Schmeisser AR15 S4F",
+        "length": 0.265,
+        "twistLength": 0.2286,
+        "gunMass": 3.15,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Schmeisser GmbH",
+        "url": "https://schmeisser-germany.com/en/s4f/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "26,5 cm",
+          "weight": "3.150 g",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Schmeisser AR15 S4F Sport",
+      "maker": "Schmeisser",
+      "model": "AR15 S4F Sport",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Schmeisser AR15 S4F Sport",
+        "length": 0.267,
+        "twistLength": 0.2286,
+        "gunMass": 3.04,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Schmeisser GmbH",
+        "url": "https://schmeisser-germany.com/en/ar15-s4f-sport-2/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "26,7 cm",
+          "weight": "3.040 g",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Schmeisser AR15 Ultramatch",
+      "maker": "Schmeisser",
+      "model": "AR15 Ultramatch",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Schmeisser AR15 Ultramatch",
+        "length": 0.51,
+        "twistLength": 0.2286,
+        "gunMass": 4,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Schmeisser GmbH",
+        "url": "https://schmeisser-germany.com/en/ar15-ultramatch-2/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "51 cm",
+          "weight": "4.000 g",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Schmeisser SP9 317.5 mm barrel",
+      "maker": "Schmeisser",
+      "model": "SP9",
+      "cartridge": "9x19mm",
+      "barrel": {
+        "name": "Schmeisser SP9 317.5 mm barrel",
+        "length": 0.3175,
+        "twistLength": 0.254,
+        "gunMass": 3.15,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Schmeisser GmbH",
+        "url": "https://schmeisser-germany.com/en/sp9-125-2/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "31,75 cm",
+          "weight": "3.150 g",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Schmeisser SP9 370 mm barrel",
+      "maker": "Schmeisser",
+      "model": "SP9",
+      "cartridge": "9x19mm",
+      "barrel": {
+        "name": "Schmeisser SP9 370 mm barrel",
+        "length": 0.37,
+        "twistLength": 0.254,
+        "gunMass": 3.15,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Schmeisser GmbH",
+        "url": "https://schmeisser-germany.com/en/sp9/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "37 cm",
+          "weight": "3.150 g",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Schmeisser SP15 M4FL",
+      "maker": "Schmeisser",
+      "model": "SP15 M4FL",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Schmeisser SP15 M4FL",
+        "length": 0.3683,
+        "twistLength": 0.2286,
+        "gunMass": 3.25,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Schmeisser GmbH",
+        "url": "https://schmeisser-germany.com/en/sp15-m4fl-2/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "37 cm / 14,5\"",
+          "weight": "3.250 g",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Schmeisser SP15 M5FL",
+      "maker": "Schmeisser",
+      "model": "SP15 M5FL",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Schmeisser SP15 M5FL",
+        "length": 0.425,
+        "twistLength": 0.2286,
+        "gunMass": 3.95,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Schmeisser GmbH",
+        "url": "https://schmeisser-germany.com/en/sp15-m5fl-2/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "42,5 cm",
+          "weight": "3.950 g",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Schmeisser SP15 Ultramatch",
+      "maker": "Schmeisser",
+      "model": "SP15 Ultramatch",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Schmeisser SP15 Ultramatch",
+        "length": 0.51,
+        "twistLength": 0.2286,
+        "gunMass": 4,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Schmeisser GmbH",
+        "url": "https://schmeisser-germany.com/en/sp15-ultramatch-2/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "51 cm Bull Barrel",
+          "weight": "4.000 g",
+          "twist": "1:9"
+        }
+      }
+    }
+  ]
+}

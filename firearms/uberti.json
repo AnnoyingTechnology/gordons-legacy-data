@@ -1,0 +1,2591 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by Uberti; facts, released in this repository under CC0",
+    "source": "https://www.uberti-usa.com",
+    "file": "",
+    "author": "Uberti",
+    "date": "2026-10-16",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1851 Navy Conversion Navy .38 Spl 5.5\"",
+      "maker": "Uberti",
+      "model": "1851 Navy Conversion Navy",
+      "cartridge": ".38 Spl",
+      "barrel": {
+        "name": "Uberti 1851 Navy Conversion Navy .38 Spl 5.5\"",
+        "length": 0.1397,
+        "twistLength": 0.47625,
+        "gunMass": 1.179340162,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/new-army-conversion-army-navy-conversion-open-tops",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".38 Spl",
+          "barrelLength": "5.5\"",
+          "weight": "2.6 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1851 Navy Conversion Navy .38 Spl 7.5\"",
+      "maker": "Uberti",
+      "model": "1851 Navy Conversion Navy",
+      "cartridge": ".38 Spl",
+      "barrel": {
+        "name": "Uberti 1851 Navy Conversion Navy .38 Spl 7.5\"",
+        "length": 0.1905,
+        "twistLength": 0.47625,
+        "gunMass": 1.179340162,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/new-army-conversion-army-navy-conversion-open-tops",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".38 Spl",
+          "barrelLength": "7.5\"",
+          "weight": "2.6 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1858 Army Conversion New Army .45 Colt",
+      "maker": "Uberti",
+      "model": "1858 Army Conversion New Army",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1858 Army Conversion New Army .45 Colt",
+        "length": 0.2032,
+        "twistLength": 0.4064,
+        "gunMass": 1.179340162,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/new-army-conversion-army-navy-conversion-open-tops",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "8\"",
+          "weight": "2.6 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1866 Yellowboy Deluxe Engraved .45 Colt",
+      "maker": "Uberti",
+      "model": "1866 Yellowboy Deluxe Engraved",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1866 Yellowboy Deluxe Engraved .45 Colt",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.719457434,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-rifles/1866-yellowboy-deluxe",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "20\"",
+          "weight": "8.2 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1866 Yellowboy Rifle Short Rifle .45 Colt",
+      "maker": "Uberti",
+      "model": "1866 Yellowboy Rifle Short Rifle",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1866 Yellowboy Rifle Short Rifle .45 Colt",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.719457434,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-rifles/1866-yellowboy-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "20\"",
+          "weight": "8.2 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1866 Yellowboy Rifle Sporting Rifle .45 Colt",
+      "maker": "Uberti",
+      "model": "1866 Yellowboy Rifle Sporting Rifle",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1866 Yellowboy Rifle Sporting Rifle .45 Colt",
+        "length": 0.61595,
+        "twistLength": 0.4064,
+        "gunMass": 3.719457434,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-rifles/1866-yellowboy-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "24.25\"",
+          "weight": "8.2 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1871 Open-Top Conversion Early Model Navy .38 Spl",
+      "maker": "Uberti",
+      "model": "1871 Open-Top Conversion Early Model Navy",
+      "cartridge": ".38 Spl",
+      "barrel": {
+        "name": "Uberti 1871 Open-Top Conversion Early Model Navy .38 Spl",
+        "length": 0.1397,
+        "twistLength": 0.47625,
+        "gunMass": 1.179340162,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/new-army-conversion-army-navy-conversion-open-tops",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".38 Spl",
+          "barrelLength": "5.5\"",
+          "weight": "2.6 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Cattleman Bird's Head New Model .45 Colt 4.75\"",
+      "maker": "Uberti",
+      "model": "1873 Cattleman Bird's Head New Model",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Cattleman Bird's Head New Model .45 Colt 4.75\"",
+        "length": 0.12065,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman-bisley-birds-head",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "4.75\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Cattleman Bird's Head New Model .45 Colt 5.5\"",
+      "maker": "Uberti",
+      "model": "1873 Cattleman Bird's Head New Model",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Cattleman Bird's Head New Model .45 Colt 5.5\"",
+        "length": 0.1397,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman-bisley-birds-head",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Cattleman Bird's Head New Model .357 Mag",
+      "maker": "Uberti",
+      "model": "1873 Cattleman Bird's Head New Model",
+      "cartridge": ".357 Mag",
+      "barrel": {
+        "name": "Uberti 1873 Cattleman Bird's Head New Model .357 Mag",
+        "length": 0.12065,
+        "twistLength": 0.47625,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman-bisley-birds-head",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Mag",
+          "barrelLength": "4.75\"",
+          "weight": "2.3 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Cattleman Bird's Head Old Model .45 Colt",
+      "maker": "Uberti",
+      "model": "1873 Cattleman Bird's Head Old Model",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Cattleman Bird's Head Old Model .45 Colt",
+        "length": 0.0889,
+        "twistLength": 0.4064,
+        "gunMass": 0.997903214,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman-bisley-birds-head",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "3.5\"",
+          "weight": "2.2 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Cattleman Bird's Head Old Model .357 Mag",
+      "maker": "Uberti",
+      "model": "1873 Cattleman Bird's Head Old Model",
+      "cartridge": ".357 Mag",
+      "barrel": {
+        "name": "Uberti 1873 Cattleman Bird's Head Old Model .357 Mag",
+        "length": 0.0889,
+        "twistLength": 0.47625,
+        "gunMass": 0.997903214,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman-bisley-birds-head",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Mag",
+          "barrelLength": "3.5\"",
+          "weight": "2.2 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Competition Rifle Competition .357 Mag",
+      "maker": "Uberti",
+      "model": "1873 Competition Rifle Competition",
+      "cartridge": ".357 Mag",
+      "barrel": {
+        "name": "Uberti 1873 Competition Rifle Competition .357 Mag",
+        "length": 0.508,
+        "twistLength": 0.47625,
+        "gunMass": 3.62873896,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-rifles/1873-rifle-and-carbine",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Mag",
+          "barrelLength": "20\"",
+          "weight": "8 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Limited Edtion Short Rifle Deluxe Short Rifle Deluxe .45 Colt",
+      "maker": "Uberti",
+      "model": "1873 Limited Edtion Short Rifle Deluxe Short Rifle Deluxe",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Limited Edtion Short Rifle Deluxe Short Rifle Deluxe .45 Colt",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.719457434,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-rifles/1873-limited-edition-short-rifle-deluxe",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "20\"",
+          "weight": "8.2 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Rifle 150th Anniversary .45 Colt",
+      "maker": "Uberti",
+      "model": "1873 Rifle 150th Anniversary",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Rifle 150th Anniversary .45 Colt",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.719457434,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-rifles/150th-anniversary-1873-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "20\"",
+          "weight": "8.2 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Rifle 150th Anniversary .357 Mag",
+      "maker": "Uberti",
+      "model": "1873 Rifle 150th Anniversary",
+      "cartridge": ".357 Mag",
+      "barrel": {
+        "name": "Uberti 1873 Rifle 150th Anniversary .357 Mag",
+        "length": 0.508,
+        "twistLength": 0.47625,
+        "gunMass": 3.719457434,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-rifles/150th-anniversary-1873-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Mag",
+          "barrelLength": "20\"",
+          "weight": "8.2 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Rifle and Carbine Half Octagonal Barrel Rifle .357 Mag",
+      "maker": "Uberti",
+      "model": "1873 Rifle and Carbine Half Octagonal Barrel Rifle",
+      "cartridge": ".357 Mag",
+      "barrel": {
+        "name": "Uberti 1873 Rifle and Carbine Half Octagonal Barrel Rifle .357 Mag",
+        "length": 0.4572,
+        "twistLength": 0.47625,
+        "gunMass": 3.719457434,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-rifles/1873-rifle-and-carbine",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Mag",
+          "barrelLength": "18\"",
+          "weight": "8.2 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Rifle and Carbine Short Rifle .45 Colt",
+      "maker": "Uberti",
+      "model": "1873 Rifle and Carbine Short Rifle",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Rifle and Carbine Short Rifle .45 Colt",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.719457434,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-rifles/1873-rifle-and-carbine",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "20\"",
+          "weight": "8.2 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Rifle and Carbine Short Rifle .357 Mag",
+      "maker": "Uberti",
+      "model": "1873 Rifle and Carbine Short Rifle",
+      "cartridge": ".357 Mag",
+      "barrel": {
+        "name": "Uberti 1873 Rifle and Carbine Short Rifle .357 Mag",
+        "length": 0.508,
+        "twistLength": 0.47625,
+        "gunMass": 3.719457434,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-rifles/1873-rifle-and-carbine",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Mag",
+          "barrelLength": "20\"",
+          "weight": "8.2 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Rifle and Carbine Special Sporting Rifle .45 Colt",
+      "maker": "Uberti",
+      "model": "1873 Rifle and Carbine Special Sporting Rifle",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Rifle and Carbine Special Sporting Rifle .45 Colt",
+        "length": 0.61595,
+        "twistLength": 0.4064,
+        "gunMass": 3.719457434,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-rifles/1873-rifle-and-carbine",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "24.25\"",
+          "weight": "8.2 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Rifle and Carbine Sporting Rifle .45 Colt",
+      "maker": "Uberti",
+      "model": "1873 Rifle and Carbine Sporting Rifle",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Rifle and Carbine Sporting Rifle .45 Colt",
+        "length": 0.61595,
+        "twistLength": 0.4064,
+        "gunMass": 3.719457434,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-rifles/1873-rifle-and-carbine",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "24.25\"",
+          "weight": "8.2 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Rifle and Carbine Trapper .357 Mag",
+      "maker": "Uberti",
+      "model": "1873 Rifle and Carbine Trapper",
+      "cartridge": ".357 Mag",
+      "barrel": {
+        "name": "Uberti 1873 Rifle and Carbine Trapper .357 Mag",
+        "length": 0.409575,
+        "twistLength": 0.47625,
+        "gunMass": 3.719457434,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-rifles/1873-rifle-and-carbine",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Mag",
+          "barrelLength": "16.125\"",
+          "weight": "8.2 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Short Rifle Hunter .44 Mag",
+      "maker": "Uberti",
+      "model": "1873 Short Rifle Hunter",
+      "cartridge": ".44 Mag",
+      "barrel": {
+        "name": "Uberti 1873 Short Rifle Hunter .44 Mag",
+        "length": 0.508,
+        "twistLength": 0.508,
+        "gunMass": 3.442766088,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-rifles/1873-short-rifle-hunter",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".44 Mag",
+          "barrelLength": "20\"",
+          "weight": "7.59 lbs",
+          "twist": "1:20, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single- Action Cattleman Polished Nickel .45 Colt",
+      "maker": "Uberti",
+      "model": "1873 Single- Action Cattleman Polished Nickel",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Single- Action Cattleman Polished Nickel .45 Colt",
+        "length": 0.1397,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman Brass .45 Colt 4.75\"",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman Brass",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman Brass .45 Colt 4.75\"",
+        "length": 0.12065,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "4.75\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman Brass .45 Colt 5.5\"",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman Brass",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman Brass .45 Colt 5.5\"",
+        "length": 0.1397,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman Brass .45 Colt 7.5\"",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman Brass",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman Brass .45 Colt 7.5\"",
+        "length": 0.1905,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "7.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman Brass .357 Mag 4.75\"",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman Brass",
+      "cartridge": ".357 Mag",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman Brass .357 Mag 4.75\"",
+        "length": 0.12065,
+        "twistLength": 0.47625,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Mag",
+          "barrelLength": "4.75\"",
+          "weight": "2.3 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman Brass .357 Mag 5.5\"",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman Brass",
+      "cartridge": ".357 Mag",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman Brass .357 Mag 5.5\"",
+        "length": 0.1397,
+        "twistLength": 0.47625,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Mag",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman Brass .357 Mag 7.5\"",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman Brass",
+      "cartridge": ".357 Mag",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman Brass .357 Mag 7.5\"",
+        "length": 0.1905,
+        "twistLength": 0.47625,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Mag",
+          "barrelLength": "7.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman Brass 9 mm 5.5\"",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman Brass",
+      "cartridge": "9 mm",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman Brass 9 mm 5.5\"",
+        "length": 0.1397,
+        "twistLength": 0.47625,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9 mm",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman Charcoal Blue .45 Colt 4.75\"",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman Charcoal Blue",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman Charcoal Blue .45 Colt 4.75\"",
+        "length": 0.12065,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "4.75\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman Charcoal Blue .45 Colt 5.5\"",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman Charcoal Blue",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman Charcoal Blue .45 Colt 5.5\"",
+        "length": 0.1397,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman Charcoal Blue- Calvary .45 Colt",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman Charcoal Blue- Calvary",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman Charcoal Blue- Calvary .45 Colt",
+        "length": 0.1905,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "7.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman Chisholm .45 Colt",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman Chisholm",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman Chisholm .45 Colt",
+        "length": 0.12065,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "4.75\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman Cody .45 Colt",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman Cody",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman Cody .45 Colt",
+        "length": 0.1397,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman El Patrón - New Model .45 Colt 4.75\"",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman El Patrón - New Model",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman El Patrón - New Model .45 Colt 4.75\"",
+        "length": 0.12065,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-el-patron-and-el-patron-competition",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "4.75\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman El Patrón - New Model .45 Colt 5.5\"",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman El Patrón - New Model",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman El Patrón - New Model .45 Colt 5.5\"",
+        "length": 0.1397,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-el-patron-and-el-patron-competition",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman El Patrón - New Model .357 Mag 4.75\"",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman El Patrón - New Model",
+      "cartridge": ".357 Mag",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman El Patrón - New Model .357 Mag 4.75\"",
+        "length": 0.12065,
+        "twistLength": 0.47625,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-el-patron-and-el-patron-competition",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Mag",
+          "barrelLength": "4.75\"",
+          "weight": "2.3 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman El Patrón - New Model .357 Mag 5.5\"",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman El Patrón - New Model",
+      "cartridge": ".357 Mag",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman El Patrón - New Model .357 Mag 5.5\"",
+        "length": 0.1397,
+        "twistLength": 0.47625,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-el-patron-and-el-patron-competition",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Mag",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman El Patrón - New Model 9 mm",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman El Patrón - New Model",
+      "cartridge": "9 mm",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman El Patrón - New Model 9 mm",
+        "length": 0.1397,
+        "twistLength": 0.47625,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-el-patron-and-el-patron-competition",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9 mm",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman El Patrón Comp. - New Model .357 Mag",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman El Patrón Comp. - New Model",
+      "cartridge": ".357 Mag",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman El Patrón Comp. - New Model .357 Mag",
+        "length": 0.1397,
+        "twistLength": 0.47625,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-el-patron-and-el-patron-competition",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Mag",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman El Patrón Comp. - New Model Stainless Steel .45 Colt",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman El Patrón Comp. - New Model Stainless Steel",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman El Patrón Comp. - New Model Stainless Steel .45 Colt",
+        "length": 0.12065,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-el-patron-and-el-patron-competition",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "4.75\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman El Patrón Grizzly Paw - New Model .45 Colt",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman El Patrón Grizzly Paw - New Model",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman El Patrón Grizzly Paw - New Model .45 Colt",
+        "length": 0.1397,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-el-patron-and-el-patron-competition",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman El Patrón Grizzly Paw - New Model .357 Mag",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman El Patrón Grizzly Paw - New Model",
+      "cartridge": ".357 Mag",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman El Patrón Grizzly Paw - New Model .357 Mag",
+        "length": 0.1397,
+        "twistLength": 0.47625,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-el-patron-and-el-patron-competition",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Mag",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman Engraved .45 Colt",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman Engraved",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman Engraved .45 Colt",
+        "length": 0.1397,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman Frisco .45 Colt",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman Frisco",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman Frisco .45 Colt",
+        "length": 0.1397,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman Hombre .45 Colt",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman Hombre",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman Hombre .45 Colt",
+        "length": 0.12065,
+        "twistLength": 0.4064,
+        "gunMass": 0.997903214,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "4.75\"",
+          "weight": "2.2 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman Hombre .357 Mag",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman Hombre",
+      "cartridge": ".357 Mag",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman Hombre .357 Mag",
+        "length": 0.12065,
+        "twistLength": 0.47625,
+        "gunMass": 0.997903214,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Mag",
+          "barrelLength": "4.75\"",
+          "weight": "2.2 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman Old West .45 Colt",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman Old West",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman Old West .45 Colt",
+        "length": 0.1397,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman Stainless Steel .45 Colt",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman Stainless Steel",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman Stainless Steel .45 Colt",
+        "length": 0.1905,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "7.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman Steel .44/40",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman Steel",
+      "cartridge": ".44/40",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman Steel .44/40",
+        "length": 0.1397,
+        "twistLength": 0.508,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".44/40",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:20, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman Steel .45 Colt 4.75\"",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman Steel",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman Steel .45 Colt 4.75\"",
+        "length": 0.12065,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "4.75\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman Steel .45 Colt 5.5\"",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman Steel",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman Steel .45 Colt 5.5\"",
+        "length": 0.1397,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman Steel .357 Mag 4.75\"",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman Steel",
+      "cartridge": ".357 Mag",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman Steel .357 Mag 4.75\"",
+        "length": 0.12065,
+        "twistLength": 0.47625,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Mag",
+          "barrelLength": "4.75\"",
+          "weight": "2.3 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman Steel .357 Mag 5.5\"",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman Steel",
+      "cartridge": ".357 Mag",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman Steel .357 Mag 5.5\"",
+        "length": 0.1397,
+        "twistLength": 0.47625,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Mag",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1873 Single-Action Cattleman Steel .357 Mag 7.5\"",
+      "maker": "Uberti",
+      "model": "1873 Single-Action Cattleman Steel",
+      "cartridge": ".357 Mag",
+      "barrel": {
+        "name": "Uberti 1873 Single-Action Cattleman Steel .357 Mag 7.5\"",
+        "length": 0.1905,
+        "twistLength": 0.47625,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/1873-cattleman",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Mag",
+          "barrelLength": "7.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1874 Sharps Down Under .45/70",
+      "maker": "Uberti",
+      "model": "1874 Sharps Down Under",
+      "cartridge": ".45/70",
+      "barrel": {
+        "name": "Uberti 1874 Sharps Down Under .45/70",
+        "length": 0.8636,
+        "twistLength": 0.508,
+        "gunMass": 6.010098903,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-rifles/1874-sharps-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45/70",
+          "barrelLength": "34\"",
+          "weight": "13.25 lbs",
+          "twist": "1:20, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1875 No. 3 Top-Break 2nd Model .38 Spl",
+      "maker": "Uberti",
+      "model": "1875 No. 3 Top-Break 2nd Model",
+      "cartridge": ".38 Spl",
+      "barrel": {
+        "name": "Uberti 1875 No. 3 Top-Break 2nd Model .38 Spl",
+        "length": 0.127,
+        "twistLength": 0.47625,
+        "gunMass": 1.088621688,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/top-breaks-outlaw-frontier",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".38 Spl",
+          "barrelLength": "5\"",
+          "weight": "2.4 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1875 No. 3 Top-Break 2nd Model .45 Colt 5\"",
+      "maker": "Uberti",
+      "model": "1875 No. 3 Top-Break 2nd Model",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1875 No. 3 Top-Break 2nd Model .45 Colt 5\"",
+        "length": 0.127,
+        "twistLength": 0.4064,
+        "gunMass": 1.088621688,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/top-breaks-outlaw-frontier",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "5\"",
+          "weight": "2.4 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1875 No. 3 Top-Break 2nd Model .45 Colt 7\"",
+      "maker": "Uberti",
+      "model": "1875 No. 3 Top-Break 2nd Model",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1875 No. 3 Top-Break 2nd Model .45 Colt 7\"",
+        "length": 0.1778,
+        "twistLength": 0.4064,
+        "gunMass": 1.088621688,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/top-breaks-outlaw-frontier",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "7\"",
+          "weight": "2.4 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1875 Single-Action Army Outlaw - Case-Hardened .45 Colt",
+      "maker": "Uberti",
+      "model": "1875 Single-Action Army Outlaw - Case-Hardened",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1875 Single-Action Army Outlaw - Case-Hardened .45 Colt",
+        "length": 0.1905,
+        "twistLength": 0.4064,
+        "gunMass": 1.270058636,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/top-breaks-outlaw-frontier",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "7.5\"",
+          "weight": "2.8 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1875 Single-Action Army Outlaw - Nickel .45 Colt",
+      "maker": "Uberti",
+      "model": "1875 Single-Action Army Outlaw - Nickel",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1875 Single-Action Army Outlaw - Nickel .45 Colt",
+        "length": 0.1905,
+        "twistLength": 0.4064,
+        "gunMass": 1.270058636,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/top-breaks-outlaw-frontier",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "7.5\"",
+          "weight": "2.8 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1875 Single-Action Frontier .45 Colt",
+      "maker": "Uberti",
+      "model": "1875 Single-Action Frontier",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti 1875 Single-Action Frontier .45 Colt",
+        "length": 0.1397,
+        "twistLength": 0.4064,
+        "gunMass": 1.133980925,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/top-breaks-outlaw-frontier",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "5.5\"",
+          "weight": "2.5 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1876 Rifle Centennial .50/95",
+      "maker": "Uberti",
+      "model": "1876 Rifle Centennial",
+      "cartridge": ".50/95",
+      "barrel": {
+        "name": "Uberti 1876 Rifle Centennial .50/95",
+        "length": 0.7112,
+        "gunMass": 4.5359237,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-rifles/1876-centennial-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".50/95",
+          "barrelLength": "28\"",
+          "weight": "10 lbs",
+          "twist": "1:48, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1885 \"Courteney\" Stalking Rifle .45/70",
+      "maker": "Uberti",
+      "model": "1885 \"Courteney\" Stalking Rifle",
+      "cartridge": ".45/70",
+      "barrel": {
+        "name": "Uberti 1885 \"Courteney\" Stalking Rifle .45/70",
+        "length": 0.6096,
+        "twistLength": 0.508,
+        "gunMass": 3.220505827,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-rifles/1885-courteney-stalking-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45/70",
+          "barrelLength": "24\"",
+          "weight": "7.1 lbs",
+          "twist": "1:20, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1885 \"Courteney\" Stalking Rifle .303 British",
+      "maker": "Uberti",
+      "model": "1885 \"Courteney\" Stalking Rifle",
+      "cartridge": ".303 British",
+      "barrel": {
+        "name": "Uberti 1885 \"Courteney\" Stalking Rifle .303 British",
+        "length": 0.6096,
+        "twistLength": 0.254,
+        "gunMass": 3.220505827,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-rifles/1885-courteney-stalking-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".303 British",
+          "barrelLength": "24\"",
+          "weight": "7.1 lbs",
+          "twist": "1:10, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1886 Rifle Hunter Lite .45/70",
+      "maker": "Uberti",
+      "model": "1886 Rifle Hunter Lite",
+      "cartridge": ".45/70",
+      "barrel": {
+        "name": "Uberti 1886 Rifle Hunter Lite .45/70",
+        "length": 0.5588,
+        "twistLength": 0.508,
+        "gunMass": 3.220505827,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-rifles/1886-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45/70",
+          "barrelLength": "22\"",
+          "weight": "7.1 lbs",
+          "twist": "1:20, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1886 Rifle Sporting .45/70",
+      "maker": "Uberti",
+      "model": "1886 Rifle Sporting",
+      "cartridge": ".45/70",
+      "barrel": {
+        "name": "Uberti 1886 Rifle Sporting .45/70",
+        "length": 0.6477,
+        "twistLength": 0.508,
+        "gunMass": 4.127690567,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-rifles/1886-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45/70",
+          "barrelLength": "25.5\"",
+          "weight": "9.1 lbs",
+          "twist": "1:20, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti 1894 Carbine Rifle .30-30 Win",
+      "maker": "Uberti",
+      "model": "1894 Carbine Rifle",
+      "cartridge": ".30-30 Win",
+      "barrel": {
+        "name": "Uberti 1894 Carbine Rifle .30-30 Win",
+        "length": 0.508,
+        "twistLength": 0.3048,
+        "gunMass": 3.447302012,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-rifles/1894-carbine-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".30-30 Win",
+          "barrelLength": "20\"",
+          "weight": "7.6 lbs",
+          "twist": "1:12, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti Bonney 1873 Single-Action Cattleman New Model .45 Colt",
+      "maker": "Uberti",
+      "model": "Bonney 1873 Single-Action Cattleman New Model",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti Bonney 1873 Single-Action Cattleman New Model .45 Colt",
+        "length": 0.1397,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/outlaws-and-lawmen",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti Bonney 1873 Single-Action Cattleman New Model .357 Mag",
+      "maker": "Uberti",
+      "model": "Bonney 1873 Single-Action Cattleman New Model",
+      "cartridge": ".357 Mag",
+      "barrel": {
+        "name": "Uberti Bonney 1873 Single-Action Cattleman New Model .357 Mag",
+        "length": 0.1397,
+        "twistLength": 0.47625,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/outlaws-and-lawmen",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Mag",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti Butch 1873 Single-Action Cattleman New Model .45 LC",
+      "maker": "Uberti",
+      "model": "Butch 1873 Single-Action Cattleman New Model",
+      "cartridge": ".45 LC",
+      "barrel": {
+        "name": "Uberti Butch 1873 Single-Action Cattleman New Model .45 LC",
+        "length": 0.12065,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/outlaws-and-lawmen",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 LC",
+          "barrelLength": "4.75\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti Dalton 1873 Single-Action Cattleman New Model .45 Colt",
+      "maker": "Uberti",
+      "model": "Dalton 1873 Single-Action Cattleman New Model",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti Dalton 1873 Single-Action Cattleman New Model .45 Colt",
+        "length": 0.1397,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/outlaws-and-lawmen",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti Dalton 1873 Single-Action Cattleman New Model .357 Mag",
+      "maker": "Uberti",
+      "model": "Dalton 1873 Single-Action Cattleman New Model",
+      "cartridge": ".357 Mag",
+      "barrel": {
+        "name": "Uberti Dalton 1873 Single-Action Cattleman New Model .357 Mag",
+        "length": 0.1397,
+        "twistLength": 0.47625,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/outlaws-and-lawmen",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Mag",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti Doc 1873 Single-Action Cattleman New Model .45 Colt",
+      "maker": "Uberti",
+      "model": "Doc 1873 Single-Action Cattleman New Model",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti Doc 1873 Single-Action Cattleman New Model .45 Colt",
+        "length": 0.12065,
+        "twistLength": 0.4064,
+        "gunMass": 0.997903214,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/outlaws-and-lawmen",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "4.75\"",
+          "weight": "2.2 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti Doc 1873 Single-Action Cattleman New Model .357 Mag",
+      "maker": "Uberti",
+      "model": "Doc 1873 Single-Action Cattleman New Model",
+      "cartridge": ".357 Mag",
+      "barrel": {
+        "name": "Uberti Doc 1873 Single-Action Cattleman New Model .357 Mag",
+        "length": 0.12065,
+        "twistLength": 0.47625,
+        "gunMass": 0.997903214,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/outlaws-and-lawmen",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Mag",
+          "barrelLength": "4.75\"",
+          "weight": "2.2 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti Frank 1875 Single-Action Army Outlaw .45 Colt",
+      "maker": "Uberti",
+      "model": "Frank 1875 Single-Action Army Outlaw",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti Frank 1875 Single-Action Army Outlaw .45 Colt",
+        "length": 0.1905,
+        "twistLength": 0.4064,
+        "gunMass": 1.270058636,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/outlaws-and-lawmen",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "7.5\"",
+          "weight": "2.8 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti Hardin 1875 No. 3, 2nd Model Top-Break .45 Colt",
+      "maker": "Uberti",
+      "model": "Hardin 1875 No. 3, 2nd Model Top-Break",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti Hardin 1875 No. 3, 2nd Model Top-Break .45 Colt",
+        "length": 0.1778,
+        "twistLength": 0.4064,
+        "gunMass": 1.179340162,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/outlaws-and-lawmen",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "7\"",
+          "weight": "2.6 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti Jesse 1873 Single-Action Cattleman New Model .45 Colt",
+      "maker": "Uberti",
+      "model": "Jesse 1873 Single-Action Cattleman New Model",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti Jesse 1873 Single-Action Cattleman New Model .45 Colt",
+        "length": 0.1397,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/outlaws-and-lawmen",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti Jesse 1873 Single-Action Cattleman New Model .357 Mag",
+      "maker": "Uberti",
+      "model": "Jesse 1873 Single-Action Cattleman New Model",
+      "cartridge": ".357 Mag",
+      "barrel": {
+        "name": "Uberti Jesse 1873 Single-Action Cattleman New Model .357 Mag",
+        "length": 0.1397,
+        "twistLength": 0.47625,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/outlaws-and-lawmen",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Mag",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti No. 3 Russian Top-Break New Model .45 Colt",
+      "maker": "Uberti",
+      "model": "No. 3 Russian Top-Break New Model",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti No. 3 Russian Top-Break New Model .45 Colt",
+        "length": 0.1651,
+        "twistLength": 0.4064,
+        "gunMass": 1.133980925,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/top-breaks-outlaw-frontier",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "6.5\"",
+          "weight": "2.5 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti Patton 1873 Single-Action Cattleman New Model .45 ACP",
+      "maker": "Uberti",
+      "model": "Patton 1873 Single-Action Cattleman New Model",
+      "cartridge": ".45 ACP",
+      "barrel": {
+        "name": "Uberti Patton 1873 Single-Action Cattleman New Model .45 ACP",
+        "length": 0.12065,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/outlaws-and-lawmen",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 ACP",
+          "barrelLength": "4.75\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti Short-Stroke CMS Pro KL CMS Pro - Blued .45 Colt",
+      "maker": "Uberti",
+      "model": "Short-Stroke CMS Pro KL CMS Pro - Blued",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti Short-Stroke CMS Pro KL CMS Pro - Blued .45 Colt",
+        "length": 0.0889,
+        "twistLength": 0.4064,
+        "gunMass": 0.952543977,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/short-stroke-cms-cms-pro-and-sass-pro",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "3.5\"",
+          "weight": "2.1 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti Short-Stroke CMS Pro KL CMS Pro - Stainless Steel .45 Colt",
+      "maker": "Uberti",
+      "model": "Short-Stroke CMS Pro KL CMS Pro - Stainless Steel",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti Short-Stroke CMS Pro KL CMS Pro - Stainless Steel .45 Colt",
+        "length": 0.0889,
+        "twistLength": 0.4064,
+        "gunMass": 0.952543977,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/short-stroke-cms-cms-pro-and-sass-pro",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "3.5\"",
+          "weight": "2.1 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti Short-Stroke SASS Pro SASS Pro .45 Colt 4.75\"",
+      "maker": "Uberti",
+      "model": "Short-Stroke SASS Pro SASS Pro",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti Short-Stroke SASS Pro SASS Pro .45 Colt 4.75\"",
+        "length": 0.12065,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/short-stroke-cms-cms-pro-and-sass-pro",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "4.75\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti Short-Stroke SASS Pro SASS Pro .45 Colt 5.5\"",
+      "maker": "Uberti",
+      "model": "Short-Stroke SASS Pro SASS Pro",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti Short-Stroke SASS Pro SASS Pro .45 Colt 5.5\"",
+        "length": 0.1397,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/short-stroke-cms-cms-pro-and-sass-pro",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti Short-Stroke SASS Pro SASS Pro .357 Mag 4.75\"",
+      "maker": "Uberti",
+      "model": "Short-Stroke SASS Pro SASS Pro",
+      "cartridge": ".357 Mag",
+      "barrel": {
+        "name": "Uberti Short-Stroke SASS Pro SASS Pro .357 Mag 4.75\"",
+        "length": 0.12065,
+        "twistLength": 0.47625,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/short-stroke-cms-cms-pro-and-sass-pro",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Mag",
+          "barrelLength": "4.75\"",
+          "weight": "2.3 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti Short-Stroke SASS Pro SASS Pro .357 Mag 5.5\"",
+      "maker": "Uberti",
+      "model": "Short-Stroke SASS Pro SASS Pro",
+      "cartridge": ".357 Mag",
+      "barrel": {
+        "name": "Uberti Short-Stroke SASS Pro SASS Pro .357 Mag 5.5\"",
+        "length": 0.1397,
+        "twistLength": 0.47625,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/short-stroke-cms-cms-pro-and-sass-pro",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357 Mag",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti Springfield Trapdoor Rifle Carbine .45/70",
+      "maker": "Uberti",
+      "model": "Springfield Trapdoor Rifle Carbine",
+      "cartridge": ".45/70",
+      "barrel": {
+        "name": "Uberti Springfield Trapdoor Rifle Carbine .45/70",
+        "length": 0.5588,
+        "twistLength": 0.508,
+        "gunMass": 3.311224301,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-rifles/springfield-trapdoor-rifle",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45/70",
+          "barrelLength": "22\"",
+          "weight": "7.3 lbs",
+          "twist": "1:20, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti Teddy 1873 Single-Action Cattleman New Model .45 Colt",
+      "maker": "Uberti",
+      "model": "Teddy 1873 Single-Action Cattleman New Model",
+      "cartridge": ".45 Colt",
+      "barrel": {
+        "name": "Uberti Teddy 1873 Single-Action Cattleman New Model .45 Colt",
+        "length": 0.1397,
+        "twistLength": 0.4064,
+        "gunMass": 1.043262451,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/outlaws-and-lawmen",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 Colt",
+          "barrelLength": "5.5\"",
+          "weight": "2.3 lbs",
+          "twist": "1:16, RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Uberti Wild Bill 1851 Navy Conversion .38 Spl",
+      "maker": "Uberti",
+      "model": "Wild Bill 1851 Navy Conversion",
+      "cartridge": ".38 Spl",
+      "barrel": {
+        "name": "Uberti Wild Bill 1851 Navy Conversion .38 Spl",
+        "length": 0.1905,
+        "twistLength": 0.47625,
+        "gunMass": 1.270058636,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Uberti",
+        "url": "https://www.uberti-usa.com/cartridge-revolvers/outlaws-and-lawmen",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".38 Spl",
+          "barrelLength": "7.5\"",
+          "weight": "2.8 lbs",
+          "twist": "1:18.75, RH"
+        }
+      }
+    }
+  ]
+}
