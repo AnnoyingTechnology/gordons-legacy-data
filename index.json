@@ -321,6 +321,12 @@
    "sha256": "f7e51fd5e4514acfdb96ce977e3da7c871332a9437b9625d0e20998165615f89"
   },
   {
+   "path": "firearms/daniel-defense.json",
+   "kind": "firearm",
+   "name": "Daniel Defense",
+   "sha256": "e06b6081b913643c4f2d9e6ee6faceb6457ced3b2f7fb22ce5d45a009c5d5404"
+  },
+  {
    "path": "firearms/davide-pedersoli.json",
    "kind": "firearm",
    "name": "Davide Pedersoli",
@@ -379,6 +385,12 @@
    "kind": "firearm",
    "name": "Kel-Tec",
    "sha256": "98a92fd6ac56371804ed974109607ae5e3a9a5194f06de9b1d67dd90d2f3cfa6"
+  },
+  {
+   "path": "firearms/nosler.json",
+   "kind": "firearm",
+   "name": "Nosler",
+   "sha256": "2bfc30a8dade953667e066890f7a8919583d68abcd45a88df92d37440816f9aa"
   },
   {
    "path": "firearms/oberland-arms.json",
@@ -451,6 +463,12 @@
    "kind": "firearm",
    "name": "Weatherby",
    "sha256": "964ac23c20f22a428134f750dc380c4da586b3997514826e49e4d9e577818f9f"
+  },
+  {
+   "path": "firearms/wilson-combat.json",
+   "kind": "firearm",
+   "name": "Wilson Combat",
+   "sha256": "0d7b4037b4cbed8181029c92b3494f91054dd12cf36c9c74a9b867b688405018"
   },
   {
    "path": "firearms/winchester.json",
