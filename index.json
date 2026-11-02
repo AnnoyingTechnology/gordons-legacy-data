@@ -417,6 +417,12 @@
    "sha256": "c6812e5272a692c9a67a8df1343c09abd0def08a23dfe871e318f9f4b30f8736"
   },
   {
+   "path": "firearms/proof-research.json",
+   "kind": "firearm",
+   "name": "PROOF Research",
+   "sha256": "b1eea6b8d6ca6f39ca60134fdce9df26ab086478d7142f9cff15255e01b0b5f2"
+  },
+  {
    "path": "firearms/ruger.json",
    "kind": "firearm",
    "name": "Ruger",

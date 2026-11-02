@@ -1,0 +1,3016 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by PROOF Research, Inc.; facts, released in this repository under CC0",
+    "source": "https://proofresearch.com",
+    "file": "",
+    "author": "PROOF Research, Inc.",
+    "date": "2026-11-02",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Ascension 6.5 CM 22\"",
+      "maker": "PROOF Research",
+      "model": "Ascension",
+      "cartridge": "6.5 CM",
+      "barrel": {
+        "name": "PROOF Research Ascension 6.5 CM 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/ascension/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 CM",
+          "barrelLength": "22",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Ascension 6.5 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Ascension",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "PROOF Research Ascension 6.5 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/ascension/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "22",
+          "twist": "7.5 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Ascension 7 BC 20\"",
+      "maker": "PROOF Research",
+      "model": "Ascension",
+      "cartridge": "7 BC",
+      "barrel": {
+        "name": "PROOF Research Ascension 7 BC 20\"",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/ascension/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 BC",
+          "barrelLength": "20",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Ascension 7 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Ascension",
+      "cartridge": "7 PRC",
+      "barrel": {
+        "name": "PROOF Research Ascension 7 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/ascension/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 PRC",
+          "barrelLength": "22",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Ascension 300 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Ascension",
+      "cartridge": "300 PRC",
+      "barrel": {
+        "name": "PROOF Research Ascension 300 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/ascension/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 PRC",
+          "barrelLength": "22",
+          "twist": "9 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Ascension 300 WM 22\"",
+      "maker": "PROOF Research",
+      "model": "Ascension",
+      "cartridge": "300 WM",
+      "barrel": {
+        "name": "PROOF Research Ascension 300 WM 22\"",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/ascension/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 WM",
+          "barrelLength": "22",
+          "twist": "10 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Ascension 300 WSM 22\"",
+      "maker": "PROOF Research",
+      "model": "Ascension",
+      "cartridge": "300 WSM",
+      "barrel": {
+        "name": "PROOF Research Ascension 300 WSM 22\"",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/ascension/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 WSM",
+          "barrelLength": "22",
+          "twist": "10 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Ascension 308 Win 20\"",
+      "maker": "PROOF Research",
+      "model": "Ascension",
+      "cartridge": "308 Win",
+      "barrel": {
+        "name": "PROOF Research Ascension 308 Win 20\"",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/ascension/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "308 Win",
+          "barrelLength": "20",
+          "twist": "10 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Conviction 6.5 CM 22\"",
+      "maker": "PROOF Research",
+      "model": "Conviction",
+      "cartridge": "6.5 CM",
+      "barrel": {
+        "name": "PROOF Research Conviction 6.5 CM 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/conviction/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 CM",
+          "barrelLength": "22",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Conviction 6.5 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Conviction",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "PROOF Research Conviction 6.5 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/conviction/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "22",
+          "twist": "7.5 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Conviction 7 BC 20\"",
+      "maker": "PROOF Research",
+      "model": "Conviction",
+      "cartridge": "7 BC",
+      "barrel": {
+        "name": "PROOF Research Conviction 7 BC 20\"",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/conviction/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 BC",
+          "barrelLength": "20",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Conviction 7 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Conviction",
+      "cartridge": "7 PRC",
+      "barrel": {
+        "name": "PROOF Research Conviction 7 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/conviction/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 PRC",
+          "barrelLength": "22",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Conviction 22 ARC 20\"",
+      "maker": "PROOF Research",
+      "model": "Conviction",
+      "cartridge": "22 ARC",
+      "barrel": {
+        "name": "PROOF Research Conviction 22 ARC 20\"",
+        "length": 0.508,
+        "twistLength": 0.1778,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/conviction/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "22 ARC",
+          "barrelLength": "20",
+          "twist": "7 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Conviction 300 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Conviction",
+      "cartridge": "300 PRC",
+      "barrel": {
+        "name": "PROOF Research Conviction 300 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/conviction/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 PRC",
+          "barrelLength": "22",
+          "twist": "9 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Conviction 300 WM 22\"",
+      "maker": "PROOF Research",
+      "model": "Conviction",
+      "cartridge": "300 WM",
+      "barrel": {
+        "name": "PROOF Research Conviction 300 WM 22\"",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/conviction/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 WM",
+          "barrelLength": "22",
+          "twist": "10 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Conviction 300 WSM 22\"",
+      "maker": "PROOF Research",
+      "model": "Conviction",
+      "cartridge": "300 WSM",
+      "barrel": {
+        "name": "PROOF Research Conviction 300 WSM 22\"",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/conviction/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 WSM",
+          "barrelLength": "22",
+          "twist": "10 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Conviction 308 Win 20\"",
+      "maker": "PROOF Research",
+      "model": "Conviction",
+      "cartridge": "308 Win",
+      "barrel": {
+        "name": "PROOF Research Conviction 308 Win 20\"",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/conviction/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "308 Win",
+          "barrelLength": "20",
+          "twist": "10 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Conviction 338 Lapua 26\"",
+      "maker": "PROOF Research",
+      "model": "Conviction",
+      "cartridge": "338 Lapua",
+      "barrel": {
+        "name": "PROOF Research Conviction 338 Lapua 26\"",
+        "length": 0.6604,
+        "twistLength": 0.23876,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/conviction/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "338 Lapua",
+          "barrelLength": "26",
+          "twist": "9.4 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Conviction Ti 6.5 CM 22\"",
+      "maker": "PROOF Research",
+      "model": "Conviction Ti",
+      "cartridge": "6.5 CM",
+      "barrel": {
+        "name": "PROOF Research Conviction Ti 6.5 CM 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/conviction-ti/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 CM",
+          "barrelLength": "22",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Conviction Ti 6.5 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Conviction Ti",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "PROOF Research Conviction Ti 6.5 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/conviction-ti/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "22",
+          "twist": "7.5 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Conviction Ti 7 BC 20\"",
+      "maker": "PROOF Research",
+      "model": "Conviction Ti",
+      "cartridge": "7 BC",
+      "barrel": {
+        "name": "PROOF Research Conviction Ti 7 BC 20\"",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/conviction-ti/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 BC",
+          "barrelLength": "20",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Conviction Ti 7 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Conviction Ti",
+      "cartridge": "7 PRC",
+      "barrel": {
+        "name": "PROOF Research Conviction Ti 7 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/conviction-ti/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 PRC",
+          "barrelLength": "22",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Conviction Ti 300 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Conviction Ti",
+      "cartridge": "300 PRC",
+      "barrel": {
+        "name": "PROOF Research Conviction Ti 300 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/conviction-ti/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 PRC",
+          "barrelLength": "22",
+          "twist": "9 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Conviction Ti 300 WM 22\"",
+      "maker": "PROOF Research",
+      "model": "Conviction Ti",
+      "cartridge": "300 WM",
+      "barrel": {
+        "name": "PROOF Research Conviction Ti 300 WM 22\"",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/conviction-ti/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 WM",
+          "barrelLength": "22",
+          "twist": "10 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Conviction Ti 300 WSM 22\"",
+      "maker": "PROOF Research",
+      "model": "Conviction Ti",
+      "cartridge": "300 WSM",
+      "barrel": {
+        "name": "PROOF Research Conviction Ti 300 WSM 22\"",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/conviction-ti/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 WSM",
+          "barrelLength": "22",
+          "twist": "10 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Conviction Ti 308 Win 20\"",
+      "maker": "PROOF Research",
+      "model": "Conviction Ti",
+      "cartridge": "308 Win",
+      "barrel": {
+        "name": "PROOF Research Conviction Ti 308 Win 20\"",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/conviction-ti/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "308 Win",
+          "barrelLength": "20",
+          "twist": "10 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation FDX 6.5 Creedmoor 18\"",
+      "maker": "PROOF Research",
+      "model": "Elevation FDX",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "PROOF Research Elevation FDX 6.5 Creedmoor 18\"",
+        "length": 0.4572,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-fdx/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "18",
+          "twist": "7.5 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation FDX 6.5 PRC 20\"",
+      "maker": "PROOF Research",
+      "model": "Elevation FDX",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "PROOF Research Elevation FDX 6.5 PRC 20\"",
+        "length": 0.508,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-fdx/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "20",
+          "twist": "7.5 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation FDX 7 BC 16.5\"",
+      "maker": "PROOF Research",
+      "model": "Elevation FDX",
+      "cartridge": "7 BC",
+      "barrel": {
+        "name": "PROOF Research Elevation FDX 7 BC 16.5\"",
+        "length": 0.4191,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-fdx/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 BC",
+          "barrelLength": "16.5",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation FDX 7 PRC 20\"",
+      "maker": "PROOF Research",
+      "model": "Elevation FDX",
+      "cartridge": "7 PRC",
+      "barrel": {
+        "name": "PROOF Research Elevation FDX 7 PRC 20\"",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-fdx/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 PRC",
+          "barrelLength": "20",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation FDX 22 CM 18\"",
+      "maker": "PROOF Research",
+      "model": "Elevation FDX",
+      "cartridge": "22 CM",
+      "barrel": {
+        "name": "PROOF Research Elevation FDX 22 CM 18\"",
+        "length": 0.4572,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-fdx/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "22 CM",
+          "barrelLength": "18",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation FDX 300 PRC 20\"",
+      "maker": "PROOF Research",
+      "model": "Elevation FDX",
+      "cartridge": "300 PRC",
+      "barrel": {
+        "name": "PROOF Research Elevation FDX 300 PRC 20\"",
+        "length": 0.508,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-fdx/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 PRC",
+          "barrelLength": "20",
+          "twist": "9 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR 6 ARC 16.5\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR",
+      "cartridge": "6 ARC",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR 6 ARC 16.5\"",
+        "length": 0.4191,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6 ARC",
+          "barrelLength": "16.5",
+          "twist": "7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR 6.5 CM 18\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR",
+      "cartridge": "6.5 CM",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR 6.5 CM 18\"",
+        "length": 0.4572,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 CM",
+          "barrelLength": "18",
+          "twist": "7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR 6.5 CM 22\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR",
+      "cartridge": "6.5 CM",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR 6.5 CM 22\"",
+        "length": 0.5588,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 CM",
+          "barrelLength": "22",
+          "twist": "7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR 6.5 PRC 20\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR 6.5 PRC 20\"",
+        "length": 0.508,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "20",
+          "twist": "7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR 6.5 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR 6.5 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "22",
+          "twist": "7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR 7 BC 16.5\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR",
+      "cartridge": "7 BC",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR 7 BC 16.5\"",
+        "length": 0.4191,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 BC",
+          "barrelLength": "16.5",
+          "twist": "8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR 7 BC 20\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR",
+      "cartridge": "7 BC",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR 7 BC 20\"",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 BC",
+          "barrelLength": "20",
+          "twist": "8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR 7 PRC 20\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR",
+      "cartridge": "7 PRC",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR 7 PRC 20\"",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 PRC",
+          "barrelLength": "20",
+          "twist": "8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR 7 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR",
+      "cartridge": "7 PRC",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR 7 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 PRC",
+          "barrelLength": "22",
+          "twist": "8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR 22 ARC 16.5\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR",
+      "cartridge": "22 ARC",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR 22 ARC 16.5\"",
+        "length": 0.4191,
+        "twistLength": 0.1778,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "22 ARC",
+          "barrelLength": "16.5",
+          "twist": "7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR 22 ARC 20\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR",
+      "cartridge": "22 ARC",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR 22 ARC 20\"",
+        "length": 0.508,
+        "twistLength": 0.1778,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "22 ARC",
+          "barrelLength": "20",
+          "twist": "7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR 22 CM 18\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR",
+      "cartridge": "22 CM",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR 22 CM 18\"",
+        "length": 0.4572,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "22 CM",
+          "barrelLength": "18",
+          "twist": "8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR 22 CM 20\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR",
+      "cartridge": "22 CM",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR 22 CM 20\"",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "22 CM",
+          "barrelLength": "20",
+          "twist": "8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR 25 CM 18\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR",
+      "cartridge": "25 CM",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR 25 CM 18\"",
+        "length": 0.4572,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "25 CM",
+          "barrelLength": "18",
+          "twist": "7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR 25 CM 22\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR",
+      "cartridge": "25 CM",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR 25 CM 22\"",
+        "length": 0.5588,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "25 CM",
+          "barrelLength": "22",
+          "twist": "7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR 223 Rem 16.5\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR",
+      "cartridge": "223 Rem",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR 223 Rem 16.5\"",
+        "length": 0.4191,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "223 Rem",
+          "barrelLength": "16.5",
+          "twist": "8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR 223 Rem 20\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR",
+      "cartridge": "223 Rem",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR 223 Rem 20\"",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "223 Rem",
+          "barrelLength": "20",
+          "twist": "8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR 300 PRC 20\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR",
+      "cartridge": "300 PRC",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR 300 PRC 20\"",
+        "length": 0.508,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 PRC",
+          "barrelLength": "20",
+          "twist": "9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR 300 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR",
+      "cartridge": "300 PRC",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR 300 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 PRC",
+          "barrelLength": "22",
+          "twist": "9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR 300 WM 22\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR",
+      "cartridge": "300 WM",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR 300 WM 22\"",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 WM",
+          "barrelLength": "22",
+          "twist": "10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR 308 Win 16.5\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR",
+      "cartridge": "308 Win",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR 308 Win 16.5\"",
+        "length": 0.4191,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "308 Win",
+          "barrelLength": "16.5",
+          "twist": "10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR 308 Win 20\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR",
+      "cartridge": "308 Win",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR 308 Win 20\"",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "308 Win",
+          "barrelLength": "20",
+          "twist": "10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR 338 ARC 16.5\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR",
+      "cartridge": "338 ARC",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR 338 ARC 16.5\"",
+        "length": 0.4191,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "338 ARC",
+          "barrelLength": "16.5",
+          "twist": "8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR FDX 6.5 CM 18\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR FDX",
+      "cartridge": "6.5 CM",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR FDX 6.5 CM 18\"",
+        "length": 0.4572,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr-fdx/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 CM",
+          "barrelLength": "18",
+          "twist": "7.5 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR FDX 6.5 PRC 20\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR FDX",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR FDX 6.5 PRC 20\"",
+        "length": 0.508,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr-fdx/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "20",
+          "twist": "7.5 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR FDX 7 BC 16.5\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR FDX",
+      "cartridge": "7 BC",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR FDX 7 BC 16.5\"",
+        "length": 0.4191,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr-fdx/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 BC",
+          "barrelLength": "16.5",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR FDX 7 PRC 20\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR FDX",
+      "cartridge": "7 PRC",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR FDX 7 PRC 20\"",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr-fdx/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 PRC",
+          "barrelLength": "20",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR FDX 22 CM 18\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR FDX",
+      "cartridge": "22 CM",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR FDX 22 CM 18\"",
+        "length": 0.4572,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr-fdx/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "22 CM",
+          "barrelLength": "18",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation MTR FDX 300 PRC 20\"",
+      "maker": "PROOF Research",
+      "model": "Elevation MTR FDX",
+      "cartridge": "300 PRC",
+      "barrel": {
+        "name": "PROOF Research Elevation MTR FDX 300 PRC 20\"",
+        "length": 0.508,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation-mtr-fdx/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 PRC",
+          "barrelLength": "20",
+          "twist": "9 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation Rifle 6.5 Creedmoor 18\"",
+      "maker": "PROOF Research",
+      "model": "Elevation Rifle",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "PROOF Research Elevation Rifle 6.5 Creedmoor 18\"",
+        "length": 0.4572,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "18",
+          "twist": "7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation Rifle 6.5 Creedmoor 22\"",
+      "maker": "PROOF Research",
+      "model": "Elevation Rifle",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "PROOF Research Elevation Rifle 6.5 Creedmoor 22\"",
+        "length": 0.5588,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "22",
+          "twist": "7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation Rifle 6.5 PRC 20\"",
+      "maker": "PROOF Research",
+      "model": "Elevation Rifle",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "PROOF Research Elevation Rifle 6.5 PRC 20\"",
+        "length": 0.508,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "20",
+          "twist": "7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation Rifle 6.5 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Elevation Rifle",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "PROOF Research Elevation Rifle 6.5 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "22",
+          "twist": "7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation Rifle 7 BC 16.5\"",
+      "maker": "PROOF Research",
+      "model": "Elevation Rifle",
+      "cartridge": "7 BC",
+      "barrel": {
+        "name": "PROOF Research Elevation Rifle 7 BC 16.5\"",
+        "length": 0.4191,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 BC",
+          "barrelLength": "16.5",
+          "twist": "8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation Rifle 7 BC 20\"",
+      "maker": "PROOF Research",
+      "model": "Elevation Rifle",
+      "cartridge": "7 BC",
+      "barrel": {
+        "name": "PROOF Research Elevation Rifle 7 BC 20\"",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 BC",
+          "barrelLength": "20",
+          "twist": "8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation Rifle 7 PRC 20\"",
+      "maker": "PROOF Research",
+      "model": "Elevation Rifle",
+      "cartridge": "7 PRC",
+      "barrel": {
+        "name": "PROOF Research Elevation Rifle 7 PRC 20\"",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 PRC",
+          "barrelLength": "20",
+          "twist": "8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation Rifle 7 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Elevation Rifle",
+      "cartridge": "7 PRC",
+      "barrel": {
+        "name": "PROOF Research Elevation Rifle 7 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 PRC",
+          "barrelLength": "22",
+          "twist": "8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation Rifle 22 Creedmoor 18\"",
+      "maker": "PROOF Research",
+      "model": "Elevation Rifle",
+      "cartridge": "22 Creedmoor",
+      "barrel": {
+        "name": "PROOF Research Elevation Rifle 22 Creedmoor 18\"",
+        "length": 0.4572,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "22 Creedmoor",
+          "barrelLength": "18",
+          "twist": "8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation Rifle 22 Creedmoor 20\"",
+      "maker": "PROOF Research",
+      "model": "Elevation Rifle",
+      "cartridge": "22 Creedmoor",
+      "barrel": {
+        "name": "PROOF Research Elevation Rifle 22 Creedmoor 20\"",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "22 Creedmoor",
+          "barrelLength": "20",
+          "twist": "8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation Rifle 25 Creedmoor 18\"",
+      "maker": "PROOF Research",
+      "model": "Elevation Rifle",
+      "cartridge": "25 Creedmoor",
+      "barrel": {
+        "name": "PROOF Research Elevation Rifle 25 Creedmoor 18\"",
+        "length": 0.4572,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "25 Creedmoor",
+          "barrelLength": "18",
+          "twist": "7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation Rifle 25 Creedmoor 22\"",
+      "maker": "PROOF Research",
+      "model": "Elevation Rifle",
+      "cartridge": "25 Creedmoor",
+      "barrel": {
+        "name": "PROOF Research Elevation Rifle 25 Creedmoor 22\"",
+        "length": 0.5588,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "25 Creedmoor",
+          "barrelLength": "22",
+          "twist": "7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation Rifle 300 PRC 20\"",
+      "maker": "PROOF Research",
+      "model": "Elevation Rifle",
+      "cartridge": "300 PRC",
+      "barrel": {
+        "name": "PROOF Research Elevation Rifle 300 PRC 20\"",
+        "length": 0.508,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 PRC",
+          "barrelLength": "20",
+          "twist": "9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation Rifle 300 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Elevation Rifle",
+      "cartridge": "300 PRC",
+      "barrel": {
+        "name": "PROOF Research Elevation Rifle 300 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 PRC",
+          "barrelLength": "22",
+          "twist": "9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation Rifle 300 WM 22\"",
+      "maker": "PROOF Research",
+      "model": "Elevation Rifle",
+      "cartridge": "300 WM",
+      "barrel": {
+        "name": "PROOF Research Elevation Rifle 300 WM 22\"",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 WM",
+          "barrelLength": "22",
+          "twist": "10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation Rifle 308 Win 16.5\"",
+      "maker": "PROOF Research",
+      "model": "Elevation Rifle",
+      "cartridge": "308 Win",
+      "barrel": {
+        "name": "PROOF Research Elevation Rifle 308 Win 16.5\"",
+        "length": 0.4191,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "308 Win",
+          "barrelLength": "16.5",
+          "twist": "10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Elevation Rifle 308 Win 20\"",
+      "maker": "PROOF Research",
+      "model": "Elevation Rifle",
+      "cartridge": "308 Win",
+      "barrel": {
+        "name": "PROOF Research Elevation Rifle 308 Win 20\"",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/elevation/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "308 Win",
+          "barrelLength": "20",
+          "twist": "10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Glacier Mountain Hunter 6.5 CM 22\"",
+      "maker": "PROOF Research",
+      "model": "Glacier Mountain Hunter",
+      "cartridge": "6.5 CM",
+      "barrel": {
+        "name": "PROOF Research Glacier Mountain Hunter 6.5 CM 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/glacier/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 CM",
+          "barrelLength": "22",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Glacier Mountain Hunter 6.5 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Glacier Mountain Hunter",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "PROOF Research Glacier Mountain Hunter 6.5 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/glacier/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "22",
+          "twist": "7.5 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Glacier Mountain Hunter 7 BC 20\"",
+      "maker": "PROOF Research",
+      "model": "Glacier Mountain Hunter",
+      "cartridge": "7 BC",
+      "barrel": {
+        "name": "PROOF Research Glacier Mountain Hunter 7 BC 20\"",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/glacier/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 BC",
+          "barrelLength": "20",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Glacier Mountain Hunter 7 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Glacier Mountain Hunter",
+      "cartridge": "7 PRC",
+      "barrel": {
+        "name": "PROOF Research Glacier Mountain Hunter 7 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/glacier/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 PRC",
+          "barrelLength": "22",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Glacier Mountain Hunter 300 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Glacier Mountain Hunter",
+      "cartridge": "300 PRC",
+      "barrel": {
+        "name": "PROOF Research Glacier Mountain Hunter 300 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/glacier/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 PRC",
+          "barrelLength": "22",
+          "twist": "9 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Glacier Mountain Hunter 300 Win Mag 22\"",
+      "maker": "PROOF Research",
+      "model": "Glacier Mountain Hunter",
+      "cartridge": "300 Win Mag",
+      "barrel": {
+        "name": "PROOF Research Glacier Mountain Hunter 300 Win Mag 22\"",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/glacier/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 Win Mag",
+          "barrelLength": "22",
+          "twist": "10 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Glacier Mountain Hunter 300 WSM 22\"",
+      "maker": "PROOF Research",
+      "model": "Glacier Mountain Hunter",
+      "cartridge": "300 WSM",
+      "barrel": {
+        "name": "PROOF Research Glacier Mountain Hunter 300 WSM 22\"",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/glacier/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 WSM",
+          "barrelLength": "22",
+          "twist": "10 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Glacier Mountain Hunter 308 Win 20\"",
+      "maker": "PROOF Research",
+      "model": "Glacier Mountain Hunter",
+      "cartridge": "308 Win",
+      "barrel": {
+        "name": "PROOF Research Glacier Mountain Hunter 308 Win 20\"",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/glacier/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "308 Win",
+          "barrelLength": "20",
+          "twist": "10 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Glacier Ti 6.5 Creedmoor 22\"",
+      "maker": "PROOF Research",
+      "model": "Glacier Ti",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "PROOF Research Glacier Ti 6.5 Creedmoor 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/glacier-ti/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "22",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Glacier Ti 6.5 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Glacier Ti",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "PROOF Research Glacier Ti 6.5 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/glacier-ti/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "22",
+          "twist": "7.5 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Glacier Ti 7 BC 20\"",
+      "maker": "PROOF Research",
+      "model": "Glacier Ti",
+      "cartridge": "7 BC",
+      "barrel": {
+        "name": "PROOF Research Glacier Ti 7 BC 20\"",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/glacier-ti/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 BC",
+          "barrelLength": "20",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Glacier Ti 7 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Glacier Ti",
+      "cartridge": "7 PRC",
+      "barrel": {
+        "name": "PROOF Research Glacier Ti 7 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/glacier-ti/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 PRC",
+          "barrelLength": "22",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Glacier Ti 300 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Glacier Ti",
+      "cartridge": "300 PRC",
+      "barrel": {
+        "name": "PROOF Research Glacier Ti 300 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/glacier-ti/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 PRC",
+          "barrelLength": "22",
+          "twist": "9 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Glacier Ti 300 Win Mag 22\"",
+      "maker": "PROOF Research",
+      "model": "Glacier Ti",
+      "cartridge": "300 Win Mag",
+      "barrel": {
+        "name": "PROOF Research Glacier Ti 300 Win Mag 22\"",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/glacier-ti/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 Win Mag",
+          "barrelLength": "22",
+          "twist": "10 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Glacier Ti 300 WSM 22\"",
+      "maker": "PROOF Research",
+      "model": "Glacier Ti",
+      "cartridge": "300 WSM",
+      "barrel": {
+        "name": "PROOF Research Glacier Ti 300 WSM 22\"",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/glacier-ti/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 WSM",
+          "barrelLength": "22",
+          "twist": "10 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Glacier Ti 308 Win 20\"",
+      "maker": "PROOF Research",
+      "model": "Glacier Ti",
+      "cartridge": "308 Win",
+      "barrel": {
+        "name": "PROOF Research Glacier Ti 308 Win 20\"",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/glacier-ti/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "308 Win",
+          "barrelLength": "20",
+          "twist": "10 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research MDT ACC Elite Chassis 6 ARC 26\"",
+      "maker": "PROOF Research",
+      "model": "MDT ACC Elite Chassis",
+      "cartridge": "6 ARC",
+      "barrel": {
+        "name": "PROOF Research MDT ACC Elite Chassis 6 ARC 26\"",
+        "length": 0.6604,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/proof-mdt-chassis/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6 ARC",
+          "barrelLength": "26",
+          "twist": "7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research MDT ACC Elite Chassis 6 CM 26\"",
+      "maker": "PROOF Research",
+      "model": "MDT ACC Elite Chassis",
+      "cartridge": "6 CM",
+      "barrel": {
+        "name": "PROOF Research MDT ACC Elite Chassis 6 CM 26\"",
+        "length": 0.6604,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/proof-mdt-chassis/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6 CM",
+          "barrelLength": "26",
+          "twist": "7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research MDT ACC Elite Chassis 6 Dasher 26\"",
+      "maker": "PROOF Research",
+      "model": "MDT ACC Elite Chassis",
+      "cartridge": "6 Dasher",
+      "barrel": {
+        "name": "PROOF Research MDT ACC Elite Chassis 6 Dasher 26\"",
+        "length": 0.6604,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/proof-mdt-chassis/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6 Dasher",
+          "barrelLength": "26",
+          "twist": "7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research MDT ACC Elite Chassis 6 GT 26\"",
+      "maker": "PROOF Research",
+      "model": "MDT ACC Elite Chassis",
+      "cartridge": "6 GT",
+      "barrel": {
+        "name": "PROOF Research MDT ACC Elite Chassis 6 GT 26\"",
+        "length": 0.6604,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/proof-mdt-chassis/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6 GT",
+          "barrelLength": "26",
+          "twist": "7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research MDT ACC Elite Chassis 6.5 CM 26\"",
+      "maker": "PROOF Research",
+      "model": "MDT ACC Elite Chassis",
+      "cartridge": "6.5 CM",
+      "barrel": {
+        "name": "PROOF Research MDT ACC Elite Chassis 6.5 CM 26\"",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/proof-mdt-chassis/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 CM",
+          "barrelLength": "26",
+          "twist": "8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research MDT ACC Elite Chassis 25 CM 26\"",
+      "maker": "PROOF Research",
+      "model": "MDT ACC Elite Chassis",
+      "cartridge": "25 CM",
+      "barrel": {
+        "name": "PROOF Research MDT ACC Elite Chassis 25 CM 26\"",
+        "length": 0.6604,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/proof-mdt-chassis/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "25 CM",
+          "barrelLength": "26",
+          "twist": "7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research MDT ACC Elite Chassis 223 Rem 26\"",
+      "maker": "PROOF Research",
+      "model": "MDT ACC Elite Chassis",
+      "cartridge": "223 Rem",
+      "barrel": {
+        "name": "PROOF Research MDT ACC Elite Chassis 223 Rem 26\"",
+        "length": 0.6604,
+        "twistLength": 0.1778,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/proof-mdt-chassis/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "223 Rem",
+          "barrelLength": "26",
+          "twist": "7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research MDT ACC Elite Chassis 308 26\"",
+      "maker": "PROOF Research",
+      "model": "MDT ACC Elite Chassis",
+      "cartridge": "308",
+      "barrel": {
+        "name": "PROOF Research MDT ACC Elite Chassis 308 26\"",
+        "length": 0.6604,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/proof-mdt-chassis/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "308",
+          "barrelLength": "26",
+          "twist": "10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Tundra Rifle 6.5 CM 22\"",
+      "maker": "PROOF Research",
+      "model": "Tundra Rifle",
+      "cartridge": "6.5 CM",
+      "barrel": {
+        "name": "PROOF Research Tundra Rifle 6.5 CM 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/tundra/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 CM",
+          "barrelLength": "22",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Tundra Rifle 6.5 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Tundra Rifle",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "PROOF Research Tundra Rifle 6.5 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/tundra/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "22",
+          "twist": "7.5 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Tundra Rifle 7 BC 20\"",
+      "maker": "PROOF Research",
+      "model": "Tundra Rifle",
+      "cartridge": "7 BC",
+      "barrel": {
+        "name": "PROOF Research Tundra Rifle 7 BC 20\"",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/tundra/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 BC",
+          "barrelLength": "20",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Tundra Rifle 7 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Tundra Rifle",
+      "cartridge": "7 PRC",
+      "barrel": {
+        "name": "PROOF Research Tundra Rifle 7 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/tundra/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 PRC",
+          "barrelLength": "22",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Tundra Rifle 300 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Tundra Rifle",
+      "cartridge": "300 PRC",
+      "barrel": {
+        "name": "PROOF Research Tundra Rifle 300 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/tundra/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 PRC",
+          "barrelLength": "22",
+          "twist": "9 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Tundra Rifle 300 PRC 26\"",
+      "maker": "PROOF Research",
+      "model": "Tundra Rifle",
+      "cartridge": "300 PRC",
+      "barrel": {
+        "name": "PROOF Research Tundra Rifle 300 PRC 26\"",
+        "length": 0.6604,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/tundra/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 PRC",
+          "barrelLength": "26",
+          "twist": "9 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Tundra Rifle 300 Win Mag 22\"",
+      "maker": "PROOF Research",
+      "model": "Tundra Rifle",
+      "cartridge": "300 Win Mag",
+      "barrel": {
+        "name": "PROOF Research Tundra Rifle 300 Win Mag 22\"",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/tundra/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 Win Mag",
+          "barrelLength": "22",
+          "twist": "10 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Tundra Rifle 300 WSM 22\"",
+      "maker": "PROOF Research",
+      "model": "Tundra Rifle",
+      "cartridge": "300 WSM",
+      "barrel": {
+        "name": "PROOF Research Tundra Rifle 300 WSM 22\"",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/tundra/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 WSM",
+          "barrelLength": "22",
+          "twist": "10 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Tundra Rifle 308 Win 20\"",
+      "maker": "PROOF Research",
+      "model": "Tundra Rifle",
+      "cartridge": "308 Win",
+      "barrel": {
+        "name": "PROOF Research Tundra Rifle 308 Win 20\"",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/tundra/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "308 Win",
+          "barrelLength": "20",
+          "twist": "10 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Tundra Rifle 338 Lapua 26\"",
+      "maker": "PROOF Research",
+      "model": "Tundra Rifle",
+      "cartridge": "338 Lapua",
+      "barrel": {
+        "name": "PROOF Research Tundra Rifle 338 Lapua 26\"",
+        "length": 0.6604,
+        "twistLength": 0.23876,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/tundra/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "338 Lapua",
+          "barrelLength": "26",
+          "twist": "9.4 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Tundra Ti X 6.5 CM 22\"",
+      "maker": "PROOF Research",
+      "model": "Tundra Ti X",
+      "cartridge": "6.5 CM",
+      "barrel": {
+        "name": "PROOF Research Tundra Ti X 6.5 CM 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/tundra-ti/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 CM",
+          "barrelLength": "22",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Tundra Ti X 6.5 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Tundra Ti X",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "PROOF Research Tundra Ti X 6.5 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/tundra-ti/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "22",
+          "twist": "7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Tundra Ti X 7 BC 20\"",
+      "maker": "PROOF Research",
+      "model": "Tundra Ti X",
+      "cartridge": "7 BC",
+      "barrel": {
+        "name": "PROOF Research Tundra Ti X 7 BC 20\"",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/tundra-ti/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7 BC",
+          "barrelLength": "20",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Tundra Ti X 7MM PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Tundra Ti X",
+      "cartridge": "7MM PRC",
+      "barrel": {
+        "name": "PROOF Research Tundra Ti X 7MM PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/tundra-ti/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7MM PRC",
+          "barrelLength": "22",
+          "twist": "8 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Tundra Ti X 300 PRC 22\"",
+      "maker": "PROOF Research",
+      "model": "Tundra Ti X",
+      "cartridge": "300 PRC",
+      "barrel": {
+        "name": "PROOF Research Tundra Ti X 300 PRC 22\"",
+        "length": 0.5588,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/tundra-ti/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 PRC",
+          "barrelLength": "22",
+          "twist": "9 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Tundra Ti X 300 WM 22\"",
+      "maker": "PROOF Research",
+      "model": "Tundra Ti X",
+      "cartridge": "300 WM",
+      "barrel": {
+        "name": "PROOF Research Tundra Ti X 300 WM 22\"",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/tundra-ti/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 WM",
+          "barrelLength": "22",
+          "twist": "10 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Tundra Ti X 300 WSM 22\"",
+      "maker": "PROOF Research",
+      "model": "Tundra Ti X",
+      "cartridge": "300 WSM",
+      "barrel": {
+        "name": "PROOF Research Tundra Ti X 300 WSM 22\"",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/tundra-ti/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 WSM",
+          "barrelLength": "22",
+          "twist": "10 PXT"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "PROOF Research Tundra Ti X 308 Win 20\"",
+      "maker": "PROOF Research",
+      "model": "Tundra Ti X",
+      "cartridge": "308 Win",
+      "barrel": {
+        "name": "PROOF Research Tundra Ti X 308 Win 20\"",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "PROOF Research, Inc.",
+        "url": "https://proofresearch.com/rifles/tundra-ti/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "308 Win",
+          "barrelLength": "20",
+          "twist": "10 PXT"
+        }
+      }
+    }
+  ]
+}
