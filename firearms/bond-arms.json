@@ -1,0 +1,278 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by Bond Arms, Inc.; facts, released in this repository under CC0",
+    "source": "https://www.bondarms.com",
+    "file": "",
+    "author": "Bond Arms, Inc.",
+    "date": "2026-11-02",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Bond Arms Backup .45 ACP",
+      "maker": "Bond Arms",
+      "model": "Backup",
+      "cartridge": ".45 ACP",
+      "barrel": {
+        "name": "Bond Arms Backup .45 ACP",
+        "length": 0.0635,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Bond Arms, Inc.",
+        "url": "https://www.bondarms.com/bond-arms-handguns/backup/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": ".45 ACP, 9mm",
+          "barrelLength": "2.5\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Bond Arms Backup 9mm",
+      "maker": "Bond Arms",
+      "model": "Backup",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Bond Arms Backup 9mm",
+        "length": 0.0635,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Bond Arms, Inc.",
+        "url": "https://www.bondarms.com/bond-arms-handguns/backup/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": ".45 ACP, 9mm",
+          "barrelLength": "2.5\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Bond Arms Bullpup 9 9mm",
+      "maker": "Bond Arms",
+      "model": "Bullpup 9",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Bond Arms Bullpup 9 9mm",
+        "length": 0.08509,
+        "gunMass": 0.496117,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Bond Arms, Inc.",
+        "url": "https://www.bondarms.com/bond-arms-handguns/bond-arms-bullpup/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "3.35\"",
+          "weight": "17.5 ounces"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Bond Arms Cowboy Defender .357Mag/.38Spl",
+      "maker": "Bond Arms",
+      "model": "Cowboy Defender",
+      "cartridge": ".357Mag/.38Spl",
+      "barrel": {
+        "name": "Bond Arms Cowboy Defender .357Mag/.38Spl",
+        "length": 0.0762,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Bond Arms, Inc.",
+        "url": "https://www.bondarms.com/bond-arms-handguns/cowboy-defender/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": ".357Mag/.38Spl, .45LC/.410",
+          "barrelLength": "3\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Bond Arms Girl Mini .357Mag/.38Spl",
+      "maker": "Bond Arms",
+      "model": "Girl Mini",
+      "cartridge": ".357Mag/.38Spl",
+      "barrel": {
+        "name": "Bond Arms Girl Mini .357Mag/.38Spl",
+        "length": 0.0635,
+        "gunMass": 0.538641,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Bond Arms, Inc.",
+        "url": "https://www.bondarms.com/bond-arms-handguns/girl-mini/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".357Mag/.38Spl",
+          "barrelLength": "2.5\"",
+          "weight": "19 ounces"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Bond Arms Mama Bear .357Mag/.38Spl",
+      "maker": "Bond Arms",
+      "model": "Mama Bear",
+      "cartridge": ".357Mag/.38Spl",
+      "barrel": {
+        "name": "Bond Arms Mama Bear .357Mag/.38Spl",
+        "length": 0.0635,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Bond Arms, Inc.",
+        "url": "https://www.bondarms.com/bond-arms-handguns/mama-bear/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": ".357Mag/.38Spl, 9mm",
+          "barrelLength": "2.5\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Bond Arms Mama Bear 9mm",
+      "maker": "Bond Arms",
+      "model": "Mama Bear",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Bond Arms Mama Bear 9mm",
+        "length": 0.0635,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Bond Arms, Inc.",
+        "url": "https://www.bondarms.com/bond-arms-handguns/mama-bear/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": ".357Mag/.38Spl, 9mm",
+          "barrelLength": "2.5\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Bond Arms Mini .45 LC",
+      "maker": "Bond Arms",
+      "model": "Mini",
+      "cartridge": ".45 LC",
+      "barrel": {
+        "name": "Bond Arms Mini .45 LC",
+        "length": 0.0635,
+        "gunMass": 0.538641,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Bond Arms, Inc.",
+        "url": "https://www.bondarms.com/bond-arms-handguns/mini-45/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".45 LC",
+          "barrelLength": "2.5\"",
+          "weight": "19 ounces"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Bond Arms Snake Slayer .357Mag/.38Spl",
+      "maker": "Bond Arms",
+      "model": "Snake Slayer",
+      "cartridge": ".357Mag/.38Spl",
+      "barrel": {
+        "name": "Bond Arms Snake Slayer .357Mag/.38Spl",
+        "length": 0.0889,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Bond Arms, Inc.",
+        "url": "https://www.bondarms.com/bond-arms-handguns/snake-slayer/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": ".357Mag/.38Spl, .45LC/.410",
+          "barrelLength": "3.5\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Bond Arms Snake Slayer IV .357Mag/.38Spl",
+      "maker": "Bond Arms",
+      "model": "Snake Slayer IV",
+      "cartridge": ".357Mag/.38Spl",
+      "barrel": {
+        "name": "Bond Arms Snake Slayer IV .357Mag/.38Spl",
+        "length": 0.10795,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Bond Arms, Inc.",
+        "url": "https://www.bondarms.com/bond-arms-handguns/snake-slayer-iv/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": ".357Mag/.38Spl, .45LC/.410",
+          "barrelLength": "4.25\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Bond Arms Texas Defender .357Mag/.38Spl",
+      "maker": "Bond Arms",
+      "model": "Texas Defender",
+      "cartridge": ".357Mag/.38Spl",
+      "barrel": {
+        "name": "Bond Arms Texas Defender .357Mag/.38Spl",
+        "length": 0.0762,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Bond Arms, Inc.",
+        "url": "https://www.bondarms.com/bond-arms-handguns/texas-defender/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": ".357Mag/.38Spl, .45LC/.410",
+          "barrelLength": "3\""
+        }
+      }
+    }
+  ]
+}

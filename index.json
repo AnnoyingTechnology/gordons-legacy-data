@@ -297,6 +297,12 @@
    "sha256": "6db9cadb2e1d06c78c410b485979732ed0b9186317b53e552779525796d39098"
   },
   {
+   "path": "firearms/bond-arms.json",
+   "kind": "firearm",
+   "name": "Bond Arms",
+   "sha256": "17c7c7486836eadec8b90e64d901b38828cca81656915e255d595195f3925daa"
+  },
+  {
    "path": "firearms/browning.json",
    "kind": "firearm",
    "name": "Browning",
