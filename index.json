@@ -291,6 +291,12 @@
    "sha256": "0c8efd2831485b28ac289eb49698d6c3b35402d86530c45791dc9bd5f84873a9"
   },
   {
+   "path": "firearms/barrett.json",
+   "kind": "firearm",
+   "name": "Barrett",
+   "sha256": "dc634921d1467d5b3a95857ba09292fa034ba9fe7fb9f155278e6dc149a4559b"
+  },
+  {
    "path": "firearms/bergara.json",
    "kind": "firearm",
    "name": "Bergara",
@@ -391,6 +397,12 @@
    "kind": "firearm",
    "name": "Kel-Tec",
    "sha256": "98a92fd6ac56371804ed974109607ae5e3a9a5194f06de9b1d67dd90d2f3cfa6"
+  },
+  {
+   "path": "firearms/montana-rifle-company.json",
+   "kind": "firearm",
+   "name": "Montana Rifle Company",
+   "sha256": "ef9211e99d85ad19f8580f2571a553f47c83c9e517f952e1def9985b43969c43"
   },
   {
    "path": "firearms/nosler.json",
