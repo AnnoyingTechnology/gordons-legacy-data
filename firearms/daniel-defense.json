@@ -7,7 +7,7 @@
     "source": "https://danieldefense.com",
     "file": "",
     "author": "Daniel Defense, LLC",
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "method": "read from the maker's own specification pages",
     "status": "published specification, not measured"
   },
@@ -28,7 +28,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/dd5-v3-762x51mm.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "7.62 x 51mm / .308 Winchester",
@@ -53,7 +53,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/dd5-v4-65creedmoor.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "6.5 Creedmoor",
@@ -78,7 +78,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/dd5-v4-762x51mm.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "7.62 x 51mm / .308 Winchester",
@@ -103,7 +103,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/dd5-v5-260.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": ".260 Rem",
@@ -128,7 +128,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/dd5-v5-65creedmoor.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "6.5 Creedmoor",
@@ -153,7 +153,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/delta5-boltactionrifle-65creedmoor-accuracypackage.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "6.5 Creedmoor",
@@ -178,7 +178,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/delta5-boltactionrifle-65creedmoor.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "6.5 Creedmoor",
@@ -203,7 +203,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/delta5-boltactionrifle-308.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "7.62 x 51mm / .308 Winchester",
@@ -229,7 +229,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/ddm4-pdw-sbr.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "300 BLK",
@@ -256,7 +256,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/ddm4-v7p-lawtactical-300blackout.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "300 BLK",
@@ -282,7 +282,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/ddm4-v7p-lawtactical.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "5.56mm NATO",
           "barrelLength": "10.3\"",
@@ -308,7 +308,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/ddm4-v11.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56mm NATO",
@@ -335,7 +335,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/delta5pro-20inch-308-hpalma.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "7.62 x 51mm / .308 Winchester",
@@ -362,7 +362,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/delta5pro-24inch-65creedmoor.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "6.5 Creedmoor",
@@ -389,7 +389,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/delta5pro-26inch-65creedmoor-varmint.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "6.5 Creedmoor",
@@ -416,7 +416,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/delta5pro-26inch-6mmcreedmoor-varmint.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "6mm Creedmoor",
@@ -443,7 +443,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/ddm4-300s.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "300 BLK",
@@ -470,7 +470,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/ddm4-v1.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56mm NATO",
@@ -497,7 +497,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/ddm4-v9.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56mm NATO",
@@ -523,7 +523,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/ddm4-hunter-68-highlander.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "6.8mm SPC",
@@ -548,7 +548,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/ddm4-hunter-300blackout-highlander.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "300 BLK",
@@ -573,7 +573,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/ddm4-isr.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "300 BLK",
@@ -599,7 +599,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/m4a1-california-compliant.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56mm NATO",
@@ -626,7 +626,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/mk12.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56mm NATO",
@@ -653,7 +653,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/ddm4-v4s.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56mm NATO",
@@ -680,7 +680,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/ddm4-v7lw.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56mm NATO",
@@ -707,7 +707,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/ddm4-v7pro.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56mm NATO",
@@ -734,7 +734,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/ddm4-v7pro-california-compliant.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56mm NATO",
@@ -761,7 +761,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/ddm4-v7pro-gunmetalgray.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56mm NATO",
@@ -788,7 +788,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/ddm4-v7s.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56mm NATO",
@@ -814,7 +814,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/ddm4-v7slw.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "5.56mm NATO",
           "barrelLength": "14.5\"",
@@ -840,7 +840,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/ddm4-v7.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56mm NATO",
@@ -867,7 +867,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/ddm4-v7-california-compliant.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56mm NATO",
@@ -893,7 +893,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/ddm4-hunter-556-highlander.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "5.56mm NATO",
           "barrelLength": "18\"",
@@ -918,7 +918,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/mk18-pistol.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "5.56mm NATO",
           "barrelLength": "10.3\"",
@@ -944,7 +944,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/ddm4-pdw.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "300 BLK",
@@ -971,7 +971,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/ddm4-v7p.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56mm NATO",
@@ -998,7 +998,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/ddm4-v7p-300blackout.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "300 BLK",
@@ -1025,7 +1025,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/socom-m4a1.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56mm NATO",
@@ -1051,7 +1051,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/mk18-pistol-lawtactical.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "5.56mm NATO",
           "barrelLength": "10.3\"",
@@ -1077,7 +1077,7 @@
         "kind": "published",
         "publisher": "Daniel Defense, LLC",
         "url": "https://danieldefense.com/mk18-sbr.html",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56mm NATO",

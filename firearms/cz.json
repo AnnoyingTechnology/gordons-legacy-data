@@ -7,7 +7,7 @@
     "source": "https://www.czfirearms.com",
     "file": "",
     "author": "Česká zbrojovka a.s.",
-    "date": "2026-10-16",
+    "date": "2026-11-03",
     "method": "read from the maker's own specification pages",
     "status": "published specification, not measured"
   },
@@ -29,7 +29,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-75-serie/cz-75-legend",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "114 mm",
@@ -55,7 +55,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-alpha",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "559 mm",
@@ -82,7 +82,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-alpha",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "559 mm",
@@ -109,7 +109,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-alpha",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "610 mm",
@@ -136,12 +136,66 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-alpha",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "457 mm",
           "weight": "2,53 kg",
           "twist": "1 : 9,5 / 4"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "CZ 600+ ALPHA 17 Hornet",
+      "maker": "CZ",
+      "model": "600+ ALPHA 17 Hornet",
+      "cartridge": "17 Hornet",
+      "barrel": {
+        "name": "CZ 600+ ALPHA 17 Hornet",
+        "length": 0.508,
+        "twistLength": 0.2286,
+        "gunMass": 2.85,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Česká zbrojovka a.s.",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-alpha",
+        "retrieved": "2026-11-03",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm",
+          "weight": "2,85 kg",
+          "twist": "1 : 9 / 6"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "CZ 600+ ALPHA 22 Hornet",
+      "maker": "CZ",
+      "model": "600+ ALPHA 22 Hornet",
+      "cartridge": "22 Hornet",
+      "barrel": {
+        "name": "CZ 600+ ALPHA 22 Hornet",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 2.82,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Česká zbrojovka a.s.",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-alpha",
+        "retrieved": "2026-11-03",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm",
+          "weight": "2,82 kg",
+          "twist": "1 : 16 / 6"
         }
       }
     },
@@ -190,7 +244,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-alpha",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "559 mm",
@@ -217,7 +271,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-alpha",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "610 mm",
@@ -244,7 +298,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-alpha",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "508 mm",
@@ -298,7 +352,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-alpha",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "508 mm",
@@ -352,12 +406,66 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-american",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "457 mm",
           "weight": "2,8 kg",
           "twist": "1 : 9,5 / 4"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "CZ 600+ AMERICAN 17 Hornet",
+      "maker": "CZ",
+      "model": "600+ AMERICAN 17 Hornet",
+      "cartridge": "17 Hornet",
+      "barrel": {
+        "name": "CZ 600+ AMERICAN 17 Hornet",
+        "length": 0.508,
+        "twistLength": 0.2286,
+        "gunMass": 3.17,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Česká zbrojovka a.s.",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-american",
+        "retrieved": "2026-11-03",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm",
+          "weight": "3,17 kg",
+          "twist": "1 : 9 / 6"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "CZ 600+ AMERICAN 22 Hornet",
+      "maker": "CZ",
+      "model": "600+ AMERICAN 22 Hornet",
+      "cartridge": "22 Hornet",
+      "barrel": {
+        "name": "CZ 600+ AMERICAN 22 Hornet",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 3.14,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Česká zbrojovka a.s.",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-american",
+        "retrieved": "2026-11-03",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm",
+          "weight": "3,14 kg",
+          "twist": "1 : 16 / 6"
         }
       }
     },
@@ -379,7 +487,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-american",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "559 mm",
@@ -406,7 +514,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-american",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "610 mm",
@@ -433,7 +541,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-american",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "508 mm",
@@ -460,7 +568,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-american",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "610 mm",
@@ -487,7 +595,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-american",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "610 mm",
@@ -514,7 +622,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-american",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "508 mm",
@@ -541,7 +649,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "457 mm",
@@ -568,7 +676,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "457 mm",
@@ -595,7 +703,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "457 mm",
@@ -621,8 +729,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-ergo",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "559 mm",
@@ -648,8 +756,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-ergo",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "457 mm",
@@ -675,13 +783,67 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-ergo",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "508 mm",
           "weight": "2,9 kg",
           "twist": "1 : 9,5 / 4"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "CZ 600+ ERGO 17 Hornet",
+      "maker": "CZ",
+      "model": "600+ ERGO 17 Hornet",
+      "cartridge": "17 Hornet",
+      "barrel": {
+        "name": "CZ 600+ ERGO 17 Hornet",
+        "length": 0.508,
+        "twistLength": 0.2286,
+        "gunMass": 2.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Česká zbrojovka a.s.",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-ergo",
+        "retrieved": "2026-11-03",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm",
+          "weight": "2,60 kg",
+          "twist": "1 : 9 / 6"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "CZ 600+ ERGO 22 Hornet",
+      "maker": "CZ",
+      "model": "600+ ERGO 22 Hornet",
+      "cartridge": "22 Hornet",
+      "barrel": {
+        "name": "CZ 600+ ERGO 22 Hornet",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gunMass": 2.64,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Česká zbrojovka a.s.",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-ergo",
+        "retrieved": "2026-11-03",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm",
+          "weight": "2,64 kg",
+          "twist": "1 : 16 / 6"
         }
       }
     },
@@ -702,8 +864,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-ergo",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "508 mm",
@@ -729,8 +891,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-ergo",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "559 mm",
@@ -756,8 +918,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-ergo",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "508 mm",
@@ -783,8 +945,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-ergo",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "610 mm",
@@ -810,8 +972,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-ergo",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "508 mm",
@@ -837,8 +999,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-ergo-driven-hunt",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "508 mm",
@@ -864,8 +1026,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-lux",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "457 mm",
@@ -891,8 +1053,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-lux",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "508 mm",
@@ -918,8 +1080,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-lux",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "508 mm",
@@ -945,8 +1107,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-lux",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "508 mm",
@@ -972,8 +1134,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-lux",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "610 mm",
@@ -999,8 +1161,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-lux",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "508 mm",
@@ -1026,8 +1188,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-mdt-deep-bronze",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "610 mm",
@@ -1053,8 +1215,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-mdt-deep-bronze",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "610 mm",
@@ -1080,8 +1242,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-mdt-deep-bronze",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "610 mm",
@@ -1107,8 +1269,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-mdt-grey",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "610 mm",
@@ -1134,8 +1296,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-mdt-grey",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "610 mm",
@@ -1161,8 +1323,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-mdt-grey",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "610 mm",
@@ -1188,8 +1350,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-range",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "610 mm",
@@ -1215,8 +1377,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-range",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "610 mm",
@@ -1242,8 +1404,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-range",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "610 mm",
@@ -1269,8 +1431,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-range",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "610 mm",
@@ -1296,8 +1458,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-trail",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "412 mm",
@@ -1323,8 +1485,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-trail",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "412 mm",
@@ -1350,8 +1512,8 @@
       "source": {
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
-        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-carbine",
-        "retrieved": "2026-10-16",
+        "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-trail",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "412 mm",
@@ -1378,7 +1540,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-alpha",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "412 mm",
@@ -1405,7 +1567,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-alpha",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "412 mm",
@@ -1432,7 +1594,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-alpha",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "412 mm",
@@ -1459,7 +1621,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/zentralfeuerbuchsen/cz-600-plus-serie/cz-600-plus-american",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "610 mm",
@@ -1485,7 +1647,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-duty-serie/cz-duty-4-0-c",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm",
@@ -1510,7 +1672,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-duty-serie/cz-duty-4-0-c-ms",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm",
@@ -1535,7 +1697,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-duty-serie/cz-duty-4-0-f",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm",
@@ -1560,7 +1722,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-duty-serie/cz-duty-4-0-f-ms",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm",
@@ -1585,7 +1747,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-duty-serie/cz-duty-4-0-c-ms",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "95 mm",
@@ -1610,7 +1772,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-p-09-nocturne-serie/cz-p-09-c-nocturne-sr",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "115 mm",
@@ -1635,7 +1797,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-duty-serie/cz-duty-4-0-c-ms",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "115 mm",
@@ -1660,7 +1822,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-p-09-nocturne-serie",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "135 mm",
@@ -1685,7 +1847,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-duty-serie/cz-duty-4-0-c-ms",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm",
@@ -1710,7 +1872,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-duty-serie/cz-duty-4-0-c-ms",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm",
@@ -1735,7 +1897,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-duty-serie/cz-duty-4-0-c-ms",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm",
@@ -1760,7 +1922,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-duty-serie/cz-duty-4-0-c-ms",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm",
@@ -1785,7 +1947,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-duty-serie/cz-duty-4-0-c-ms",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "122 mm",
@@ -1810,7 +1972,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-p-10-serie/cz-p-10-f-or-sr",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "101 mm",
@@ -1835,7 +1997,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-p-10-serie/cz-p-10-c-or-fde",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "101 mm",
@@ -1860,7 +2022,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-duty-serie/cz-duty-4-0-c-ms",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "114 mm",
@@ -1885,7 +2047,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-duty-serie/cz-duty-4-0-c-ms",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "114 mm",
@@ -1910,7 +2072,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-duty-serie/cz-duty-4-0-c-ms",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "134 mm",
@@ -1935,7 +2097,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-duty-serie/cz-duty-4-0-c-ms",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "89,5 mm",
@@ -1960,7 +2122,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-shadow-2-serie/cz-shadow-2-carry",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "120 mm",
@@ -1985,7 +2147,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-shadow-2-serie/cz-shadow-2-carry",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "120 mm",
@@ -2010,7 +2172,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-shadow-2-serie/cz-shadow-2-carry",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "120 mm",
@@ -2035,7 +2197,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-shadow-2-serie/cz-shadow-2-carry",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm",
@@ -2060,7 +2222,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-shadow-2-serie/cz-shadow-2-carry",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "102 mm",
@@ -2085,7 +2247,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-shadow-2-serie/cz-shadow-2-carry",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "120 mm",
@@ -2110,7 +2272,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-shadow-2-serie/cz-shadow-2-carry",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "120 mm",
@@ -2135,7 +2297,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-shadow-2-serie/cz-shadow-2-target-5",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "130 mm",
@@ -2160,7 +2322,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-shadow-2-serie/cz-shadow-2-target-5",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "130 mm",
@@ -2185,7 +2347,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-shadow-2-serie/cz-shadow-2-target-5",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "130 mm",
@@ -2210,7 +2372,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-shadow-2-serie/cz-shadow-2-target-5",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "130 mm",
@@ -2235,7 +2397,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-shadow-2-serie/cz-shadow-2-target-5",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "130 mm",
@@ -2260,7 +2422,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-ts-2-serie/ts-2-racing-green",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "130 mm",
@@ -2285,7 +2447,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/pistolen/cz-ts-2-serie/ts-2-racing-green",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "barrelLength": "130 mm",
@@ -2310,7 +2472,7 @@
         "kind": "published",
         "publisher": "Česká zbrojovka a.s.",
         "url": "https://www.czfirearms.com/de/produkte/selbstladebuchsen/cz-scorpion-evo3-s1-serie/cz-scorpion-evo-3-s1-ar-stock",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "barrelLength": "140 mm",
           "twist": "1 : 10 / 6"

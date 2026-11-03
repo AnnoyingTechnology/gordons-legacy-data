@@ -7,7 +7,7 @@
     "source": "https://deserttech.com",
     "file": "",
     "author": "Desert Tech",
-    "date": "2026-10-16",
+    "date": "2026-11-03",
     "method": "read from the maker's own specification pages",
     "status": "published specification, not measured"
   },
@@ -29,7 +29,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/hti-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "partNumber": "HTI-RF-D-BB",
@@ -57,7 +57,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/hti-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "partNumber": "HTI-RF-D-FF",
@@ -85,7 +85,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/hti-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "partNumber": "HTI-RF-A-BB",
@@ -113,7 +113,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/hti-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "partNumber": "HTI-RF-A-FF",
@@ -1009,7 +1009,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/quattro-15-lite-pistol-with-qmag-53-223rem-556nato-11-5-53-round-blackqtr-ps-a1153m-b",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "partNumber": "QTR-PS-A1153M-B",
@@ -1037,7 +1037,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/quattro-15-lite-rifle-223rem-556nato-16-53-round-black-with-qmag-53qtr-rf-a1653m-b",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "partNumber": "QTR-RF-A1653M-B",
@@ -1065,7 +1065,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/quattro-15-pistol",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "partNumber": "QTR-PS-A1153-B",
@@ -1093,7 +1093,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/quattro-15-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "partNumber": "QTR-RF-A1653-B",
@@ -1122,7 +1122,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/srs-a2-covert-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "partNumber": "SRS-RF-C-D18R-BB",
@@ -1151,7 +1151,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/srs-a2-covert-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "partNumber": "SRS-RF-C-D18R-FF",
@@ -1180,7 +1180,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/srs-a2-covert-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "partNumber": "SRS-RF-C-C16R-BB",
@@ -1209,7 +1209,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/srs-a2-covert-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "partNumber": "SRS-RF-C-C16R-FF",
@@ -1238,7 +1238,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/srs-m2-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "partNumber": "SRS-RF-M-G26R-BB",
@@ -1296,7 +1296,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/srs-m2-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "partNumber": "SRS-RF-M-G26R-FF",
@@ -1325,7 +1325,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/srs-m2-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "partNumber": "SRS-RF-M-D26R-BB",
@@ -1354,7 +1354,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/srs-m2-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "partNumber": "SRS-RF-M-D26R-FF",
@@ -1362,6 +1362,93 @@
           "barrelLength": "26\"",
           "weight": "9.5lb",
           "twist": "1 in 8\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech SRS M2 Rifle 6.5 PRC 26\" (SRS-RF-M-N26R-BB)",
+      "maker": "Desert Tech",
+      "model": "SRS M2 Rifle",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Desert Tech SRS M2 Rifle 6.5 PRC 26\" (SRS-RF-M-N26R-BB)",
+        "length": 0.6604,
+        "twistLength": 0.2794,
+        "gunMass": 4.263768278,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/srs-m2-rifle",
+        "retrieved": "2026-11-03",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "SRS-RF-M-N26R-BB",
+          "caliber": "6.5 PRC",
+          "barrelLength": "26\"",
+          "weight": "9.4lb",
+          "twist": "1 in 11\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech SRS M2 Rifle 6.5 PRC 26\" (SRS-RF-M-N26R-FF)",
+      "maker": "Desert Tech",
+      "model": "SRS M2 Rifle",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Desert Tech SRS M2 Rifle 6.5 PRC 26\" (SRS-RF-M-N26R-FF)",
+        "length": 0.6604,
+        "twistLength": 0.2794,
+        "gunMass": 4.263768278,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/srs-m2-rifle",
+        "retrieved": "2026-11-03",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "SRS-RF-M-N26R-FF",
+          "caliber": "6.5 PRC",
+          "barrelLength": "26\"",
+          "weight": "9.4lb",
+          "twist": "1 in 11\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Desert Tech SRS M2 Rifle 6.5 PRC 26\" (SRS-RF-M-N26R-TB)",
+      "maker": "Desert Tech",
+      "model": "SRS M2 Rifle",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Desert Tech SRS M2 Rifle 6.5 PRC 26\" (SRS-RF-M-N26R-TB)",
+        "length": 0.6604,
+        "twistLength": 0.2794,
+        "gunMass": 4.263768278,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Desert Tech",
+        "url": "https://deserttech.com/srs-m2-rifle",
+        "retrieved": "2026-11-03",
+        "massBasis": "unstated",
+        "published": {
+          "partNumber": "SRS-RF-M-N26R-TB",
+          "caliber": "6.5 PRC",
+          "barrelLength": "26\"",
+          "weight": "9.4lb",
+          "twist": "1 in 11\""
         }
       }
     },
@@ -1383,7 +1470,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/srs-m2-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "partNumber": "SRS-RF-M-C22R-BB",
@@ -1412,7 +1499,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/srs-m2-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "partNumber": "SRS-RF-M-C22R-FF",
@@ -1439,7 +1526,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-micron-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-D1130-B",
           "caliber": ".300 BLK",
@@ -1463,7 +1550,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-micron-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-D1130-F",
           "caliber": ".300 BLK",
@@ -1487,7 +1574,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-micron-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-D1130-T",
           "caliber": ".300 BLK",
@@ -1511,7 +1598,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-micron-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-B1130-B",
           "caliber": "5.56 NATO / .223 Rem",
@@ -1535,7 +1622,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-micron-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-B1130-F",
           "caliber": "5.56 NATO / .223 Rem",
@@ -1559,7 +1646,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-micron-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-B1130-T",
           "caliber": "5.56 NATO / .223 Rem",
@@ -1583,7 +1670,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-D1630-B",
           "caliber": ".300 BLK",
@@ -1607,7 +1694,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-D1630-F",
           "caliber": ".300 BLK",
@@ -1631,7 +1718,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-D1630-T",
           "caliber": ".300 BLK",
@@ -1655,7 +1742,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-B1630-B",
           "caliber": "5.56 NATO / .223 Rem",
@@ -1679,7 +1766,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-B1630-F",
           "caliber": "5.56 NATO / .223 Rem",
@@ -1703,7 +1790,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-B1630-T",
           "caliber": "5.56 NATO / .223 Rem",
@@ -1727,7 +1814,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-B2010-C-B",
           "caliber": "5.56 NATO / .223 Rem",
@@ -1751,7 +1838,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-B2010-C-F",
           "caliber": "5.56 NATO / .223 Rem",
@@ -1775,7 +1862,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-B2010-C-T",
           "caliber": "5.56 NATO / .223 Rem",
@@ -1799,7 +1886,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-B2030-B",
           "caliber": "5.56 NATO / .223 Rem",
@@ -1823,7 +1910,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-B2030-F",
           "caliber": "5.56 NATO / .223 Rem",
@@ -1847,7 +1934,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-B2030-T",
           "caliber": "5.56 NATO / .223 Rem",
@@ -1871,7 +1958,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-C2010-C-B",
           "caliber": "6.5 Creedmoor",
@@ -1895,7 +1982,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-C2010-C-F",
           "caliber": "6.5 Creedmoor",
@@ -1919,7 +2006,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-C2010-C-T",
           "caliber": "6.5 Creedmoor",
@@ -1943,7 +2030,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-C2020-B",
           "caliber": "6.5 Creedmoor",
@@ -1967,7 +2054,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-C2020-F",
           "caliber": "6.5 Creedmoor",
@@ -1991,7 +2078,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-C2020-T",
           "caliber": "6.5 Creedmoor",
@@ -2015,7 +2102,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-A1620-B",
           "caliber": "7.62 NATO / .308 Win",
@@ -2039,7 +2126,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-A1620-F",
           "caliber": "7.62 NATO / .308 Win",
@@ -2063,7 +2150,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-A1620-T",
           "caliber": "7.62 NATO / .308 Win",
@@ -2087,7 +2174,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-A2010-C-B",
           "caliber": "7.62 NATO / .308 Win",
@@ -2111,7 +2198,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-A2010-C-F",
           "caliber": "7.62 NATO / .308 Win",
@@ -2135,7 +2222,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-A2010-C-T",
           "caliber": "7.62 NATO / .308 Win",
@@ -2159,7 +2246,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-A2020-B",
           "caliber": "7.62 NATO / .308 Win",
@@ -2183,7 +2270,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-A2020-F",
           "caliber": "7.62 NATO / .308 Win",
@@ -2207,7 +2294,7 @@
         "kind": "published",
         "publisher": "Desert Tech",
         "url": "https://deserttech.com/wlvrn-rifle",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "partNumber": "WLV-RF-A2020-T",
           "caliber": "7.62 NATO / .308 Win",
