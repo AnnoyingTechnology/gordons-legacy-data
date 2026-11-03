@@ -7,7 +7,7 @@
     "source": "https://www.colt.com",
     "file": "",
     "author": "Colt's Manufacturing Company LLC",
-    "date": "2026-10-16",
+    "date": "2026-11-03",
     "method": "read from the maker's own specification pages",
     "status": "published specification, not measured"
   },
@@ -28,7 +28,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/anaconda-45-colt-4-25/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "45 Colt",
           "barrelLength": "4.25\""
@@ -51,7 +51,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/anaconda-45-colt-6/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "45 Colt",
           "barrelLength": "6\""
@@ -74,7 +74,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/anaconda-45-colt-8/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "45 Colt",
           "barrelLength": "8\""
@@ -99,7 +99,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/cm7/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "308 WIN (7.62x51mm)",
@@ -127,7 +127,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/cm7/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "308 WIN (7.62x51mm)",
@@ -155,7 +155,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/cm7/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "308 WIN (7.62x51mm)",
@@ -183,7 +183,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/cm7/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "308 WIN (7.62x51mm)",
@@ -211,7 +211,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/cm7/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "308 WIN (7.62x51mm)",
@@ -239,7 +239,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/sub-machine-guns/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "9x19mm NATO",
@@ -267,7 +267,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/sub-machine-guns/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "9x19mm NATO",
@@ -295,7 +295,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/cmk/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "7.62x39mm",
@@ -323,7 +323,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/cmk/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "7.62x39mm",
@@ -351,7 +351,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/cmk/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "7.62x39mm",
@@ -377,7 +377,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/custom-carry-government-9mm/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "9mm Luger",
           "barrelLength": "5\""
@@ -400,7 +400,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/custom-carry-government-45-acp/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "45 ACP",
           "barrelLength": "5\""
@@ -423,7 +423,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/defender-fde-2/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "45 ACP",
           "barrelLength": "3\""
@@ -446,7 +446,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/defender-two-tone-2/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "45 ACP",
           "barrelLength": "3\""
@@ -471,7 +471,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/enhanced-patrol-rifle-ii/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56x45mm NATO",
@@ -499,7 +499,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/enhanced-patrol-rifle-ii/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56x45mm NATO",
@@ -527,7 +527,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/enhanced-patrol-rifle-ii/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56x45mm NATO",
@@ -555,7 +555,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/enhanced-patrol-rifle-ii/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56x45mm NATO",
@@ -583,7 +583,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/infantry-automatic-rifle/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56x45mm NATO",
@@ -611,7 +611,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/infantry-automatic-rifle/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56x45mm NATO",
@@ -639,7 +639,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/m4-carbine/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56x45mm NATO",
@@ -667,7 +667,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/m4-carbine/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56x45mm NATO",
@@ -695,7 +695,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/m4-carbine/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56x45mm NATO",
@@ -723,7 +723,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/m4-carbine/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56x45mm NATO",
@@ -751,7 +751,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/m4-carbine/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56x45mm NATO",
@@ -779,7 +779,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/m4-carbine/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56x45mm NATO",
@@ -807,7 +807,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/m4-carbine/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56x45mm NATO",
@@ -835,7 +835,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/m4-carbine/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56x45mm NATO",
@@ -863,7 +863,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/m4-carbine/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56x45mm NATO",
@@ -891,7 +891,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/m5-carbine-2/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56x45mm NATO",
@@ -919,7 +919,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/m5-carbine-2/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56x45mm NATO",
@@ -947,7 +947,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/m5-carbine-2/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56x45mm NATO",
@@ -975,7 +975,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/m5-carbine-2/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56x45mm NATO",
@@ -1003,7 +1003,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/m5-carbine-2/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56x45mm NATO",
@@ -1031,7 +1031,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/m16/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56x45mm NATO",
@@ -1057,7 +1057,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/night-commander-45-acp/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "45 ACP",
           "barrelLength": "4.25\""
@@ -1080,7 +1080,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/optics-ready-1911-9mm/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "9mm Luger",
           "barrelLength": "5\""
@@ -1103,7 +1103,7 @@
         "kind": "published",
         "publisher": "Colt's Manufacturing Company LLC",
         "url": "https://www.colt.com/detail-page/optics-ready-1911-45-acp/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "45 ACP",
           "barrelLength": "5\""

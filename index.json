@@ -294,103 +294,103 @@
    "path": "firearms/barrett.json",
    "kind": "firearm",
    "name": "Barrett",
-   "sha256": "dc634921d1467d5b3a95857ba09292fa034ba9fe7fb9f155278e6dc149a4559b"
+   "sha256": "16437e9210329005ba5bd48a5424bf9c89bfb8288fb5a68edac2728febb6e5a0"
   },
   {
    "path": "firearms/bergara.json",
    "kind": "firearm",
    "name": "Bergara",
-   "sha256": "6db9cadb2e1d06c78c410b485979732ed0b9186317b53e552779525796d39098"
+   "sha256": "acd4379ba08f72ae38043729aa7f238ff36414861babf064bcbeb9005c943101"
   },
   {
    "path": "firearms/bond-arms.json",
    "kind": "firearm",
    "name": "Bond Arms",
-   "sha256": "17c7c7486836eadec8b90e64d901b38828cca81656915e255d595195f3925daa"
+   "sha256": "ccc0abbe058d2fe527a1aa43a2cde6ca405b10a8da8268a2e6e2ba2c64ad05d8"
   },
   {
    "path": "firearms/browning.json",
    "kind": "firearm",
    "name": "Browning",
-   "sha256": "289cb6630f010eac14d6317edf8319a417b4601856d3c45e62a6b5907b4087db"
+   "sha256": "b8cf34fa97c5305da1c5f2c2de9f3fc0c35ce6b933dd999590f9656d853c17b9"
   },
   {
    "path": "firearms/christensen-arms.json",
    "kind": "firearm",
    "name": "Christensen Arms",
-   "sha256": "cf42a073ccfddb654239f07d071f29072248c82818c86442bd8c5b16b2fae864"
+   "sha256": "0724a7e5271d664daeeeca2ddf3dbccaa10c718ed2d24a803230d48223c68036"
   },
   {
    "path": "firearms/colt.json",
    "kind": "firearm",
    "name": "Colt",
-   "sha256": "f7510a0bff4c8203f449a4d6ad2583f6d8c12acbe8e62ec233be258a1c09d099"
+   "sha256": "dc92caad32873089d75fb5aad2eff07a7cdda7606f62f79f31443892a5ad44b0"
   },
   {
    "path": "firearms/cz.json",
    "kind": "firearm",
    "name": "CZ",
-   "sha256": "f7e51fd5e4514acfdb96ce977e3da7c871332a9437b9625d0e20998165615f89"
+   "sha256": "114cbe866c9964c567ab1ce99111498034f3150286c2e67d60a93a39f934f37f"
   },
   {
    "path": "firearms/daniel-defense.json",
    "kind": "firearm",
    "name": "Daniel Defense",
-   "sha256": "e06b6081b913643c4f2d9e6ee6faceb6457ced3b2f7fb22ce5d45a009c5d5404"
+   "sha256": "ed0f52fda4bd45c88933ad49e246ff5a35f5aa323e537cbc968c5d6e32a09052"
   },
   {
    "path": "firearms/davide-pedersoli.json",
    "kind": "firearm",
    "name": "Davide Pedersoli",
-   "sha256": "3fea100c54e8040ce48ff7526a9946e597065be7a74373904eed94caaeffc49b"
+   "sha256": "c90d76756abce996dadee622ef1cab40672974c9d642345e7972c6b526a6526e"
   },
   {
    "path": "firearms/desert-tech.json",
    "kind": "firearm",
    "name": "Desert Tech",
-   "sha256": "8e3165a15b5621ad7f4985ef58dbe7056c1ed8aaa5f0c0980c937f1f0b5f6467"
+   "sha256": "86f77a03b721bc5c26e979f27de9ded642bd4e92d2e2a4489e3fb5feee9bc623"
   },
   {
    "path": "firearms/ed-brown.json",
    "kind": "firearm",
    "name": "Ed Brown",
-   "sha256": "241d8d13e7b198ec42bfaf94f4ae2cfdcc4f1e50b7f392557fd649f212aca6c2"
+   "sha256": "6c7fe0a5166ffc5cdb754aa03f93261ffe4096dfa967d3c131a0e27630e530a8"
   },
   {
    "path": "firearms/fn.json",
    "kind": "firearm",
    "name": "FN",
-   "sha256": "72d8579b3b1a28b3cd860c88273cdd15414d1a639c4a8b7049c9814b1bfcedc2"
+   "sha256": "de8ce9f710d49a68fe30d03d2c748dfb5a2b680826693015f6372b0dc8906afc"
   },
   {
    "path": "firearms/girsan.json",
    "kind": "firearm",
    "name": "Girsan",
-   "sha256": "b295936dec1ef5992746cd9c873224f8ec9647692e4828d58caf2d506b59a68b"
+   "sha256": "4b5a23b82e6704efd14e8f659f5e47bf8b5e8c393feed2e04e745db60f771901"
   },
   {
    "path": "firearms/glock.json",
    "kind": "firearm",
    "name": "Glock",
-   "sha256": "75cdc6a857375e523d5be5123deadfde502fe656b5cda64081a9b9b7e1885f5c"
+   "sha256": "673184d3ef240156f1dc5078d2e18e38ae938fce3edb274a54dda341cf2b8754"
   },
   {
    "path": "firearms/grand-power.json",
    "kind": "firearm",
    "name": "Grand Power",
-   "sha256": "b8e36a1a0cac6c8c5a7521f0238553ed1f7bb5d9b2b4856b2d96826c70d187db"
+   "sha256": "79e5a0bd27fe8187688ede413f6ffc65d2524a0892dc2f89868801521622801a"
   },
   {
    "path": "firearms/haenel.json",
    "kind": "firearm",
    "name": "Haenel",
-   "sha256": "966e9eb8bb52d9395b389b62083ca91e645f8c48909d7459a608d0b2d3d0e622"
+   "sha256": "ab3c79ef6879193188e5700cb747ce2a45fe5c3011a42fa7f93a96ce47a8c49c"
   },
   {
    "path": "firearms/henry.json",
    "kind": "firearm",
    "name": "Henry",
-   "sha256": "891f3b4730a7e21c9b3ad7de274374faa49058d22059ad6d80544e48eb70cf4b"
+   "sha256": "d104b7a9d9321c126dead2e75180e99add7b23d8cd93d7b776373136ba63a917"
   },
   {
    "path": "firearms/kel-tec.json",
@@ -402,103 +402,103 @@
    "path": "firearms/montana-rifle-company.json",
    "kind": "firearm",
    "name": "Montana Rifle Company",
-   "sha256": "ef9211e99d85ad19f8580f2571a553f47c83c9e517f952e1def9985b43969c43"
+   "sha256": "ab89e8635028d3df22103af36b8b3dbf74eec7f0bb119870b5d9b1cf626502e8"
   },
   {
    "path": "firearms/nosler.json",
    "kind": "firearm",
    "name": "Nosler",
-   "sha256": "2bfc30a8dade953667e066890f7a8919583d68abcd45a88df92d37440816f9aa"
+   "sha256": "f91094000e1022b0649cc23a20107232a687604dff5983c7858328d2dcaa2310"
   },
   {
    "path": "firearms/oberland-arms.json",
    "kind": "firearm",
    "name": "Oberland Arms",
-   "sha256": "c6812e5272a692c9a67a8df1343c09abd0def08a23dfe871e318f9f4b30f8736"
+   "sha256": "1f8fdd7d77fb301e523bfba83b3bfd96fdff4bc48c7b03cf554ca5646a276fc0"
   },
   {
    "path": "firearms/proof-research.json",
    "kind": "firearm",
    "name": "PROOF Research",
-   "sha256": "b1eea6b8d6ca6f39ca60134fdce9df26ab086478d7142f9cff15255e01b0b5f2"
+   "sha256": "1848a0b84c0d2bd1888bacfb270f61e38a25696f111e69bdf09bd8099771c4b5"
   },
   {
    "path": "firearms/ruger.json",
    "kind": "firearm",
    "name": "Ruger",
-   "sha256": "81bcf9701aeff14edab83fc86e0aef77d7b4e3d56cc66e49db14a36230a84fd2"
+   "sha256": "e544224aae79da50fc0d0275571ba75c6f151cae742e1494c92718df15c12a96"
   },
   {
    "path": "firearms/sabatti.json",
    "kind": "firearm",
    "name": "Sabatti",
-   "sha256": "b216ffb81068970e45c088b6098a4aeed0b1e9109c42f280f15d6177deb33f85"
+   "sha256": "8e1f4e487d629699f098fb591d4fdd86f8e43019ed4407c666c2359ce6954e70"
   },
   {
    "path": "firearms/sako.json",
    "kind": "firearm",
    "name": "Sako",
-   "sha256": "e8a1563bdc52034a82e68592da49cbff58b2b68185f3de493f641f69ddf6a94c"
+   "sha256": "22446df2b2f16e39cafd5688c942ee7b5ce937050f67cfb12e3f88dc931c1b4d"
   },
   {
    "path": "firearms/savage-arms.json",
    "kind": "firearm",
    "name": "Savage Arms",
-   "sha256": "838a3e8ceea1485d3c7f4e7dba83302a7b2632bcc58aaf08eff680b7ea830590"
+   "sha256": "810872129429719e0edbeba08b00e5d3abb4a82316b5af3aacaa3c59a650ea97"
   },
   {
    "path": "firearms/schmeisser.json",
    "kind": "firearm",
    "name": "Schmeisser",
-   "sha256": "2f9c8771d7d7a4805a3cdeccfcbf83199c10497a1d959befe51687086099d72c"
+   "sha256": "7d586c8ba493090360c594fd741c6f40f792d474dfad469e2f40884128fccacc"
   },
   {
    "path": "firearms/smith-wesson.json",
    "kind": "firearm",
    "name": "Smith & Wesson",
-   "sha256": "86f1b63b4d7e068540b6805af4b2734b4b144ff5961ff0da6bac08693250c03b"
+   "sha256": "954c482d6cf651649b5ef3dd0c47994a2be5e8dd65c91b6cad9f368d9cb43471"
   },
   {
    "path": "firearms/steyr-arms.json",
    "kind": "firearm",
    "name": "Steyr Arms",
-   "sha256": "3586c94b5e2e1b851bbb3434f9b85fe0819438f09f2e75e44b762457d8609a18"
+   "sha256": "34499c5c7d1e8090818b9f4dd8ab781329fc728937b126a62a25f292e23b8fbf"
   },
   {
    "path": "firearms/tanfoglio.json",
    "kind": "firearm",
    "name": "Tanfoglio",
-   "sha256": "f68e59e11b5da067a06719094b388f6bcaf4256403817a4863127286d3fbaa48"
+   "sha256": "fc37a27abb9224f5e9b2982fd8718047d7440db7614719b06d14e650ab5a669f"
   },
   {
    "path": "firearms/tikka.json",
    "kind": "firearm",
    "name": "Tikka",
-   "sha256": "7b0e2d7a6c793fe17add39868c50059fad471ad3004fbe73f155a50c01c93d49"
+   "sha256": "35037a5192a633916f255a2002f38d2b788603c92e3b80624d72902bb2ad1315"
   },
   {
    "path": "firearms/uberti.json",
    "kind": "firearm",
    "name": "Uberti",
-   "sha256": "63830aaaaf098c24c29cc0b0b40baae3019a8286a66cb80adc5764084e612caa"
+   "sha256": "2848bf29321bef7531fab0fb5484bb80b6ca6b64ad8cd4e54c21eec8c6fa52c1"
   },
   {
    "path": "firearms/weatherby.json",
    "kind": "firearm",
    "name": "Weatherby",
-   "sha256": "964ac23c20f22a428134f750dc380c4da586b3997514826e49e4d9e577818f9f"
+   "sha256": "9070d3fa3043100915a291b6fbd8597d5f3e4bf3e83e4973f6d9e6de60737b06"
   },
   {
    "path": "firearms/wilson-combat.json",
    "kind": "firearm",
    "name": "Wilson Combat",
-   "sha256": "0d7b4037b4cbed8181029c92b3494f91054dd12cf36c9c74a9b867b688405018"
+   "sha256": "b4da97e8911fede1ee7aa423c39b56f1ffedc59ea8fef4399e11d3668520737c"
   },
   {
    "path": "firearms/winchester.json",
    "kind": "firearm",
    "name": "Winchester",
-   "sha256": "31657c25abbda89a90d60e37e636b55b6f86aa209f76712f8e946d8d0a6617d0"
+   "sha256": "621a5dc17a5c7fadc10cc5997ad274ee5946e7f41f73ceec406cc61cf6ef9791"
   },
   {
    "path": "powders/accurate-magpro-2023-06-22-tom24-2023-06-22.json",

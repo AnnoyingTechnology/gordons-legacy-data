@@ -7,7 +7,7 @@
     "source": "https://wilsoncombat.com",
     "file": "",
     "author": "Wilson Combat",
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "method": "read from the maker's own specification pages",
     "status": "published specification, not measured"
   },
@@ -29,7 +29,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/ar9-carbine-glock-receiver-9mm-16-inch-black-and-fde-combat-tuff/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "9mm",
@@ -56,7 +56,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/ar9-carbine-glock-receiver-9mm-16-inch-black-and-silver-combat-tuff/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "9mm",
@@ -83,7 +83,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/ar9-carbine-glock-receiver-9mm-16-inch-gray-tiger-stripe-camo/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "9mm",
@@ -110,12 +110,201 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/ar9-carbine-glock-receiver-9mm-16-inch-white-kodiak-camo/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "9mm",
           "barrelLength": "16\"",
           "weight": "7 lbs 0.2 oz",
+          "twist": "1-10 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat AR9 Pistol, 9mm, Beretta Receiver, 8\" Barrel, 1-10 Twist, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Wilson Combat AR9 Pistol, 9mm, Beretta Receiver, 8\" Barrel, 1-10 Twist, Black",
+        "length": 0.2032,
+        "twistLength": 0.254,
+        "gunMass": 2.817943,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/arp778",
+        "retrieved": "2026-11-03",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "8\"",
+          "weight": "6 lbs, 3.4 oz",
+          "twist": "1-10 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat AR9 Pistol, 9mm, EDC X9 Receiver, 8\" Barrel, 1-10 Twist, M-LOK Finger/Hand Stop, Holosun ARO-EVO-RD-2, Gray Urban Camo",
+      "maker": "Wilson Combat",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Wilson Combat AR9 Pistol, 9mm, EDC X9 Receiver, 8\" Barrel, 1-10 Twist, M-LOK Finger/Hand Stop, Holosun ARO-EVO-RD-2, Gray Urban Camo",
+        "length": 0.28702,
+        "twistLength": 0.254,
+        "gunMass": 2.817943,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/ar9-pistol-9mm-edc-x9-receiver-8-barrel-1-10-twist-m-lok-finger-hand-stop-holosun-aro-evo-rd-2-gray-urban-camo/",
+        "retrieved": "2026-11-03",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "11.3\"",
+          "weight": "6 lbs, 3.4 oz",
+          "twist": "1-10 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat AR9 Pistol, 9mm, EDC X9 Receiver, 8\" Barrel, 1-10 Twist, M-LOK Finger/Hand Stop, Magpul ASAP Sling Mount, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Wilson Combat AR9 Pistol, 9mm, EDC X9 Receiver, 8\" Barrel, 1-10 Twist, M-LOK Finger/Hand Stop, Magpul ASAP Sling Mount, Black",
+        "length": 0.2032,
+        "twistLength": 0.254,
+        "gunMass": 2.925671,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/ar9-pistol-9mm-edc-x9-receiver-8-barrel-1-10-twist-m-lok-finger-hand-stop-magpul-asap-sling-mount-black/",
+        "retrieved": "2026-11-03",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "8\"",
+          "weight": "6 lbs, 7.2 oz",
+          "twist": "1-10 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat AR9 Pistol, 9mm, Glock Receiver, 11.3\" Barrel, 1-10 Twist, Back-Up Sight Set, M-LOK Finger/Hand Stop, Magpul ASAP Sling Mount, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Wilson Combat AR9 Pistol, 9mm, Glock Receiver, 11.3\" Barrel, 1-10 Twist, Back-Up Sight Set, M-LOK Finger/Hand Stop, Magpul ASAP Sling Mount, Black",
+        "length": 0.28702,
+        "twistLength": 0.254,
+        "gunMass": 2.817943,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/ar9-pistol-9mm-glock-receiver-11-3-barrel-1-10-twist-back-up-sight-set-m-lok-finger-hand-stop-magpul-asap-sling-mount-black/",
+        "retrieved": "2026-11-03",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "11.3\"",
+          "weight": "6 lbs, 3.4 oz",
+          "twist": "1-10 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat AR9 Pistol, 9mm, Glock Receiver, 11.3\" Barrel, 1-10 Twist, Law Tactical Folding Stock Adapter, Combat-Tuff Burnt Bronze / Sliver",
+      "maker": "Wilson Combat",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Wilson Combat AR9 Pistol, 9mm, Glock Receiver, 11.3\" Barrel, 1-10 Twist, Law Tactical Folding Stock Adapter, Combat-Tuff Burnt Bronze / Sliver",
+        "length": 0.28702,
+        "twistLength": 0.254,
+        "gunMass": 2.817943,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/ar9-pistol-9mm-glock-receiver-11-3-barrel-1-10-twist-law-tactical-folding-stock-adapter-combat-tuff-burnt-bronze-sliver/",
+        "retrieved": "2026-11-03",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "11.3\"",
+          "weight": "6 lbs, 3.4 oz",
+          "twist": "1-10 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat AR9 Pistol, Beretta Receiver 9mm,11.3\" Barrel, 1-10 Twist, Vortex Sparc AR Red Dot, Gray",
+      "maker": "Wilson Combat",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Wilson Combat AR9 Pistol, Beretta Receiver 9mm,11.3\" Barrel, 1-10 Twist, Vortex Sparc AR Red Dot, Gray",
+        "length": 0.28702,
+        "twistLength": 0.254,
+        "gunMass": 2.925671,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/ar9-pistol-beretta-receiver-9mm-11-3-barrel-1-10-twist-vortex-sparc-ar-red-dot-gray/",
+        "retrieved": "2026-11-03",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "11.3\"",
+          "weight": "6lbs, 7.2 oz.",
+          "twist": "1-10 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat AR9 Pistol, EDC X9 Receiver, 9mm, 11.3\" Barrel, 1-10 Twist, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Wilson Combat AR9 Pistol, EDC X9 Receiver, 9mm, 11.3\" Barrel, 1-10 Twist, Black",
+        "length": 0.28702,
+        "twistLength": 0.254,
+        "gunMass": 2.925671,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/ar9-pistol-edc-x9-receiver-9mm-11-3-barrel-1-10-twist-black/",
+        "retrieved": "2026-11-03",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "11.3\"",
+          "weight": "6 lbs, 7.2 oz",
           "twist": "1-10 Twist"
         }
       }
@@ -136,7 +325,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/ar9b-sbr-11-3-inch-beretta-receiver-9mm/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "9mm (uses Beretta 92 series 9mm magazines)",
@@ -161,12 +350,39 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/sbr1006m",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "9mm",
           "barrelLength": "8\" round threaded",
           "weight": "6 lbs, 5.8 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat ARP Tactical (AR Pistol), 300 HAM'R, 11.3\", 1-13 Twist, Round, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "300 Blackout",
+      "barrel": {
+        "name": "Wilson Combat ARP Tactical (AR Pistol), 300 HAM'R, 11.3\", 1-13 Twist, Round, Black",
+        "length": 0.28702,
+        "twistLength": 0.3302,
+        "gunMass": 2.727224,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/arp-tactical-ar-pistol-300-ham-r-11-3-1-13-twist-round-black/",
+        "retrieved": "2026-11-03",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 Blackout",
+          "barrelLength": "11.3\" round threaded",
+          "weight": "6 lbs, 0.2 oz",
+          "twist": "1-13 Twist"
         }
       }
     },
@@ -185,7 +401,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/classic-supergrade-two-tone-45-acp-ca-approved/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": ".45 ACP",
           "barrelLength": "5\" Stainless match-grade barrel"
@@ -209,7 +425,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/designated-marksman-rifle-223-wylde-18-inch-fluted-barrel/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": ".223 Wylde",
@@ -234,7 +450,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/handgun7025m",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "9mm",
           "barrelLength": "4\" Stainless Cone barrel with Reliability Enhancing Lock-up, flush cut reverse crown"
@@ -256,7 +472,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/edc-x9-9mm-ambi-safety-gray-frame-black-slide/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "9mm",
           "barrelLength": "4\" Stainless Cone barrel with Reliability Enhancing Lock-up, flush cut reverse crown"
@@ -280,7 +496,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/hunter-375-socom-18-inch-fluted-barrel-camo-with-green-base/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": ".375 SOCOM",
@@ -306,7 +522,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/nula1032m",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "6.5mm Creedmoor",
           "barrelLength": "20\" Barrel",
@@ -330,7 +546,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/nula1034m",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "6.5mm Creedmoor",
           "barrelLength": "22\" Barrel",
@@ -354,7 +570,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/nula-model-20-8-6-blackout-16-inch-kodiak-rogue/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": ".6 Blackout",
           "barrelLength": "16\" Barrel",
@@ -378,7 +594,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/nula1047m",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "223 Wylde",
           "barrelLength": "18\" Barrel",
@@ -402,7 +618,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/nula1050m",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "300 Blackout",
           "barrelLength": "16\" Barrel",
@@ -426,7 +642,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/nula-model-20s-300-blackout-16-inch-kodiak-rogue/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "300 Blackout",
           "barrelLength": "16\" Barrel",
@@ -450,7 +666,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/nula-model-20s-300-hamr-18-inch-varmint-rifle/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "300 HAM'R",
           "barrelLength": "18\" Barrel",
@@ -474,7 +690,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/nula-model-20s-350-legend-16-inch/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "350 Legend",
           "barrelLength": "16\" Barrel",
@@ -498,7 +714,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/nula-model-20-243-winchester-20-inch-kodiak-rogue/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": ".243 Winchester",
           "barrelLength": "20\" Barrel",
@@ -522,7 +738,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/nula-model-20-308-winchester-20-inch/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": ".308 Winchester",
           "barrelLength": "20\" Barrel",
@@ -546,7 +762,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/nula-model-20-358-winchester-20-inch-kodiak-rogue/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": ".358 Winchester",
           "barrelLength": "16\" Barrel",
@@ -570,7 +786,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/nula-model-20-6-5-creedmoor-18-inch-woodland-camo/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "6.5mm Creedmoor",
           "barrelLength": "18\" Barrel",
@@ -594,7 +810,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/nula-model-20-6-5-creedmoor-22-inch-kodiak-rogue/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "6.5mm Creedmoor",
           "barrelLength": "22\" Barrel",
@@ -618,7 +834,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/nula-model-20s-223-wylde-18-inch/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": ".223 WYLDE",
           "barrelLength": "18\" Barrel",
@@ -642,7 +858,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/nula-model-20s-223-wylde-18-inch-kodiak-rogue/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "223 Wylde",
           "barrelLength": "18\" Barrel",
@@ -666,7 +882,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/nula-model-20s-300-hamr-16-inch/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "300 HAM'R",
           "barrelLength": "16\" Barrel",
@@ -690,7 +906,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/nula-model-20s-300-hamr-16-inch-charcoal-gray/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "300 HAM'R",
           "barrelLength": "16\" Barrel",
@@ -714,7 +930,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/nula-model-20s-300-hamr-18-inch-kodiak-rogue-varmint-rifle/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "300 HAM'R",
           "barrelLength": "18\" Barrel",
@@ -738,7 +954,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/nula-model-20s-300-hamr-18-inch/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "300 HAM'R",
           "barrelLength": "18\" Barrel",
@@ -762,7 +978,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/nula-model-20s-300-hamr-18-inch-charcoal-gray/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "300 HAM'R",
           "barrelLength": "18\" Barrel",
@@ -786,11 +1002,63 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/nula-model-20s-350-legend-16-inch-kodiak-rogue/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "350 Legend",
           "barrelLength": "16\" Barrel",
           "twist": "1-15 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Protector AR Pistol, 300 Blackout, 11.3\" Barrel, 1-7 Twist, Wild Horizon",
+      "maker": "Wilson Combat",
+      "cartridge": "300 Blackout",
+      "barrel": {
+        "name": "Wilson Combat Protector AR Pistol, 300 Blackout, 11.3\" Barrel, 1-7 Twist, Wild Horizon",
+        "length": 0.28702,
+        "twistLength": 0.1778,
+        "gunMass": 2.749904,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/protector-ar-pistol-300-blackout-11-3-inch-wild-horizon/",
+        "retrieved": "2026-11-03",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 Blackout",
+          "barrelLength": "11.3\"",
+          "weight": "6lbs, 1oz.",
+          "twist": "1-7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Protector AR Pistol, 300 Blackout, 11.3\" Barrel, LAW Folding Stock, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "300 Blackout",
+      "barrel": {
+        "name": "Wilson Combat Protector AR Pistol, 300 Blackout, 11.3\" Barrel, LAW Folding Stock, Black",
+        "length": 0.28702,
+        "gunMass": 2.639341,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/protector-ar-pistol-300-blackout-11-3-inch-law-folding-stock/",
+        "retrieved": "2026-11-03",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 Blackout",
+          "barrelLength": "11.3\"",
+          "weight": "5 lbs, 13.1 oz"
         }
       }
     },
@@ -811,7 +1079,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/protector-carbine-300-hamr-16-inch/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "300 HAM'R",
@@ -838,7 +1106,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/protector-carbine-300-hamr-16-inch-green-tiger-stripe-camo/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "300 HAM'R",
@@ -864,7 +1132,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/rifle4351m",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "350 Legend",
@@ -889,7 +1157,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/protector-carbine-350-legend-16-inch-forest-camo/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "350 Legend",
@@ -915,7 +1183,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/protector-carbine-california-compliant-300-hamr-16-inch-black/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "300 HAM'R",
@@ -941,7 +1209,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/protector-carbine-california-compliant-350-legend-16-inch-black-anodize/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "350 Legend",
@@ -966,12 +1234,37 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/protector-elite-carbine-5-56-nato-16-inch-round-barrel/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56mm NATO",
           "barrelLength": "16\" round threaded",
           "weight": "6 lbs, 9.6 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Protector Elite Pistol, 300 HAM'R, 11.3\" Barrel, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "300 HAM'R",
+      "barrel": {
+        "name": "Wilson Combat Protector Elite Pistol, 300 HAM'R, 11.3\" Barrel, Black",
+        "length": 0.28702,
+        "gunMass": 2.599651,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/protector-elite-pistol-300-hamr-11-3-inch/",
+        "retrieved": "2026-11-03",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 HAM'R",
+          "barrelLength": "11.3\"",
+          "weight": "5 lbs, 11.7 oz"
         }
       }
     },
@@ -992,7 +1285,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/ranger-243-win-16-inch/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": ".243 Winchester",
@@ -1019,7 +1312,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/ranger-6-8-spc-ii-16-inch/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "6.8mm SPC",
@@ -1046,7 +1339,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/ranger-300-blackout-16-inch/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "300 Blackout",
@@ -1073,7 +1366,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/rifle4929m",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": ".204 Ruger",
@@ -1099,7 +1392,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/recon-tactical-338-federal-16-inch-fluted-barrel/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "338 Federal",
@@ -1125,7 +1418,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/recon-tactical-450-bushmaster-16-inch-fluted/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": ".450 Bushmaster",
@@ -1152,7 +1445,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/recon-tactical-458-socom-16-inch-fluted/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": ".458 SOCOM",
@@ -1179,7 +1472,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/recon-tactical-458-socom-16-inch/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": ".458 SOCOM",
@@ -1206,7 +1499,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/recon-tactical-458-socom-16-inch-fluted-coyote-tan/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": ".458 SOCOM",
@@ -1233,7 +1526,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/rifle4330m",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56mm NATO",
@@ -1260,7 +1553,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/recon-tactical-6-5-grendel-18-inch-fluted/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "6.5mm Grendel",
@@ -1287,7 +1580,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/recon-tactical-22-arc-18-inch-fluted-black/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "22 ARC",
@@ -1314,7 +1607,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/recon-tactical-22-arc-18-inch-fluted-gray/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "22 ARC",
@@ -1341,7 +1634,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/recon-tactical-300-hamr-16-inch-crimson-smoke/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "300 HAM'R",
@@ -1368,7 +1661,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/recon-tactical-california-compliant-5-56-nato-16-inch/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56mm NATO",
@@ -1394,7 +1687,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/sbr-tactical-8-inch-5-56-nato/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56mm NATO",
@@ -1419,7 +1712,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/sbr-tactical-11-3-inch-5-56-nato/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "5.56mm NATO",
@@ -1444,7 +1737,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/sbr-tactical-11-3-inch-300-blackout/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "300 Blackout",
@@ -1495,7 +1788,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/sentinel-armor-tuff-9mm-ambi/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "9mm",
           "barrelLength": "3.6\" Stainless Steel match-grade cone barrel, hand fit"
@@ -1517,7 +1810,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/sentinel-armor-tuff-9mm-ambi-lightweight-frame/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "9mm",
           "barrelLength": "3.6\" Stainless Steel match-grade cone barrel, hand fit"
@@ -1539,7 +1832,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/sfx9-10-round-3-25-inch-9mm-ambi-safety/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "9mm",
           "barrelLength": "3.25\" Stainless Cone barrel with Reliability Enhancing Lock-up, flush cut reverse crown"
@@ -1561,7 +1854,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/sfx9-10-round-lightrail-3-25-inch-9mm/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "9mm",
           "barrelLength": "3.25\" Stainless Cone barrel with Reliability Enhancing Lock-up, flush cut reverse crown"
@@ -1583,7 +1876,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/sfx9-15-round-4-inch-9mm-lightrail-black-gray/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "9mm",
           "barrelLength": "4\" Stainless Cone barrel with Reliability Enhancing Lock-up, flush cut reverse crown"
@@ -1605,7 +1898,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/sfx9-15-round-lightrail-frame-4-slide-9mm-black/handgun7353",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "9mm",
           "barrelLength": "4\" Stainless Cone barrel with Reliability Enhancing Lock-up, flush cut reverse crown"
@@ -1629,7 +1922,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/super-sniper-224-valkyrie-22-inch-fluted-barrel/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": ".224 Valkyrie",
@@ -1655,7 +1948,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/super-sniper-308-winchester-20-inch-fluted-barrel-gray-tiger-stripe-camo/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": ".308 Winchester",
@@ -1680,7 +1973,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/super-sniper-308-winchester-20-inch-fluted-threaded-barrel/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": ".308 Winchester",
@@ -1705,7 +1998,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/rifle4416m",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "6.5mm Creedmoor",
@@ -1731,7 +2024,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/rifle4366m",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": ".6.5mm Grendel",
@@ -1757,7 +2050,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/tactical-hunter-rifle-6mm-arc-18-inch-fluted-barrel-orange-digi-cam/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "6mm ARC",
@@ -1783,7 +2076,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/tactical-hunter-260-remington-20-inch-fluted-barrel/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": ".260 Remington",
@@ -1810,7 +2103,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/rifle4289m",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": ".308 Winchester",
@@ -1837,7 +2130,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/tactical-hunter-338-federal-18-inch-fluted-barrel-forest-camo/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": ".338 Federal",
@@ -1862,7 +2155,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/tactical-hunter-7mm-08-remington-18-inch-blue-white/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "7mm-08 Remington",
           "barrelLength": "18\" Barrel"
@@ -1886,7 +2179,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/rifle4323m",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "300 HAM'R",
@@ -1913,7 +2206,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/rifle4324m",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "300 HAM'R",
@@ -1940,7 +2233,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/ultralight-hunter-300-blackout-16-inch-forest-camo-green-base/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "300 Blackout",
@@ -1967,7 +2260,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/ultralight-ranger-243-winchester-16-inch/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": ".243 Winchester",
@@ -1994,7 +2287,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/ultralight-ranger-308-winchester-16-inch/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": ".308 Winchester",
@@ -2021,7 +2314,7 @@
         "kind": "published",
         "publisher": "Wilson Combat",
         "url": "https://wilsoncombat.com/ultralight-ranger-358-winchester-16-inch/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": ".358 Winchester",

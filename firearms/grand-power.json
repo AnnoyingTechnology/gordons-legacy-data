@@ -7,7 +7,7 @@
     "source": "https://grandpower.eu",
     "file": "",
     "author": "Grand Power",
-    "date": "2026-10-16",
+    "date": "2026-11-03",
     "method": "read from the maker's own specification pages",
     "status": "published specification, not measured"
   },
@@ -29,7 +29,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/civilian/cp32/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "caliber": ".32 ACP (7,65 Browning)",
@@ -55,7 +55,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/380-acp/cp380/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "caliber": ".380 ACP",
@@ -81,7 +81,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/r15-freya/gp-r308/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "without-magazine",
         "published": {
           "caliber": ".308 (7.62x51 NATO)",
@@ -107,7 +107,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/k100/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "caliber": "9mm Luger",
@@ -133,7 +133,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/k100-mk23/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "caliber": "9x19",
@@ -159,7 +159,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/k100-x-trim/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "caliber": "9mm Luger",
@@ -185,7 +185,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/lp24/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "without-magazine",
         "published": {
           "caliber": "9x19",
@@ -211,7 +211,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/380-acp/lp380/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "caliber": ".380 ACP",
@@ -237,7 +237,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/p1/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "caliber": "9mm Luger",
@@ -263,7 +263,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/p1-mk23/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "caliber": "9x19",
@@ -289,7 +289,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/p1-ultra/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "caliber": "9mm Luger",
@@ -315,7 +315,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/p1s-mk23/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "9mm Luger",
@@ -341,7 +341,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/p11/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "caliber": "9mm Luger",
@@ -367,7 +367,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/p24/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "without-magazine",
         "published": {
           "caliber": "9x19",
@@ -393,7 +393,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/civilian/p45/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "caliber": ".45 ACP",
@@ -418,7 +418,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/civilian/p45l/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": ".45 ACP",
           "barrelLength": "127 mm"
@@ -442,7 +442,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/380-acp/p380/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "caliber": ".380 ACP",
@@ -468,7 +468,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/q1/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "9mm Luger",
@@ -494,7 +494,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/q1-mk23/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "caliber": "9x19",
@@ -520,7 +520,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/q1s/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "9mm Luger",
@@ -546,7 +546,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/q1s-mk23/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "9mm Luger",
@@ -572,7 +572,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/q100/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "9mm Luger",
@@ -598,7 +598,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/q100-mk23/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "caliber": "9x19",
@@ -624,7 +624,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/380-acp/roxor/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "9x17 mm Browning Court (.380ACP)",
@@ -649,7 +649,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/law-enforcement-and-military/stribog-ap9a3/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": "9x19 NATO",
           "barrelLength": "8\""
@@ -673,7 +673,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/stribog-line/9x19-luger-stribog-line/stribog-sp9-a3/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "without-magazine",
         "published": {
           "caliber": "9x19 Luger",
@@ -699,7 +699,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/stribog-line/9x19-luger-stribog-line/stribog-sp9-a3s/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "without-magazine",
         "published": {
           "caliber": "9x19 Luger",
@@ -725,7 +725,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/stribog-line/9x19-luger-stribog-line/stribog-sp9-a3sg/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "without-magazine",
         "published": {
           "caliber": "9x19 Luger",
@@ -751,7 +751,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/stribog-line/10-mm-auto/stribog-sp10/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "10 mm AUTO",
@@ -777,7 +777,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/stribog-line/45acp-stribog-line/stribog-sp45/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": ".45 ACP",
@@ -803,7 +803,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/stribog-line/civilian-stribog-line/stribog-sp380/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "without-magazine",
         "published": {
           "caliber": ".380 ACP",
@@ -829,7 +829,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/stribog-line/9x19-luger-stribog-line/stribog-sr9-a3/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "without-magazine",
         "published": {
           "caliber": "9x19 Luger",
@@ -855,7 +855,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/stribog-line/9x19-luger-stribog-line/sr9-a3-gen2/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "without-magazine",
         "published": {
           "caliber": "9x19 Luger",
@@ -881,7 +881,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/x-calibur/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "caliber": "9mm Luger",
@@ -907,7 +907,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/x-calibur-match-mk23/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "caliber": "9x19",
@@ -933,7 +933,7 @@
         "kind": "published",
         "publisher": "Grand Power",
         "url": "https://grandpower.eu/products/product-categories/pistols/9x19-luger/x-calibur-mk23/",
-        "retrieved": "2026-10-16",
+        "retrieved": "2026-11-03",
         "massBasis": "empty-magazine",
         "published": {
           "caliber": "9x19",

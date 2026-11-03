@@ -7,7 +7,7 @@
     "source": "https://www.bondarms.com",
     "file": "",
     "author": "Bond Arms, Inc.",
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "method": "read from the maker's own specification pages",
     "status": "published specification, not measured"
   },
@@ -28,7 +28,7 @@
         "kind": "published",
         "publisher": "Bond Arms, Inc.",
         "url": "https://www.bondarms.com/bond-arms-handguns/backup/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": ".45 ACP, 9mm",
           "barrelLength": "2.5\""
@@ -51,7 +51,7 @@
         "kind": "published",
         "publisher": "Bond Arms, Inc.",
         "url": "https://www.bondarms.com/bond-arms-handguns/backup/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": ".45 ACP, 9mm",
           "barrelLength": "2.5\""
@@ -75,7 +75,7 @@
         "kind": "published",
         "publisher": "Bond Arms, Inc.",
         "url": "https://www.bondarms.com/bond-arms-handguns/bond-arms-bullpup/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": "9mm",
@@ -100,7 +100,7 @@
         "kind": "published",
         "publisher": "Bond Arms, Inc.",
         "url": "https://www.bondarms.com/bond-arms-handguns/cowboy-defender/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": ".357Mag/.38Spl, .45LC/.410",
           "barrelLength": "3\""
@@ -124,7 +124,7 @@
         "kind": "published",
         "publisher": "Bond Arms, Inc.",
         "url": "https://www.bondarms.com/bond-arms-handguns/girl-mini/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": ".357Mag/.38Spl",
@@ -149,7 +149,7 @@
         "kind": "published",
         "publisher": "Bond Arms, Inc.",
         "url": "https://www.bondarms.com/bond-arms-handguns/mama-bear/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": ".357Mag/.38Spl, 9mm",
           "barrelLength": "2.5\""
@@ -172,7 +172,7 @@
         "kind": "published",
         "publisher": "Bond Arms, Inc.",
         "url": "https://www.bondarms.com/bond-arms-handguns/mama-bear/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": ".357Mag/.38Spl, 9mm",
           "barrelLength": "2.5\""
@@ -196,7 +196,7 @@
         "kind": "published",
         "publisher": "Bond Arms, Inc.",
         "url": "https://www.bondarms.com/bond-arms-handguns/mini-45/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "massBasis": "unstated",
         "published": {
           "caliber": ".45 LC",
@@ -221,7 +221,7 @@
         "kind": "published",
         "publisher": "Bond Arms, Inc.",
         "url": "https://www.bondarms.com/bond-arms-handguns/snake-slayer/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": ".357Mag/.38Spl, .45LC/.410",
           "barrelLength": "3.5\""
@@ -244,7 +244,7 @@
         "kind": "published",
         "publisher": "Bond Arms, Inc.",
         "url": "https://www.bondarms.com/bond-arms-handguns/snake-slayer-iv/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": ".357Mag/.38Spl, .45LC/.410",
           "barrelLength": "4.25\""
@@ -267,7 +267,7 @@
         "kind": "published",
         "publisher": "Bond Arms, Inc.",
         "url": "https://www.bondarms.com/bond-arms-handguns/texas-defender/",
-        "retrieved": "2026-11-02",
+        "retrieved": "2026-11-03",
         "published": {
           "caliber": ".357Mag/.38Spl, .45LC/.410",
           "barrelLength": "3\""
