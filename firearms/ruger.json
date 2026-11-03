@@ -2470,6 +2470,902 @@
     {
       "format": "gordons-legacy.firearm",
       "schemaVersion": 1,
+      "name": "Ruger GP100 1702",
+      "maker": "Ruger",
+      "model": "GP100 1702",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger GP100 1702",
+        "length": 0.10668,
+        "twistLength": 0.47625,
+        "gunMass": 1.13,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20261007120314/https://ruger.com/products/gp100/specSheets/1702.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-10-07",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "4.20\" | 10.6 cm",
+          "weight": "40 oz. | 1.13 kg",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1704",
+      "maker": "Ruger",
+      "model": "GP100 1704",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger GP100 1704",
+        "length": 0.152,
+        "twistLength": 0.47625,
+        "gunMass": 1.27,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260707095252/https://ruger.com/products/gp100/specSheets/1704.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-07-07",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "6\" | 15.2 cm",
+          "weight": "45 oz. | 1.27 kg",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1705",
+      "maker": "Ruger",
+      "model": "GP100 1705",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger GP100 1705",
+        "length": 0.10668,
+        "twistLength": 0.47625,
+        "gunMass": 1.13,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260930140826/https://ruger.com/products/gp100/specSheets/1705.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-09-30",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "4.20\" | 10.6 cm",
+          "weight": "40 oz. | 1.13 kg",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1707",
+      "maker": "Ruger",
+      "model": "GP100 1707",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger GP100 1707",
+        "length": 0.152,
+        "twistLength": 0.47625,
+        "gunMass": 1.27,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260930135919/https://ruger.com/products/gp100/specSheets/1707.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-09-30",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "6\" | 15.2 cm",
+          "weight": "45 oz. | 1.27 kg",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1715",
+      "maker": "Ruger",
+      "model": "GP100 1715",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger GP100 1715",
+        "length": 0.076,
+        "twistLength": 0.47625,
+        "gunMass": 1.02,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260930134958/https://ruger.com/products/gp100/specSheets/1715.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-09-30",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "3\" | 76 mm",
+          "weight": "36 oz. | 1.02 kg",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1740",
+      "maker": "Ruger",
+      "model": "GP100 1740",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger GP100 1740",
+        "length": 0.127,
+        "twistLength": 0.47625,
+        "gunMass": 1.233204256,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20250624173432/https://ruger.com/products/gp100/specSheets/1740.html",
+        "retrieved": "2026-11-03",
+        "archived": "2025-06-24",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "5\" | 12.7 cm",
+          "weight": "43.5 oz. | 1.23 kg",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1748",
+      "maker": "Ruger",
+      "model": "GP100 1748",
+      "cartridge": "327 Fed Mag",
+      "barrel": {
+        "name": "Ruger GP100 1748",
+        "length": 0.10668,
+        "twistLength": 0.4064,
+        "gunMass": 1.13,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20190822121803/https://ruger.com/products/gp100/specSheets/1748.html",
+        "retrieved": "2026-11-03",
+        "archived": "2019-08-22",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "4.20\" | 10.6 cm",
+          "weight": "40 oz. | 1.13 kg",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1752",
+      "maker": "Ruger",
+      "model": "GP100 1752",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger GP100 1752",
+        "length": 0.076,
+        "twistLength": 0.47625,
+        "gunMass": 1.02,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20200815141926/https://ruger.com/products/gp100/specSheets/1752.html",
+        "retrieved": "2026-11-03",
+        "archived": "2020-08-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "3\" | 76 mm",
+          "weight": "36 oz. | 1.02 kg",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1753",
+      "maker": "Ruger",
+      "model": "GP100 1753",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger GP100 1753",
+        "length": 0.076,
+        "twistLength": 0.47625,
+        "gunMass": 1.02,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20261007141407/https://ruger.com/products/gp100/specSheets/1753.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-10-07",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "3\" | 76 mm",
+          "weight": "36 oz. | 1.02 kg",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1759",
+      "maker": "Ruger",
+      "model": "GP100 1759",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger GP100 1759",
+        "length": 0.152,
+        "twistLength": 0.47625,
+        "gunMass": 1.27,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20261007120516/https://ruger.com/products/gp100/specSheets/1759.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-10-07",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "6\" | 15.2 cm",
+          "weight": "45 oz. | 1.27 kg",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1761",
+      "maker": "Ruger",
+      "model": "GP100 1761",
+      "cartridge": "44 Special",
+      "barrel": {
+        "name": "Ruger GP100 1761",
+        "length": 0.076,
+        "twistLength": 0.508,
+        "gunMass": 1.02,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20191113024415/https://ruger.com/products/gp100/specSheets/1761.html",
+        "retrieved": "2026-11-03",
+        "archived": "2019-11-13",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "3\" | 76 mm",
+          "weight": "36 oz. | 1.02 kg",
+          "twist": "1:20\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1762",
+      "maker": "Ruger",
+      "model": "GP100 1762",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger GP100 1762",
+        "length": 0.10668,
+        "twistLength": 0.47625,
+        "gunMass": 1.13,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260930134958/https://ruger.com/products/gp100/specSheets/1762.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-09-30",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "4.20\" | 10.6 cm",
+          "weight": "40 oz. | 1.13 kg",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1763",
+      "maker": "Ruger",
+      "model": "GP100 1763",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger GP100 1763",
+        "length": 0.0635,
+        "twistLength": 0.47625,
+        "gunMass": 1.02,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260814005907/https://ruger.com/products/gp100/specSheets/1763.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-08-14",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "2.50\" | 63 mm",
+          "weight": "36 oz. | 1.02 kg",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1767",
+      "maker": "Ruger",
+      "model": "GP100 1767",
+      "cartridge": "44 Special",
+      "barrel": {
+        "name": "Ruger GP100 1767",
+        "length": 0.076,
+        "twistLength": 0.508,
+        "gunMass": 1.02,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20200815134903/https://ruger.com/products/gp100/specSheets/1767.html",
+        "retrieved": "2026-11-03",
+        "archived": "2020-08-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "3\" | 76 mm",
+          "weight": "36 oz. | 1.02 kg",
+          "twist": "1:20\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1768",
+      "maker": "Ruger",
+      "model": "GP100 1768",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger GP100 1768",
+        "length": 0.127,
+        "twistLength": 0.47625,
+        "gunMass": 1.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260930134959/https://ruger.com/products/gp100/specSheets/1768.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-09-30",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "5\" | 12.7 cm",
+          "weight": "39 oz. | 1.10 kg",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1769",
+      "maker": "Ruger",
+      "model": "GP100 1769",
+      "cartridge": "327 Fed Mag",
+      "barrel": {
+        "name": "Ruger GP100 1769",
+        "length": 0.127,
+        "twistLength": 0.4064,
+        "gunMass": 1.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260315014039/https://ruger.com/products/gp100/specSheets/1769.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-03-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "5\" | 12.7 cm",
+          "weight": "39 oz. | 1.10 kg",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1770",
+      "maker": "Ruger",
+      "model": "GP100 1770",
+      "cartridge": "44 Special",
+      "barrel": {
+        "name": "Ruger GP100 1770",
+        "length": 0.127,
+        "twistLength": 0.508,
+        "gunMass": 1.07,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260415225424/https://www.ruger.com/products/gp100/specSheets/1770.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-04-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "5\" | 12.7 cm",
+          "weight": "38 oz. | 1.07 kg",
+          "twist": "1:20\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1771",
+      "maker": "Ruger",
+      "model": "GP100 1771",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger GP100 1771",
+        "length": 0.10668,
+        "twistLength": 0.47625,
+        "gunMass": 1.13,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260707102338/https://ruger.com/products/gp100/specSheets/1771.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-07-07",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "4.20\" | 10.6 cm",
+          "weight": "40 oz. | 1.13 kg",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1772",
+      "maker": "Ruger",
+      "model": "GP100 1772",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger GP100 1772",
+        "length": 0.10668,
+        "twistLength": 0.47625,
+        "gunMass": 1.13,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260331025156/https://ruger.com/products/gp100/specSheets/1772.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-03-31",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "4.20\" | 10.6 cm",
+          "weight": "40 oz. | 1.13 kg",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1773",
+      "maker": "Ruger",
+      "model": "GP100 1773",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger GP100 1773",
+        "length": 0.152,
+        "twistLength": 0.47625,
+        "gunMass": 1.233204256,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260402225114/https://ruger.com/products/gp100/specSheets/1773.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-04-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "6\" | 15.2 cm",
+          "weight": "43.5 oz. | 1.23 kg",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1774",
+      "maker": "Ruger",
+      "model": "GP100 1774",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger GP100 1774",
+        "length": 0.0635,
+        "twistLength": 0.47625,
+        "gunMass": 1.02,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260116101345/https://ruger.com/products/gp100/specSheets/1774.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-01-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "2.50\" | 63 mm",
+          "weight": "36 oz. | 1.02 kg",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1776",
+      "maker": "Ruger",
+      "model": "GP100 1776",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger GP100 1776",
+        "length": 0.10668,
+        "twistLength": 0.47625,
+        "gunMass": 1.13,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20240526154054/https://www.ruger.com/products/gp100/specSheets/1776.html",
+        "retrieved": "2026-11-03",
+        "archived": "2024-05-26",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "4.20\" | 10.6 cm",
+          "weight": "40 oz. | 1.13 kg",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1777",
+      "maker": "Ruger",
+      "model": "GP100 1777",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger GP100 1777",
+        "length": 0.10668,
+        "twistLength": 0.47625,
+        "gunMass": 1.13,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20261007120309/https://ruger.com/products/gp100/specSheets/1777.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-10-07",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "4.20\" | 10.6 cm",
+          "weight": "40 oz. | 1.13 kg",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1780",
+      "maker": "Ruger",
+      "model": "GP100 1780",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Ruger GP100 1780",
+        "length": 0.076,
+        "twistLength": 0.4064,
+        "gunMass": 1.02,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260707094112/https://ruger.com/products/gp100/specSheets/1780.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-07-07",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "3\" | 76 mm",
+          "weight": "36 oz. | 1.02 kg",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1781",
+      "maker": "Ruger",
+      "model": "GP100 1781",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Ruger GP100 1781",
+        "length": 0.127,
+        "twistLength": 0.4064,
+        "gunMass": 1.07,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20200815143618/https://ruger.com/products/gp100/specSheets/1781.html",
+        "retrieved": "2026-11-03",
+        "archived": "2020-08-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "5\" | 12.7 cm",
+          "weight": "38 oz. | 1.07 kg",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1782",
+      "maker": "Ruger",
+      "model": "GP100 1782",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger GP100 1782",
+        "length": 0.076,
+        "twistLength": 0.47625,
+        "gunMass": 1.02,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20261007131647/https://ruger.com/products/gp100/specSheets/1782.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-10-07",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "3\" | 76 mm",
+          "weight": "36 oz. | 1.02 kg",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1783",
+      "maker": "Ruger",
+      "model": "GP100 1783",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger GP100 1783",
+        "length": 0.10668,
+        "twistLength": 0.47625,
+        "gunMass": 1.13,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260331025156/https://ruger.com/products/gp100/specSheets/1783.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-03-31",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "4.20\" | 10.6 cm",
+          "weight": "40 oz. | 1.13 kg",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1784",
+      "maker": "Ruger",
+      "model": "GP100 1784",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger GP100 1784",
+        "length": 0.10668,
+        "twistLength": 0.47625,
+        "gunMass": 1.13,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20261007115230/https://ruger.com/products/gp100/specSheets/1784.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-10-07",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "4.20\" | 10.6 cm",
+          "weight": "40 oz. | 1.13 kg",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1788",
+      "maker": "Ruger",
+      "model": "GP100 1788",
+      "cartridge": "44 Special",
+      "barrel": {
+        "name": "Ruger GP100 1788",
+        "length": 0.10668,
+        "twistLength": 0.508,
+        "gunMass": 1.04,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20230602112621/https://ruger.com/products/gp100/specSheets/1788.html",
+        "retrieved": "2026-11-03",
+        "archived": "2023-06-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "4.20\" | 10.6 cm",
+          "weight": "37 oz. | 1.04 kg",
+          "twist": "1:20\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1789",
+      "maker": "Ruger",
+      "model": "GP100 1789",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger GP100 1789",
+        "length": 0.076,
+        "twistLength": 0.47625,
+        "gunMass": 1.02,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260930134957/https://ruger.com/products/gp100/specSheets/1789.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-09-30",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "3\" | 76 mm",
+          "weight": "36 oz. | 1.02 kg",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 1790",
+      "maker": "Ruger",
+      "model": "GP100 1790",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger GP100 1790",
+        "length": 0.0635,
+        "twistLength": 0.47625,
+        "gunMass": 1.02,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260610145436/https://www.ruger.com/products/gp100/specSheets/1790.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-06-10",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "2.50\" | 63 mm",
+          "weight": "36 oz. | 1.02 kg",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger GP100 Match Champion 1754",
+      "maker": "Ruger",
+      "model": "GP100 Match Champion 1754",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger GP100 Match Champion 1754",
+        "length": 0.10668,
+        "twistLength": 0.47625,
+        "gunMass": 1.07,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20250816004821/https://ruger.com/products/gp100/specSheets/1754.html",
+        "retrieved": "2026-11-03",
+        "archived": "2025-08-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "4.20\" | 10.6 cm",
+          "weight": "38 oz. | 1.07 kg",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
       "name": "Ruger Guide Gun 47117",
       "maker": "Ruger",
       "model": "Guide Gun 47117",
@@ -9318,6 +10214,482 @@
         "published": {
           "barrelLength": "3.75\" | 95 mm",
           "weight": "34 oz. | 963 g",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger SP101 5718",
+      "maker": "Ruger",
+      "model": "SP101 5718",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger SP101 5718",
+        "length": 0.05715,
+        "twistLength": 0.4064,
+        "gunMass": 0.737,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20261008200912/https://ruger.com/products/sp101/specSheets/5718.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-10-08",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "2.25\" | 57 mm",
+          "weight": "26 oz. | 737 g",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger SP101 5719",
+      "maker": "Ruger",
+      "model": "SP101 5719",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger SP101 5719",
+        "length": 0.076,
+        "twistLength": 0.4064,
+        "gunMass": 0.765,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260610152903/https://www.ruger.com/products/sp101/specSheets/5719.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-06-10",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "3\" | 76 mm",
+          "weight": "27 oz. | 765 g",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger SP101 5720",
+      "maker": "Ruger",
+      "model": "SP101 5720",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger SP101 5720",
+        "length": 0.05715,
+        "twistLength": 0.4064,
+        "gunMass": 0.708,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260521193315/https://www.ruger.com/products/sp101/specSheets/5720.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-05-21",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "2.25\" | 57 mm",
+          "weight": "25 oz. | 708 g",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger SP101 5737",
+      "maker": "Ruger",
+      "model": "SP101 5737",
+      "cartridge": "38 Spl +P",
+      "barrel": {
+        "name": "Ruger SP101 5737",
+        "length": 0.05715,
+        "twistLength": 0.47625,
+        "gunMass": 0.737,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260513064221/https://ruger.com/products/sp101/specSheets/5737.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-05-13",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "2.25\" | 57 mm",
+          "weight": "26 oz. | 737 g",
+          "twist": "1:18.75\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger SP101 5764",
+      "maker": "Ruger",
+      "model": "SP101 5764",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger SP101 5764",
+        "length": 0.05715,
+        "twistLength": 0.4064,
+        "gunMass": 0.737,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260509174626/https://www.ruger.com/products/sp101/specSheets/5764.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-05-09",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "2.25\" | 57 mm",
+          "weight": "26 oz. | 737 g",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger SP101 5771",
+      "maker": "Ruger",
+      "model": "SP101 5771",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger SP101 5771",
+        "length": 0.10668,
+        "twistLength": 0.4064,
+        "gunMass": 0.836,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20170623152546/http://www.ruger.com/products/sp101/specSheets/5771",
+        "retrieved": "2026-11-03",
+        "archived": "2017-06-23",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "4.20\" | 10.6 cm",
+          "weight": "29.5 oz. | 836 g",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger SP101 5773",
+      "maker": "Ruger",
+      "model": "SP101 5773",
+      "cartridge": "327 Fed Mag",
+      "barrel": {
+        "name": "Ruger SP101 5773",
+        "length": 0.10668,
+        "twistLength": 0.4064,
+        "gunMass": 0.836,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260513063321/https://ruger.com/products/sp101/specSheets/5773.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-05-13",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "4.20\" | 10.6 cm",
+          "weight": "29.5 oz. | 836 g",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger SP101 5774",
+      "maker": "Ruger",
+      "model": "SP101 5774",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger SP101 5774",
+        "length": 0.05715,
+        "twistLength": 0.4064,
+        "gunMass": 0.737,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260513065845/https://ruger.com/products/sp101/specSheets/5774.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-05-13",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "2.25\" | 57 mm",
+          "weight": "26 oz. | 737 g",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger SP101 5775",
+      "maker": "Ruger",
+      "model": "SP101 5775",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger SP101 5775",
+        "length": 0.05715,
+        "twistLength": 0.4064,
+        "gunMass": 0.737,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20200815140239/https://ruger.com/products/sp101/specSheets/5775.html",
+        "retrieved": "2026-11-03",
+        "archived": "2020-08-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "2.25\" | 57 mm",
+          "weight": "26 oz. | 737 g",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger SP101 5779",
+      "maker": "Ruger",
+      "model": "SP101 5779",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger SP101 5779",
+        "length": 0.05715,
+        "twistLength": 0.4064,
+        "gunMass": 0.737,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20200815135557/https://ruger.com/products/sp101/specSheets/5779.html",
+        "retrieved": "2026-11-03",
+        "archived": "2020-08-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "2.25\" | 57 mm",
+          "weight": "26 oz. | 737 g",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger SP101 5781",
+      "maker": "Ruger",
+      "model": "SP101 5781",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger SP101 5781",
+        "length": 0.05715,
+        "twistLength": 0.4064,
+        "gunMass": 0.737,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20171115195421/http://www.ruger.com:80/products/sp101/specSheets/5781.html",
+        "retrieved": "2026-11-03",
+        "archived": "2017-11-15",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "2.25\" | 57 mm",
+          "weight": "26 oz. | 737 g",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger SP101 5783",
+      "maker": "Ruger",
+      "model": "SP101 5783",
+      "cartridge": "9mm Luger",
+      "barrel": {
+        "name": "Ruger SP101 5783",
+        "length": 0.05715,
+        "twistLength": 0.4064,
+        "gunMass": 0.708,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20261007122511/https://ruger.com/products/sp101/specSheets/5783.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-10-07",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "2.25\" | 57 mm",
+          "weight": "25 oz. | 708 g",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger SP101 5784",
+      "maker": "Ruger",
+      "model": "SP101 5784",
+      "cartridge": "327 Fed Mag",
+      "barrel": {
+        "name": "Ruger SP101 5784",
+        "length": 0.076,
+        "twistLength": 0.4064,
+        "gunMass": 0.765,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260509163930/https://www.ruger.com/products/sp101/specSheets/5784.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-05-09",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "3\" | 76 mm",
+          "weight": "27 oz. | 765 g",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger SP101 15702",
+      "maker": "Ruger",
+      "model": "SP101 15702",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger SP101 15702",
+        "length": 0.05715,
+        "twistLength": 0.4064,
+        "gunMass": 0.737,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260513065205/https://ruger.com/products/sp101/specSheets/15702.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-05-13",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "2.25\" | 57 mm",
+          "weight": "26 oz. | 737 g",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger SP101 15704",
+      "maker": "Ruger",
+      "model": "SP101 15704",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger SP101 15704",
+        "length": 0.05715,
+        "twistLength": 0.4064,
+        "gunMass": 0.737,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260513070626/https://ruger.com/products/sp101/specSheets/15704.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-05-13",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "2.25\" | 57 mm",
+          "weight": "26 oz. | 737 g",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger SP101 15707",
+      "maker": "Ruger",
+      "model": "SP101 15707",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger SP101 15707",
+        "length": 0.076,
+        "twistLength": 0.4064,
+        "gunMass": 0.765,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260517120249/https://ruger.com/products/sp101/specSheets/15707.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-05-17",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "3\" | 76 mm",
+          "weight": "27 oz. | 765 g",
+          "twist": "1:16\" RH"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Ruger SP101 15710",
+      "maker": "Ruger",
+      "model": "SP101 15710",
+      "cartridge": "357 Mag",
+      "barrel": {
+        "name": "Ruger SP101 15710",
+        "length": 0.076,
+        "twistLength": 0.4064,
+        "gunMass": 0.765,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Sturm, Ruger & Co., Inc.",
+        "url": "https://web.archive.org/web/20260521081342/https://ruger.com/products/sp101/specSheets/15710.html",
+        "retrieved": "2026-11-03",
+        "archived": "2026-05-21",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "3\" | 76 mm",
+          "weight": "27 oz. | 765 g",
           "twist": "1:16\" RH"
         }
       }

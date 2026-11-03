@@ -426,7 +426,7 @@
    "path": "firearms/ruger.json",
    "kind": "firearm",
    "name": "Ruger",
-   "sha256": "33fd1c1c3091e5522d5665cd521f7ec1de8a4db56e4f9dd9f1f124becece8279"
+   "sha256": "e544224aae79da50fc0d0275571ba75c6f151cae742e1494c92718df15c12a96"
   },
   {
    "path": "firearms/sabatti.json",
