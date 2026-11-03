@@ -1,0 +1,2876 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by Tanfoglio; facts, released in this repository under CC0",
+    "source": "https://tanfoglio.it",
+    "file": "",
+    "author": "Tanfoglio",
+    "date": "2026-10-16",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Combat F .38 Super",
+      "maker": "Tanfoglio",
+      "model": "Combat F",
+      "cartridge": ".38 Super",
+      "barrel": {
+        "name": "Tanfoglio Combat F .38 Super",
+        "length": 0.112,
+        "gunMass": 1.125,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/COMBF/combat-f",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "COMBAT F CAL..38 SA BLACK",
+          "barrelLength": "112mm",
+          "weight": "1125gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Combat F .40 S&W",
+      "maker": "Tanfoglio",
+      "model": "Combat F",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Tanfoglio Combat F .40 S&W",
+        "length": 0.112,
+        "gunMass": 1.125,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/COMBF/combat-f",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "COMBAT F CAL..40 S&W BLACK",
+          "barrelLength": "112mm",
+          "weight": "1125gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Combat F .45 Auto",
+      "maker": "Tanfoglio",
+      "model": "Combat F",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Tanfoglio Combat F .45 Auto",
+        "length": 0.112,
+        "gunMass": 1.125,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/COMBF/combat-f",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "COMBAT F CAL..45 ACP BLACK",
+          "barrelLength": "112mm",
+          "weight": "1125gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Combat F 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Combat F",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Combat F 9x19 mm",
+        "length": 0.112,
+        "gunMass": 1.125,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/COMBF/combat-f",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "COMBAT F CAL. 9X19 BLACK",
+          "barrelLength": "112mm",
+          "weight": "1125gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Combat F 9x21 mm",
+      "maker": "Tanfoglio",
+      "model": "Combat F",
+      "cartridge": "9x21 mm",
+      "barrel": {
+        "name": "Tanfoglio Combat F 9x21 mm",
+        "length": 0.112,
+        "gunMass": 1.125,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/COMBF/combat-f",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "COMBAT F CAL. 9X21 BLACK",
+          "barrelLength": "112mm",
+          "weight": "1125gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Combat F 10mm Auto",
+      "maker": "Tanfoglio",
+      "model": "Combat F",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Tanfoglio Combat F 10mm Auto",
+        "length": 0.112,
+        "gunMass": 1.125,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/COMBF/combat-f",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "COMBAT F CAL. 10MM AUTO BLACK",
+          "barrelLength": "112mm",
+          "weight": "1125gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Combat R .40 S&W",
+      "maker": "Tanfoglio",
+      "model": "Combat R",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Tanfoglio Combat R .40 S&W",
+        "length": 0.112,
+        "gunMass": 1.125,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/COMBR/combat-r",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "COMBAT R CAL..40 S&W BLACK",
+          "barrelLength": "112mm",
+          "weight": "1125gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Combat R 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Combat R",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Combat R 9x19 mm",
+        "length": 0.112,
+        "gunMass": 1.125,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/COMBR/combat-r",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "COMBAT R CAL. 9X19 BLACK",
+          "barrelLength": "112mm",
+          "weight": "1125gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Combat R 9x21 mm",
+      "maker": "Tanfoglio",
+      "model": "Combat R",
+      "cartridge": "9x21 mm",
+      "barrel": {
+        "name": "Tanfoglio Combat R 9x21 mm",
+        "length": 0.112,
+        "gunMass": 1.125,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/COMBR/combat-r",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "COMBAT R CAL. 9X21 BLACK",
+          "barrelLength": "112mm",
+          "weight": "1125gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Compact F .38 Super",
+      "maker": "Tanfoglio",
+      "model": "Compact F",
+      "cartridge": ".38 Super",
+      "barrel": {
+        "name": "Tanfoglio Compact F .38 Super",
+        "length": 0.092,
+        "gunMass": 0.995,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/COMPF/compact-f",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "COMPACT F CAL..38 SA BLACK",
+          "barrelLength": "92mm",
+          "weight": "995gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Compact F .40 S&W",
+      "maker": "Tanfoglio",
+      "model": "Compact F",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Tanfoglio Compact F .40 S&W",
+        "length": 0.092,
+        "gunMass": 0.995,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/COMPF/compact-f",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "COMPACT F CAL..40 S&W BLACK",
+          "barrelLength": "92mm",
+          "weight": "995gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Compact F .45 Auto",
+      "maker": "Tanfoglio",
+      "model": "Compact F",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Tanfoglio Compact F .45 Auto",
+        "length": 0.092,
+        "gunMass": 0.995,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/COMPF/compact-f",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "COMPACT F CAL..45 ACP BLACK",
+          "barrelLength": "92mm",
+          "weight": "995gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Compact F 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Compact F",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Compact F 9x19 mm",
+        "length": 0.092,
+        "gunMass": 0.995,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/COMPF/compact-f",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "COMPACT F CAL. 9X19 BLACK",
+          "barrelLength": "92mm",
+          "weight": "995gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Compact F 9x21 mm",
+      "maker": "Tanfoglio",
+      "model": "Compact F",
+      "cartridge": "9x21 mm",
+      "barrel": {
+        "name": "Tanfoglio Compact F 9x21 mm",
+        "length": 0.092,
+        "gunMass": 0.995,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/COMPF/compact-f",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "COMPACT F CAL. 9X21 BLACK",
+          "barrelLength": "92mm",
+          "weight": "995gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Compact F 10mm Auto",
+      "maker": "Tanfoglio",
+      "model": "Compact F",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Tanfoglio Compact F 10mm Auto",
+        "length": 0.092,
+        "gunMass": 0.995,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/COMPF/compact-f",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "COMPACT F CAL. 10MM AUTO BLACK",
+          "barrelLength": "92mm",
+          "weight": "995gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Compact R .40 S&W",
+      "maker": "Tanfoglio",
+      "model": "Compact R",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Tanfoglio Compact R .40 S&W",
+        "length": 0.092,
+        "gunMass": 0.995,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/COMPR/compact-r",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "COMPACT R CAL..40 S&W BLACK",
+          "barrelLength": "92mm",
+          "weight": "995gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Compact R 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Compact R",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Compact R 9x19 mm",
+        "length": 0.092,
+        "gunMass": 0.995,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/COMPR/compact-r",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "COMPACT R CAL. 9X19 BLACK",
+          "barrelLength": "92mm",
+          "weight": "995gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Compact R 9x21 mm",
+      "maker": "Tanfoglio",
+      "model": "Compact R",
+      "cartridge": "9x21 mm",
+      "barrel": {
+        "name": "Tanfoglio Compact R 9x21 mm",
+        "length": 0.092,
+        "gunMass": 0.995,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/COMPR/compact-r",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "COMPACT R CAL. 9X21 BLACK",
+          "barrelLength": "92mm",
+          "weight": "995gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Domina .38 Super",
+      "maker": "Tanfoglio",
+      "model": "Domina",
+      "cartridge": ".38 Super",
+      "barrel": {
+        "name": "Tanfoglio Domina .38 Super",
+        "length": 0.132,
+        "gunMass": 1.343,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/DOM/domina",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "DOMINA CAL..38 SA",
+          "barrelLength": "132mm",
+          "weight": "1343 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Domina 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Domina",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Domina 9x19 mm",
+        "length": 0.132,
+        "gunMass": 1.343,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/DOM/domina",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "DOMINA CAL.9X19",
+          "barrelLength": "132mm",
+          "weight": "1343 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Domina Xtreme .38 Super",
+      "maker": "Tanfoglio",
+      "model": "Domina Xtreme",
+      "cartridge": ".38 Super",
+      "barrel": {
+        "name": "Tanfoglio Domina Xtreme .38 Super",
+        "length": 0.132,
+        "gunMass": 1.343,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/DOMXTR/domina-xtreme",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "DOMINA XTREME CAL..38 SA 2025",
+          "barrelLength": "132mm",
+          "weight": "1343 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Domina Xtreme 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Domina Xtreme",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Domina Xtreme 9x19 mm",
+        "length": 0.132,
+        "gunMass": 1.343,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/DOMXTR/domina-xtreme",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "DOMINA XTREME CAL. 9X19 2025",
+          "barrelLength": "132mm",
+          "weight": "1343 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Force Compact F .38 Super",
+      "maker": "Tanfoglio",
+      "model": "Force Compact F",
+      "cartridge": ".38 Super",
+      "barrel": {
+        "name": "Tanfoglio Force Compact F .38 Super",
+        "length": 0.092,
+        "gunMass": 0.745,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/FORCOMF/force-compact-f",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "FORCE COMPACT F CAL..38 SA BLACK",
+          "barrelLength": "92mm",
+          "weight": "745gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Force Compact F .40 S&W",
+      "maker": "Tanfoglio",
+      "model": "Force Compact F",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Tanfoglio Force Compact F .40 S&W",
+        "length": 0.092,
+        "gunMass": 0.745,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/FORCOMF/force-compact-f",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "FORCE COMPACT F CAL..40 S&W BLACK",
+          "barrelLength": "92mm",
+          "weight": "745gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Force Compact F .45 Auto",
+      "maker": "Tanfoglio",
+      "model": "Force Compact F",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Tanfoglio Force Compact F .45 Auto",
+        "length": 0.092,
+        "gunMass": 0.745,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/FORCOMF/force-compact-f",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "FORCE COMPACT F CAL..45 ACP BLACK",
+          "barrelLength": "92mm",
+          "weight": "745gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Force Compact F 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Force Compact F",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Force Compact F 9x19 mm",
+        "length": 0.092,
+        "gunMass": 0.745,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/FORCOMF/force-compact-f",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "FORCE COMPACT F CAL. 9X19 BLACK",
+          "barrelLength": "92mm",
+          "weight": "745gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Force Compact F 9x21 mm",
+      "maker": "Tanfoglio",
+      "model": "Force Compact F",
+      "cartridge": "9x21 mm",
+      "barrel": {
+        "name": "Tanfoglio Force Compact F 9x21 mm",
+        "length": 0.092,
+        "gunMass": 0.745,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/FORCOMF/force-compact-f",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "FORCE COMPACT F CAL. 9X21 BLACK",
+          "barrelLength": "92mm",
+          "weight": "745gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Force Compact F 10mm Auto",
+      "maker": "Tanfoglio",
+      "model": "Force Compact F",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Tanfoglio Force Compact F 10mm Auto",
+        "length": 0.092,
+        "gunMass": 0.745,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/FORCOMF/force-compact-f",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "FORCE COMPACT F CAL. 10MM AUTO BLACK",
+          "barrelLength": "92mm",
+          "weight": "745gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Force Compact R .40 S&W",
+      "maker": "Tanfoglio",
+      "model": "Force Compact R",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Tanfoglio Force Compact R .40 S&W",
+        "length": 0.092,
+        "gunMass": 0.745,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/FORCOMR/force-compact-r",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "FORCE COMPACT R CAL..40 S&W BLACK",
+          "barrelLength": "92mm",
+          "weight": "745gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Force Compact R 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Force Compact R",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Force Compact R 9x19 mm",
+        "length": 0.092,
+        "gunMass": 0.745,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/FORCOMR/force-compact-r",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "FORCE COMPACT R CAL. 9X19 BLACK",
+          "barrelLength": "92mm",
+          "weight": "745gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Force Compact R 9x21 mm",
+      "maker": "Tanfoglio",
+      "model": "Force Compact R",
+      "cartridge": "9x21 mm",
+      "barrel": {
+        "name": "Tanfoglio Force Compact R 9x21 mm",
+        "length": 0.092,
+        "gunMass": 0.745,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/FORCOMR/force-compact-r",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "FORCE COMPACT R CAL. 9X21 BLACK",
+          "barrelLength": "92mm",
+          "weight": "745gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Force Duty .45 Auto",
+      "maker": "Tanfoglio",
+      "model": "Force Duty",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Tanfoglio Force Duty .45 Auto",
+        "length": 0.113,
+        "gunMass": 0.93,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/FORDUT/force-duty",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "FORCE DUTY CAL..45 ACP FIXED SIGHT",
+          "barrelLength": "113mm",
+          "weight": "930 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Force Duty 10mm Auto",
+      "maker": "Tanfoglio",
+      "model": "Force Duty",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Tanfoglio Force Duty 10mm Auto",
+        "length": 0.113,
+        "gunMass": 0.93,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/FORDUT/force-duty",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "FORCE DUTY CAL. 10MM AUTO FIXED SIGHT",
+          "barrelLength": "113mm",
+          "weight": "930 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Force Esse 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Force Esse",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Force Esse 9x19 mm",
+        "length": 0.112,
+        "gunMass": 0.84,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/FORESS/force-esse",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "FORCE ESSE CAL.9X19",
+          "barrelLength": "112mm",
+          "weight": "840gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Force Esse 9x21 mm",
+      "maker": "Tanfoglio",
+      "model": "Force Esse",
+      "cartridge": "9x21 mm",
+      "barrel": {
+        "name": "Tanfoglio Force Esse 9x21 mm",
+        "length": 0.112,
+        "gunMass": 0.84,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/FORESS/force-esse",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "FORCE ESSE CAL.9X21",
+          "barrelLength": "112mm",
+          "weight": "840gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Force Esse Carry 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Force Esse Carry",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Force Esse Carry 9x19 mm",
+        "length": 0.112,
+        "gunMass": 0.84,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/FORESSCAR/force-esse-carry",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "FORCE ESSE CARRY CAL.9X19",
+          "barrelLength": "112mm",
+          "weight": "840gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Force Police F .40 S&W",
+      "maker": "Tanfoglio",
+      "model": "Force Police F",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Tanfoglio Force Police F .40 S&W",
+        "length": 0.092,
+        "gunMass": 0.78,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/FORPOLF/force-police-f",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "FORCE POLICE F CAL..40 S&W BLACK",
+          "barrelLength": "92mm",
+          "weight": "780gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Force Police F 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Force Police F",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Force Police F 9x19 mm",
+        "length": 0.092,
+        "gunMass": 0.78,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/FORPOLF/force-police-f",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "FORCE POLICE F CAL. 9X19 BLACK",
+          "barrelLength": "92mm",
+          "weight": "780gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Force Police F 9x21 mm",
+      "maker": "Tanfoglio",
+      "model": "Force Police F",
+      "cartridge": "9x21 mm",
+      "barrel": {
+        "name": "Tanfoglio Force Police F 9x21 mm",
+        "length": 0.092,
+        "gunMass": 0.78,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/FORPOLF/force-police-f",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "FORCE POLICE F CAL. 9X21 BLACK",
+          "barrelLength": "92mm",
+          "weight": "780gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Force Police R .40 S&W",
+      "maker": "Tanfoglio",
+      "model": "Force Police R",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Tanfoglio Force Police R .40 S&W",
+        "length": 0.092,
+        "gunMass": 0.78,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/FORPOLP/force-police-r",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "FORCE POLICE R CAL..40 S&W BLACK",
+          "barrelLength": "92mm",
+          "weight": "780gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Force Police R 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Force Police R",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Force Police R 9x19 mm",
+        "length": 0.092,
+        "gunMass": 0.78,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/FORPOLP/force-police-r",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "FORCE POLICE R CAL. 9X19 BLACK",
+          "barrelLength": "92mm",
+          "weight": "780gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Force Police R 9x21 mm",
+      "maker": "Tanfoglio",
+      "model": "Force Police R",
+      "cartridge": "9x21 mm",
+      "barrel": {
+        "name": "Tanfoglio Force Police R 9x21 mm",
+        "length": 0.092,
+        "gunMass": 0.78,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/FORPOLP/force-police-r",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "FORCE POLICE R CAL. 9X21 BLACK",
+          "barrelLength": "92mm",
+          "weight": "780gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Gold Match .38 Super",
+      "maker": "Tanfoglio",
+      "model": "Gold Match",
+      "cartridge": ".38 Super",
+      "barrel": {
+        "name": "Tanfoglio Gold Match .38 Super",
+        "length": 0.1525,
+        "gunMass": 1.34,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/GOLMAT/gold-match",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "GOLD MATCH CAL..38 SA",
+          "barrelLength": "152,5mm",
+          "weight": "1340gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Gold Match .40 S&W",
+      "maker": "Tanfoglio",
+      "model": "Gold Match",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Tanfoglio Gold Match .40 S&W",
+        "length": 0.1525,
+        "gunMass": 1.34,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/GOLMAT/gold-match",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "GOLD MATCH CAL..40 S&W",
+          "barrelLength": "152,5mm",
+          "weight": "1340gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Gold Match .45 Auto",
+      "maker": "Tanfoglio",
+      "model": "Gold Match",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Tanfoglio Gold Match .45 Auto",
+        "length": 0.1525,
+        "gunMass": 1.34,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/GOLMAT/gold-match",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "GOLD MATCH CAL..45 ACP",
+          "barrelLength": "152,5mm",
+          "weight": "1340gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Gold Match 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Gold Match",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Gold Match 9x19 mm",
+        "length": 0.1525,
+        "gunMass": 1.34,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/GOLMAT/gold-match",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "GOLD MATCH CAL. 9X19",
+          "barrelLength": "152,5mm",
+          "weight": "1340gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Gold Match 9x21 mm",
+      "maker": "Tanfoglio",
+      "model": "Gold Match",
+      "cartridge": "9x21 mm",
+      "barrel": {
+        "name": "Tanfoglio Gold Match 9x21 mm",
+        "length": 0.1525,
+        "gunMass": 1.34,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/GOLMAT/gold-match",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "GOLD MATCH CAL. 9X21",
+          "barrelLength": "152,5mm",
+          "weight": "1340gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Gold Match 10mm Auto",
+      "maker": "Tanfoglio",
+      "model": "Gold Match",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Tanfoglio Gold Match 10mm Auto",
+        "length": 0.1525,
+        "gunMass": 1.34,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/GOLMAT/gold-match",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "GOLD MATCH CAL. 10MM AUTO",
+          "barrelLength": "152,5mm",
+          "weight": "1340gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Gold Match Xtreme .38 Super",
+      "maker": "Tanfoglio",
+      "model": "Gold Match Xtreme",
+      "cartridge": ".38 Super",
+      "barrel": {
+        "name": "Tanfoglio Gold Match Xtreme .38 Super",
+        "length": 0.1525,
+        "gunMass": 1.36,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/GOLMATXTR/gold-match-xtreme",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "GOLD MATCH XTREME CAL..38 SA 2026",
+          "barrelLength": "152,5mm",
+          "weight": "1360gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Gold Match Xtreme .45 Auto",
+      "maker": "Tanfoglio",
+      "model": "Gold Match Xtreme",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Tanfoglio Gold Match Xtreme .45 Auto",
+        "length": 0.1525,
+        "gunMass": 1.36,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/GOLMATXTR/gold-match-xtreme",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "GOLD MATCH XTREME CAL..45 ACP 2026",
+          "barrelLength": "152,5mm",
+          "weight": "1360gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Gold Match Xtreme 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Gold Match Xtreme",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Gold Match Xtreme 9x19 mm",
+        "length": 0.1525,
+        "gunMass": 1.36,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/GOLMATXTR/gold-match-xtreme",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "GOLD MATCH XTREME CAL. 9X19 2026",
+          "barrelLength": "152,5mm",
+          "weight": "1360gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Gold Match Xtreme 10mm Auto",
+      "maker": "Tanfoglio",
+      "model": "Gold Match Xtreme",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Tanfoglio Gold Match Xtreme 10mm Auto",
+        "length": 0.1525,
+        "gunMass": 1.36,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/GOLMATXTR/gold-match-xtreme",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "GOLD MATCH XTREME CAL. 10MM AUTO 2026",
+          "barrelLength": "152,5mm",
+          "weight": "1360gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Limited Custom .38 Super",
+      "maker": "Tanfoglio",
+      "model": "Limited Custom",
+      "cartridge": ".38 Super",
+      "barrel": {
+        "name": "Tanfoglio Limited Custom .38 Super",
+        "length": 0.121,
+        "gunMass": 1.33,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/LIMCUS/limited-custom",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "LIMITED CUSTOM CAL..38 SA CROMATA 2019",
+          "barrelLength": "121mm",
+          "weight": "1330 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Limited Custom .40 S&W",
+      "maker": "Tanfoglio",
+      "model": "Limited Custom",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Tanfoglio Limited Custom .40 S&W",
+        "length": 0.121,
+        "gunMass": 1.33,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/LIMCUS/limited-custom",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "LIMITED CUSTOM CAL..40 S&W CROMATA 2019",
+          "barrelLength": "121mm",
+          "weight": "1330 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Limited Custom .45 Auto",
+      "maker": "Tanfoglio",
+      "model": "Limited Custom",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Tanfoglio Limited Custom .45 Auto",
+        "length": 0.121,
+        "gunMass": 1.33,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/LIMCUS/limited-custom",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "LIMITED CUSTOM CAL..45ACP CROMATA 2019",
+          "barrelLength": "121mm",
+          "weight": "1330 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Limited Custom 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Limited Custom",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Limited Custom 9x19 mm",
+        "length": 0.121,
+        "gunMass": 1.33,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/LIMCUS/limited-custom",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "LIMITED CUSTOM CAL. 9X19 CROMATA 2019",
+          "barrelLength": "121mm",
+          "weight": "1330 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Limited Custom 9x21 mm",
+      "maker": "Tanfoglio",
+      "model": "Limited Custom",
+      "cartridge": "9x21 mm",
+      "barrel": {
+        "name": "Tanfoglio Limited Custom 9x21 mm",
+        "length": 0.121,
+        "gunMass": 1.33,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/LIMCUS/limited-custom",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "LIMITED CUSTOM CAL. 9X21 CROMATA 2019",
+          "barrelLength": "121mm",
+          "weight": "1330 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Limited Custom 10mm Auto",
+      "maker": "Tanfoglio",
+      "model": "Limited Custom",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Tanfoglio Limited Custom 10mm Auto",
+        "length": 0.121,
+        "gunMass": 1.33,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/LIMCUS/limited-custom",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "LIMITED CUSTOM CAL. 10MM AUTO CROMATA 2019",
+          "barrelLength": "121mm",
+          "weight": "1330 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Limited Custom P .38 Super",
+      "maker": "Tanfoglio",
+      "model": "Limited Custom P",
+      "cartridge": ".38 Super",
+      "barrel": {
+        "name": "Tanfoglio Limited Custom P .38 Super",
+        "length": 0.121,
+        "gunMass": 1.03,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/LIMCUSP/limited-custom-p",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "LIMITED CUSTOM P CAL..38 SA",
+          "barrelLength": "121mm",
+          "weight": "1030gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Limited Custom P .45 Auto",
+      "maker": "Tanfoglio",
+      "model": "Limited Custom P",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Tanfoglio Limited Custom P .45 Auto",
+        "length": 0.121,
+        "gunMass": 1.03,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/LIMCUSP/limited-custom-p",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "LIMITED CUSTOM P CAL..45ACP",
+          "barrelLength": "121mm",
+          "weight": "1030gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Limited Custom P 10mm Auto",
+      "maker": "Tanfoglio",
+      "model": "Limited Custom P",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Tanfoglio Limited Custom P 10mm Auto",
+        "length": 0.121,
+        "gunMass": 1.03,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/LIMCUSP/limited-custom-p",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "LIMITED CUSTOM P CAL. 10MM AUTO",
+          "barrelLength": "121mm",
+          "weight": "1030gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Limited Custom Xtreme .38 Super",
+      "maker": "Tanfoglio",
+      "model": "Limited Custom Xtreme",
+      "cartridge": ".38 Super",
+      "barrel": {
+        "name": "Tanfoglio Limited Custom Xtreme .38 Super",
+        "length": 0.121,
+        "gunMass": 1.31,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/LIMCUSXTR/limited-custom-xtreme",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "LIMITED CUSTOM XTREME CAL..38 SA 2025",
+          "barrelLength": "121mm",
+          "weight": "1310 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Limited Custom Xtreme .40 S&W",
+      "maker": "Tanfoglio",
+      "model": "Limited Custom Xtreme",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Tanfoglio Limited Custom Xtreme .40 S&W",
+        "length": 0.121,
+        "gunMass": 1.31,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/LIMCUSXTR/limited-custom-xtreme",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "LIMITED CUSTOM XTREME CAL..40 S&W 2025",
+          "barrelLength": "121mm",
+          "weight": "1310 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Limited Custom Xtreme .45 Auto",
+      "maker": "Tanfoglio",
+      "model": "Limited Custom Xtreme",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Tanfoglio Limited Custom Xtreme .45 Auto",
+        "length": 0.121,
+        "gunMass": 1.31,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/LIMCUSXTR/limited-custom-xtreme",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "LIMITED CUSTOM XTREME CAL..45 ACP 2025",
+          "barrelLength": "121mm",
+          "weight": "1310 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Limited Custom Xtreme 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Limited Custom Xtreme",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Limited Custom Xtreme 9x19 mm",
+        "length": 0.121,
+        "gunMass": 1.31,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/LIMCUSXTR/limited-custom-xtreme",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "LIMITED CUSTOM XTREME CAL. 9X19 2025",
+          "barrelLength": "121mm",
+          "weight": "1310 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Limited Custom Xtreme 10mm Auto",
+      "maker": "Tanfoglio",
+      "model": "Limited Custom Xtreme",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Tanfoglio Limited Custom Xtreme 10mm Auto",
+        "length": 0.121,
+        "gunMass": 1.31,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/LIMCUSXTR/limited-custom-xtreme",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "LIMITED CUSTOM XTREME CAL. 10MM AUTO 2025",
+          "barrelLength": "121mm",
+          "weight": "1310 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Match .38 Super",
+      "maker": "Tanfoglio",
+      "model": "Match",
+      "cartridge": ".38 Super",
+      "barrel": {
+        "name": "Tanfoglio Match .38 Super",
+        "length": 0.121,
+        "gunMass": 1.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/MAT/match",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "MATCH CAL..38 SA",
+          "barrelLength": "121mm",
+          "weight": "1200gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Match .40 S&W",
+      "maker": "Tanfoglio",
+      "model": "Match",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Tanfoglio Match .40 S&W",
+        "length": 0.121,
+        "gunMass": 1.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/MAT/match",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "MATCH CAL..40 S&W",
+          "barrelLength": "121mm",
+          "weight": "1200gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Match .45 Auto",
+      "maker": "Tanfoglio",
+      "model": "Match",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Tanfoglio Match .45 Auto",
+        "length": 0.121,
+        "gunMass": 1.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/MAT/match",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "MATCH CAL..45 ACP",
+          "barrelLength": "121mm",
+          "weight": "1200gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Match 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Match",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Match 9x19 mm",
+        "length": 0.121,
+        "gunMass": 1.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/MAT/match",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "MATCH CAL. 9X19",
+          "barrelLength": "121mm",
+          "weight": "1200gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Match 9x21 mm",
+      "maker": "Tanfoglio",
+      "model": "Match",
+      "cartridge": "9x21 mm",
+      "barrel": {
+        "name": "Tanfoglio Match 9x21 mm",
+        "length": 0.121,
+        "gunMass": 1.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/MAT/match",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "MATCH CAL. 9X21",
+          "barrelLength": "121mm",
+          "weight": "1200gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Match 10mm Auto",
+      "maker": "Tanfoglio",
+      "model": "Match",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Tanfoglio Match 10mm Auto",
+        "length": 0.121,
+        "gunMass": 1.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/MAT/match",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "MATCH CAL. 10MM AUTO",
+          "barrelLength": "121mm",
+          "weight": "1200gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Stock",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Stock 9x19 mm",
+        "length": 0.112,
+        "gunMass": 1.208,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STO/stock",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK CAL. 9X19 BLACK 2025",
+          "barrelLength": "112mm",
+          "weight": "1208 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock I .38 Super",
+      "maker": "Tanfoglio",
+      "model": "Stock I",
+      "cartridge": ".38 Super",
+      "barrel": {
+        "name": "Tanfoglio Stock I .38 Super",
+        "length": 0.113,
+        "gunMass": 1.19,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOI/stock-i",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK I CAL..38 SA FIXED SIGHT 2023",
+          "barrelLength": "113mm",
+          "weight": "1190 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock I .45 Auto",
+      "maker": "Tanfoglio",
+      "model": "Stock I",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Tanfoglio Stock I .45 Auto",
+        "length": 0.113,
+        "gunMass": 1.19,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOI/stock-i",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK I CAL..45ACP FIXED SIGHT 2023",
+          "barrelLength": "113mm",
+          "weight": "1190 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock I 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Stock I",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Stock I 9x19 mm",
+        "length": 0.113,
+        "gunMass": 1.19,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOI/stock-i",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK I CAL. 9X19 FIXED SIGHT 2023",
+          "barrelLength": "113mm",
+          "weight": "1190 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock I 9x21 mm",
+      "maker": "Tanfoglio",
+      "model": "Stock I",
+      "cartridge": "9x21 mm",
+      "barrel": {
+        "name": "Tanfoglio Stock I 9x21 mm",
+        "length": 0.113,
+        "gunMass": 1.19,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOI/stock-i",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK I CAL. 9X21 FIXED SIGHT 2023",
+          "barrelLength": "113mm",
+          "weight": "1190 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock I 10mm Auto",
+      "maker": "Tanfoglio",
+      "model": "Stock I",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Tanfoglio Stock I 10mm Auto",
+        "length": 0.113,
+        "gunMass": 1.19,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOI/stock-i",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK I CAL. 10MM AUTO FIXED SIGHT 2023",
+          "barrelLength": "113mm",
+          "weight": "1190 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock I Xtreme 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Stock I Xtreme",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Stock I Xtreme 9x19 mm",
+        "length": 0.113,
+        "gunMass": 1.24,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOIXTR/stock-i-xtreme",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK I XTREME CAL. 9X19 2025",
+          "barrelLength": "113mm",
+          "weight": "1240 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock II .38 Super",
+      "maker": "Tanfoglio",
+      "model": "Stock II",
+      "cartridge": ".38 Super",
+      "barrel": {
+        "name": "Tanfoglio Stock II .38 Super",
+        "length": 0.113,
+        "gunMass": 1.27,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOII/stock-ii",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK II CAL..38 SA 2023",
+          "barrelLength": "113mm",
+          "weight": "1270 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock II .40 S&W",
+      "maker": "Tanfoglio",
+      "model": "Stock II",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Tanfoglio Stock II .40 S&W",
+        "length": 0.113,
+        "gunMass": 1.27,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOII/stock-ii",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK II CAL..40 S&W 2023",
+          "barrelLength": "113mm",
+          "weight": "1270 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock II .45 Auto",
+      "maker": "Tanfoglio",
+      "model": "Stock II",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Tanfoglio Stock II .45 Auto",
+        "length": 0.113,
+        "gunMass": 1.27,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOII/stock-ii",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK II CAL..45 ACP 2023",
+          "barrelLength": "113mm",
+          "weight": "1270 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock II 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Stock II",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Stock II 9x19 mm",
+        "length": 0.113,
+        "gunMass": 1.27,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOII/stock-ii",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK II CAL. 9X19 2023",
+          "barrelLength": "113mm",
+          "weight": "1270 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock II 9x21 mm",
+      "maker": "Tanfoglio",
+      "model": "Stock II",
+      "cartridge": "9x21 mm",
+      "barrel": {
+        "name": "Tanfoglio Stock II 9x21 mm",
+        "length": 0.113,
+        "gunMass": 1.27,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOII/stock-ii",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK II CAL.9X21 2023",
+          "barrelLength": "113mm",
+          "weight": "1270 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock II 10mm Auto",
+      "maker": "Tanfoglio",
+      "model": "Stock II",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Tanfoglio Stock II 10mm Auto",
+        "length": 0.113,
+        "gunMass": 1.27,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOII/stock-ii",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK II CAL. 10MM AUTO 2023",
+          "barrelLength": "113mm",
+          "weight": "1270 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock II Xtreme .38 Super",
+      "maker": "Tanfoglio",
+      "model": "Stock II Xtreme",
+      "cartridge": ".38 Super",
+      "barrel": {
+        "name": "Tanfoglio Stock II Xtreme .38 Super",
+        "length": 0.121,
+        "gunMass": 1.26,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOIIXTR/stock-ii-xtreme",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK II XTREME CAL..38 SA 2025",
+          "barrelLength": "121mm",
+          "weight": "1260 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock II Xtreme .40 S&W",
+      "maker": "Tanfoglio",
+      "model": "Stock II Xtreme",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Tanfoglio Stock II Xtreme .40 S&W",
+        "length": 0.121,
+        "gunMass": 1.26,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOIIXTR/stock-ii-xtreme",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK II XTREME CAL..40 S&W 2025",
+          "barrelLength": "121mm",
+          "weight": "1260 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock II Xtreme .45 Auto",
+      "maker": "Tanfoglio",
+      "model": "Stock II Xtreme",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Tanfoglio Stock II Xtreme .45 Auto",
+        "length": 0.121,
+        "gunMass": 1.26,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOIIXTR/stock-ii-xtreme",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK II XTREME CAL..45 ACP 2025",
+          "barrelLength": "121mm",
+          "weight": "1260 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock II Xtreme 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Stock II Xtreme",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Stock II Xtreme 9x19 mm",
+        "length": 0.121,
+        "gunMass": 1.26,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOIIXTR/stock-ii-xtreme",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK II XTREME CAL. 9X19 2025",
+          "barrelLength": "121mm",
+          "weight": "1260 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock III .38 Super",
+      "maker": "Tanfoglio",
+      "model": "Stock III",
+      "cartridge": ".38 Super",
+      "barrel": {
+        "name": "Tanfoglio Stock III .38 Super",
+        "length": 0.121,
+        "gunMass": 1.28,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOIII/stock-iii",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK III CAL..38 SA BLACK 2023",
+          "barrelLength": "121mm",
+          "weight": "1280 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock III .40 S&W",
+      "maker": "Tanfoglio",
+      "model": "Stock III",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Tanfoglio Stock III .40 S&W",
+        "length": 0.121,
+        "gunMass": 1.28,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOIII/stock-iii",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK III CAL..40 S&W BLACK 2023",
+          "barrelLength": "121mm",
+          "weight": "1280 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock III .45 Auto",
+      "maker": "Tanfoglio",
+      "model": "Stock III",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Tanfoglio Stock III .45 Auto",
+        "length": 0.121,
+        "gunMass": 1.28,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOIII/stock-iii",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK III CAL..45 ACP BLACK 2023",
+          "barrelLength": "121mm",
+          "weight": "1280 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock III 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Stock III",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Stock III 9x19 mm",
+        "length": 0.121,
+        "gunMass": 1.28,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOIII/stock-iii",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK III CAL. 9X19 BLACK 2023",
+          "barrelLength": "121mm",
+          "weight": "1280 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock III 9x21 mm",
+      "maker": "Tanfoglio",
+      "model": "Stock III",
+      "cartridge": "9x21 mm",
+      "barrel": {
+        "name": "Tanfoglio Stock III 9x21 mm",
+        "length": 0.121,
+        "gunMass": 1.28,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOIII/stock-iii",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK III CAL. 9X21 BLACK 2023",
+          "barrelLength": "121mm",
+          "weight": "1280 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock III 10mm Auto",
+      "maker": "Tanfoglio",
+      "model": "Stock III",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Tanfoglio Stock III 10mm Auto",
+        "length": 0.121,
+        "gunMass": 1.28,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOIII/stock-iii",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK III CAL. 10MM AUTO BLACK 2023",
+          "barrelLength": "121mm",
+          "weight": "1280 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock III P .38 Super",
+      "maker": "Tanfoglio",
+      "model": "Stock III P",
+      "cartridge": ".38 Super",
+      "barrel": {
+        "name": "Tanfoglio Stock III P .38 Super",
+        "length": 0.113,
+        "gunMass": 1.26,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOIIIP/stock-iii-p",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK III P CAL..38 SA",
+          "barrelLength": "113mm",
+          "weight": "1260gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock III P .45 Auto",
+      "maker": "Tanfoglio",
+      "model": "Stock III P",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Tanfoglio Stock III P .45 Auto",
+        "length": 0.113,
+        "gunMass": 1.26,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOIIIP/stock-iii-p",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK III P CAL..45ACP",
+          "barrelLength": "113mm",
+          "weight": "1260gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock III P 10mm Auto",
+      "maker": "Tanfoglio",
+      "model": "Stock III P",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Tanfoglio Stock III P 10mm Auto",
+        "length": 0.113,
+        "gunMass": 1.26,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOIIIP/stock-iii-p",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK III P CAL. 10MM AUTO",
+          "barrelLength": "113mm",
+          "weight": "1260gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock III Pro .45 Auto",
+      "maker": "Tanfoglio",
+      "model": "Stock III Pro",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Tanfoglio Stock III Pro .45 Auto",
+        "length": 0.121,
+        "gunMass": 1.28,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOIIIPRO/stock-iii-pro",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK III PRO CAL..45 ACP SILVER 2023",
+          "barrelLength": "121mm",
+          "weight": "1280gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock III Pro 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Stock III Pro",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Stock III Pro 9x19 mm",
+        "length": 0.121,
+        "gunMass": 1.28,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOIIIPRO/stock-iii-pro",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK III PRO CAL. 9X19 SILVER 2023",
+          "barrelLength": "121mm",
+          "weight": "1280gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock III Pro 9x21 mm",
+      "maker": "Tanfoglio",
+      "model": "Stock III Pro",
+      "cartridge": "9x21 mm",
+      "barrel": {
+        "name": "Tanfoglio Stock III Pro 9x21 mm",
+        "length": 0.121,
+        "gunMass": 1.28,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOIIIPRO/stock-iii-pro",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK III PRO CAL. 9X21 SILVER 2023",
+          "barrelLength": "121mm",
+          "weight": "1280gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock III Xtreme .38 Super",
+      "maker": "Tanfoglio",
+      "model": "Stock III Xtreme",
+      "cartridge": ".38 Super",
+      "barrel": {
+        "name": "Tanfoglio Stock III Xtreme .38 Super",
+        "length": 0.121,
+        "gunMass": 1.29,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOIIIXTR/stock-iii-xtreme",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK III XTREME CAL..38 SA 2025",
+          "barrelLength": "121mm",
+          "weight": "1290 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock III Xtreme .40 S&W",
+      "maker": "Tanfoglio",
+      "model": "Stock III Xtreme",
+      "cartridge": ".40 S&W",
+      "barrel": {
+        "name": "Tanfoglio Stock III Xtreme .40 S&W",
+        "length": 0.121,
+        "gunMass": 1.29,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOIIIXTR/stock-iii-xtreme",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK III XTREME CAL..40 S&W 2025",
+          "barrelLength": "121mm",
+          "weight": "1290 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock III Xtreme .45 Auto",
+      "maker": "Tanfoglio",
+      "model": "Stock III Xtreme",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Tanfoglio Stock III Xtreme .45 Auto",
+        "length": 0.121,
+        "gunMass": 1.29,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOIIIXTR/stock-iii-xtreme",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK III XTREME CAL..45 ACP 2025",
+          "barrelLength": "121mm",
+          "weight": "1290 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock III Xtreme 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Stock III Xtreme",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Stock III Xtreme 9x19 mm",
+        "length": 0.121,
+        "gunMass": 1.29,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOIIIXTR/stock-iii-xtreme",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK III XTREME CAL. 9X19 2025",
+          "barrelLength": "121mm",
+          "weight": "1290 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock III Xtreme 10mm Auto",
+      "maker": "Tanfoglio",
+      "model": "Stock III Xtreme",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Tanfoglio Stock III Xtreme 10mm Auto",
+        "length": 0.121,
+        "gunMass": 1.29,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOIIIXTR/stock-iii-xtreme",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK III XTREME CAL. 10MM AUTO 2025",
+          "barrelLength": "121mm",
+          "weight": "1290 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock Master Xtreme 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Stock Master Xtreme",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Stock Master Xtreme 9x19 mm",
+        "length": 0.121,
+        "gunMass": 1.295,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOMASXTR/stock-master-xtreme",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK MASTER XTREME CAL. 9X19 2024",
+          "barrelLength": "121mm",
+          "weight": "1295 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Stock Master Xtreme 9x21 mm",
+      "maker": "Tanfoglio",
+      "model": "Stock Master Xtreme",
+      "cartridge": "9x21 mm",
+      "barrel": {
+        "name": "Tanfoglio Stock Master Xtreme 9x21 mm",
+        "length": 0.121,
+        "gunMass": 1.295,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/STOMASXTR/stock-master-xtreme",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "STOCK MASTER XTREME CAL. 9X21 2024",
+          "barrelLength": "121mm",
+          "weight": "1295 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Tactical Pro 9x19 mm",
+      "maker": "Tanfoglio",
+      "model": "Tactical Pro",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Tanfoglio Tactical Pro 9x19 mm",
+        "length": 0.125,
+        "gunMass": 1.295,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/TACPRO/tactical-pro",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "TACTICAL PRO CAL. 9X19 GREEN 2026",
+          "barrelLength": "125mm",
+          "weight": "1295 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Tanfoglio Tactical Pro 10mm Auto",
+      "maker": "Tanfoglio",
+      "model": "Tactical Pro",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Tanfoglio Tactical Pro 10mm Auto",
+        "length": 0.125,
+        "gunMass": 1.295,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Tanfoglio",
+        "url": "https://tanfoglio.it/it_IT/prodotti/TACPRO/tactical-pro",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "TACTICAL PRO CAL..10MM AUTO GREEN",
+          "barrelLength": "125mm",
+          "weight": "1295 gr."
+        }
+      }
+    }
+  ]
+}

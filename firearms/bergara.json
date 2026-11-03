@@ -7,7 +7,7 @@
     "source": "https://www.bergara.online",
     "file": "",
     "author": "Bergara",
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "method": "read from the maker's own specification pages",
     "status": "published specification, not measured"
   },
@@ -30,7 +30,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/b14/hunter-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
@@ -57,7 +57,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/b14/hunter-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "56 cm (22\")",
@@ -84,7 +84,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/b14/hunter-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
@@ -111,7 +111,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/b14/hunter-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
@@ -138,7 +138,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/b14/hunter-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "56 cm (22\")",
@@ -165,7 +165,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/b14/hunter-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "56 cm (22\")",
@@ -192,7 +192,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/b14/hunter-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
@@ -219,7 +219,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/b14/sporter-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
@@ -246,7 +246,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/b14/sporter-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "56 cm (22\")",
@@ -273,7 +273,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/b14/sporter-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
@@ -300,7 +300,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/b14/sporter-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
@@ -327,7 +327,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/b14/sporter-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "56 cm (22\")",
@@ -354,7 +354,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/b14/sporter-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
@@ -381,7 +381,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/b14/sporter-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "56 cm (22\")",
@@ -393,12 +393,12 @@
     {
       "format": "gordons-legacy.firearm",
       "schemaVersion": 1,
-      "name": "Bergara B14 Sporter 6.5&#215;55 SE",
+      "name": "Bergara B14 Sporter 6.5x55 SE",
       "maker": "Bergara",
       "model": "B14 Sporter",
-      "cartridge": "6.5&#215;55 SE",
+      "cartridge": "6.5x55 SE",
       "barrel": {
-        "name": "Bergara B14 Sporter 6.5&#215;55 SE",
+        "name": "Bergara B14 Sporter 6.5x55 SE",
         "length": 0.61,
         "twistLength": 0.219964,
         "gunMass": 3.4,
@@ -408,7 +408,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/b14/sporter-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
@@ -435,7 +435,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/b14/sporter-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
@@ -462,7 +462,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/take-down-camo-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51cm (20\")",
@@ -489,7 +489,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/take-down-camo-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51cm (20\")",
@@ -516,7 +516,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/take-down-camo-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51cm (20\")",
@@ -543,7 +543,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/take-down-camo-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "42cm (16,5\")",
@@ -570,7 +570,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/take-down-camo-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51cm (20\")",
@@ -597,7 +597,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/take-down-camo-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51cm (20\")",
@@ -623,7 +623,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/take-down-camo-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51cm (20\")",
@@ -635,12 +635,12 @@
     {
       "format": "gordons-legacy.firearm",
       "schemaVersion": 1,
-      "name": "Bergara BA13 TAKE DOWN SYNTHETIC CAMO STRATA® .30-06 Spring.",
+      "name": "Bergara BA13 TAKE DOWN SYNTHETIC CAMO STRATA .30-06 Spring.",
       "maker": "Bergara",
-      "model": "BA13 TAKE DOWN SYNTHETIC CAMO STRATA®",
+      "model": "BA13 TAKE DOWN SYNTHETIC CAMO STRATA",
       "cartridge": ".30-06 Spring.",
       "barrel": {
-        "name": "Bergara BA13 TAKE DOWN SYNTHETIC CAMO STRATA® .30-06 Spring.",
+        "name": "Bergara BA13 TAKE DOWN SYNTHETIC CAMO STRATA .30-06 Spring.",
         "length": 0.51,
         "twistLength": 0.254,
         "gunMass": 3.1,
@@ -650,7 +650,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/ba13-td-synthetic-camo-strata/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51 cm (20\")",
@@ -662,12 +662,12 @@
     {
       "format": "gordons-legacy.firearm",
       "schemaVersion": 1,
-      "name": "Bergara BA13 TAKE DOWN SYNTHETIC CAMO STRATA® .223 Rem.",
+      "name": "Bergara BA13 TAKE DOWN SYNTHETIC CAMO STRATA .223 Rem.",
       "maker": "Bergara",
-      "model": "BA13 TAKE DOWN SYNTHETIC CAMO STRATA®",
+      "model": "BA13 TAKE DOWN SYNTHETIC CAMO STRATA",
       "cartridge": ".223 Rem.",
       "barrel": {
-        "name": "Bergara BA13 TAKE DOWN SYNTHETIC CAMO STRATA® .223 Rem.",
+        "name": "Bergara BA13 TAKE DOWN SYNTHETIC CAMO STRATA .223 Rem.",
         "length": 0.51,
         "twistLength": 0.2032,
         "gunMass": 3.1,
@@ -677,7 +677,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/ba13-td-synthetic-camo-strata/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51 cm (20\")",
@@ -689,12 +689,12 @@
     {
       "format": "gordons-legacy.firearm",
       "schemaVersion": 1,
-      "name": "Bergara BA13 TAKE DOWN SYNTHETIC CAMO STRATA® .300 BLK",
+      "name": "Bergara BA13 TAKE DOWN SYNTHETIC CAMO STRATA .300 BLK",
       "maker": "Bergara",
-      "model": "BA13 TAKE DOWN SYNTHETIC CAMO STRATA®",
+      "model": "BA13 TAKE DOWN SYNTHETIC CAMO STRATA",
       "cartridge": ".300 BLK",
       "barrel": {
-        "name": "Bergara BA13 TAKE DOWN SYNTHETIC CAMO STRATA® .300 BLK",
+        "name": "Bergara BA13 TAKE DOWN SYNTHETIC CAMO STRATA .300 BLK",
         "length": 0.46,
         "twistLength": 0.2032,
         "gunMass": 3.1,
@@ -704,7 +704,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/ba13-td-synthetic-camo-strata/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "46 cm (18\")",
@@ -716,12 +716,12 @@
     {
       "format": "gordons-legacy.firearm",
       "schemaVersion": 1,
-      "name": "Bergara BA13 TAKE DOWN SYNTHETIC CAMO STRATA® .308 Win.",
+      "name": "Bergara BA13 TAKE DOWN SYNTHETIC CAMO STRATA .308 Win.",
       "maker": "Bergara",
-      "model": "BA13 TAKE DOWN SYNTHETIC CAMO STRATA®",
+      "model": "BA13 TAKE DOWN SYNTHETIC CAMO STRATA",
       "cartridge": ".308 Win.",
       "barrel": {
-        "name": "Bergara BA13 TAKE DOWN SYNTHETIC CAMO STRATA® .308 Win.",
+        "name": "Bergara BA13 TAKE DOWN SYNTHETIC CAMO STRATA .308 Win.",
         "length": 0.51,
         "twistLength": 0.3048,
         "gunMass": 3.1,
@@ -731,7 +731,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/ba13-td-synthetic-camo-strata/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51 cm (20\")",
@@ -743,12 +743,12 @@
     {
       "format": "gordons-legacy.firearm",
       "schemaVersion": 1,
-      "name": "Bergara BA13 TAKE DOWN SYNTHETIC CAMO STRATA® 6.5 Creedmoor",
+      "name": "Bergara BA13 TAKE DOWN SYNTHETIC CAMO STRATA 6.5 Creedmoor",
       "maker": "Bergara",
-      "model": "BA13 TAKE DOWN SYNTHETIC CAMO STRATA®",
+      "model": "BA13 TAKE DOWN SYNTHETIC CAMO STRATA",
       "cartridge": "6.5 Creedmoor",
       "barrel": {
-        "name": "Bergara BA13 TAKE DOWN SYNTHETIC CAMO STRATA® 6.5 Creedmoor",
+        "name": "Bergara BA13 TAKE DOWN SYNTHETIC CAMO STRATA 6.5 Creedmoor",
         "length": 0.51,
         "twistLength": 0.2032,
         "gunMass": 3.1,
@@ -758,7 +758,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/ba13-td-synthetic-camo-strata/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51 cm (20\")",
@@ -785,7 +785,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/take-down-black-thumbhole-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51 cm (20\")",
@@ -812,10 +812,10 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/take-down-black-thumbhole-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
-          "barrelLength": "51 cm (20”)",
+          "barrelLength": "51 cm (20\")",
           "weight": "3,2 kg",
           "twist": "1:20\""
         }
@@ -839,7 +839,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/take-down-black-thumbhole-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51 cm (20\")",
@@ -866,7 +866,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/take-down-black-thumbhole-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51 cm (20\")",
@@ -893,7 +893,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/take-down-black-thumbhole-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51 cm (20\")",
@@ -920,7 +920,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/take-down-black-thumbhole-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "42 cm (16,5\")",
@@ -947,7 +947,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/take-down-black-thumbhole-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "42 cm (16,5\")",
@@ -959,12 +959,12 @@
     {
       "format": "gordons-legacy.firearm",
       "schemaVersion": 1,
-      "name": "Bergara BA13 TAKE DOWN THUMBHOLE 8&#215;57 JRS",
+      "name": "Bergara BA13 TAKE DOWN THUMBHOLE 8x57 JRS",
       "maker": "Bergara",
       "model": "BA13 TAKE DOWN THUMBHOLE",
-      "cartridge": "8&#215;57 JRS",
+      "cartridge": "8x57 JRS",
       "barrel": {
-        "name": "Bergara BA13 TAKE DOWN THUMBHOLE 8&#215;57 JRS",
+        "name": "Bergara BA13 TAKE DOWN THUMBHOLE 8x57 JRS",
         "length": 0.51,
         "twistLength": 0.2413,
         "gunMass": 3.1,
@@ -974,10 +974,10 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/take-down-black-thumbhole-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
-          "barrelLength": "51 cm (20”)",
+          "barrelLength": "51 cm (20\")",
           "weight": "3,1 kg",
           "twist": "1:9,5\""
         }
@@ -1001,7 +1001,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/ba13-td-thumbhole-camo-strata/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51 cm (20\")",
@@ -1028,7 +1028,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/ba13-td-thumbhole-camo-strata/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51 cm (20\")",
@@ -1055,7 +1055,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/ba13-td-thumbhole-camo-strata/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "46 cm (18\")",
@@ -1082,7 +1082,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/ba13-td-thumbhole-camo-strata/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51 cm (20\")",
@@ -1109,7 +1109,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/ba13-td-thumbhole-camo-strata/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51 cm (20\")",
@@ -1136,7 +1136,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/take-down-wood-camo-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51cm (20\")",
@@ -1163,7 +1163,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/take-down-wood-camo-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51cm (20\")",
@@ -1190,7 +1190,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/take-down-wood-camo-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51cm (20\")",
@@ -1217,7 +1217,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/take-down-wood-camo-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "42cm (16,5\")",
@@ -1244,7 +1244,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/take-down-wood-camo-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51cm (20\")",
@@ -1271,7 +1271,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/take-down-wood-camo-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51cm (20\")",
@@ -1297,7 +1297,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/take-down-wood-camo-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51cm (20\")",
@@ -1324,7 +1324,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/ba13-td-standard-green/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51 cm (20\")",
@@ -1351,7 +1351,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/ba13-td-standard-green/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51 cm (20\")",
@@ -1378,7 +1378,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/ba13-td-standard-green/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "46 cm (18\")",
@@ -1405,7 +1405,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/ba13-td-standard-green/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51 cm (20\")",
@@ -1432,7 +1432,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/ba13-series/ba13-td-standard-green/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51 cm (20\")",
@@ -1458,7 +1458,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/extreme-series/extreme-hunter/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "46 cm (18\")",
           "weight": "2.9 Kg",
@@ -1483,7 +1483,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/extreme-series/extreme-hunter/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "46 cm (18\")",
           "weight": "2.9 Kg",
@@ -1509,7 +1509,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/extreme-series/extreme-hunter-viper-urban/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "46 cm (18\")",
@@ -1536,7 +1536,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/extreme-series/extreme-hunter-viper-urban/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "46 cm (18\")",
@@ -1563,7 +1563,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/extreme-series/extreme-sporter/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "46 cm (18\")",
@@ -1590,7 +1590,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/extreme-series/extreme-sporter/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "46 cm (18\")",
@@ -1617,7 +1617,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/extreme-series/extreme-sporter-viper-western/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "46 cm (18\")",
@@ -1644,7 +1644,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/extreme-series/extreme-sporter-viper-western/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "46 cm (18\")",
@@ -1670,7 +1670,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/approach-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51 cm (20\")",
@@ -1696,7 +1696,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/approach-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
@@ -1722,7 +1722,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/approach-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
@@ -1748,7 +1748,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/approach-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "66 cm (26\")",
@@ -1767,6 +1767,7 @@
       "barrel": {
         "name": "Bergara PREMIER ELEVATE .300 Win Mag",
         "length": 0.61,
+        "twistLength": 0.254,
         "gunMass": 2.9,
         "gasLeaks": []
       },
@@ -1774,12 +1775,12 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/elevate/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
           "weight": "2,9 kg",
-          "twist": "1:10&#8221;"
+          "twist": "1:10\""
         }
       }
     },
@@ -1799,7 +1800,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/elevate/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "51 cm (20\")",
           "weight": "2.6 Kg",
@@ -1823,7 +1824,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/elevate/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "56 cm (22\")",
           "weight": "2.7 Kg",
@@ -1847,7 +1848,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/elevate/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "61 cm (24\")",
           "weight": "2.8 Kg",
@@ -1872,7 +1873,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/elevate/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
@@ -1891,6 +1892,7 @@
       "barrel": {
         "name": "Bergara PREMIER ELEVATE 7 Rem Mag",
         "length": 0.61,
+        "twistLength": 0.2413,
         "gunMass": 2.9,
         "gasLeaks": []
       },
@@ -1898,12 +1900,12 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/elevate/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
           "weight": "2,9 kg",
-          "twist": "1:9,5&#8221;"
+          "twist": "1:9,5\""
         }
       }
     },
@@ -1924,7 +1926,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/elite/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "66 cm (26\")",
           "weight": "6.4 Kg",
@@ -1949,7 +1951,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/elite/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "66 cm (26\")",
           "weight": "6.4 Kg",
@@ -1974,7 +1976,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/elite/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "66 cm (26\")",
           "weight": "6.4 Kg",
@@ -1999,7 +2001,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/highlander-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
@@ -2025,7 +2027,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/highlander-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
@@ -2051,7 +2053,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/highlander-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
@@ -2077,7 +2079,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/highlander-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
@@ -2104,7 +2106,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/hmr-pro-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
@@ -2131,7 +2133,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/hmr-pro-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "66 cm (26\")",
@@ -2158,7 +2160,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/hmr-pro-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "66 cm (26\")",
@@ -2185,7 +2187,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/hmr-pro-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51 cm (20\")",
@@ -2212,7 +2214,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/hmr-pro-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
@@ -2239,7 +2241,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/hmr-pro-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "66 cm (26\")",
@@ -2265,7 +2267,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/lrp-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
@@ -2291,7 +2293,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/lrp-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "66 cm (26\")",
@@ -2317,7 +2319,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/mountain-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "56 cm (22\")",
           "weight": "2,81 Kg",
@@ -2342,7 +2344,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/mountain-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "56 cm (22\")",
           "weight": "2,81 Kg",
@@ -2367,7 +2369,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/mountain-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "61 cm (24\")",
           "weight": "2,9 Kg",
@@ -2392,7 +2394,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/mountain-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "56 cm (22\")",
           "weight": "2,81 Kg",
@@ -2417,7 +2419,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/mountain-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "56 cm (22\")",
           "weight": "2,81 Kg",
@@ -2442,7 +2444,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/mountain-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "61 cm (24\")",
           "weight": "2,85 Kg",
@@ -2467,7 +2469,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/ridgeback-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51 cm (20\")",
@@ -2493,7 +2495,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/ridgeback-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
@@ -2519,7 +2521,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/premier/ridgeback-rifle/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "66 cm (26\")",
@@ -2544,7 +2546,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/wilderness-series/wilderness-hunter/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "61 cm (24\")",
           "weight": "3,3 Kg (7.3 lbs)",
@@ -2570,7 +2572,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/wilderness-series/wilderness-hunter/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "56 cm (22\")",
@@ -2596,7 +2598,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/wilderness-series/wilderness-hunter/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "56 cm (22\")",
@@ -2621,7 +2623,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/wilderness-series/wilderness-hunter/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "61 cm (24\")",
           "weight": "3,3 Kg (7.3 lbs)",
@@ -2647,7 +2649,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/wilderness-series/wilderness-sierra/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "56 cm (22\")",
@@ -2674,7 +2676,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/wilderness-series/wilderness-sierra/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51 cm (20\")",
@@ -2701,7 +2703,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/wilderness-series/wilderness-sierra/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "56 cm (22\")",
@@ -2728,7 +2730,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/wilderness-series/wilderness-sierra/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
@@ -2755,7 +2757,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/wilderness-series/wilderness-sierra/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
@@ -2782,7 +2784,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/wilderness-series/wilderness-sierra/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51 cm (20\")",
@@ -2809,7 +2811,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/wilderness-series/wilderness-sierra/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51 cm (20\")",
@@ -2836,7 +2838,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/wilderness-series/wilderness-sierra/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "51 cm (20\")",
@@ -2863,7 +2865,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/wilderness-series/wilderness-sierra/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "56 cm (22\")",
@@ -2890,7 +2892,7 @@
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/wilderness-series/wilderness-sierra/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "massBasis": "unstated",
         "published": {
           "barrelLength": "61 cm (24\")",
@@ -2909,17 +2911,18 @@
       "barrel": {
         "name": "Bergara WILDERNESS SIERRA CARBON .7 PRC",
         "length": 0.56,
+        "twistLength": 0.2032,
         "gasLeaks": []
       },
       "source": {
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/wilderness-series/wilderness-sierra-carbon/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "56 cm (22\")",
           "weight": "3 Kg",
-          "twist": "1:8&#8221;"
+          "twist": "1:8\""
         }
       }
     },
@@ -2933,17 +2936,18 @@
       "barrel": {
         "name": "Bergara WILDERNESS SIERRA CARBON .223 Rem.",
         "length": 0.51,
+        "twistLength": 0.2286,
         "gasLeaks": []
       },
       "source": {
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/wilderness-series/wilderness-sierra-carbon/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "51 cm (20\")",
           "weight": "2,9 Kg",
-          "twist": "1:9&#8221;"
+          "twist": "1:9\""
         }
       }
     },
@@ -2957,17 +2961,18 @@
       "barrel": {
         "name": "Bergara WILDERNESS SIERRA CARBON .270 Win",
         "length": 0.56,
+        "twistLength": 0.254,
         "gasLeaks": []
       },
       "source": {
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/wilderness-series/wilderness-sierra-carbon/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "56 cm (22\")",
           "weight": "3 Kg",
-          "twist": "1:10&#8221;"
+          "twist": "1:10\""
         }
       }
     },
@@ -2981,17 +2986,18 @@
       "barrel": {
         "name": "Bergara WILDERNESS SIERRA CARBON .300 PRC",
         "length": 0.61,
+        "twistLength": 0.2286,
         "gasLeaks": []
       },
       "source": {
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/wilderness-series/wilderness-sierra-carbon/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "61 cm (24\")",
           "weight": "3,1 Kg",
-          "twist": "1:9&#8221;"
+          "twist": "1:9\""
         }
       }
     },
@@ -3005,17 +3011,18 @@
       "barrel": {
         "name": "Bergara WILDERNESS SIERRA CARBON .300 Win. Mag.",
         "length": 0.61,
+        "twistLength": 0.254,
         "gasLeaks": []
       },
       "source": {
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/wilderness-series/wilderness-sierra-carbon/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "61 cm (24\")",
           "weight": "3,1 Kg",
-          "twist": "1:10&#8221;"
+          "twist": "1:10\""
         }
       }
     },
@@ -3029,17 +3036,18 @@
       "barrel": {
         "name": "Bergara WILDERNESS SIERRA CARBON .308 Win.",
         "length": 0.51,
+        "twistLength": 0.254,
         "gasLeaks": []
       },
       "source": {
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/wilderness-series/wilderness-sierra-carbon/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "51 cm (20\")",
           "weight": "2,9 Kg",
-          "twist": "1:10&#8221;"
+          "twist": "1:10\""
         }
       }
     },
@@ -3053,17 +3061,18 @@
       "barrel": {
         "name": "Bergara WILDERNESS SIERRA CARBON 6.5 Creedmoor",
         "length": 0.56,
+        "twistLength": 0.2032,
         "gasLeaks": []
       },
       "source": {
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/wilderness-series/wilderness-sierra-carbon/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "56 cm (22\")",
           "weight": "3 Kg",
-          "twist": "1:8&#8221;"
+          "twist": "1:8\""
         }
       }
     },
@@ -3077,17 +3086,18 @@
       "barrel": {
         "name": "Bergara WILDERNESS SIERRA CARBON 6.5 PRC",
         "length": 0.61,
+        "twistLength": 0.2032,
         "gasLeaks": []
       },
       "source": {
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/wilderness-series/wilderness-sierra-carbon/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "61 cm (24\")",
           "weight": "3,1 Kg",
-          "twist": "1:8&#8221;"
+          "twist": "1:8\""
         }
       }
     },
@@ -3101,17 +3111,18 @@
       "barrel": {
         "name": "Bergara WILDERNESS SIERRA CARBON 7 Rem.Mag.",
         "length": 0.61,
+        "twistLength": 0.2413,
         "gasLeaks": []
       },
       "source": {
         "kind": "published",
         "publisher": "Bergara",
         "url": "https://www.bergara.online/en/rifles/wilderness-series/wilderness-sierra-carbon/",
-        "retrieved": "2026-10-15",
+        "retrieved": "2026-10-16",
         "published": {
           "barrelLength": "61 cm (24\")",
           "weight": "3,1 Kg",
-          "twist": "1:9,5&#8221;"
+          "twist": "1:9,5\""
         }
       }
     }

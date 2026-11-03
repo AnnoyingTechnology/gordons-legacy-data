@@ -1,0 +1,1668 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by Steyr Arms GmbH; facts, released in this repository under CC0",
+    "source": "https://www.steyr-arms.com",
+    "file": "",
+    "author": "Steyr Arms GmbH",
+    "date": "2026-10-16",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr AUG A3 SA POLICE 223 Rem.",
+      "maker": "Steyr Arms",
+      "model": "AUG A3 SA POLICE",
+      "cartridge": "223 Rem.",
+      "barrel": {
+        "name": "Steyr AUG A3 SA POLICE 223 Rem.",
+        "length": 0.382,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/sporting-rifles/aug-sa/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "382 mm / 15\"",
+          "weight": "3,1 kg / 6,8 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr AUG SA ARMY 223 Rem.",
+      "maker": "Steyr Arms",
+      "model": "AUG SA ARMY",
+      "cartridge": "223 Rem.",
+      "barrel": {
+        "name": "Steyr AUG SA ARMY 223 Rem.",
+        "length": 0.508,
+        "gunMass": 3.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/sporting-rifles/aug-sa/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "3,6 kg / 7,9 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr CL II SX PRO VARMINT 223 Rem.",
+      "maker": "Steyr Arms",
+      "model": "CL II SX PRO VARMINT",
+      "cartridge": "223 Rem.",
+      "barrel": {
+        "name": "Steyr CL II SX PRO VARMINT 223 Rem.",
+        "length": 0.558,
+        "gunMass": 3.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/pro-varmint/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "558 mm / 22\"",
+          "weight": "3,8 kg / 8,4 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr CL II SX PRO VARMINT 308 Win.",
+      "maker": "Steyr Arms",
+      "model": "CL II SX PRO VARMINT",
+      "cartridge": "308 Win.",
+      "barrel": {
+        "name": "Steyr CL II SX PRO VARMINT 308 Win.",
+        "length": 0.558,
+        "gunMass": 3.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/pro-varmint/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "558 mm / 22\"",
+          "weight": "3,8 kg / 8,4 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr CL II SX THB 6,5 Creedmoor",
+      "maker": "Steyr Arms",
+      "model": "CL II SX THB",
+      "cartridge": "6,5 Creedmoor",
+      "barrel": {
+        "name": "Steyr CL II SX THB 6,5 Creedmoor",
+        "length": 0.635,
+        "twistLength": 0.20066,
+        "gunMass": 4.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/thb/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "635 mm / 25\"",
+          "weight": "4,2 kg / 9,25lb.",
+          "twist": "1 turn right in 7,9\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr ELITE .308 Win.",
+      "maker": "Steyr Arms",
+      "model": "ELITE",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Steyr ELITE .308 Win.",
+        "length": 0.57,
+        "gunMass": 4.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/sporting-rifles/elite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "570mm, 22,4\"",
+          "weight": "4,3 kg, 9 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr ELITE 7mm-08 Rem.",
+      "maker": "Steyr Arms",
+      "model": "ELITE",
+      "cartridge": "7mm-08 Rem.",
+      "barrel": {
+        "name": "Steyr ELITE 7mm-08 Rem.",
+        "length": 0.57,
+        "gunMass": 4.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/sporting-rifles/elite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "570mm, 22,4\"",
+          "weight": "4,3 kg, 9 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr HS .50 M1 .50 BMG",
+      "maker": "Steyr Arms",
+      "model": "HS .50 M1",
+      "cartridge": ".50 BMG",
+      "barrel": {
+        "name": "Steyr HS .50 M1 .50 BMG",
+        "length": 0.9,
+        "gunMass": 13.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/hs-50-m1/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "900 mm, 35.4\"",
+          "weight": "(without scope) 13.8 kg, 30.4 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER CL II Fullstock .223 Rem.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER CL II Fullstock",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Steyr MANNLICHER CL II Fullstock .223 Rem.",
+        "length": 0.508,
+        "gunMass": 3.5,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/cl-ii/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,5 kg / 7.7 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER CL II Fullstock .308 Win.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER CL II Fullstock",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Steyr MANNLICHER CL II Fullstock .308 Win.",
+        "length": 0.508,
+        "gunMass": 3.5,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/cl-ii/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,5 kg / 7.7 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER CL II Fullstock 9,3x62",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER CL II Fullstock",
+      "cartridge": "9,3x62",
+      "barrel": {
+        "name": "Steyr MANNLICHER CL II Fullstock 9,3x62",
+        "length": 0.508,
+        "gunMass": 3.5,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/cl-ii/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,5 kg / 7.7 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER CL II Mountain .30-06 Spr.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER CL II Mountain",
+      "cartridge": ".30-06 Spr.",
+      "barrel": {
+        "name": "Steyr MANNLICHER CL II Mountain .30-06 Spr.",
+        "length": 0.508,
+        "gunMass": 3.35,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/cl-ii/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,35 kg / 7.45 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER CL II Mountain .223 Rem.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER CL II Mountain",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Steyr MANNLICHER CL II Mountain .223 Rem.",
+        "length": 0.508,
+        "gunMass": 3.35,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/cl-ii/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,35 kg / 7.45 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER CL II Mountain .243 Win.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER CL II Mountain",
+      "cartridge": ".243 Win.",
+      "barrel": {
+        "name": "Steyr MANNLICHER CL II Mountain .243 Win.",
+        "length": 0.508,
+        "gunMass": 3.35,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/cl-ii/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,35 kg / 7.45 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER CL II Mountain .270 Win.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER CL II Mountain",
+      "cartridge": ".270 Win.",
+      "barrel": {
+        "name": "Steyr MANNLICHER CL II Mountain .270 Win.",
+        "length": 0.508,
+        "gunMass": 3.35,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/cl-ii/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,35 kg / 7.45 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER CL II Mountain .308 Win.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER CL II Mountain",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Steyr MANNLICHER CL II Mountain .308 Win.",
+        "length": 0.508,
+        "gunMass": 3.35,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/cl-ii/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,35 kg / 7.45 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER CL II Mountain 6,5x55 SE",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER CL II Mountain",
+      "cartridge": "6,5x55 SE",
+      "barrel": {
+        "name": "Steyr MANNLICHER CL II Mountain 6,5x55 SE",
+        "length": 0.508,
+        "gunMass": 3.35,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/cl-ii/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,35 kg / 7.45 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER CL II Mountain 8x57 JS",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER CL II Mountain",
+      "cartridge": "8x57 JS",
+      "barrel": {
+        "name": "Steyr MANNLICHER CL II Mountain 8x57 JS",
+        "length": 0.508,
+        "gunMass": 3.35,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/cl-ii/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,35 kg / 7.45 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER CL II Mountain 9,3x62",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER CL II Mountain",
+      "cartridge": "9,3x62",
+      "barrel": {
+        "name": "Steyr MANNLICHER CL II Mountain 9,3x62",
+        "length": 0.508,
+        "gunMass": 3.35,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/cl-ii/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,35 kg / 7.45 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER CL II SX Mountain .30-06 Spr.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER CL II SX Mountain",
+      "cartridge": ".30-06 Spr.",
+      "barrel": {
+        "name": "Steyr MANNLICHER CL II SX Mountain .30-06 Spr.",
+        "length": 0.508,
+        "gunMass": 3.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/cl-ii-sx/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,3 kg / 7.3 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER CL II SX Mountain .223 Rem.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER CL II SX Mountain",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Steyr MANNLICHER CL II SX Mountain .223 Rem.",
+        "length": 0.508,
+        "gunMass": 3.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/cl-ii-sx/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,3 kg / 7.3 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER CL II SX Mountain .243 Win.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER CL II SX Mountain",
+      "cartridge": ".243 Win.",
+      "barrel": {
+        "name": "Steyr MANNLICHER CL II SX Mountain .243 Win.",
+        "length": 0.508,
+        "gunMass": 3.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/cl-ii-sx/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,3 kg / 7.3 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER CL II SX Mountain .270 Win.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER CL II SX Mountain",
+      "cartridge": ".270 Win.",
+      "barrel": {
+        "name": "Steyr MANNLICHER CL II SX Mountain .270 Win.",
+        "length": 0.508,
+        "gunMass": 3.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/cl-ii-sx/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,3 kg / 7.3 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER CL II SX Mountain .308 Win.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER CL II SX Mountain",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Steyr MANNLICHER CL II SX Mountain .308 Win.",
+        "length": 0.508,
+        "gunMass": 3.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/cl-ii-sx/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,3 kg / 7.3 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER CL II SX Mountain 6,5x55 SE",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER CL II SX Mountain",
+      "cartridge": "6,5x55 SE",
+      "barrel": {
+        "name": "Steyr MANNLICHER CL II SX Mountain 6,5x55 SE",
+        "length": 0.508,
+        "gunMass": 3.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/cl-ii-sx/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,3 kg / 7.3 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER CL II SX Mountain 8x57 JS",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER CL II SX Mountain",
+      "cartridge": "8x57 JS",
+      "barrel": {
+        "name": "Steyr MANNLICHER CL II SX Mountain 8x57 JS",
+        "length": 0.508,
+        "gunMass": 3.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/cl-ii-sx/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,3 kg / 7.3 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER CL II SX Mountain 9,3x62",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER CL II SX Mountain",
+      "cartridge": "9,3x62",
+      "barrel": {
+        "name": "Steyr MANNLICHER CL II SX Mountain 9,3x62",
+        "length": 0.508,
+        "gunMass": 3.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/cl-ii-sx/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,3 kg / 7.3 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER Luxus Mountain .30-06 Spr.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER Luxus Mountain",
+      "cartridge": ".30-06 Spr.",
+      "barrel": {
+        "name": "Steyr MANNLICHER Luxus Mountain .30-06 Spr.",
+        "length": 0.508,
+        "gunMass": 3.4,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/luxus/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "ca. 3,4 kg / 7.5 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER Luxus Mountain .243 Win.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER Luxus Mountain",
+      "cartridge": ".243 Win.",
+      "barrel": {
+        "name": "Steyr MANNLICHER Luxus Mountain .243 Win.",
+        "length": 0.508,
+        "gunMass": 3.4,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/luxus/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "ca. 3,4 kg / 7.5 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER Luxus Mountain .270 Win.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER Luxus Mountain",
+      "cartridge": ".270 Win.",
+      "barrel": {
+        "name": "Steyr MANNLICHER Luxus Mountain .270 Win.",
+        "length": 0.508,
+        "gunMass": 3.4,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/luxus/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "ca. 3,4 kg / 7.5 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER Luxus Mountain .308 Win.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER Luxus Mountain",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Steyr MANNLICHER Luxus Mountain .308 Win.",
+        "length": 0.508,
+        "gunMass": 3.4,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/luxus/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "ca. 3,4 kg / 7.5 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER Luxus Mountain 6,5x55 SE",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER Luxus Mountain",
+      "cartridge": "6,5x55 SE",
+      "barrel": {
+        "name": "Steyr MANNLICHER Luxus Mountain 6,5x55 SE",
+        "length": 0.508,
+        "gunMass": 3.4,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/luxus/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "ca. 3,4 kg / 7.5 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER Luxus Mountain 7mm-08 Rem.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER Luxus Mountain",
+      "cartridge": "7mm-08 Rem.",
+      "barrel": {
+        "name": "Steyr MANNLICHER Luxus Mountain 7mm-08 Rem.",
+        "length": 0.508,
+        "gunMass": 3.4,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/luxus/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "ca. 3,4 kg / 7.5 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER Luxus Mountain 7x64",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER Luxus Mountain",
+      "cartridge": "7x64",
+      "barrel": {
+        "name": "Steyr MANNLICHER Luxus Mountain 7x64",
+        "length": 0.508,
+        "gunMass": 3.4,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/luxus/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "ca. 3,4 kg / 7.5 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER Luxus Mountain 8x57 JS",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER Luxus Mountain",
+      "cartridge": "8x57 JS",
+      "barrel": {
+        "name": "Steyr MANNLICHER Luxus Mountain 8x57 JS",
+        "length": 0.508,
+        "gunMass": 3.4,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/luxus/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "ca. 3,4 kg / 7.5 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER Luxus Mountain 9,3x62",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER Luxus Mountain",
+      "cartridge": "9,3x62",
+      "barrel": {
+        "name": "Steyr MANNLICHER Luxus Mountain 9,3x62",
+        "length": 0.508,
+        "gunMass": 3.4,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/luxus/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "ca. 3,4 kg / 7.5 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER SM12 Fullstock .223 Rem.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER SM12 Fullstock",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Steyr MANNLICHER SM12 Fullstock .223 Rem.",
+        "length": 0.508,
+        "gunMass": 3.5,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/sm12/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,5 kg / 7.7 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER SM12 Fullstock .308 Win.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER SM12 Fullstock",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Steyr MANNLICHER SM12 Fullstock .308 Win.",
+        "length": 0.508,
+        "gunMass": 3.5,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/sm12/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,5 kg / 7.7 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER SM12 Fullstock 9,3x62",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER SM12 Fullstock",
+      "cartridge": "9,3x62",
+      "barrel": {
+        "name": "Steyr MANNLICHER SM12 Fullstock 9,3x62",
+        "length": 0.508,
+        "gunMass": 3.5,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/sm12/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,5 kg / 7.7 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER SM12 Mountain .30-06 Spr.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER SM12 Mountain",
+      "cartridge": ".30-06 Spr.",
+      "barrel": {
+        "name": "Steyr MANNLICHER SM12 Mountain .30-06 Spr.",
+        "length": 0.508,
+        "gunMass": 3.35,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/sm12/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,35kg / 7.45 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER SM12 Mountain .243 Win.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER SM12 Mountain",
+      "cartridge": ".243 Win.",
+      "barrel": {
+        "name": "Steyr MANNLICHER SM12 Mountain .243 Win.",
+        "length": 0.508,
+        "gunMass": 3.35,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/sm12/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,35kg / 7.45 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER SM12 Mountain .270 Win.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER SM12 Mountain",
+      "cartridge": ".270 Win.",
+      "barrel": {
+        "name": "Steyr MANNLICHER SM12 Mountain .270 Win.",
+        "length": 0.508,
+        "gunMass": 3.35,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/sm12/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,35kg / 7.45 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER SM12 Mountain .308 Win.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER SM12 Mountain",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Steyr MANNLICHER SM12 Mountain .308 Win.",
+        "length": 0.508,
+        "gunMass": 3.35,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/sm12/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,35kg / 7.45 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER SM12 Mountain 6,5x55 SE",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER SM12 Mountain",
+      "cartridge": "6,5x55 SE",
+      "barrel": {
+        "name": "Steyr MANNLICHER SM12 Mountain 6,5x55 SE",
+        "length": 0.508,
+        "gunMass": 3.35,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/sm12/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,35kg / 7.45 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER SM12 Mountain 8x57 JS",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER SM12 Mountain",
+      "cartridge": "8x57 JS",
+      "barrel": {
+        "name": "Steyr MANNLICHER SM12 Mountain 8x57 JS",
+        "length": 0.508,
+        "gunMass": 3.35,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/sm12/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,35kg / 7.45 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER SM12 Mountain 9,3x62",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER SM12 Mountain",
+      "cartridge": "9,3x62",
+      "barrel": {
+        "name": "Steyr MANNLICHER SM12 Mountain 9,3x62",
+        "length": 0.508,
+        "gunMass": 3.35,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/sm12/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,35kg / 7.45 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER SM12 Mountain 223 Rem.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER SM12 Mountain",
+      "cartridge": "223 Rem.",
+      "barrel": {
+        "name": "Steyr MANNLICHER SM12 Mountain 223 Rem.",
+        "length": 0.508,
+        "gunMass": 3.35,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/sm12/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,35kg / 7.45 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER SM12 SX Mountain .30-06 Spr.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER SM12 SX Mountain",
+      "cartridge": ".30-06 Spr.",
+      "barrel": {
+        "name": "Steyr MANNLICHER SM12 SX Mountain .30-06 Spr.",
+        "length": 0.508,
+        "gunMass": 3.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/sm12-sx/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,3 kg / 7.3 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER SM12 SX Mountain .223 Rem.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER SM12 SX Mountain",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Steyr MANNLICHER SM12 SX Mountain .223 Rem.",
+        "length": 0.508,
+        "gunMass": 3.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/sm12-sx/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,3 kg / 7.3 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER SM12 SX Mountain .243 Win.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER SM12 SX Mountain",
+      "cartridge": ".243 Win.",
+      "barrel": {
+        "name": "Steyr MANNLICHER SM12 SX Mountain .243 Win.",
+        "length": 0.508,
+        "gunMass": 3.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/sm12-sx/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,3 kg / 7.3 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER SM12 SX Mountain .270 Win.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER SM12 SX Mountain",
+      "cartridge": ".270 Win.",
+      "barrel": {
+        "name": "Steyr MANNLICHER SM12 SX Mountain .270 Win.",
+        "length": 0.508,
+        "gunMass": 3.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/sm12-sx/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,3 kg / 7.3 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER SM12 SX Mountain .308 Win.",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER SM12 SX Mountain",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Steyr MANNLICHER SM12 SX Mountain .308 Win.",
+        "length": 0.508,
+        "gunMass": 3.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/sm12-sx/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,3 kg / 7.3 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER SM12 SX Mountain 6,5x55 SE",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER SM12 SX Mountain",
+      "cartridge": "6,5x55 SE",
+      "barrel": {
+        "name": "Steyr MANNLICHER SM12 SX Mountain 6,5x55 SE",
+        "length": 0.508,
+        "gunMass": 3.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/sm12-sx/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,3 kg / 7.3 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER SM12 SX Mountain 8x57 JS",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER SM12 SX Mountain",
+      "cartridge": "8x57 JS",
+      "barrel": {
+        "name": "Steyr MANNLICHER SM12 SX Mountain 8x57 JS",
+        "length": 0.508,
+        "gunMass": 3.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/sm12-sx/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,3 kg / 7.3 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr MANNLICHER SM12 SX Mountain 9,3x62",
+      "maker": "Steyr Arms",
+      "model": "MANNLICHER SM12 SX Mountain",
+      "cartridge": "9,3x62",
+      "barrel": {
+        "name": "Steyr MANNLICHER SM12 SX Mountain 9,3x62",
+        "length": 0.508,
+        "gunMass": 3.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/sm12-sx/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "508 mm / 20\"",
+          "weight": "approx. 3,3 kg / 7.3 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr PISTOL C9-A1 9x19 mm",
+      "maker": "Steyr Arms",
+      "model": "PISTOL C9-A1",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Steyr PISTOL C9-A1 9x19 mm",
+        "length": 0.092,
+        "gunMass": 0.769,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/pistols/pistol-a1/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "92 mm, 3.6\"",
+          "weight": "With empty magazine: 769 g / 27.02 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr PISTOL C9-A2 MF 9x19",
+      "maker": "Steyr Arms",
+      "model": "PISTOL C9-A2 MF",
+      "cartridge": "9x19",
+      "barrel": {
+        "name": "Steyr PISTOL C9-A2 MF 9x19",
+        "length": 0.092,
+        "gunMass": 0.766,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/pistols/pistol-a2-mf/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "92 mm / 3.6\"",
+          "weight": "With empty magazine: 766g / 27.02 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr PISTOL L9-A1 9x19 mm",
+      "maker": "Steyr Arms",
+      "model": "PISTOL L9-A1",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Steyr PISTOL L9-A1 9x19 mm",
+        "length": 0.115062,
+        "gunMass": 0.787,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/pistols/pistol-a1/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "115 mm, 4.53\"",
+          "weight": "With empty magazine: 787 g / 27.76 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr PISTOL L9-A2 MF 9x19",
+      "maker": "Steyr Arms",
+      "model": "PISTOL L9-A2 MF",
+      "cartridge": "9x19",
+      "barrel": {
+        "name": "Steyr PISTOL L9-A2 MF 9x19",
+        "length": 0.115,
+        "gunMass": 0.787,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/pistols/pistol-a2-mf/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "115 mm / 4,5\"",
+          "weight": "With empty magazine: 787 g / 27.76 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr PISTOL M9-A1 9x19 mm",
+      "maker": "Steyr Arms",
+      "model": "PISTOL M9-A1",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Steyr PISTOL M9-A1 9x19 mm",
+        "length": 0.102,
+        "gunMass": 0.774,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/pistols/pistol-a1/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm, 4\"",
+          "weight": "With empty magazine: 774 g / 27.31 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr PISTOL M9-A2 MF 9x19",
+      "maker": "Steyr Arms",
+      "model": "PISTOL M9-A2 MF",
+      "cartridge": "9x19",
+      "barrel": {
+        "name": "Steyr PISTOL M9-A2 MF 9x19",
+        "length": 0.102,
+        "gunMass": 0.78,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/pistols/pistol-a2-mf/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "102 mm / 4.0\"",
+          "weight": "With empty magazine: 780 g / 27.5 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr PISTOL S9-A1 9x19 mm",
+      "maker": "Steyr Arms",
+      "model": "PISTOL S9-A1",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Steyr PISTOL S9-A1 9x19 mm",
+        "length": 0.092,
+        "gunMass": 0.744,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/pistols/pistol-a1/",
+        "retrieved": "2026-10-16",
+        "massBasis": "empty-magazine",
+        "published": {
+          "barrelLength": "92 mm, 3.6\"",
+          "weight": "With empty magazine: 744 g / 26.25 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr SCOUT MKII .223 Rem.",
+      "maker": "Steyr Arms",
+      "model": "SCOUT MKII",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Steyr SCOUT MKII .223 Rem.",
+        "length": 0.485,
+        "gunMass": 3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/scout-ii/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "barrelLength": "485mm / 19\"",
+          "weight": "3,0 kg / 6.6 lbs without magazines"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr SCOUT MKII .308 Win.",
+      "maker": "Steyr Arms",
+      "model": "SCOUT MKII",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Steyr SCOUT MKII .308 Win.",
+        "length": 0.485,
+        "gunMass": 3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/scout-ii/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "barrelLength": "485mm / 19\"",
+          "weight": "3,0 kg / 6.6 lbs without magazines"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr SCOUT MKII 6,5 Creedmoor",
+      "maker": "Steyr Arms",
+      "model": "SCOUT MKII",
+      "cartridge": "6,5 Creedmoor",
+      "barrel": {
+        "name": "Steyr SCOUT MKII 6,5 Creedmoor",
+        "length": 0.485,
+        "gunMass": 3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/hunting-rifles/scout-ii/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "barrelLength": "485mm / 19\"",
+          "weight": "3,0 kg / 6.6 lbs without magazines"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Steyr StM556 Z 5.56x45mm (.223 Rem.)",
+      "maker": "Steyr Arms",
+      "model": "StM556 Z",
+      "cartridge": "5.56x45mm (.223 Rem.)",
+      "barrel": {
+        "name": "Steyr StM556 Z 5.56x45mm (.223 Rem.)",
+        "length": 0.417,
+        "gunMass": 3.7,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Steyr Arms GmbH",
+        "url": "https://www.steyr-arms.com/en/sporting-rifles/stm-556/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "barrelLength": "417 mm / 16,4\"",
+          "weight": "3,7 kg / 8,15 lbs without magazine"
+        }
+      }
+    }
+  ]
+}

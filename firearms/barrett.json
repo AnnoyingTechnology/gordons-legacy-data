@@ -1,0 +1,1634 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by Barrett Firearms Manufacturing, Inc.; facts, released in this repository under CC0",
+    "source": "https://barrett.net",
+    "file": "",
+    "author": "Barrett Firearms Manufacturing, Inc.",
+    "date": "2026-11-02",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett M107A1 50 BMG 20\"",
+      "maker": "Barrett",
+      "model": "M107A1",
+      "cartridge": "50 BMG",
+      "barrel": {
+        "name": "Barrett M107A1 50 BMG 20\"",
+        "length": 0.523,
+        "twistLength": 0.381,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/m107a1/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "50 BMG",
+          "barrelLength": "20.6\" (523 mm)",
+          "twist": "1 : 15\" (381 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett M107A1 50 BMG 29\"",
+      "maker": "Barrett",
+      "model": "M107A1",
+      "cartridge": "50 BMG",
+      "barrel": {
+        "name": "Barrett M107A1 50 BMG 29\"",
+        "length": 0.737,
+        "twistLength": 0.381,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/m107a1/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "50 BMG",
+          "barrelLength": "29\" (737 mm)",
+          "twist": "1 : 15\" (381 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MK 22 6.5 Creedmoor (fluted)",
+      "maker": "Barrett",
+      "model": "MK 22",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Barrett MK 22 6.5 Creedmoor (fluted)",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gunMass": 6.023707,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-mk22/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "24\" (609.6 mm)",
+          "weight": "13.28 lbs (6.02 kg)",
+          "twist": "1 in 8\" (200 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MK 22 6.5 Creedmoor (heavy)",
+      "maker": "Barrett",
+      "model": "MK 22",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Barrett MK 22 6.5 Creedmoor (heavy)",
+        "length": 0.62,
+        "twistLength": 0.2032,
+        "gunMass": 6.023707,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-mk22/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "24\" (620 mm)",
+          "weight": "13.28 lbs (6.02 kg)",
+          "twist": "1 : 8\" (203.2 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MK 22 7.62 x 51 NATO (mk)",
+      "maker": "Barrett",
+      "model": "MK 22",
+      "cartridge": "7.62 x 51 NATO",
+      "barrel": {
+        "name": "Barrett MK 22 7.62 x 51 NATO (mk)",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gunMass": 6.304934,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-mk22/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62 x 51 NATO",
+          "barrelLength": "20\" (508 mm)",
+          "weight": "13.9 lbs (6.3 kg)",
+          "twist": "1 : 8\" (200 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MK 22 300 Norma Magnum (fluted)",
+      "maker": "Barrett",
+      "model": "MK 22",
+      "cartridge": "300 Norma Magnum",
+      "barrel": {
+        "name": "Barrett MK 22 300 Norma Magnum (fluted)",
+        "length": 0.6096,
+        "twistLength": 0.254,
+        "gunMass": 6.078138,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-mk22/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 Norma Magnum",
+          "barrelLength": "24\" (609.6 mm)",
+          "weight": "13.4 lbs (6.1 kg)",
+          "twist": "1 : 10\" (254 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MK 22 300 Norma Magnum (heavy)",
+      "maker": "Barrett",
+      "model": "MK 22",
+      "cartridge": "300 Norma Magnum",
+      "barrel": {
+        "name": "Barrett MK 22 300 Norma Magnum (heavy)",
+        "length": 0.62,
+        "twistLength": 0.254,
+        "gunMass": 6.078138,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-mk22/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 Norma Magnum",
+          "barrelLength": "24\" (620 mm)",
+          "weight": "13.4 lbs (6.1 kg)",
+          "twist": "1 : 10\" (254 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MK 22 300 Norma Magnum (mk)",
+      "maker": "Barrett",
+      "model": "MK 22",
+      "cartridge": "300 Norma Magnum",
+      "barrel": {
+        "name": "Barrett MK 22 300 Norma Magnum (mk)",
+        "length": 0.66,
+        "twistLength": 0.2032,
+        "gunMass": 6.894604,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-mk22/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 Norma Magnum",
+          "barrelLength": "26\" (660 mm)",
+          "weight": "15.2 lbs (7.0 kg)",
+          "twist": "1 : 8\" (200 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MK 22 300 PRC (Carbon Fiber) (heavy)",
+      "maker": "Barrett",
+      "model": "MK 22",
+      "cartridge": "300 PRC (Carbon Fiber)",
+      "barrel": {
+        "name": "Barrett MK 22 300 PRC (Carbon Fiber) (heavy)",
+        "length": 0.66,
+        "twistLength": 0.2032,
+        "gunMass": 5.307031,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-mk22/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 PRC (Carbon Fiber)",
+          "barrelLength": "26\" (660 mm)",
+          "weight": "11.7 lbs (5.3 kg)",
+          "twist": "1 : 8\" (203.2 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MK 22 300 Winchester Magnum (fluted)",
+      "maker": "Barrett",
+      "model": "MK 22",
+      "cartridge": "300 Winchester Magnum",
+      "barrel": {
+        "name": "Barrett MK 22 300 Winchester Magnum (fluted)",
+        "length": 0.6096,
+        "twistLength": 0.254,
+        "gunMass": 6.078138,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-mk22/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 Winchester Magnum",
+          "barrelLength": "24\" (609.6 mm)",
+          "weight": "13.4 lbs (6.1 kg)",
+          "twist": "1 : 10\" (254 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MK 22 300 Winchester Magnum (heavy)",
+      "maker": "Barrett",
+      "model": "MK 22",
+      "cartridge": "300 Winchester Magnum",
+      "barrel": {
+        "name": "Barrett MK 22 300 Winchester Magnum (heavy)",
+        "length": 0.62,
+        "twistLength": 0.254,
+        "gunMass": 6.078138,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-mk22/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 Winchester Magnum",
+          "barrelLength": "24\" (620 mm)",
+          "weight": "13.4 lbs (6.1 kg)",
+          "twist": "1 : 10\" (254 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MK 22 308 Winchester (fluted)",
+      "maker": "Barrett",
+      "model": "MK 22",
+      "cartridge": "308 Winchester",
+      "barrel": {
+        "name": "Barrett MK 22 308 Winchester (fluted)",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gunMass": 6.023707,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-mk22/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "308 Winchester",
+          "barrelLength": "22\" (558.8 mm)",
+          "weight": "13.28 lbs (6.02 kg)",
+          "twist": "1 : 10\" (254 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MK 22 308 Winchester (heavy)",
+      "maker": "Barrett",
+      "model": "MK 22",
+      "cartridge": "308 Winchester",
+      "barrel": {
+        "name": "Barrett MK 22 308 Winchester (heavy)",
+        "length": 0.43256,
+        "twistLength": 0.254,
+        "gunMass": 5.479396,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-mk22/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "308 Winchester",
+          "barrelLength": "17\" (432.56 mm)",
+          "weight": "12.08 lbs (5.48 kg)",
+          "twist": "1 : 10\" (254 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MK 22 308 Winchester (smr)",
+      "maker": "Barrett",
+      "model": "MK 22",
+      "cartridge": "308 Winchester",
+      "barrel": {
+        "name": "Barrett MK 22 308 Winchester (smr)",
+        "length": 0.558,
+        "twistLength": 0.254,
+        "gunMass": 6.023707,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-mk22/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "308 Winchester",
+          "barrelLength": "22\" (558 mm)",
+          "weight": "13.28 lbs (6.02 kg)",
+          "twist": "1 : 10\" (254 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MK 22 338 Norma Magnum (fluted)",
+      "maker": "Barrett",
+      "model": "MK 22",
+      "cartridge": "338 Norma Magnum",
+      "barrel": {
+        "name": "Barrett MK 22 338 Norma Magnum (fluted)",
+        "length": 0.6096,
+        "twistLength": 0.23876,
+        "gunMass": 6.304934,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-mk22/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "338 Norma Magnum",
+          "barrelLength": "24\" (609.6 mm)",
+          "weight": "13.9 lbs (6.3 kg)",
+          "twist": "1 in 9.4\" (240 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MK 22 338 Norma Magnum (heavy)",
+      "maker": "Barrett",
+      "model": "MK 22",
+      "cartridge": "338 Norma Magnum",
+      "barrel": {
+        "name": "Barrett MK 22 338 Norma Magnum (heavy)",
+        "length": 0.62,
+        "twistLength": 0.23876,
+        "gunMass": 6.304934,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-mk22/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "338 Norma Magnum",
+          "barrelLength": "24\" (620 mm)",
+          "weight": "13.9 lbs (6.3 kg)",
+          "twist": "1 : 9.4\" (238.8 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MK 22 338 Norma Magnum (mk)",
+      "maker": "Barrett",
+      "model": "MK 22",
+      "cartridge": "338 Norma Magnum",
+      "barrel": {
+        "name": "Barrett MK 22 338 Norma Magnum (mk)",
+        "length": 0.686,
+        "twistLength": 0.23876,
+        "gunMass": 6.894604,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-mk22/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "338 Norma Magnum",
+          "barrelLength": "27\" (686 mm)",
+          "weight": "15.2 lbs (7.0 kg)",
+          "twist": "1 : 9.4\" (240 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett Model 82A1 50 BMG 20\"",
+      "maker": "Barrett",
+      "model": "Model 82A1",
+      "cartridge": "50 BMG",
+      "barrel": {
+        "name": "Barrett Model 82A1 50 BMG 20\"",
+        "length": 0.523,
+        "twistLength": 0.381,
+        "gunMass": 14.2428,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/model-82a1/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "50 BMG",
+          "barrelLength": "20.6\" (523 mm)",
+          "weight": "31.4 lbs (14.3 kg)",
+          "twist": "1 : 15\" (381 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett Model 82A1 50 BMG 29\"",
+      "maker": "Barrett",
+      "model": "Model 82A1",
+      "cartridge": "50 BMG",
+      "barrel": {
+        "name": "Barrett Model 82A1 50 BMG 29\"",
+        "length": 0.737,
+        "twistLength": 0.381,
+        "gunMass": 14.83247,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/model-82a1/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "50 BMG",
+          "barrelLength": "29\" (737 mm)",
+          "weight": "32.7 lbs (14.8 kg)",
+          "twist": "1 : 15\" (381 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett Model 82A1 416 BARRETT 29\"",
+      "maker": "Barrett",
+      "model": "Model 82A1",
+      "cartridge": "416 BARRETT",
+      "barrel": {
+        "name": "Barrett Model 82A1 416 BARRETT 29\"",
+        "length": 0.737,
+        "twistLength": 0.3048,
+        "gunMass": 14.83247,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/model-82a1/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "416 BARRETT",
+          "barrelLength": "29\" (737 mm)",
+          "weight": "32.7 lbs (14.8 kg)",
+          "twist": "1 : 12\" (305 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett Model 95 50 BMG",
+      "maker": "Barrett",
+      "model": "Model 95",
+      "cartridge": "50 BMG",
+      "barrel": {
+        "name": "Barrett Model 95 50 BMG",
+        "length": 0.737,
+        "twistLength": 0.381,
+        "gunMass": 10.659421,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/model-95/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "50 BMG",
+          "barrelLength": "29\" (737 mm)",
+          "weight": "23.5 lbs (10.7 kg)",
+          "twist": "1 : 15\" (381 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett Model 99 50 BMG (fluted)",
+      "maker": "Barrett",
+      "model": "Model 99",
+      "cartridge": "50 BMG",
+      "barrel": {
+        "name": "Barrett Model 99 50 BMG (fluted)",
+        "length": 0.737,
+        "twistLength": 0.381,
+        "gunMass": 10.4,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/model-99/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "50 BMG",
+          "barrelLength": "29\" (737 mm)",
+          "weight": "23 lbs (10.4 kg)",
+          "twist": "1 : 15\" (381 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett Model 99 50 BMG (heavy)",
+      "maker": "Barrett",
+      "model": "Model 99",
+      "cartridge": "50 BMG",
+      "barrel": {
+        "name": "Barrett Model 99 50 BMG (heavy)",
+        "length": 0.813,
+        "twistLength": 0.381,
+        "gunMass": 11.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/model-99/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "50 BMG",
+          "barrelLength": "32\" (813 mm)",
+          "weight": "25 lbs (11.3 kg)",
+          "twist": "1 : 15\" (381 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett Model 99 416 Barrett (heavy)",
+      "maker": "Barrett",
+      "model": "Model 99",
+      "cartridge": "416 Barrett",
+      "barrel": {
+        "name": "Barrett Model 99 416 Barrett (heavy)",
+        "length": 0.813,
+        "twistLength": 0.3048,
+        "gunMass": 11.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/model-99/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "416 Barrett",
+          "barrelLength": "32\" (813 mm)",
+          "weight": "25 lbs (11.3 kg)",
+          "twist": "1 : 12\" (305 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD 6.5 Creedmoor (fluted)",
+      "maker": "Barrett",
+      "model": "MRAD",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Barrett MRAD 6.5 Creedmoor (fluted)",
+        "length": 0.61,
+        "twistLength": 0.2032,
+        "gunMass": 6.032779,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-standard/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "24\" (610 mm)",
+          "weight": "13.3 lbs (6.0 kg)",
+          "twist": "1 : 8\" (200 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD 6.5 Creedmoor (heavy)",
+      "maker": "Barrett",
+      "model": "MRAD",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Barrett MRAD 6.5 Creedmoor (heavy)",
+        "length": 0.62,
+        "twistLength": 0.2032,
+        "gunMass": 6.023707,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-standard/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "24\" (620 mm)",
+          "weight": "13.28 lbs (6.02 kg)",
+          "twist": "1 : 8\" (203.2 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD 7mm PRC (fluted)",
+      "maker": "Barrett",
+      "model": "MRAD",
+      "cartridge": "7mm PRC",
+      "barrel": {
+        "name": "Barrett MRAD 7mm PRC (fluted)",
+        "length": 0.66,
+        "twistLength": 0.2032,
+        "gunMass": 6.577089,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-standard/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7mm PRC",
+          "barrelLength": "26\" (660 mm)",
+          "weight": "14.5 lbs (6.6 kg)",
+          "twist": "1 : 8\" (200 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD 300 Norma Magnum (fluted)",
+      "maker": "Barrett",
+      "model": "MRAD",
+      "cartridge": "300 Norma Magnum",
+      "barrel": {
+        "name": "Barrett MRAD 300 Norma Magnum (fluted)",
+        "length": 0.66,
+        "twistLength": 0.2032,
+        "gunMass": 6.577089,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-standard/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 Norma Magnum",
+          "barrelLength": "26\" (660 mm)",
+          "weight": "14.5 lbs (6.6 kg)",
+          "twist": "1 : 8\" (200 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD 300 Norma Magnum (heavy)",
+      "maker": "Barrett",
+      "model": "MRAD",
+      "cartridge": "300 Norma Magnum",
+      "barrel": {
+        "name": "Barrett MRAD 300 Norma Magnum (heavy)",
+        "length": 0.62,
+        "twistLength": 0.254,
+        "gunMass": 6.078138,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-standard/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 Norma Magnum",
+          "barrelLength": "24\" (620 mm)",
+          "weight": "13.4 lbs (6.1 kg)",
+          "twist": "1 : 10\" (254 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD 300 PRC (Carbon Fiber) (carbonfiber)",
+      "maker": "Barrett",
+      "model": "MRAD",
+      "cartridge": "300 PRC (Carbon Fiber)",
+      "barrel": {
+        "name": "Barrett MRAD 300 PRC (Carbon Fiber) (carbonfiber)",
+        "length": 0.66,
+        "twistLength": 0.2032,
+        "gunMass": 5.307031,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-standard/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 PRC (Carbon Fiber)",
+          "barrelLength": "26\" (660 mm)",
+          "weight": "11.7 lbs (5.3 kg)",
+          "twist": "1 : 8\" (203.2 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD 300 PRC (Carbon Fiber) (heavy)",
+      "maker": "Barrett",
+      "model": "MRAD",
+      "cartridge": "300 PRC (Carbon Fiber)",
+      "barrel": {
+        "name": "Barrett MRAD 300 PRC (Carbon Fiber) (heavy)",
+        "length": 0.66,
+        "twistLength": 0.2032,
+        "gunMass": 5.307031,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-standard/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 PRC (Carbon Fiber)",
+          "barrelLength": "26\" (660 mm)",
+          "weight": "11.7 lbs (5.3 kg)",
+          "twist": "1 : 8\" (203.2 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD 300 Winchester Magnum (fluted)",
+      "maker": "Barrett",
+      "model": "MRAD",
+      "cartridge": "300 Winchester Magnum",
+      "barrel": {
+        "name": "Barrett MRAD 300 Winchester Magnum (fluted)",
+        "length": 0.66,
+        "twistLength": 0.2032,
+        "gunMass": 6.577089,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-standard/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 Winchester Magnum",
+          "barrelLength": "26\" (660 mm)",
+          "weight": "14.5 lbs (6.6 kg)",
+          "twist": "1 : 8\" (200 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD 300 Winchester Magnum (heavy)",
+      "maker": "Barrett",
+      "model": "MRAD",
+      "cartridge": "300 Winchester Magnum",
+      "barrel": {
+        "name": "Barrett MRAD 300 Winchester Magnum (heavy)",
+        "length": 0.62,
+        "twistLength": 0.254,
+        "gunMass": 6.078138,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-standard/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 Winchester Magnum",
+          "barrelLength": "24\" (620 mm)",
+          "weight": "13.4 lbs (6.1 kg)",
+          "twist": "1 : 10\" (254 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD 308 Winchester (heavy)",
+      "maker": "Barrett",
+      "model": "MRAD",
+      "cartridge": "308 Winchester",
+      "barrel": {
+        "name": "Barrett MRAD 308 Winchester (heavy)",
+        "length": 0.43256,
+        "twistLength": 0.254,
+        "gunMass": 5.479396,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-standard/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "308 Winchester",
+          "barrelLength": "17\" (432.56 mm)",
+          "weight": "12.08 lbs (5.48 kg)",
+          "twist": "1 : 10\" (254 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD 338 Lapua Magnum (fluted)",
+      "maker": "Barrett",
+      "model": "MRAD",
+      "cartridge": "338 Lapua Magnum",
+      "barrel": {
+        "name": "Barrett MRAD 338 Lapua Magnum (fluted)",
+        "length": 0.66,
+        "twistLength": 0.23876,
+        "gunMass": 6.577089,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-standard/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "338 Lapua Magnum",
+          "barrelLength": "26\" (660 mm)",
+          "weight": "14.5 lbs (6.6 kg)",
+          "twist": "1 : 9.4\" (240 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD 338 Norma Magnum (fluted)",
+      "maker": "Barrett",
+      "model": "MRAD",
+      "cartridge": "338 Norma Magnum",
+      "barrel": {
+        "name": "Barrett MRAD 338 Norma Magnum (fluted)",
+        "length": 0.66,
+        "twistLength": 0.23876,
+        "gunMass": 6.577089,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-standard/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "338 Norma Magnum",
+          "barrelLength": "26\" (660 mm)",
+          "weight": "14.5 lbs (6.6 kg)",
+          "twist": "1 : 9.4\" (240 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD 338 Norma Magnum (heavy)",
+      "maker": "Barrett",
+      "model": "MRAD",
+      "cartridge": "338 Norma Magnum",
+      "barrel": {
+        "name": "Barrett MRAD 338 Norma Magnum (heavy)",
+        "length": 0.62,
+        "twistLength": 0.23876,
+        "gunMass": 6.304934,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-standard/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "338 Norma Magnum",
+          "barrelLength": "24\" (620 mm)",
+          "weight": "13.9 lbs (6.3 kg)",
+          "twist": "1 : 9.4\" (238.8 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD Covert 6.5 Creedmoor (fluted)",
+      "maker": "Barrett",
+      "model": "MRAD Covert",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Barrett MRAD Covert 6.5 Creedmoor (fluted)",
+        "length": 0.432,
+        "twistLength": 0.2032,
+        "gunMass": 5.397749,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-covert/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "17\" (432 mm)",
+          "weight": "11.9 lbs (5.4 kg)",
+          "twist": "1 : 8\" (200 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD Covert 6.5 Creedmoor (heavy)",
+      "maker": "Barrett",
+      "model": "MRAD Covert",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Barrett MRAD Covert 6.5 Creedmoor (heavy)",
+        "length": 0.62,
+        "twistLength": 0.2032,
+        "gunMass": 6.023707,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-covert/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "24\" (620 mm)",
+          "weight": "13.28 lbs (6.02 kg)",
+          "twist": "1 : 8\" (203.2 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD Covert 300 Norma Magnum (heavy)",
+      "maker": "Barrett",
+      "model": "MRAD Covert",
+      "cartridge": "300 Norma Magnum",
+      "barrel": {
+        "name": "Barrett MRAD Covert 300 Norma Magnum (heavy)",
+        "length": 0.62,
+        "twistLength": 0.254,
+        "gunMass": 6.078138,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-covert/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 Norma Magnum",
+          "barrelLength": "24\" (620 mm)",
+          "weight": "13.4 lbs (6.1 kg)",
+          "twist": "1 : 10\" (254 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD Covert 300 PRC (Carbon Fiber) (carbonfiber)",
+      "maker": "Barrett",
+      "model": "MRAD Covert",
+      "cartridge": "300 PRC (Carbon Fiber)",
+      "barrel": {
+        "name": "Barrett MRAD Covert 300 PRC (Carbon Fiber) (carbonfiber)",
+        "length": 0.66,
+        "twistLength": 0.2032,
+        "gunMass": 5.307031,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-covert/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 PRC (Carbon Fiber)",
+          "barrelLength": "26\" (660 mm)",
+          "weight": "11.7 lbs (5.3 kg)",
+          "twist": "1 : 8\" (203.2 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD Covert 300 PRC (Carbon Fiber) (heavy)",
+      "maker": "Barrett",
+      "model": "MRAD Covert",
+      "cartridge": "300 PRC (Carbon Fiber)",
+      "barrel": {
+        "name": "Barrett MRAD Covert 300 PRC (Carbon Fiber) (heavy)",
+        "length": 0.66,
+        "twistLength": 0.2032,
+        "gunMass": 5.307031,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-covert/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 PRC (Carbon Fiber)",
+          "barrelLength": "26\" (660 mm)",
+          "weight": "11.7 lbs (5.3 kg)",
+          "twist": "1 : 8\" (203.2 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD Covert 300 Winchester Magnum (heavy)",
+      "maker": "Barrett",
+      "model": "MRAD Covert",
+      "cartridge": "300 Winchester Magnum",
+      "barrel": {
+        "name": "Barrett MRAD Covert 300 Winchester Magnum (heavy)",
+        "length": 0.62,
+        "twistLength": 0.254,
+        "gunMass": 6.078138,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-covert/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 Winchester Magnum",
+          "barrelLength": "24\" (620 mm)",
+          "weight": "13.4 lbs (6.1 kg)",
+          "twist": "1 : 10\" (254 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD Covert 308 Winchester (fluted)",
+      "maker": "Barrett",
+      "model": "MRAD Covert",
+      "cartridge": "308 Winchester",
+      "barrel": {
+        "name": "Barrett MRAD Covert 308 Winchester (fluted)",
+        "length": 0.432,
+        "twistLength": 0.2032,
+        "gunMass": 5.397749,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-covert/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "308 Winchester",
+          "barrelLength": "17\" (432 mm)",
+          "weight": "11.9 lbs (5.4 kg)",
+          "twist": "1 : 8\" (200 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD Covert 308 Winchester (heavy)",
+      "maker": "Barrett",
+      "model": "MRAD Covert",
+      "cartridge": "308 Winchester",
+      "barrel": {
+        "name": "Barrett MRAD Covert 308 Winchester (heavy)",
+        "length": 0.43256,
+        "twistLength": 0.254,
+        "gunMass": 5.479396,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-covert/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "308 Winchester",
+          "barrelLength": "17\" (432.56 mm)",
+          "weight": "12.08 lbs (5.48 kg)",
+          "twist": "1 : 10\" (254 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD Covert 338 Norma Magnum (heavy)",
+      "maker": "Barrett",
+      "model": "MRAD Covert",
+      "cartridge": "338 Norma Magnum",
+      "barrel": {
+        "name": "Barrett MRAD Covert 338 Norma Magnum (heavy)",
+        "length": 0.62,
+        "twistLength": 0.23876,
+        "gunMass": 6.304934,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-covert/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "338 Norma Magnum",
+          "barrelLength": "24\" (620 mm)",
+          "weight": "13.9 lbs (6.3 kg)",
+          "twist": "1 : 9.4\" (238.8 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD SMR 6.5 Creedmoor",
+      "maker": "Barrett",
+      "model": "MRAD SMR",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Barrett MRAD SMR 6.5 Creedmoor",
+        "length": 0.61,
+        "twistLength": 0.2032,
+        "gunMass": 5.443108,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-smr/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "24\" (610 mm)",
+          "weight": "12.0 lbs (5.4 kg)",
+          "twist": "1 : 8\" (200 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD SMR 300 Norma Magnum",
+      "maker": "Barrett",
+      "model": "MRAD SMR",
+      "cartridge": "300 Norma Magnum",
+      "barrel": {
+        "name": "Barrett MRAD SMR 300 Norma Magnum",
+        "length": 0.66,
+        "twistLength": 0.2032,
+        "gunMass": 5.579186,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-smr/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 Norma Magnum",
+          "barrelLength": "26\" (660 mm)",
+          "weight": "12.3 lbs (5.6 kg)",
+          "twist": "1 : 8\" (200 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD SMR 300 PRC",
+      "maker": "Barrett",
+      "model": "MRAD SMR",
+      "cartridge": "300 PRC",
+      "barrel": {
+        "name": "Barrett MRAD SMR 300 PRC",
+        "length": 0.66,
+        "twistLength": 0.2032,
+        "gunMass": 5.579186,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-smr/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 PRC",
+          "barrelLength": "26\" (660 mm)",
+          "weight": "12.3 lbs (5.6 kg)",
+          "twist": "1 : 8\" (200 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD SMR 300 Winchester Magnum",
+      "maker": "Barrett",
+      "model": "MRAD SMR",
+      "cartridge": "300 Winchester Magnum",
+      "barrel": {
+        "name": "Barrett MRAD SMR 300 Winchester Magnum",
+        "length": 0.66,
+        "twistLength": 0.2032,
+        "gunMass": 5.579186,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-smr/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 Winchester Magnum",
+          "barrelLength": "26\" (660 mm)",
+          "weight": "12.3 lbs (5.6 kg)",
+          "twist": "1 : 8\" (200 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD SMR 338 Lapua Magnum",
+      "maker": "Barrett",
+      "model": "MRAD SMR",
+      "cartridge": "338 Lapua Magnum",
+      "barrel": {
+        "name": "Barrett MRAD SMR 338 Lapua Magnum",
+        "length": 0.66,
+        "twistLength": 0.23876,
+        "gunMass": 5.579186,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-smr/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "338 Lapua Magnum",
+          "barrelLength": "26\" (660 mm)",
+          "weight": "12.3 lbs (5.6 kg)",
+          "twist": "1 : 9.4\" (240 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRAD SMR 338 Norma Magnum",
+      "maker": "Barrett",
+      "model": "MRAD SMR",
+      "cartridge": "338 Norma Magnum",
+      "barrel": {
+        "name": "Barrett MRAD SMR 338 Norma Magnum",
+        "length": 0.66,
+        "twistLength": 0.23876,
+        "gunMass": 5.579186,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mrad-smr/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "338 Norma Magnum",
+          "barrelLength": "26\" (660 mm)",
+          "weight": "12.3 lbs (5.6 kg)",
+          "twist": "1 : 9.4\" (240 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett MRADELR 416 Barrett",
+      "maker": "Barrett",
+      "model": "MRADELR",
+      "cartridge": "416 Barrett",
+      "barrel": {
+        "name": "Barrett MRADELR 416 Barrett",
+        "length": 0.914,
+        "twistLength": 0.3048,
+        "gunMass": 10.432625,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/mradelr/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "416 Barrett",
+          "barrelLength": "36\" (914 mm)",
+          "weight": "23.0 lbs (10.4 kg)",
+          "twist": "1 : 12\" (229 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett REC7 DI 5.56 x 45 NATO (carbine)",
+      "maker": "Barrett",
+      "model": "REC7 DI",
+      "cartridge": "5.56 x 45 NATO",
+      "barrel": {
+        "name": "Barrett REC7 DI 5.56 x 45 NATO (carbine)",
+        "length": 0.406,
+        "twistLength": 0.1778,
+        "gunMass": 2.99371,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/rec7-di/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56 x 45 NATO",
+          "barrelLength": "16\" (406 mm)",
+          "weight": "6.6 lbs (3.0 kg)",
+          "twist": "1 : 7\" (178 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett REC7 DI 5.56 x 45 NATO (dmr)",
+      "maker": "Barrett",
+      "model": "REC7 DI",
+      "cartridge": "5.56 x 45 NATO",
+      "barrel": {
+        "name": "Barrett REC7 DI 5.56 x 45 NATO (dmr)",
+        "length": 0.457,
+        "twistLength": 0.19558,
+        "gunMass": 3.58338,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/rec7-di/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56 x 45 NATO",
+          "barrelLength": "18\" (457 mm)",
+          "weight": "7.9 lbs (3.6 kg)",
+          "twist": "1 : 7.7\" (196 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett REC7 DI 5.56 x 45 NATO (pistol)",
+      "maker": "Barrett",
+      "model": "REC7 DI",
+      "cartridge": "5.56 x 45 NATO",
+      "barrel": {
+        "name": "Barrett REC7 DI 5.56 x 45 NATO (pistol)",
+        "length": 0.26035,
+        "twistLength": 0.1778,
+        "gunMass": 2.494758,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/rec7-di/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56 x 45 NATO",
+          "barrelLength": "10.25\" (260 mm)",
+          "weight": "5.5 lbs. (2.5 kg)",
+          "twist": "1 : 7\" (178 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett REC10 6.5 Creed (LR)",
+      "maker": "Barrett",
+      "model": "REC10",
+      "cartridge": "6.5 Creed",
+      "barrel": {
+        "name": "Barrett REC10 6.5 Creed (LR)",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gunMass": 4.808079,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/rec10/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6.5 Creed",
+          "barrelLength": "20\" (508 mm)",
+          "weight": "10.6 lbs (4.8 kg)",
+          "twist": "1 : 8\" (203 mm)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Barrett REC10 308 WIN (DMR)",
+      "maker": "Barrett",
+      "model": "REC10",
+      "cartridge": "308 WIN",
+      "barrel": {
+        "name": "Barrett REC10 308 WIN (DMR)",
+        "length": 0.406,
+        "twistLength": 0.254,
+        "gunMass": 4.082331,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Barrett Firearms Manufacturing, Inc.",
+        "url": "https://barrett.net/products/firearms/rec10/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "308 WIN",
+          "barrelLength": "16\" (406 mm)",
+          "weight": "9.0 lbs (4.1 kg)",
+          "twist": "1 : 10\" (254 mm)"
+        }
+      }
+    }
+  ]
+}

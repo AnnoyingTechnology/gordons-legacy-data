@@ -1,0 +1,1156 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by Kel-Tec CNC Industries, Inc.; facts, released in this repository under CC0",
+    "source": "https://www.keltecweapons.com",
+    "file": "",
+    "author": "Kel-Tec CNC Industries, Inc.",
+    "date": "2026-10-16",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec KP50 Braced Pistol",
+      "maker": "Kel-Tec",
+      "model": "KP50 Braced Pistol",
+      "cartridge": "5.7x28mm",
+      "barrel": {
+        "name": "Kel-Tec KP50 Braced Pistol",
+        "length": 0.244,
+        "gunMass": 1.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/pistols/kp50/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.7x28mm",
+          "barrelLength": "9.6\" | 244 mm",
+          "weight": "4 lbs | 1.8 kg",
+          "twist": "1:7 | 1:356 mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec KP50 Defender",
+      "maker": "Kel-Tec",
+      "model": "KP50 Defender",
+      "cartridge": "5.7x28mm",
+      "barrel": {
+        "name": "Kel-Tec KP50 Defender",
+        "length": 0.244,
+        "gunMass": 1.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/pistols/kp50/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.7x28mm",
+          "barrelLength": "9.6\" | 244 mm",
+          "weight": "4 lbs | 1.8 kg",
+          "twist": "1:7 | 1:356 mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec KP50 Pistol",
+      "maker": "Kel-Tec",
+      "model": "KP50 Pistol",
+      "cartridge": "5.7x28mm",
+      "barrel": {
+        "name": "Kel-Tec KP50 Pistol",
+        "length": 0.244,
+        "gunMass": 1.45,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/pistols/kp50/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.7x28mm",
+          "barrelLength": "9.6\" | 244 mm",
+          "weight": "3.2 lbs | 1.45 kg",
+          "twist": "1:7 | 1:356 mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec KP50 SBR",
+      "maker": "Kel-Tec",
+      "model": "KP50 SBR",
+      "cartridge": "5.7x28mm",
+      "barrel": {
+        "name": "Kel-Tec KP50 SBR",
+        "length": 0.244,
+        "gunMass": 1.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/pistols/kp50/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.7x28mm",
+          "barrelLength": "9.6\" | 244 mm",
+          "weight": "4 lbs | 1.8 kg",
+          "twist": "1:7 | 1:356 mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec MP50",
+      "maker": "Kel-Tec",
+      "model": "MP50",
+      "cartridge": "5.7x28mm",
+      "barrel": {
+        "name": "Kel-Tec MP50",
+        "length": 0.244,
+        "gunMass": 1.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/pistols/kp50/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.7x28mm",
+          "barrelLength": "9.6\" | 244 mm",
+          "weight": "4 lbs | 1.8 kg",
+          "twist": "1:7 | 1:356 mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec P15",
+      "maker": "Kel-Tec",
+      "model": "P15",
+      "cartridge": "9mm Luger",
+      "barrel": {
+        "name": "Kel-Tec P15",
+        "length": 0.1016,
+        "gunMass": 0.459,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/pistols/p15/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm Luger",
+          "barrelLength": "4 in | 101.6 mm",
+          "weight": "16.2 oz | 459 g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec P15 Compliant",
+      "maker": "Kel-Tec",
+      "model": "P15 Compliant",
+      "cartridge": "9 x 19 mm Luger",
+      "barrel": {
+        "name": "Kel-Tec P15 Compliant",
+        "length": 0.1016,
+        "gunMass": 0.465,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/pistols/p15/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9 x 19 mm Luger",
+          "barrelLength": "4 in | 101.6 mm",
+          "weight": "16.4 oz | 465 g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec P15 Metal",
+      "maker": "Kel-Tec",
+      "model": "P15 Metal",
+      "cartridge": "9mm Luger",
+      "barrel": {
+        "name": "Kel-Tec P15 Metal",
+        "length": 0.102,
+        "twistLength": 0.254,
+        "gunMass": 0.544,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/pistols/p15/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm Luger",
+          "barrelLength": "4 in | 102 mm",
+          "weight": "19.2 oz | 544 g",
+          "twist": "1:10 in | 1.254 mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec P32",
+      "maker": "Kel-Tec",
+      "model": "P32",
+      "cartridge": ".32 ACP",
+      "barrel": {
+        "name": "Kel-Tec P32",
+        "length": 0.068,
+        "gunMass": 0.198,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/pistols/p32/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".32 ACP",
+          "barrelLength": "2.7\" | 68 mm",
+          "weight": "6.9 oz | 198 g"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec PLR16",
+      "maker": "Kel-Tec",
+      "model": "PLR16",
+      "cartridge": ".223Rem",
+      "barrel": {
+        "name": "Kel-Tec PLR16",
+        "length": 0.234,
+        "gunMass": 1.55,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/pistols/plr16/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".223Rem",
+          "barrelLength": "9.2\" | 234mm",
+          "weight": "3.4lbs | 1.55kg"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec PR-3AT – Black",
+      "maker": "Kel-Tec",
+      "model": "PR-3AT – Black",
+      "cartridge": ".380 Auto",
+      "barrel": {
+        "name": "Kel-Tec PR-3AT – Black",
+        "length": 0.0725,
+        "twistLength": 0.254,
+        "gunMass": 0.2739,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/pistols/pr-3at/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".380 Auto",
+          "barrelLength": "2.85 in | 72.5 mm",
+          "weight": "9.66 oz | 273.9 g",
+          "twist": "1:10 in | 1:254 mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec PR-3AT – Green",
+      "maker": "Kel-Tec",
+      "model": "PR-3AT – Green",
+      "cartridge": ".380 Auto",
+      "barrel": {
+        "name": "Kel-Tec PR-3AT – Green",
+        "length": 0.0725,
+        "twistLength": 0.254,
+        "gunMass": 0.2739,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/pistols/pr-3at/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".380 Auto",
+          "barrelLength": "2.85 in | 72.5 mm",
+          "weight": "9.66 oz | 273.9 g",
+          "twist": "1:10 in | 1:254 mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec PR-3AT – Tan",
+      "maker": "Kel-Tec",
+      "model": "PR-3AT – Tan",
+      "cartridge": ".380 Auto",
+      "barrel": {
+        "name": "Kel-Tec PR-3AT – Tan",
+        "length": 0.0725,
+        "twistLength": 0.254,
+        "gunMass": 0.2739,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/pistols/pr-3at/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".380 Auto",
+          "barrelLength": "2.85 in | 72.5 mm",
+          "weight": "9.66 oz | 273.9 g",
+          "twist": "1:10 in | 1:254 mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec PR-3AT 10 – Black",
+      "maker": "Kel-Tec",
+      "model": "PR-3AT 10 – Black",
+      "cartridge": ".380 Auto",
+      "barrel": {
+        "name": "Kel-Tec PR-3AT 10 – Black",
+        "length": 0.0725,
+        "twistLength": 0.254,
+        "gunMass": 0.2659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/pistols/pr-3at/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".380 Auto",
+          "barrelLength": "2.85 in | 72.5 mm",
+          "weight": "9.38 oz | 265.9g",
+          "twist": "1:10 in | 1:254 mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec PR-3AT 10 – Green",
+      "maker": "Kel-Tec",
+      "model": "PR-3AT 10 – Green",
+      "cartridge": ".380 Auto",
+      "barrel": {
+        "name": "Kel-Tec PR-3AT 10 – Green",
+        "length": 0.0725,
+        "twistLength": 0.254,
+        "gunMass": 0.2659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/pistols/pr-3at/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".380 Auto",
+          "barrelLength": "2.85 in | 72.5 mm",
+          "weight": "9.38 oz | 265.9g",
+          "twist": "1:10 in | 1:254 mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec PR-3AT 10 – Tan",
+      "maker": "Kel-Tec",
+      "model": "PR-3AT 10 – Tan",
+      "cartridge": ".380 Auto",
+      "barrel": {
+        "name": "Kel-Tec PR-3AT 10 – Tan",
+        "length": 0.0725,
+        "twistLength": 0.254,
+        "gunMass": 0.2659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/pistols/pr-3at/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".380 Auto",
+          "barrelLength": "2.85 in | 72.5 mm",
+          "weight": "9.38 oz | 265.9g",
+          "twist": "1:10 in | 1:254 mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec PR-3AT Defender – Black",
+      "maker": "Kel-Tec",
+      "model": "PR-3AT Defender – Black",
+      "cartridge": ".380 Auto",
+      "barrel": {
+        "name": "Kel-Tec PR-3AT Defender – Black",
+        "length": 0.0725,
+        "twistLength": 0.254,
+        "gunMass": 0.3017,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/pistols/pr-3at/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".380 Auto",
+          "barrelLength": "2.85 in | 72.5 mm",
+          "weight": "10.64 oz | 301.7 g",
+          "twist": "1:10 in | 1:254 mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec PR-3AT Defender – Green",
+      "maker": "Kel-Tec",
+      "model": "PR-3AT Defender – Green",
+      "cartridge": ".380 Auto",
+      "barrel": {
+        "name": "Kel-Tec PR-3AT Defender – Green",
+        "length": 0.0725,
+        "twistLength": 0.254,
+        "gunMass": 0.3017,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/pistols/pr-3at/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".380 Auto",
+          "barrelLength": "2.85 in | 72.5 mm",
+          "weight": "10.64 oz | 301.7 g",
+          "twist": "1:10 in | 1:254 mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec PR-3AT Defender – Tan",
+      "maker": "Kel-Tec",
+      "model": "PR-3AT Defender – Tan",
+      "cartridge": ".380 Auto",
+      "barrel": {
+        "name": "Kel-Tec PR-3AT Defender – Tan",
+        "length": 0.0725,
+        "twistLength": 0.254,
+        "gunMass": 0.3017,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/pistols/pr-3at/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".380 Auto",
+          "barrelLength": "2.85 in | 72.5 mm",
+          "weight": "10.64 oz | 301.7 g",
+          "twist": "1:10 in | 1:254 mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec PR-5.7",
+      "maker": "Kel-Tec",
+      "model": "PR-5.7",
+      "cartridge": "5.7 x 28 mm",
+      "barrel": {
+        "name": "Kel-Tec PR-5.7",
+        "length": 0.1018,
+        "gunMass": 0.392924,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/pistols/keltec-pr-5-7/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.7 x 28 mm",
+          "barrelLength": "4.00 in | 101.8 mm",
+          "weight": "13.86 oz | 393 g",
+          "twist": "1:7 in | 1:177 mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec PR-5.7 Defender",
+      "maker": "Kel-Tec",
+      "model": "PR-5.7 Defender",
+      "cartridge": "5.7 x 28 mm",
+      "barrel": {
+        "name": "Kel-Tec PR-5.7 Defender",
+        "length": 0.1018,
+        "gunMass": 0.392924,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/pistols/keltec-pr-5-7/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.7 x 28 mm",
+          "barrelLength": "4.00 in | 101.8 mm",
+          "weight": "13.86 oz | 393 g",
+          "twist": "1:7 in | 1:177 mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec R50",
+      "maker": "Kel-Tec",
+      "model": "R50",
+      "cartridge": "5.7 x 28mm",
+      "barrel": {
+        "name": "Kel-Tec R50",
+        "length": 0.409,
+        "gunMass": 1.578501,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/hidden/r50-defender/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.7 x 28mm",
+          "barrelLength": "16.1\" | 409mm",
+          "weight": "3.48lbs | 1.5kg",
+          "twist": "1:7\" | 1:178mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec R50 Defender",
+      "maker": "Kel-Tec",
+      "model": "R50 Defender",
+      "cartridge": "5.7 x 28mm",
+      "barrel": {
+        "name": "Kel-Tec R50 Defender",
+        "length": 0.244,
+        "gunMass": 1.95,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/hidden/r50-defender/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.7 x 28mm",
+          "barrelLength": "9.6\" | 244mm",
+          "weight": "4.3lbs | 1.95kg",
+          "twist": "1:7\" | 1:178mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec RDB Defender",
+      "maker": "Kel-Tec",
+      "model": "RDB Defender",
+      "cartridge": ".223Rem",
+      "barrel": {
+        "name": "Kel-Tec RDB Defender",
+        "length": 0.409,
+        "gunMass": 3.039069,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/rifles/rdb/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".223Rem",
+          "barrelLength": "16.1\" | 409mm",
+          "weight": "6.7lbs | 3kg",
+          "twist": "1:7in | 1:178mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec RDB Hunter",
+      "maker": "Kel-Tec",
+      "model": "RDB Hunter",
+      "cartridge": ".223Rem",
+      "barrel": {
+        "name": "Kel-Tec RDB Hunter",
+        "length": 0.5207,
+        "gunMass": 3.129787,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/rifles/rdb/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".223Rem",
+          "barrelLength": "20.5\" | 520.7mm",
+          "weight": "6.9lbs | 3.1kg",
+          "twist": "1:7\" | 1:177mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec RDB Survival",
+      "maker": "Kel-Tec",
+      "model": "RDB Survival",
+      "cartridge": ".223Rem",
+      "barrel": {
+        "name": "Kel-Tec RDB Survival",
+        "length": 0.409,
+        "gunMass": 2.67,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/rifles/rdb/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".223Rem",
+          "barrelLength": "16.1\" | 409mm",
+          "weight": "5lbs 14oz | 2.67kg",
+          "twist": "1:7\" | 1:178mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec RDB17",
+      "maker": "Kel-Tec",
+      "model": "RDB17",
+      "cartridge": ".223Rem",
+      "barrel": {
+        "name": "Kel-Tec RDB17",
+        "length": 0.439,
+        "gunMass": 3.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/rifles/rdb/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".223Rem",
+          "barrelLength": "17.3\" | 439mm",
+          "weight": "7lbs | 3.2kg",
+          "twist": "1:7\" | 1:178mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec RFB",
+      "maker": "Kel-Tec",
+      "model": "RFB",
+      "cartridge": ".308Win",
+      "barrel": {
+        "name": "Kel-Tec RFB",
+        "length": 0.47,
+        "gunMass": 3.946254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/rifles/rfb/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".308Win",
+          "barrelLength": "18.5\" | 470mm",
+          "weight": "8.7lbs | 3.9kg",
+          "twist": "1:11.25\" | 1:286mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec RFB Hunter",
+      "maker": "Kel-Tec",
+      "model": "RFB Hunter",
+      "cartridge": ".308Win",
+      "barrel": {
+        "name": "Kel-Tec RFB Hunter",
+        "length": 0.61,
+        "gunMass": 4.127691,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/rifles/rfb/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".308Win",
+          "barrelLength": "24\" | 610mm",
+          "weight": "9.1lbs | 4.1kg",
+          "twist": "1:11.25\" | 1:286mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec SU16A",
+      "maker": "Kel-Tec",
+      "model": "SU16A",
+      "cartridge": ".223Rem",
+      "barrel": {
+        "name": "Kel-Tec SU16A",
+        "length": 0.47,
+        "gunMass": 2.3,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/rifles/su16/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".223Rem",
+          "barrelLength": "18.5\" | 470mm",
+          "weight": "5lbs | 2.3kg",
+          "twist": "1:7\" | 1:178mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec SU16B",
+      "maker": "Kel-Tec",
+      "model": "SU16B",
+      "cartridge": ".223Rem",
+      "barrel": {
+        "name": "Kel-Tec SU16B",
+        "length": 0.408,
+        "gunMass": 2.041166,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/rifles/su16/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".223Rem",
+          "barrelLength": "16\" | 408mm",
+          "weight": "4.5lbs | 2kg",
+          "twist": "1:7\" | 1:178mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec SU16C",
+      "maker": "Kel-Tec",
+      "model": "SU16C",
+      "cartridge": ".223Rem",
+      "barrel": {
+        "name": "Kel-Tec SU16C",
+        "length": 0.408,
+        "gunMass": 2.131884,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/rifles/su16/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".223Rem",
+          "barrelLength": "16\" | 408mm",
+          "weight": "4.7lbs | 2.1kg",
+          "twist": "1:7\" | 1:178mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec SU16CA",
+      "maker": "Kel-Tec",
+      "model": "SU16CA",
+      "cartridge": ".223Rem",
+      "barrel": {
+        "name": "Kel-Tec SU16CA",
+        "length": 0.408,
+        "gunMass": 2.131884,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/rifles/su16/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".223Rem",
+          "barrelLength": "16\" | 408mm",
+          "weight": "4.7lbs | 2.1kg",
+          "twist": "1:7\" | 1:178mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec SU16D9",
+      "maker": "Kel-Tec",
+      "model": "SU16D9",
+      "cartridge": ".223Rem",
+      "barrel": {
+        "name": "Kel-Tec SU16D9",
+        "length": 0.228,
+        "gunMass": 2.041166,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/rifles/su16/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".223Rem",
+          "barrelLength": "9\" | 228mm",
+          "weight": "4.5lbs | 2kg",
+          "twist": "1:7\" | 1:178mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec SU16D12",
+      "maker": "Kel-Tec",
+      "model": "SU16D12",
+      "cartridge": ".223 Rem",
+      "barrel": {
+        "name": "Kel-Tec SU16D12",
+        "length": 0.4064,
+        "twistLength": 0.2286,
+        "gunMass": 2.041166,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/rifles/su16/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".223 Rem",
+          "barrelLength": "12\" | 406.4mm",
+          "weight": "4.5lbs. | 2.0kg",
+          "twist": "1:9\" | 1:228.6mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec SU16E",
+      "maker": "Kel-Tec",
+      "model": "SU16E",
+      "cartridge": ".223 Rem",
+      "barrel": {
+        "name": "Kel-Tec SU16E",
+        "length": 0.408,
+        "gunMass": 2.131884,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/rifles/su16/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".223 Rem",
+          "barrelLength": "16\" | 408mm",
+          "weight": "4.7lbs | 2.1kg",
+          "twist": "1:7\" | 1:178mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec SUB-SDP Defender",
+      "maker": "Kel-Tec",
+      "model": "SUB-SDP Defender",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Kel-Tec SUB-SDP Defender",
+        "length": 0.153,
+        "gunMass": 1.909624,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/pistols/sub-sdp/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "6\" | 153mm",
+          "weight": "4.21lb | 1.91kg"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec SUB-SDP Pistol",
+      "maker": "Kel-Tec",
+      "model": "SUB-SDP Pistol",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Kel-Tec SUB-SDP Pistol",
+        "length": 0.153,
+        "gunMass": 1.619325,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/pistols/sub-sdp/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "6\" | 153mm",
+          "weight": "3.57lb | 1.62kg"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec SUB2000 5.7x28mm",
+      "maker": "Kel-Tec",
+      "model": "SUB2000 5.7x28mm",
+      "cartridge": "5.7x28 mm",
+      "barrel": {
+        "name": "Kel-Tec SUB2000 5.7x28mm",
+        "length": 0.41021,
+        "twistLength": 0.1778,
+        "gunMass": 1.9,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/hidden/sub2000-57/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.7x28 mm",
+          "barrelLength": "16.15\" | 410 mm",
+          "weight": "4.36 | 1.9 kg",
+          "twist": "1:7\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec SUB2000 FN 5.7x28 mm",
+      "maker": "Kel-Tec",
+      "model": "SUB2000 FN 5.7x28 mm",
+      "cartridge": "5.7x28 mm",
+      "barrel": {
+        "name": "Kel-Tec SUB2000 FN 5.7x28 mm",
+        "length": 0.41021,
+        "twistLength": 0.1778,
+        "gunMass": 1.977663,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/rifles/sub2000-series/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.7x28 mm",
+          "barrelLength": "16.15 in | 410 mm",
+          "weight": "4.36 lb | 1.9 kg",
+          "twist": "1:7\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec SUB2000 GLK 9x19mm",
+      "maker": "Kel-Tec",
+      "model": "SUB2000 GLK 9x19mm",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Kel-Tec SUB2000 GLK 9x19mm",
+        "length": 0.41021,
+        "gunMass": 1.905088,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/rifles/sub2000-series/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9x19 mm",
+          "barrelLength": "16.15\" | 410.21 mm",
+          "weight": "4.2 lbs | 1.9 kg",
+          "twist": "1:14\" | 1:254 mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Kel-Tec SUB2000 GLK 10mm",
+      "maker": "Kel-Tec",
+      "model": "SUB2000 GLK 10mm",
+      "cartridge": "10 mm Auto",
+      "barrel": {
+        "name": "Kel-Tec SUB2000 GLK 10mm",
+        "length": 0.41021,
+        "gunMass": 2.54,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Kel-Tec CNC Industries, Inc.",
+        "url": "https://www.keltecweapons.com/firearm/rifles/sub2000-series/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "10 mm Auto",
+          "barrelLength": "16.15\" | 410.21 mm",
+          "weight": "5.6 lbs | 2.54 kg"
+        }
+      }
+    }
+  ]
+}

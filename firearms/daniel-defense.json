@@ -1,0 +1,1091 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by Daniel Defense, LLC; facts, released in this repository under CC0",
+    "source": "https://danieldefense.com",
+    "file": "",
+    "author": "Daniel Defense, LLC",
+    "date": "2026-11-02",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense AR-10, DD5 V3, 7.62",
+      "maker": "Daniel Defense",
+      "cartridge": "7.62 x 51mm / .308 Winchester",
+      "barrel": {
+        "name": "Daniel Defense AR-10, DD5 V3, 7.62",
+        "length": 0.4064,
+        "gunMass": 3.764817,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/dd5-v3-762x51mm.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62 x 51mm / .308 Winchester",
+          "barrelLength": "16\"",
+          "weight": "8.3 LBS"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense AR-10, DD5 V4, 6.5 Creedmoor",
+      "maker": "Daniel Defense",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Daniel Defense AR-10, DD5 V4, 6.5 Creedmoor",
+        "length": 0.4572,
+        "gunMass": 3.900894,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/dd5-v4-65creedmoor.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "18\"",
+          "weight": "8.6 LBS"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense AR-10, DD5 V4, 7.62",
+      "maker": "Daniel Defense",
+      "cartridge": "7.62 x 51mm / .308 Winchester",
+      "barrel": {
+        "name": "Daniel Defense AR-10, DD5 V4, 7.62",
+        "length": 0.4572,
+        "gunMass": 3.900894,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/dd5-v4-762x51mm.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62 x 51mm / .308 Winchester",
+          "barrelLength": "18\"",
+          "weight": "8.6 LBS"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense AR-10, DD5 V5, .260",
+      "maker": "Daniel Defense",
+      "cartridge": ".260 Rem",
+      "barrel": {
+        "name": "Daniel Defense AR-10, DD5 V5, .260",
+        "length": 0.508,
+        "gunMass": 4.036972,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/dd5-v5-260.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".260 Rem",
+          "barrelLength": "20\"",
+          "weight": "8.9 LBS"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense AR-10, DD5 V5, 6.5 Creedmoor",
+      "maker": "Daniel Defense",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Daniel Defense AR-10, DD5 V5, 6.5 Creedmoor",
+        "length": 0.508,
+        "gunMass": 4.036972,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/dd5-v5-65creedmoor.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "20\"",
+          "weight": "8.9 LBS"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense Bolt Action Rifle Accuracy Package | 6.5 Creedmoor",
+      "maker": "Daniel Defense",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Daniel Defense Bolt Action Rifle Accuracy Package | 6.5 Creedmoor",
+        "length": 0.6096,
+        "gunMass": 5.370534,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/delta5-boltactionrifle-65creedmoor-accuracypackage.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "24\"",
+          "weight": "11.84 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense Bolt Action Rifle, DELTA 5, 6.5 Creedmoor",
+      "maker": "Daniel Defense",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Daniel Defense Bolt Action Rifle, DELTA 5, 6.5 Creedmoor",
+        "length": 0.6096,
+        "gunMass": 4.309128,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/delta5-boltactionrifle-65creedmoor.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "24\"",
+          "weight": "9.5 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense Bolt Action Rifle, DELTA 5, 308",
+      "maker": "Daniel Defense",
+      "cartridge": "7.62 x 51mm / .308 Winchester",
+      "barrel": {
+        "name": "Daniel Defense Bolt Action Rifle, DELTA 5, 308",
+        "length": 0.508,
+        "gunMass": 4.036972,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/delta5-boltactionrifle-308.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62 x 51mm / .308 Winchester",
+          "barrelLength": "20\"",
+          "weight": "8.9 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense DDM4 PDW SBR AR-15 Rifle, .300 Blackout, 10.3\" Barrel",
+      "maker": "Daniel Defense",
+      "cartridge": "300 BLK",
+      "barrel": {
+        "name": "Daniel Defense DDM4 PDW SBR AR-15 Rifle, .300 Blackout, 10.3\" Barrel",
+        "length": 0.1778,
+        "twistLength": 0.1778,
+        "gunMass": 2.585477,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/ddm4-pdw-sbr.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 BLK",
+          "barrelLength": "7\"",
+          "weight": "5.7 lbs",
+          "twist": "1:7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense DDM4 V7P | AR-15 Pistol | Law Tactical | 300 Blackout",
+      "maker": "Daniel Defense",
+      "cartridge": "300 BLK",
+      "barrel": {
+        "name": "Daniel Defense DDM4 V7P | AR-15 Pistol | Law Tactical | 300 Blackout",
+        "length": 0.26162,
+        "twistLength": 0.2032,
+        "gunMass": 2.785057,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/ddm4-v7p-lawtactical-300blackout.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 BLK",
+          "barrelLength": "10.3\"",
+          "weight": "6.14 LBS",
+          "twist": "1:8 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense DDM4 V7P | AR-15 Style Pistol | Law Tactical | 5.56",
+      "maker": "Daniel Defense",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Daniel Defense DDM4 V7P | AR-15 Style Pistol | Law Tactical | 5.56",
+        "length": 0.26162,
+        "twistLength": 0.1778,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/ddm4-v7p-lawtactical.html",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "10.3\"",
+          "weight": "6.17",
+          "twist": "1:7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense DDM4 V11 AR-15 Rifle, 5.56 NATO, 16\" Barrel",
+      "maker": "Daniel Defense",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Daniel Defense DDM4 V11 AR-15 Rifle, 5.56 NATO, 16\" Barrel",
+        "length": 0.4064,
+        "twistLength": 0.1778,
+        "gunMass": 2.84856,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/ddm4-v11.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "16\"",
+          "weight": "6.28 lbs",
+          "twist": "1:7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense DELTA 5 PRO, 20\", .308, HPALMA",
+      "maker": "Daniel Defense",
+      "cartridge": "7.62 x 51mm / .308 Winchester",
+      "barrel": {
+        "name": "Daniel Defense DELTA 5 PRO, 20\", .308, HPALMA",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gunMass": 4.898798,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/delta5pro-20inch-308-hpalma.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62 x 51mm / .308 Winchester",
+          "barrelLength": "20\"",
+          "weight": "10.8 lbs",
+          "twist": "1:10\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense DELTA 5 PRO, 24\", 6.5 Creedmoor, HPALMA",
+      "maker": "Daniel Defense",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Daniel Defense DELTA 5 PRO, 24\", 6.5 Creedmoor, HPALMA",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gunMass": 5.170953,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/delta5pro-24inch-65creedmoor.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "24\"",
+          "weight": "11.4 lbs",
+          "twist": "1:8\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense DELTA 5 PRO, 26\", 6.5 Creedmoor, Varmint",
+      "maker": "Daniel Defense",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Daniel Defense DELTA 5 PRO, 26\", 6.5 Creedmoor, Varmint",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gunMass": 5.987419,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/delta5pro-26inch-65creedmoor-varmint.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6.5 Creedmoor",
+          "barrelLength": "26\"",
+          "weight": "13.2 lbs",
+          "twist": "1:8\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense DELTA 5 PRO, 26\", 6mm Creedmoor, Varmint",
+      "maker": "Daniel Defense",
+      "cartridge": "6mm Creedmoor",
+      "barrel": {
+        "name": "Daniel Defense DELTA 5 PRO, 26\", 6mm Creedmoor, Varmint",
+        "length": 0.6604,
+        "twistLength": 0.1905,
+        "gunMass": 6.032779,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/delta5pro-26inch-6mmcreedmoor-varmint.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6mm Creedmoor",
+          "barrelLength": "26\"",
+          "weight": "13.3 lbs",
+          "twist": "1:7.5\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense M4, Carbine, 300 S, 5.56",
+      "maker": "Daniel Defense",
+      "cartridge": "300 BLK",
+      "barrel": {
+        "name": "Daniel Defense M4, Carbine, 300 S, 5.56",
+        "length": 0.26162,
+        "twistLength": 0.2032,
+        "gunMass": 2.617228,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/ddm4-300s.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 BLK",
+          "barrelLength": "10.3\"",
+          "weight": "5.77 lbs",
+          "twist": "1:8 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense M4, Carbine, AR15, V1, 5.56",
+      "maker": "Daniel Defense",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Daniel Defense M4, Carbine, AR15, V1, 5.56",
+        "length": 0.4064,
+        "twistLength": 0.1778,
+        "gunMass": 3.039069,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/ddm4-v1.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "16\"",
+          "weight": "6.70 lbs",
+          "twist": "1:7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense M4, Carbine, AR15, V9, 5.56",
+      "maker": "Daniel Defense",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Daniel Defense M4, Carbine, AR15, V9, 5.56",
+        "length": 0.4064,
+        "twistLength": 0.1778,
+        "gunMass": 2.989174,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/ddm4-v9.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "16\"",
+          "weight": "6.59 lbs",
+          "twist": "1:7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense M4, Carbine, Hunter 6.8, Kryptek Highlander",
+      "maker": "Daniel Defense",
+      "cartridge": "6.8mm SPC",
+      "barrel": {
+        "name": "Daniel Defense M4, Carbine, Hunter 6.8, Kryptek Highlander",
+        "length": 0.4572,
+        "gunMass": 3.129787,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/ddm4-hunter-68-highlander.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6.8mm SPC",
+          "barrelLength": "18\"",
+          "weight": "6.9 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense M4, Carbine, Hunter 300 Blackout, Kryptek Highlander",
+      "maker": "Daniel Defense",
+      "cartridge": "300 BLK",
+      "barrel": {
+        "name": "Daniel Defense M4, Carbine, Hunter 300 Blackout, Kryptek Highlander",
+        "length": 0.4064,
+        "gunMass": 2.97103,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/ddm4-hunter-300blackout-highlander.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 BLK",
+          "barrelLength": "16\"",
+          "weight": "6.55 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense M4, Carbine, ISR, 300 Blackout",
+      "maker": "Daniel Defense",
+      "cartridge": "300 BLK",
+      "barrel": {
+        "name": "Daniel Defense M4, Carbine, ISR, 300 Blackout",
+        "length": 0.2286,
+        "gunMass": 3.433694,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/ddm4-isr.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 BLK",
+          "barrelLength": "9\"",
+          "weight": "7.57 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense M4, Carbine, M4A1, 5.56, California Compliant",
+      "maker": "Daniel Defense",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Daniel Defense M4, Carbine, M4A1, 5.56, California Compliant",
+        "length": 0.3683,
+        "twistLength": 0.1778,
+        "gunMass": 3.057213,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/m4a1-california-compliant.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "14.5\"",
+          "weight": "6.74 lbs",
+          "twist": "1:7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense M4, Carbine, MK12, 5.56",
+      "maker": "Daniel Defense",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Daniel Defense M4, Carbine, MK12, 5.56",
+        "length": 0.4572,
+        "twistLength": 0.1778,
+        "gunMass": 3.361119,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/mk12.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "18\"",
+          "weight": "7.41 lbs",
+          "twist": "1:7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense M4, Carbine, V4 S, 5.56",
+      "maker": "Daniel Defense",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Daniel Defense M4, Carbine, V4 S, 5.56",
+        "length": 0.2921,
+        "twistLength": 0.1778,
+        "gunMass": 2.653515,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/ddm4-v4s.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "11.5\"",
+          "weight": "5.85 lbs",
+          "twist": "1:7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense M4, Carbine, V7 LW, 5.56",
+      "maker": "Daniel Defense",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Daniel Defense M4, Carbine, V7 LW, 5.56",
+        "length": 0.4064,
+        "twistLength": 0.1778,
+        "gunMass": 2.744234,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/ddm4-v7lw.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "16\"",
+          "weight": "6.05 lbs",
+          "twist": "1:7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense M4, Carbine, V7 PRO, 5.56",
+      "maker": "Daniel Defense",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Daniel Defense M4, Carbine, V7 PRO, 5.56",
+        "length": 0.4572,
+        "twistLength": 0.1778,
+        "gunMass": 3.356584,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/ddm4-v7pro.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "18\"",
+          "weight": "7.40 lbs",
+          "twist": "1:7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense M4, Carbine, V7 PRO, 5.56, California Compliant",
+      "maker": "Daniel Defense",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Daniel Defense M4, Carbine, V7 PRO, 5.56, California Compliant",
+        "length": 0.4572,
+        "twistLength": 0.1778,
+        "gunMass": 3.356584,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/ddm4-v7pro-california-compliant.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "18\"",
+          "weight": "7.40 lbs",
+          "twist": "1:7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense M4, Carbine, V7 PRO, Gun Metal Gray, 5.56",
+      "maker": "Daniel Defense",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Daniel Defense M4, Carbine, V7 PRO, Gun Metal Gray, 5.56",
+        "length": 0.4572,
+        "twistLength": 0.1778,
+        "gunMass": 3.356584,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/ddm4-v7pro-gunmetalgray.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "18\"",
+          "weight": "7.4 lbs",
+          "twist": "1:7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense M4, Carbine, V7 S, 5.56",
+      "maker": "Daniel Defense",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Daniel Defense M4, Carbine, V7 S, 5.56",
+        "length": 0.2921,
+        "twistLength": 0.1778,
+        "gunMass": 2.630836,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/ddm4-v7s.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "11.5\"",
+          "weight": "5.8 lbs",
+          "twist": "1:7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense M4, Carbine, V7 SLW, 5.56",
+      "maker": "Daniel Defense",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Daniel Defense M4, Carbine, V7 SLW, 5.56",
+        "length": 0.3683,
+        "twistLength": 0.1778,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/ddm4-v7slw.html",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "14.5\"",
+          "weight": "5.9",
+          "twist": "1:7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense M4, Carbine, V7, 5.56",
+      "maker": "Daniel Defense",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Daniel Defense M4, Carbine, V7, 5.56",
+        "length": 0.4064,
+        "twistLength": 0.1778,
+        "gunMass": 2.812273,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/ddm4-v7.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "16\"",
+          "weight": "6.2 LBS",
+          "twist": "1:7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense M4, Carbine, V7, 5.56, California Compliant",
+      "maker": "Daniel Defense",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Daniel Defense M4, Carbine, V7, 5.56, California Compliant",
+        "length": 0.4064,
+        "twistLength": 0.1778,
+        "gunMass": 2.812273,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/ddm4-v7-california-compliant.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "16\"",
+          "weight": "6.2 lbs",
+          "twist": "1:7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense M4, Hunter 5.56, Kryptek Highlander",
+      "maker": "Daniel Defense",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Daniel Defense M4, Hunter 5.56, Kryptek Highlander",
+        "length": 0.4572,
+        "twistLength": 0.1778,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/ddm4-hunter-556-highlander.html",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "18\"",
+          "weight": "7.0",
+          "twist": "1:7 twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense M4, MK18 Pistol, 5.56",
+      "maker": "Daniel Defense",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Daniel Defense M4, MK18 Pistol, 5.56",
+        "length": 0.26162,
+        "twistLength": 0.1778,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/mk18-pistol.html",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "10.3\"",
+          "weight": "5.85",
+          "twist": "1:7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense M4, PDW Pistol, 300 Blackout",
+      "maker": "Daniel Defense",
+      "cartridge": "300 BLK",
+      "barrel": {
+        "name": "Daniel Defense M4, PDW Pistol, 300 Blackout",
+        "length": 0.1778,
+        "twistLength": 0.1778,
+        "gunMass": 2.585477,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/ddm4-pdw.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 BLK",
+          "barrelLength": "7\"",
+          "weight": "5.7 lbs",
+          "twist": "1:7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense M4, V7P Pistol, 5.56",
+      "maker": "Daniel Defense",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Daniel Defense M4, V7P Pistol, 5.56",
+        "length": 0.26162,
+        "twistLength": 0.1778,
+        "gunMass": 2.422183,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/ddm4-v7p.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "10.3\"",
+          "weight": "5.34 LBS",
+          "twist": "1:7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense M4, V7P Pistol, 300 Blackout",
+      "maker": "Daniel Defense",
+      "cartridge": "300 BLK",
+      "barrel": {
+        "name": "Daniel Defense M4, V7P Pistol, 300 Blackout",
+        "length": 0.26162,
+        "twistLength": 0.2032,
+        "gunMass": 2.408575,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/ddm4-v7p-300blackout.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 BLK",
+          "barrelLength": "10.3\"",
+          "weight": "5.31 LBS",
+          "twist": "1:8 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense M4A1 AR-15 5.56 NATO 14.5 in RIS II Rail",
+      "maker": "Daniel Defense",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Daniel Defense M4A1 AR-15 5.56 NATO 14.5 in RIS II Rail",
+        "length": 0.3683,
+        "twistLength": 0.1778,
+        "gunMass": 3.057213,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/socom-m4a1.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "14.5\"",
+          "weight": "6.74 lbs",
+          "twist": "1:7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense MK18 AR15 Style Pistol",
+      "maker": "Daniel Defense",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Daniel Defense MK18 AR15 Style Pistol",
+        "length": 0.26162,
+        "twistLength": 0.1778,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/mk18-pistol-lawtactical.html",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "10.3\"",
+          "weight": "6.08",
+          "twist": "1:7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Daniel Defense MK18 SBR AR-15 Rifle, 5.56 NATO, 10.3\" Barrel",
+      "maker": "Daniel Defense",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Daniel Defense MK18 SBR AR-15 Rifle, 5.56 NATO, 10.3\" Barrel",
+        "length": 0.26162,
+        "twistLength": 0.1778,
+        "gunMass": 2.667123,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Daniel Defense, LLC",
+        "url": "https://danieldefense.com/mk18-sbr.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "10.3\"",
+          "weight": "5.88 lbs",
+          "twist": "1:7 Twist"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1892 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by C.G. Haenel GmbH; facts, released in this repository under CC0",
+    "source": "https://www.cg-haenel.de",
+    "file": "",
+    "author": "C.G. Haenel GmbH",
+    "date": "2026-10-16",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel CR6,5 6,5 Creedmoor",
+      "maker": "Haenel",
+      "model": "CR6,5",
+      "cartridge": "6,5 Creedmoor",
+      "barrel": {
+        "name": "Haenel CR6,5 6,5 Creedmoor",
+        "length": 0.51,
+        "twistLength": 0.2032,
+        "gunMass": 4.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/cr223-cr300-cr65-cr308/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\": 510mm",
+          "weight": "20\": ca. 4,6 kg",
+          "twist": "8\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel CR223 .223 Rem. 267 mm barrel",
+      "maker": "Haenel",
+      "model": "CR223",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Haenel CR223 .223 Rem. 267 mm barrel",
+        "length": 0.267,
+        "twistLength": 0.1778,
+        "gunMass": 3.35,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/cr223-cr300-cr65-cr308/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "10,5\": 267mm",
+          "weight": "10,5\": ca. 3,35 kg",
+          "twist": "7\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel CR223 .223 Rem. 318 mm barrel",
+      "maker": "Haenel",
+      "model": "CR223",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Haenel CR223 .223 Rem. 318 mm barrel",
+        "length": 0.318,
+        "twistLength": 0.2286,
+        "gunMass": 3.4,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/cr223-cr300-cr65-cr308/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "12,5\": 318mm",
+          "weight": "12,5\": ca. 3,4 kg",
+          "twist": "9\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel CR223 .223 Rem. 368 mm barrel",
+      "maker": "Haenel",
+      "model": "CR223",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Haenel CR223 .223 Rem. 368 mm barrel",
+        "length": 0.368,
+        "twistLength": 0.2286,
+        "gunMass": 3.5,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/cr223-cr300-cr65-cr308/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "14,5\": 368mm",
+          "weight": "14,5\": ca. 3,5 kg",
+          "twist": "9\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel CR223 .223 Rem. 422.9 mm barrel",
+      "maker": "Haenel",
+      "model": "CR223",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Haenel CR223 .223 Rem. 422.9 mm barrel",
+        "length": 0.42291,
+        "twistLength": 0.2286,
+        "gunMass": 3.6,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/cr223-cr300-cr65-cr308/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16,65\": 423mm",
+          "weight": "16,65\": ca. 3,6 kg",
+          "twist": "9\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel CR300 .300 AAC Blackout",
+      "maker": "Haenel",
+      "model": "CR300",
+      "cartridge": ".300 AAC Blackout",
+      "barrel": {
+        "name": "Haenel CR300 .300 AAC Blackout",
+        "length": 0.267,
+        "twistLength": 0.2032,
+        "gunMass": 3.4,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/cr223-cr300-cr65-cr308/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "10,5\": 267mm",
+          "weight": "10,5\": ca. 3,4 kg",
+          "twist": "8\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel CR308 .308 Win. 422.9 mm barrel",
+      "maker": "Haenel",
+      "model": "CR308",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Haenel CR308 .308 Win. 422.9 mm barrel",
+        "length": 0.42291,
+        "twistLength": 0.3048,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/cr223-cr300-cr65-cr308/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "barrelLength": "16,65\": 423mm",
+          "twist": "12\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel CR308 .308 Win. 510 mm barrel",
+      "maker": "Haenel",
+      "model": "CR308",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Haenel CR308 .308 Win. 510 mm barrel",
+        "length": 0.51,
+        "twistLength": 0.3048,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/cr223-cr300-cr65-cr308/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "barrelLength": "20\": 510mm",
+          "twist": "12\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel HLR 6,5 Basic 6,5 Creedmoor",
+      "maker": "Haenel",
+      "model": "HLR 6,5 Basic",
+      "cartridge": "6,5 Creedmoor",
+      "barrel": {
+        "name": "Haenel HLR 6,5 Basic 6,5 Creedmoor",
+        "length": 0.6,
+        "twistLength": 0.2032,
+        "gunMass": 5,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/hlr/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "600 mm",
+          "weight": "ca. 5 kg (ohne Anbauteile)",
+          "twist": "8\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel HLR 308 Basic .308 Win.",
+      "maker": "Haenel",
+      "model": "HLR 308 Basic",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Haenel HLR 308 Basic .308 Win.",
+        "length": 0.6,
+        "twistLength": 0.3048,
+        "gunMass": 5,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/hlr/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "600 mm",
+          "weight": "ca. 5 kg (ohne Anbauteile)",
+          "twist": "12\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel HLR 308 Basic Compact .308 Win.",
+      "maker": "Haenel",
+      "model": "HLR 308 Basic Compact",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Haenel HLR 308 Basic Compact .308 Win.",
+        "length": 0.51,
+        "twistLength": 0.3048,
+        "gunMass": 4.7,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/hlr/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "510 mm",
+          "weight": "ca. 4,7 kg (ohne Anbauteile)",
+          "twist": "12\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel HLR 308 Pro .308 Win.",
+      "maker": "Haenel",
+      "model": "HLR 308 Pro",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Haenel HLR 308 Pro .308 Win.",
+        "length": 0.6,
+        "twistLength": 0.3048,
+        "gunMass": 5.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/hlr/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "600 mm",
+          "weight": "ca. 5,2 kg (ohne Anbauteile)",
+          "twist": "12\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel HLR 308 Pro Compact .308 Win.",
+      "maker": "Haenel",
+      "model": "HLR 308 Pro Compact",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Haenel HLR 308 Pro Compact .308 Win.",
+        "length": 0.51,
+        "twistLength": 0.3048,
+        "gunMass": 5,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/hlr/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "510 mm",
+          "weight": "ca. 5 kg (ohne Anbauteile)",
+          "twist": "12\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel HLR 338 Basic .338 Lapua Magnum",
+      "maker": "Haenel",
+      "model": "HLR 338 Basic",
+      "cartridge": ".338 Lapua Magnum",
+      "barrel": {
+        "name": "Haenel HLR 338 Basic .338 Lapua Magnum",
+        "length": 0.69,
+        "twistLength": 0.254,
+        "gunMass": 6.5,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/hlr/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "690 mm",
+          "weight": "ca. 6,5 kg (ohne Anbauteile)",
+          "twist": "10\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel HLR 338 Pro .338 Lapua Magnum",
+      "maker": "Haenel",
+      "model": "HLR 338 Pro",
+      "cartridge": ".338 Lapua Magnum",
+      "barrel": {
+        "name": "Haenel HLR 338 Pro .338 Lapua Magnum",
+        "length": 0.69,
+        "twistLength": 0.254,
+        "gunMass": 6.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/hlr/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "690 mm",
+          "weight": "ca. 6,8 kg (ohne Anbauteile)",
+          "twist": "10\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel HMR308 \"Marksman\" .308 Win.",
+      "maker": "Haenel",
+      "model": "HMR308 \"Marksman\"",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Haenel HMR308 \"Marksman\" .308 Win.",
+        "length": 0.42291,
+        "twistLength": 0.3048,
+        "gunMass": 4.5,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/hmr308/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16,65\": 423mm",
+          "weight": "ca. 4,5kg",
+          "twist": "12\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER EVO .30-06 Spring.",
+      "maker": "Haenel",
+      "model": "JAEGER EVO",
+      "cartridge": ".30-06 Spring.",
+      "barrel": {
+        "name": "Haenel JAEGER EVO .30-06 Spring.",
+        "length": 0.52,
+        "twistLength": 0.2794,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-evo/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,1 kg",
+          "twist": "11\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER EVO .223 Rem.",
+      "maker": "Haenel",
+      "model": "JAEGER EVO",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Haenel JAEGER EVO .223 Rem.",
+        "length": 0.52,
+        "twistLength": 0.2286,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-evo/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,1 kg",
+          "twist": "9\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER EVO .300 Win. Mag.",
+      "maker": "Haenel",
+      "model": "JAEGER EVO",
+      "cartridge": ".300 Win. Mag.",
+      "barrel": {
+        "name": "Haenel JAEGER EVO .300 Win. Mag.",
+        "length": 0.61,
+        "twistLength": 0.2794,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-evo/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "610 mm (Magnum)",
+          "weight": "ca. 3,1 kg",
+          "twist": "11\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER EVO .308 Win.",
+      "maker": "Haenel",
+      "model": "JAEGER EVO",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Haenel JAEGER EVO .308 Win.",
+        "length": 0.52,
+        "twistLength": 0.3048,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-evo/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,1 kg",
+          "twist": "12\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER EVO 8x57IS",
+      "maker": "Haenel",
+      "model": "JAEGER EVO",
+      "cartridge": "8x57IS",
+      "barrel": {
+        "name": "Haenel JAEGER EVO 8x57IS",
+        "length": 0.52,
+        "twistLength": 0.23876,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-evo/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,1 kg",
+          "twist": "9,4\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT .30-06 Spring.",
+      "maker": "Haenel",
+      "model": "JAEGER NXT",
+      "cartridge": ".30-06 Spring.",
+      "barrel": {
+        "name": "Haenel JAEGER NXT .30-06 Spring.",
+        "length": 0.52,
+        "twistLength": 0.2794,
+        "gunMass": 3.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,2 kg",
+          "twist": "11,0\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT .223 Rem.",
+      "maker": "Haenel",
+      "model": "JAEGER NXT",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Haenel JAEGER NXT .223 Rem.",
+        "length": 0.52,
+        "twistLength": 0.2286,
+        "gunMass": 3.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,2 kg",
+          "twist": "9\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT .300 Win. Mag.",
+      "maker": "Haenel",
+      "model": "JAEGER NXT",
+      "cartridge": ".300 Win. Mag.",
+      "barrel": {
+        "name": "Haenel JAEGER NXT .300 Win. Mag.",
+        "length": 0.61,
+        "twistLength": 0.2794,
+        "gunMass": 3.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "610 mm (Magnum)",
+          "weight": "ca. 3,2 kg",
+          "twist": "11,0\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT .308 Win.",
+      "maker": "Haenel",
+      "model": "JAEGER NXT",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Haenel JAEGER NXT .308 Win.",
+        "length": 0.52,
+        "twistLength": 0.3048,
+        "gunMass": 3.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,2 kg",
+          "twist": "12,0\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT 6,5 Creedmoor",
+      "maker": "Haenel",
+      "model": "JAEGER NXT",
+      "cartridge": "6,5 Creedmoor",
+      "barrel": {
+        "name": "Haenel JAEGER NXT 6,5 Creedmoor",
+        "length": 0.52,
+        "twistLength": 0.2032,
+        "gunMass": 3.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,2 kg",
+          "twist": "8\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT 8x57 IS",
+      "maker": "Haenel",
+      "model": "JAEGER NXT",
+      "cartridge": "8x57 IS",
+      "barrel": {
+        "name": "Haenel JAEGER NXT 8x57 IS",
+        "length": 0.52,
+        "twistLength": 0.23876,
+        "gunMass": 3.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,2 kg",
+          "twist": "9,4\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT ADJUSTABLE .30-06 Spring.",
+      "maker": "Haenel",
+      "model": "JAEGER NXT ADJUSTABLE",
+      "cartridge": ".30-06 Spring.",
+      "barrel": {
+        "name": "Haenel JAEGER NXT ADJUSTABLE .30-06 Spring.",
+        "length": 0.52,
+        "twistLength": 0.2794,
+        "gunMass": 3.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,2 kg",
+          "twist": "11,0\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT ADJUSTABLE .223 Rem.",
+      "maker": "Haenel",
+      "model": "JAEGER NXT ADJUSTABLE",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Haenel JAEGER NXT ADJUSTABLE .223 Rem.",
+        "length": 0.52,
+        "twistLength": 0.2286,
+        "gunMass": 3.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,2 kg",
+          "twist": "9\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT ADJUSTABLE .300 Win. Mag.",
+      "maker": "Haenel",
+      "model": "JAEGER NXT ADJUSTABLE",
+      "cartridge": ".300 Win. Mag.",
+      "barrel": {
+        "name": "Haenel JAEGER NXT ADJUSTABLE .300 Win. Mag.",
+        "length": 0.61,
+        "twistLength": 0.2794,
+        "gunMass": 3.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "610 mm (Magnum)",
+          "weight": "ca. 3,2 kg",
+          "twist": "11,0\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT ADJUSTABLE .308 Win.",
+      "maker": "Haenel",
+      "model": "JAEGER NXT ADJUSTABLE",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Haenel JAEGER NXT ADJUSTABLE .308 Win.",
+        "length": 0.52,
+        "twistLength": 0.3048,
+        "gunMass": 3.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,2 kg",
+          "twist": "12,0\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT ADJUSTABLE 6,5 Creedmoor",
+      "maker": "Haenel",
+      "model": "JAEGER NXT ADJUSTABLE",
+      "cartridge": "6,5 Creedmoor",
+      "barrel": {
+        "name": "Haenel JAEGER NXT ADJUSTABLE 6,5 Creedmoor",
+        "length": 0.52,
+        "twistLength": 0.2032,
+        "gunMass": 3.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,2 kg",
+          "twist": "8\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT ADJUSTABLE 8x57 IS",
+      "maker": "Haenel",
+      "model": "JAEGER NXT ADJUSTABLE",
+      "cartridge": "8x57 IS",
+      "barrel": {
+        "name": "Haenel JAEGER NXT ADJUSTABLE 8x57 IS",
+        "length": 0.52,
+        "twistLength": 0.23876,
+        "gunMass": 3.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,2 kg",
+          "twist": "9,4\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT COMPOSITE .30-06 Spring.",
+      "maker": "Haenel",
+      "model": "JAEGER NXT COMPOSITE",
+      "cartridge": ".30-06 Spring.",
+      "barrel": {
+        "name": "Haenel JAEGER NXT COMPOSITE .30-06 Spring.",
+        "length": 0.52,
+        "twistLength": 0.2794,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,1 kg",
+          "twist": "11,0\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT COMPOSITE .223 Rem.",
+      "maker": "Haenel",
+      "model": "JAEGER NXT COMPOSITE",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Haenel JAEGER NXT COMPOSITE .223 Rem.",
+        "length": 0.52,
+        "twistLength": 0.2286,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,1 kg",
+          "twist": "9\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT COMPOSITE .300 Win. Mag.",
+      "maker": "Haenel",
+      "model": "JAEGER NXT COMPOSITE",
+      "cartridge": ".300 Win. Mag.",
+      "barrel": {
+        "name": "Haenel JAEGER NXT COMPOSITE .300 Win. Mag.",
+        "length": 0.61,
+        "twistLength": 0.2794,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "610 mm (Magnum)",
+          "weight": "ca. 3,1 kg",
+          "twist": "11,0\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT COMPOSITE .308 Win.",
+      "maker": "Haenel",
+      "model": "JAEGER NXT COMPOSITE",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Haenel JAEGER NXT COMPOSITE .308 Win.",
+        "length": 0.52,
+        "twistLength": 0.3048,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,1 kg",
+          "twist": "12,0\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT COMPOSITE 6,5 Creedmoor",
+      "maker": "Haenel",
+      "model": "JAEGER NXT COMPOSITE",
+      "cartridge": "6,5 Creedmoor",
+      "barrel": {
+        "name": "Haenel JAEGER NXT COMPOSITE 6,5 Creedmoor",
+        "length": 0.52,
+        "twistLength": 0.2032,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,1 kg",
+          "twist": "8\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT COMPOSITE 8x57 IS",
+      "maker": "Haenel",
+      "model": "JAEGER NXT COMPOSITE",
+      "cartridge": "8x57 IS",
+      "barrel": {
+        "name": "Haenel JAEGER NXT COMPOSITE 8x57 IS",
+        "length": 0.52,
+        "twistLength": 0.23876,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,1 kg",
+          "twist": "9,4\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT COMPOSITE LEFT .30-06 Spring.",
+      "maker": "Haenel",
+      "model": "JAEGER NXT COMPOSITE LEFT",
+      "cartridge": ".30-06 Spring.",
+      "barrel": {
+        "name": "Haenel JAEGER NXT COMPOSITE LEFT .30-06 Spring.",
+        "length": 0.52,
+        "twistLength": 0.2794,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,1 kg",
+          "twist": "11,0\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT COMPOSITE LEFT .223 Rem.",
+      "maker": "Haenel",
+      "model": "JAEGER NXT COMPOSITE LEFT",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Haenel JAEGER NXT COMPOSITE LEFT .223 Rem.",
+        "length": 0.52,
+        "twistLength": 0.2286,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,1 kg",
+          "twist": "9\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT COMPOSITE LEFT .300 Win. Mag.",
+      "maker": "Haenel",
+      "model": "JAEGER NXT COMPOSITE LEFT",
+      "cartridge": ".300 Win. Mag.",
+      "barrel": {
+        "name": "Haenel JAEGER NXT COMPOSITE LEFT .300 Win. Mag.",
+        "length": 0.61,
+        "twistLength": 0.2794,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "610 mm (Magnum)",
+          "weight": "ca. 3,1 kg",
+          "twist": "11,0\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT COMPOSITE LEFT .308 Win.",
+      "maker": "Haenel",
+      "model": "JAEGER NXT COMPOSITE LEFT",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Haenel JAEGER NXT COMPOSITE LEFT .308 Win.",
+        "length": 0.52,
+        "twistLength": 0.3048,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,1 kg",
+          "twist": "12,0\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT COMPOSITE LEFT 6,5 Creedmoor",
+      "maker": "Haenel",
+      "model": "JAEGER NXT COMPOSITE LEFT",
+      "cartridge": "6,5 Creedmoor",
+      "barrel": {
+        "name": "Haenel JAEGER NXT COMPOSITE LEFT 6,5 Creedmoor",
+        "length": 0.52,
+        "twistLength": 0.2032,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,1 kg",
+          "twist": "8\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT COMPOSITE LEFT 8x57 IS",
+      "maker": "Haenel",
+      "model": "JAEGER NXT COMPOSITE LEFT",
+      "cartridge": "8x57 IS",
+      "barrel": {
+        "name": "Haenel JAEGER NXT COMPOSITE LEFT 8x57 IS",
+        "length": 0.52,
+        "twistLength": 0.23876,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,1 kg",
+          "twist": "9,4\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT COMPOSITE SHORT .308 Win.",
+      "maker": "Haenel",
+      "model": "JAEGER NXT COMPOSITE SHORT",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Haenel JAEGER NXT COMPOSITE SHORT .308 Win.",
+        "length": 0.47,
+        "twistLength": 0.3048,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "470 mm",
+          "weight": "ca. 3,1 kg",
+          "twist": "12,0\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT COMPOSITE SHORT 8x57 IS",
+      "maker": "Haenel",
+      "model": "JAEGER NXT COMPOSITE SHORT",
+      "cartridge": "8x57 IS",
+      "barrel": {
+        "name": "Haenel JAEGER NXT COMPOSITE SHORT 8x57 IS",
+        "length": 0.47,
+        "twistLength": 0.23876,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "470 mm",
+          "weight": "ca. 3,1 kg",
+          "twist": "9,4\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT DS .30-06 Spring.",
+      "maker": "Haenel",
+      "model": "JAEGER NXT DS",
+      "cartridge": ".30-06 Spring.",
+      "barrel": {
+        "name": "Haenel JAEGER NXT DS .30-06 Spring.",
+        "length": 0.52,
+        "twistLength": 0.2794,
+        "gunMass": 3.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,2 kg",
+          "twist": "11,0\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT DS .223 Rem.",
+      "maker": "Haenel",
+      "model": "JAEGER NXT DS",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Haenel JAEGER NXT DS .223 Rem.",
+        "length": 0.52,
+        "twistLength": 0.2286,
+        "gunMass": 3.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,2 kg",
+          "twist": "9\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT DS .300 Win. Mag.",
+      "maker": "Haenel",
+      "model": "JAEGER NXT DS",
+      "cartridge": ".300 Win. Mag.",
+      "barrel": {
+        "name": "Haenel JAEGER NXT DS .300 Win. Mag.",
+        "length": 0.61,
+        "twistLength": 0.2794,
+        "gunMass": 3.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "610 mm (Magnum)",
+          "weight": "ca. 3,2 kg",
+          "twist": "11,0\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT DS .308 Win.",
+      "maker": "Haenel",
+      "model": "JAEGER NXT DS",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Haenel JAEGER NXT DS .308 Win.",
+        "length": 0.52,
+        "twistLength": 0.3048,
+        "gunMass": 3.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,2 kg",
+          "twist": "12,0\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT DS 6,5 Creedmoor",
+      "maker": "Haenel",
+      "model": "JAEGER NXT DS",
+      "cartridge": "6,5 Creedmoor",
+      "barrel": {
+        "name": "Haenel JAEGER NXT DS 6,5 Creedmoor",
+        "length": 0.52,
+        "twistLength": 0.2032,
+        "gunMass": 3.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,2 kg",
+          "twist": "8\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT DS 8x57 IS",
+      "maker": "Haenel",
+      "model": "JAEGER NXT DS",
+      "cartridge": "8x57 IS",
+      "barrel": {
+        "name": "Haenel JAEGER NXT DS 8x57 IS",
+        "length": 0.52,
+        "twistLength": 0.23876,
+        "gunMass": 3.2,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm (Standard)",
+          "weight": "ca. 3,2 kg",
+          "twist": "9,4\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT TRACKER .308 Win.",
+      "maker": "Haenel",
+      "model": "JAEGER NXT TRACKER",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Haenel JAEGER NXT TRACKER .308 Win.",
+        "length": 0.47,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "470 mm (Standard)",
+          "weight": "ca. 3,1 kg"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER NXT TRACKER 8x57 IS",
+      "maker": "Haenel",
+      "model": "JAEGER NXT TRACKER",
+      "cartridge": "8x57 IS",
+      "barrel": {
+        "name": "Haenel JAEGER NXT TRACKER 8x57 IS",
+        "length": 0.47,
+        "gunMass": 3.1,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-nxt-composite/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "470 mm (Standard)",
+          "weight": "ca. 3,1 kg"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER TEN CLASSIC .30-06 Spring.",
+      "maker": "Haenel",
+      "model": "JAEGER TEN CLASSIC",
+      "cartridge": ".30-06 Spring.",
+      "barrel": {
+        "name": "Haenel JAEGER TEN CLASSIC .30-06 Spring.",
+        "length": 0.52,
+        "twistLength": 0.2794,
+        "gunMass": 2.9,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-ten/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm",
+          "weight": "ca. 2,9 kg",
+          "twist": "11\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER TEN CLASSIC .223 Rem.",
+      "maker": "Haenel",
+      "model": "JAEGER TEN CLASSIC",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Haenel JAEGER TEN CLASSIC .223 Rem.",
+        "length": 0.52,
+        "twistLength": 0.3048,
+        "gunMass": 2.9,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-ten/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm",
+          "weight": "ca. 2,9 kg",
+          "twist": "12\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER TEN CLASSIC .308 Win.",
+      "maker": "Haenel",
+      "model": "JAEGER TEN CLASSIC",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Haenel JAEGER TEN CLASSIC .308 Win.",
+        "length": 0.52,
+        "twistLength": 0.3048,
+        "gunMass": 2.9,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-ten/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm",
+          "weight": "ca. 2,9 kg",
+          "twist": "12\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER TEN COMPOSITE .30-06 Spring.",
+      "maker": "Haenel",
+      "model": "JAEGER TEN COMPOSITE",
+      "cartridge": ".30-06 Spring.",
+      "barrel": {
+        "name": "Haenel JAEGER TEN COMPOSITE .30-06 Spring.",
+        "length": 0.52,
+        "twistLength": 0.2794,
+        "gunMass": 2.9,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-ten/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm",
+          "weight": "ca. 2,9 kg",
+          "twist": "11\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER TEN COMPOSITE .223 Rem.",
+      "maker": "Haenel",
+      "model": "JAEGER TEN COMPOSITE",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Haenel JAEGER TEN COMPOSITE .223 Rem.",
+        "length": 0.52,
+        "twistLength": 0.3048,
+        "gunMass": 2.9,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-ten/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm",
+          "weight": "ca. 2,9 kg",
+          "twist": "12\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel JAEGER TEN COMPOSITE .308 Win.",
+      "maker": "Haenel",
+      "model": "JAEGER TEN COMPOSITE",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Haenel JAEGER TEN COMPOSITE .308 Win.",
+        "length": 0.52,
+        "twistLength": 0.3048,
+        "gunMass": 2.9,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/jaeger-ten/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "520 mm",
+          "weight": "ca. 2,9 kg",
+          "twist": "12\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel LR/ONE .223 Rem.",
+      "maker": "Haenel",
+      "model": "LR/ONE",
+      "cartridge": ".223 Rem.",
+      "barrel": {
+        "name": "Haenel LR/ONE .223 Rem.",
+        "length": 0.6,
+        "twistLength": 0.2286,
+        "gunMass": 4.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/lr-one/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "600 mm",
+          "weight": "ca. 4,8 kg (ohne Anbauteile)",
+          "twist": "9\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel LR/ONE .308 Win.",
+      "maker": "Haenel",
+      "model": "LR/ONE",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Haenel LR/ONE .308 Win.",
+        "length": 0.6,
+        "twistLength": 0.3048,
+        "gunMass": 4.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/lr-one/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "600 mm",
+          "weight": "ca. 4,8 kg (ohne Anbauteile)",
+          "twist": "12\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel LR/ONE 6,5 Creedmoor",
+      "maker": "Haenel",
+      "model": "LR/ONE",
+      "cartridge": "6,5 Creedmoor",
+      "barrel": {
+        "name": "Haenel LR/ONE 6,5 Creedmoor",
+        "length": 0.6,
+        "twistLength": 0.2032,
+        "gunMass": 4.8,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/lr-one/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "600 mm",
+          "weight": "ca. 4,8 kg (ohne Anbauteile)",
+          "twist": "8\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel LR/ONE SHORT .308 Win.",
+      "maker": "Haenel",
+      "model": "LR/ONE SHORT",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Haenel LR/ONE SHORT .308 Win.",
+        "length": 0.42,
+        "twistLength": 0.3048,
+        "gunMass": 4.35,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/lr-one/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "420 mm",
+          "weight": "ca. 4,35 kg (ohne Anbauteile)",
+          "twist": "12\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel RS8 Basic .308 Win.",
+      "maker": "Haenel",
+      "model": "RS8 Basic",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Haenel RS8 Basic .308 Win.",
+        "length": 0.6,
+        "gunMass": 5.85,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/haenel-rs8-rs9/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "600 mm",
+          "weight": "ca. 5,85 kg (ohne Anbauteile)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel RS8 Basic 6,5 Creedmoor",
+      "maker": "Haenel",
+      "model": "RS8 Basic",
+      "cartridge": "6,5 Creedmoor",
+      "barrel": {
+        "name": "Haenel RS8 Basic 6,5 Creedmoor",
+        "length": 0.6,
+        "gunMass": 5.85,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/haenel-rs8-rs9/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "600 mm",
+          "weight": "ca. 5,85 kg (ohne Anbauteile)"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel RS8 Compact .308 Win.",
+      "maker": "Haenel",
+      "model": "RS8 Compact",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Haenel RS8 Compact .308 Win.",
+        "length": 0.51,
+        "twistLength": 0.3048,
+        "gunMass": 5.65,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/haenel-rs8-rs9/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "510 mm",
+          "weight": "ca. 5,65 kg (ohne Zubehör)",
+          "twist": "12\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel RS8 Subsonic .308 Win.",
+      "maker": "Haenel",
+      "model": "RS8 Subsonic",
+      "cartridge": ".308 Win.",
+      "barrel": {
+        "name": "Haenel RS8 Subsonic .308 Win.",
+        "length": 0.387,
+        "twistLength": 0.2032,
+        "gunMass": 7.65,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/haenel-rs8-rs9/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "387 mm",
+          "weight": "ca. 7,65 kg (inkl. Schalldämpfer)",
+          "twist": "8\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Haenel RS9 .338 Lapua Magnum",
+      "maker": "Haenel",
+      "model": "RS9",
+      "cartridge": ".338 Lapua Magnum",
+      "barrel": {
+        "name": "Haenel RS9 .338 Lapua Magnum",
+        "length": 0.69,
+        "twistLength": 0.254,
+        "gunMass": 7.54,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "C.G. Haenel GmbH",
+        "url": "https://www.cg-haenel.de/produkte/haenel-rs8-rs9/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "690 mm",
+          "weight": "ca. 7,54 kg (ohne Anbauteile)",
+          "twist": "10\""
+        }
+      }
+    }
+  ]
+}

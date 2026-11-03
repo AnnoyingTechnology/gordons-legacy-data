@@ -1,0 +1,1114 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by Colt's Manufacturing Company LLC; facts, released in this repository under CC0",
+    "source": "https://www.colt.com",
+    "file": "",
+    "author": "Colt's Manufacturing Company LLC",
+    "date": "2026-10-16",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt Anaconda (45 Colt, 4.25\")",
+      "maker": "Colt",
+      "model": "Anaconda (45 Colt, 4.25\")",
+      "cartridge": "45 Colt",
+      "barrel": {
+        "name": "Colt Anaconda (45 Colt, 4.25\")",
+        "length": 0.10795,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/anaconda-45-colt-4-25/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "45 Colt",
+          "barrelLength": "4.25\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt Anaconda (45 Colt, 6\")",
+      "maker": "Colt",
+      "model": "Anaconda (45 Colt, 6\")",
+      "cartridge": "45 Colt",
+      "barrel": {
+        "name": "Colt Anaconda (45 Colt, 6\")",
+        "length": 0.1524,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/anaconda-45-colt-6/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "45 Colt",
+          "barrelLength": "6\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt Anaconda (45 Colt, 8\")",
+      "maker": "Colt",
+      "model": "Anaconda (45 Colt, 8\")",
+      "cartridge": "45 Colt",
+      "barrel": {
+        "name": "Colt Anaconda (45 Colt, 8\")",
+        "length": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/anaconda-45-colt-8/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "45 Colt",
+          "barrelLength": "8\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt CM7 Battle Rifle (13\") Full Auto",
+      "maker": "Colt",
+      "model": "CM7 Battle Rifle (13\") Full Auto",
+      "cartridge": "308 WIN (7.62x51mm)",
+      "barrel": {
+        "name": "Colt CM7 Battle Rifle (13\") Full Auto",
+        "length": 0.3302,
+        "twistLength": 0.254,
+        "gunMass": 3.492661,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/cm7/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "308 WIN (7.62x51mm)",
+          "barrelLength": "13\" (330.2 mm)",
+          "weight": "7.7lbs (3.5kg)",
+          "twist": "1:10 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt CM7 Battle Rifle (13\") Semi Auto",
+      "maker": "Colt",
+      "model": "CM7 Battle Rifle (13\") Semi Auto",
+      "cartridge": "308 WIN (7.62x51mm)",
+      "barrel": {
+        "name": "Colt CM7 Battle Rifle (13\") Semi Auto",
+        "length": 0.3302,
+        "twistLength": 0.254,
+        "gunMass": 3.492661,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/cm7/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "308 WIN (7.62x51mm)",
+          "barrelLength": "13\" (330.2 mm)",
+          "weight": "7.7lbs (3.5kg)",
+          "twist": "1:10 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt CM7 Battle Rifle (16.1\") Full Auto",
+      "maker": "Colt",
+      "model": "CM7 Battle Rifle (16.1\") Full Auto",
+      "cartridge": "308 WIN (7.62x51mm)",
+      "barrel": {
+        "name": "Colt CM7 Battle Rifle (16.1\") Full Auto",
+        "length": 0.4089,
+        "twistLength": 0.254,
+        "gunMass": 3.764817,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/cm7/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "308 WIN (7.62x51mm)",
+          "barrelLength": "16.1\" (408.9 mm)",
+          "weight": "8.3lbs (3.8kg)",
+          "twist": "1:10 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt CM7 Battle Rifle (16.1\") Semi Auto",
+      "maker": "Colt",
+      "model": "CM7 Battle Rifle (16.1\") Semi Auto",
+      "cartridge": "308 WIN (7.62x51mm)",
+      "barrel": {
+        "name": "Colt CM7 Battle Rifle (16.1\") Semi Auto",
+        "length": 0.4089,
+        "twistLength": 0.254,
+        "gunMass": 3.764817,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/cm7/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "308 WIN (7.62x51mm)",
+          "barrelLength": "16.1\" (408.9 mm)",
+          "weight": "8.3lbs (3.8kg)",
+          "twist": "1:10 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt CM7 Sass",
+      "maker": "Colt",
+      "model": "CM7 Sass",
+      "cartridge": "308 WIN (7.62x51mm)",
+      "barrel": {
+        "name": "Colt CM7 Sass",
+        "length": 0.4572,
+        "twistLength": 0.254,
+        "gunMass": 4.445205,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/cm7/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "308 WIN (7.62x51mm)",
+          "barrelLength": "18\" (457.2 mm)",
+          "weight": "9.8lbs (4.4kg)",
+          "twist": "1:10 RH, 4 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt CM9-9H-M5A",
+      "maker": "Colt",
+      "model": "CM9-9H-M5A",
+      "cartridge": "9x19mm NATO",
+      "barrel": {
+        "name": "Colt CM9-9H-M5A",
+        "length": 0.2286,
+        "twistLength": 0.254,
+        "gunMass": 2.630836,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/sub-machine-guns/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9x19mm NATO",
+          "barrelLength": "9\" (228.6 mm)",
+          "weight": "5.8lbs (2.6kg)",
+          "twist": "1:10 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt CM9-10H-M5A",
+      "maker": "Colt",
+      "model": "CM9-10H-M5A",
+      "cartridge": "9x19mm NATO",
+      "barrel": {
+        "name": "Colt CM9-10H-M5A",
+        "length": 0.254,
+        "twistLength": 0.254,
+        "gunMass": 2.676195,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/sub-machine-guns/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9x19mm NATO",
+          "barrelLength": "10\" (254.0 MM)",
+          "weight": "5.9lbs (2.7kg)",
+          "twist": "1:10 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt CMK (11.5\") Full Auto",
+      "maker": "Colt",
+      "model": "CMK (11.5\") Full Auto",
+      "cartridge": "7.62x39mm",
+      "barrel": {
+        "name": "Colt CMK (11.5\") Full Auto",
+        "length": 0.2921,
+        "twistLength": 0.254,
+        "gunMass": 2.857632,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/cmk/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62x39mm",
+          "barrelLength": "11.5\" (292.1 mm)",
+          "weight": "6.3lbs (2.9 kg)",
+          "twist": "1:10 RH, 4 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt CMK (14.5\") Full Auto",
+      "maker": "Colt",
+      "model": "CMK (14.5\") Full Auto",
+      "cartridge": "7.62x39mm",
+      "barrel": {
+        "name": "Colt CMK (14.5\") Full Auto",
+        "length": 0.3683,
+        "twistLength": 0.254,
+        "gunMass": 2.94835,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/cmk/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62x39mm",
+          "barrelLength": "14.5\" (368.3 mm)",
+          "weight": "6.5lbs (2.9kg)",
+          "twist": "1:10 RH, 4 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt CMK (16.1\") Full Auto",
+      "maker": "Colt",
+      "model": "CMK (16.1\") Full Auto",
+      "cartridge": "7.62x39mm",
+      "barrel": {
+        "name": "Colt CMK (16.1\") Full Auto",
+        "length": 0.4089,
+        "twistLength": 0.254,
+        "gunMass": 3.129787,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/cmk/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "7.62x39mm",
+          "barrelLength": "16.1\" (408.9 mm)",
+          "weight": "6.9lbs (3.1kg)",
+          "twist": "1:10 RH, 4 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt Custom Carry Government (9MM)",
+      "maker": "Colt",
+      "model": "Custom Carry Government (9MM)",
+      "cartridge": "9mm Luger",
+      "barrel": {
+        "name": "Colt Custom Carry Government (9MM)",
+        "length": 0.127,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/custom-carry-government-9mm/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "9mm Luger",
+          "barrelLength": "5\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt Custom Carry Government (45 ACP)",
+      "maker": "Colt",
+      "model": "Custom Carry Government (45 ACP)",
+      "cartridge": "45 ACP",
+      "barrel": {
+        "name": "Colt Custom Carry Government (45 ACP)",
+        "length": 0.127,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/custom-carry-government-45-acp/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "45 ACP",
+          "barrelLength": "5\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt Defender FDE",
+      "maker": "Colt",
+      "model": "Defender FDE",
+      "cartridge": "45 ACP",
+      "barrel": {
+        "name": "Colt Defender FDE",
+        "length": 0.0762,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/defender-fde-2/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "45 ACP",
+          "barrelLength": "3\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt Defender Two-Tone",
+      "maker": "Colt",
+      "model": "Defender Two-Tone",
+      "cartridge": "45 ACP",
+      "barrel": {
+        "name": "Colt Defender Two-Tone",
+        "length": 0.0762,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/defender-two-tone-2/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "45 ACP",
+          "barrelLength": "3\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt Enhanced Patrol Rifle II (11.5\")",
+      "maker": "Colt",
+      "model": "Enhanced Patrol Rifle II (11.5\")",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "Colt Enhanced Patrol Rifle II (11.5\")",
+        "length": 0.2921,
+        "twistLength": 0.1778,
+        "gunMass": 2.7,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/enhanced-patrol-rifle-ii/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "11.5\" (292.1 mm)",
+          "weight": "6 lbs (2.7 kg)",
+          "twist": "1:7 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt Enhanced Patrol Rifle II (16\")",
+      "maker": "Colt",
+      "model": "Enhanced Patrol Rifle II (16\")",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "Colt Enhanced Patrol Rifle II (16\")",
+        "length": 0.4089,
+        "twistLength": 0.1778,
+        "gunMass": 3.039069,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/enhanced-patrol-rifle-ii/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "16.1\" (408.9 mm)",
+          "weight": "6.7 lbs (3.0 kg)",
+          "twist": "1:7 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt Enhanced Patrol Rifle II PRO (11.5\")",
+      "maker": "Colt",
+      "model": "Enhanced Patrol Rifle II PRO (11.5\")",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "Colt Enhanced Patrol Rifle II PRO (11.5\")",
+        "length": 0.2921,
+        "twistLength": 0.1778,
+        "gunMass": 2.766913,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/enhanced-patrol-rifle-ii/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "11.5\" (292.1 mm)",
+          "weight": "6.1lbs (2.8 kg)",
+          "twist": "1:7 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt Enhanced Patrol Rifle II PRO (16\")",
+      "maker": "Colt",
+      "model": "Enhanced Patrol Rifle II PRO (16\")",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "Colt Enhanced Patrol Rifle II PRO (16\")",
+        "length": 0.4089,
+        "twistLength": 0.1778,
+        "gunMass": 3.039069,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/enhanced-patrol-rifle-ii/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "16.1\" (408.9 mm)",
+          "weight": "6.7 lbs (2.8 kg)",
+          "twist": "1:7 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt Infantry Automatic Rifle (11.5\")",
+      "maker": "Colt",
+      "model": "Infantry Automatic Rifle (11.5\")",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "Colt Infantry Automatic Rifle (11.5\")",
+        "length": 0.2921,
+        "twistLength": 0.1778,
+        "gunMass": 3.855535,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/infantry-automatic-rifle/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "11.5\" (292.1 mm)",
+          "weight": "8.5 lbs (3.9 kg)",
+          "twist": "1:7 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt Infantry Automatic Rifle (16.1\")",
+      "maker": "Colt",
+      "model": "Infantry Automatic Rifle (16.1\")",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "Colt Infantry Automatic Rifle (16.1\")",
+        "length": 0.4089,
+        "twistLength": 0.1778,
+        "gunMass": 4.263768,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/infantry-automatic-rifle/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "16.1\" (408.9 mm)",
+          "weight": "9.4 lbs (4.3 kg)",
+          "twist": "1:7 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt M4 Carbine",
+      "maker": "Colt",
+      "model": "M4 Carbine",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "Colt M4 Carbine",
+        "length": 0.3683,
+        "twistLength": 0.1778,
+        "gunMass": 2.94835,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/m4-carbine/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "14.5\" (368.3 mm)",
+          "weight": "6.5lbs (2.9kg)",
+          "twist": "1:7 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt M4 Carbine (16.1\") Semi Auto",
+      "maker": "Colt",
+      "model": "M4 Carbine (16.1\") Semi Auto",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "Colt M4 Carbine (16.1\") Semi Auto",
+        "length": 0.4089,
+        "twistLength": 0.1778,
+        "gunMass": 2.99371,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/m4-carbine/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "16.1\" (408.9 mm)",
+          "weight": "6.6lbs (3.0kg)",
+          "twist": "1:7 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt M4 Carbine Heavy Barrel",
+      "maker": "Colt",
+      "model": "M4 Carbine Heavy Barrel",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "Colt M4 Carbine Heavy Barrel",
+        "length": 0.3683,
+        "twistLength": 0.1778,
+        "gunMass": 2.94835,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/m4-carbine/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "14.5\" (368.3 mm)",
+          "weight": "6.5lbs (2.9kg)",
+          "twist": "1:7 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt M4 Carbine Heavy Barrel + Quad Rail",
+      "maker": "Colt",
+      "model": "M4 Carbine Heavy Barrel + Quad Rail",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "Colt M4 Carbine Heavy Barrel + Quad Rail",
+        "length": 0.3683,
+        "twistLength": 0.1778,
+        "gunMass": 3.129787,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/m4-carbine/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "14.5\" (368.3 mm)",
+          "weight": "6.9lbs (3.1kg)",
+          "twist": "1:7 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt M4 Carbine Magpul SL Blake",
+      "maker": "Colt",
+      "model": "M4 Carbine Magpul SL Blake",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "Colt M4 Carbine Magpul SL Blake",
+        "length": 0.4089,
+        "twistLength": 0.1778,
+        "gunMass": 2.99371,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/m4-carbine/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "16.1\" (408.9 mm)",
+          "weight": "6.6lbs (3.0kg)",
+          "twist": "1:7 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt M4 Carbine OEM",
+      "maker": "Colt",
+      "model": "M4 Carbine OEM",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "Colt M4 Carbine OEM",
+        "length": 0.4089,
+        "twistLength": 0.1778,
+        "gunMass": 2.449399,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/m4-carbine/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "16.1\" (408.9 mm)",
+          "weight": "5.4lbs (2.4kg)",
+          "twist": "1:7 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt M4 Carbine OEM2",
+      "maker": "Colt",
+      "model": "M4 Carbine OEM2",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "Colt M4 Carbine OEM2",
+        "length": 0.4089,
+        "twistLength": 0.1778,
+        "gunMass": 2.313321,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/m4-carbine/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "16.1\" (408.9 mm)",
+          "weight": "5.1lbs (2.3kg)",
+          "twist": "1:7 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt M4 Commando",
+      "maker": "Colt",
+      "model": "M4 Commando",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "Colt M4 Commando",
+        "length": 0.2921,
+        "twistLength": 0.1778,
+        "gunMass": 2.812273,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/m4-carbine/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "11.5\" (292.1 mm)",
+          "weight": "6.2lbs (2.8kg)",
+          "twist": "1:7 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt M4A1 SOCOM",
+      "maker": "Colt",
+      "model": "M4A1 SOCOM",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "Colt M4A1 SOCOM",
+        "length": 0.3683,
+        "twistLength": 0.1778,
+        "gunMass": 3.129787,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/m4-carbine/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "14.5\" (368.3 mm)",
+          "weight": "6.9lbs (3.1kg)",
+          "twist": "1:7 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt M5 Carbine (10.3\") Full Auto",
+      "maker": "Colt",
+      "model": "M5 Carbine (10.3\") Full Auto",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "Colt M5 Carbine (10.3\") Full Auto",
+        "length": 0.2616,
+        "twistLength": 0.1778,
+        "gunMass": 2.7,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/m5-carbine-2/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "10.3\" (261.6 mm)",
+          "weight": "6 lbs (2.7 kg)",
+          "twist": "1:7 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt M5 Carbine (11.5\") Full Auto",
+      "maker": "Colt",
+      "model": "M5 Carbine (11.5\") Full Auto",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "Colt M5 Carbine (11.5\") Full Auto",
+        "length": 0.2921,
+        "twistLength": 0.1778,
+        "gunMass": 2.857632,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/m5-carbine-2/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "11.5\" (292.1 mm)",
+          "weight": "6.3lbs (2.9 kg)",
+          "twist": "1:7 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt M5 Carbine (16.1\") Full Auto",
+      "maker": "Colt",
+      "model": "M5 Carbine (16.1\") Full Auto",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "Colt M5 Carbine (16.1\") Full Auto",
+        "length": 0.4089,
+        "twistLength": 0.1778,
+        "gunMass": 3.084428,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/m5-carbine-2/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "16.1\" (408.9 mm)",
+          "weight": "6.8lbs (3.1 kg)",
+          "twist": "1:7 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt M5 Carbine (16.1\") Semi Auto",
+      "maker": "Colt",
+      "model": "M5 Carbine (16.1\") Semi Auto",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "Colt M5 Carbine (16.1\") Semi Auto",
+        "length": 0.4089,
+        "twistLength": 0.1778,
+        "gunMass": 3.084428,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/m5-carbine-2/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "16.1\" (408.9 mm)",
+          "weight": "6.8lbs (3.1 kg)",
+          "twist": "1:7 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt M5 Sub-Compact Weapon (SCW) Full Auto",
+      "maker": "Colt",
+      "model": "M5 Sub-Compact Weapon (SCW) Full Auto",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "Colt M5 Sub-Compact Weapon (SCW) Full Auto",
+        "length": 0.2616,
+        "twistLength": 0.1778,
+        "gunMass": 2.812273,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/m5-carbine-2/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "10.3\" (261.6 mm)",
+          "weight": "6.2lbs (2.8kg)",
+          "twist": "1:7 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt M16",
+      "maker": "Colt",
+      "model": "M16",
+      "cartridge": "5.56x45mm NATO",
+      "barrel": {
+        "name": "Colt M16",
+        "length": 0.508,
+        "twistLength": 0.1778,
+        "gunMass": 3.265865,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/m16/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56x45mm NATO",
+          "barrelLength": "20\" (508 mm)",
+          "weight": "7.2lbs (3.3kg)",
+          "twist": "1:7 RH, 6 Groove"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt Night Commander (45 ACP)",
+      "maker": "Colt",
+      "model": "Night Commander (45 ACP)",
+      "cartridge": "45 ACP",
+      "barrel": {
+        "name": "Colt Night Commander (45 ACP)",
+        "length": 0.10795,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/night-commander-45-acp/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "45 ACP",
+          "barrelLength": "4.25\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt Optics-Ready 1911 (9MM)",
+      "maker": "Colt",
+      "model": "Optics-Ready 1911 (9MM)",
+      "cartridge": "9mm Luger",
+      "barrel": {
+        "name": "Colt Optics-Ready 1911 (9MM)",
+        "length": 0.127,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/optics-ready-1911-9mm/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "9mm Luger",
+          "barrelLength": "5\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Colt Optics-Ready 1911 (45 ACP)",
+      "maker": "Colt",
+      "model": "Optics-Ready 1911 (45 ACP)",
+      "cartridge": "45 ACP",
+      "barrel": {
+        "name": "Colt Optics-Ready 1911 (45 ACP)",
+        "length": 0.127,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Colt's Manufacturing Company LLC",
+        "url": "https://www.colt.com/detail-page/optics-ready-1911-45-acp/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "45 ACP",
+          "barrelLength": "5\""
+        }
+      }
+    }
+  ]
+}

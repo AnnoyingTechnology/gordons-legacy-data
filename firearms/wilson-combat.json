@@ -1,0 +1,2035 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by Wilson Combat; facts, released in this repository under CC0",
+    "source": "https://wilsoncombat.com",
+    "file": "",
+    "author": "Wilson Combat",
+    "date": "2026-11-02",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat AR9 Carbine, Glock Receiver, 9mm, 16\" Barrel, 1-10 Twist, Black and FDE Combat-Tuff",
+      "maker": "Wilson Combat",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Wilson Combat AR9 Carbine, Glock Receiver, 9mm, 16\" Barrel, 1-10 Twist, Black and FDE Combat-Tuff",
+        "length": 0.4064,
+        "twistLength": 0.254,
+        "gunMass": 3.180816,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/ar9-carbine-glock-receiver-9mm-16-inch-black-and-fde-combat-tuff/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "16\"",
+          "weight": "7 lbs 0.2 oz",
+          "twist": "1-10 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat AR9 Carbine, Glock Receiver, 9mm, 16\" Barrel, 1-10 Twist, Black and Silver Combat-Tuff",
+      "maker": "Wilson Combat",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Wilson Combat AR9 Carbine, Glock Receiver, 9mm, 16\" Barrel, 1-10 Twist, Black and Silver Combat-Tuff",
+        "length": 0.4064,
+        "twistLength": 0.254,
+        "gunMass": 3.180816,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/ar9-carbine-glock-receiver-9mm-16-inch-black-and-silver-combat-tuff/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "16\"",
+          "weight": "7 lbs 0.2 oz",
+          "twist": "1-10 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat AR9 Carbine, Glock Receiver, 9mm, 16\" Barrel, 1-10 Twist, Gray Tiger Stripe Camo",
+      "maker": "Wilson Combat",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Wilson Combat AR9 Carbine, Glock Receiver, 9mm, 16\" Barrel, 1-10 Twist, Gray Tiger Stripe Camo",
+        "length": 0.4064,
+        "twistLength": 0.254,
+        "gunMass": 3.180816,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/ar9-carbine-glock-receiver-9mm-16-inch-gray-tiger-stripe-camo/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "16\"",
+          "weight": "7 lbs 0.2 oz",
+          "twist": "1-10 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat AR9 Carbine, Glock Receiver, 9mm, 16\" Barrel, 1-10 Twist, White Kodiak Camo",
+      "maker": "Wilson Combat",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Wilson Combat AR9 Carbine, Glock Receiver, 9mm, 16\" Barrel, 1-10 Twist, White Kodiak Camo",
+        "length": 0.4064,
+        "twistLength": 0.254,
+        "gunMass": 3.180816,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/ar9-carbine-glock-receiver-9mm-16-inch-white-kodiak-camo/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "16\"",
+          "weight": "7 lbs 0.2 oz",
+          "twist": "1-10 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat AR9B SBR, 11.3\" Barrel, Beretta Receiver, 9mm, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "9mm (uses Beretta 92 series 9mm magazines)",
+      "barrel": {
+        "name": "Wilson Combat AR9B SBR, 11.3\" Barrel, Beretta Receiver, 9mm, Black",
+        "length": 0.28702,
+        "gunMass": 2.99371,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/ar9b-sbr-11-3-inch-beretta-receiver-9mm/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm (uses Beretta 92 series 9mm magazines)",
+          "barrelLength": "11.3\" round threaded",
+          "weight": "6 lbs, 9.6 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat AR9G SBR, 8\" Barrel, GLOCK Receiver, 9mm",
+      "maker": "Wilson Combat",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Wilson Combat AR9G SBR, 8\" Barrel, GLOCK Receiver, 9mm",
+        "length": 0.2032,
+        "gunMass": 2.885981,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/sbr1006m",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "8\" round threaded",
+          "weight": "6 lbs, 5.8 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Classic Supergrade, Two-Tone, .45 ACP, CA Approved",
+      "maker": "Wilson Combat",
+      "cartridge": ".45 ACP",
+      "barrel": {
+        "name": "Wilson Combat Classic Supergrade, Two-Tone, .45 ACP, CA Approved",
+        "length": 0.127,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/classic-supergrade-two-tone-45-acp-ca-approved/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": ".45 ACP",
+          "barrelLength": "5\" Stainless match-grade barrel"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Designated Marksman Rifle, .223 Wylde, 18 Fluted Barrel\", 1-8 Twist, Black",
+      "maker": "Wilson Combat",
+      "cartridge": ".223 Wylde",
+      "barrel": {
+        "name": "Wilson Combat Designated Marksman Rifle, .223 Wylde, 18 Fluted Barrel\", 1-8 Twist, Black",
+        "length": 0.4572,
+        "twistLength": 0.2032,
+        "gunMass": 3.136591,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/designated-marksman-rifle-223-wylde-18-inch-fluted-barrel/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".223 Wylde",
+          "barrelLength": "18\"",
+          "weight": "6 lbs 14.64 oz",
+          "twist": "1-8 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat EDC X9 2.0, 9mm, Black, Black Cherry Grips",
+      "maker": "Wilson Combat",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Wilson Combat EDC X9 2.0, 9mm, Black, Black Cherry Grips",
+        "length": 0.1016,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/handgun7025m",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4\" Stainless Cone barrel with Reliability Enhancing Lock-up, flush cut reverse crown"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat EDC X9, 9mm, Ambi Safety, Gray Frame, Black Slide",
+      "maker": "Wilson Combat",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Wilson Combat EDC X9, 9mm, Ambi Safety, Gray Frame, Black Slide",
+        "length": 0.1016,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/edc-x9-9mm-ambi-safety-gray-frame-black-slide/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4\" Stainless Cone barrel with Reliability Enhancing Lock-up, flush cut reverse crown"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Hunter, .375 SOCOM, 18\" Fluted Barrel, 1-12 Twist, Camo with Green Base",
+      "maker": "Wilson Combat",
+      "cartridge": ".375 SOCOM",
+      "barrel": {
+        "name": "Wilson Combat Hunter, .375 SOCOM, 18\" Fluted Barrel, 1-12 Twist, Camo with Green Base",
+        "length": 0.4572,
+        "twistLength": 0.3048,
+        "gunMass": 2.843457,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/hunter-375-socom-18-inch-fluted-barrel-camo-with-green-base/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".375 SOCOM",
+          "barrelLength": "18\" Fluted crowned muzzle",
+          "weight": "6 lbs, 4.3 oz",
+          "twist": "1-12 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat NULA Model 20, 6.5 Creedmoor, 20\" Barrel, 1-8 Twist, Canyon Rogue",
+      "maker": "Wilson Combat",
+      "cartridge": "6.5mm Creedmoor",
+      "barrel": {
+        "name": "Wilson Combat NULA Model 20, 6.5 Creedmoor, 20\" Barrel, 1-8 Twist, Canyon Rogue",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/nula1032m",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5mm Creedmoor",
+          "barrelLength": "20\" Barrel",
+          "twist": "1-8 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat NULA Model 20, 6.5 Creedmoor, 22\" Barrel, 1-8 Twist, Charcoal Gray",
+      "maker": "Wilson Combat",
+      "cartridge": "6.5mm Creedmoor",
+      "barrel": {
+        "name": "Wilson Combat NULA Model 20, 6.5 Creedmoor, 22\" Barrel, 1-8 Twist, Charcoal Gray",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/nula1034m",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5mm Creedmoor",
+          "barrelLength": "22\" Barrel",
+          "twist": "1-8 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat NULA Model 20, 8.6 Blackout, 16\" Barrel, 1-6 Twist, Kodiak Rogue",
+      "maker": "Wilson Combat",
+      "cartridge": ".6 Blackout",
+      "barrel": {
+        "name": "Wilson Combat NULA Model 20, 8.6 Blackout, 16\" Barrel, 1-6 Twist, Kodiak Rogue",
+        "length": 0.4064,
+        "twistLength": 0.1524,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/nula-model-20-8-6-blackout-16-inch-kodiak-rogue/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": ".6 Blackout",
+          "barrelLength": "16\" Barrel",
+          "twist": "1-6 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat NULA Model 20S, .223 Wylde, 18\" Barrel, 1-8 Twist, Charcoal Gray, 13.5\" LOP",
+      "maker": "Wilson Combat",
+      "cartridge": "223 Wylde",
+      "barrel": {
+        "name": "Wilson Combat NULA Model 20S, .223 Wylde, 18\" Barrel, 1-8 Twist, Charcoal Gray, 13.5\" LOP",
+        "length": 0.4572,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/nula1047m",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "223 Wylde",
+          "barrelLength": "18\" Barrel",
+          "twist": "1-8 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat NULA Model 20S, 300 Blackout, 16\" Barrel, 1-7 Twist, Canyon Rogue, 13.5\" LOP",
+      "maker": "Wilson Combat",
+      "cartridge": "300 Blackout",
+      "barrel": {
+        "name": "Wilson Combat NULA Model 20S, 300 Blackout, 16\" Barrel, 1-7 Twist, Canyon Rogue, 13.5\" LOP",
+        "length": 0.4064,
+        "twistLength": 0.1778,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/nula1050m",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 Blackout",
+          "barrelLength": "16\" Barrel",
+          "twist": "1-7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat NULA Model 20S, 300 Blackout, 16\" Barrel, 1-7 Twist, Kodiak Rogue, 13.5\" LOP",
+      "maker": "Wilson Combat",
+      "cartridge": "300 Blackout",
+      "barrel": {
+        "name": "Wilson Combat NULA Model 20S, 300 Blackout, 16\" Barrel, 1-7 Twist, Kodiak Rogue, 13.5\" LOP",
+        "length": 0.4064,
+        "twistLength": 0.1778,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/nula-model-20s-300-blackout-16-inch-kodiak-rogue/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 Blackout",
+          "barrelLength": "16\" Barrel",
+          "twist": "1-7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat NULA Model 20S, 300 HAM'R, 18\" Barrel, 1-13 Twist, Canyon Rogue, 13.5\" LOP, Varmint Rifle",
+      "maker": "Wilson Combat",
+      "cartridge": "300 HAM'R",
+      "barrel": {
+        "name": "Wilson Combat NULA Model 20S, 300 HAM'R, 18\" Barrel, 1-13 Twist, Canyon Rogue, 13.5\" LOP, Varmint Rifle",
+        "length": 0.4572,
+        "twistLength": 0.3302,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/nula-model-20s-300-hamr-18-inch-varmint-rifle/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 HAM'R",
+          "barrelLength": "18\" Barrel",
+          "twist": "1-13 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat NULA Model 20S, 350 Legend, 16\" Barrel, 1-15 Twist, Canyon Rogue, 13.5\" LOP",
+      "maker": "Wilson Combat",
+      "cartridge": "350 Legend",
+      "barrel": {
+        "name": "Wilson Combat NULA Model 20S, 350 Legend, 16\" Barrel, 1-15 Twist, Canyon Rogue, 13.5\" LOP",
+        "length": 0.4064,
+        "twistLength": 0.381,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/nula-model-20s-350-legend-16-inch/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "350 Legend",
+          "barrelLength": "16\" Barrel",
+          "twist": "1-15 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat NULA, Model 20, .243 Winchester, 20\" Barrel, 1-8 Twist, Canyon Rogue",
+      "maker": "Wilson Combat",
+      "cartridge": ".243 Winchester",
+      "barrel": {
+        "name": "Wilson Combat NULA, Model 20, .243 Winchester, 20\" Barrel, 1-8 Twist, Canyon Rogue",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/nula-model-20-243-winchester-20-inch-kodiak-rogue/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": ".243 Winchester",
+          "barrelLength": "20\" Barrel",
+          "twist": "1-8 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat NULA, Model 20, .308 Winchester, 20\" Barrel, 1-10 Twist, Canyon Rogue",
+      "maker": "Wilson Combat",
+      "cartridge": ".308 Winchester",
+      "barrel": {
+        "name": "Wilson Combat NULA, Model 20, .308 Winchester, 20\" Barrel, 1-10 Twist, Canyon Rogue",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/nula-model-20-308-winchester-20-inch/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": ".308 Winchester",
+          "barrelLength": "20\" Barrel",
+          "twist": "1-10 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat NULA, Model 20, .358 Winchester, 16\" Barrel, 1-14 Twist, Canyon Rogue",
+      "maker": "Wilson Combat",
+      "cartridge": ".358 Winchester",
+      "barrel": {
+        "name": "Wilson Combat NULA, Model 20, .358 Winchester, 16\" Barrel, 1-14 Twist, Canyon Rogue",
+        "length": 0.4064,
+        "twistLength": 0.3556,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/nula-model-20-358-winchester-20-inch-kodiak-rogue/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": ".358 Winchester",
+          "barrelLength": "16\" Barrel",
+          "twist": "1-14 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat NULA, Model 20, 6.5 Creedmoor, 18\" Barrel, 1-8 Twist, Woodland Camo",
+      "maker": "Wilson Combat",
+      "cartridge": "6.5mm Creedmoor",
+      "barrel": {
+        "name": "Wilson Combat NULA, Model 20, 6.5 Creedmoor, 18\" Barrel, 1-8 Twist, Woodland Camo",
+        "length": 0.4572,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/nula-model-20-6-5-creedmoor-18-inch-woodland-camo/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5mm Creedmoor",
+          "barrelLength": "18\" Barrel",
+          "twist": "1-8 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat NULA, Model 20, 6.5 Creedmoor, 22\" Barrel, 1-8 Twist, Kodiak Rogue",
+      "maker": "Wilson Combat",
+      "cartridge": "6.5mm Creedmoor",
+      "barrel": {
+        "name": "Wilson Combat NULA, Model 20, 6.5 Creedmoor, 22\" Barrel, 1-8 Twist, Kodiak Rogue",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/nula-model-20-6-5-creedmoor-22-inch-kodiak-rogue/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "6.5mm Creedmoor",
+          "barrelLength": "22\" Barrel",
+          "twist": "1-8 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat NULA, Model 20S, .223 Wylde, 18\" Barrel, 1-8 Twist, Canyon Rogue, 12.75\" LOP",
+      "maker": "Wilson Combat",
+      "cartridge": ".223 WYLDE",
+      "barrel": {
+        "name": "Wilson Combat NULA, Model 20S, .223 Wylde, 18\" Barrel, 1-8 Twist, Canyon Rogue, 12.75\" LOP",
+        "length": 0.4572,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/nula-model-20s-223-wylde-18-inch/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": ".223 WYLDE",
+          "barrelLength": "18\" Barrel",
+          "twist": "1-8 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat NULA, Model 20S, .223 Wylde, 18\" Barrel, 1-8 Twist, Kodiak Rogue, 12.75\" LOP",
+      "maker": "Wilson Combat",
+      "cartridge": "223 Wylde",
+      "barrel": {
+        "name": "Wilson Combat NULA, Model 20S, .223 Wylde, 18\" Barrel, 1-8 Twist, Kodiak Rogue, 12.75\" LOP",
+        "length": 0.4572,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/nula-model-20s-223-wylde-18-inch-kodiak-rogue/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "223 Wylde",
+          "barrelLength": "18\" Barrel",
+          "twist": "1-8 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat NULA, Model 20S, 300 HAM'R, 16\" Barrel, 1-15 Twist, Canyon Rogue, 13.5\" LOP",
+      "maker": "Wilson Combat",
+      "cartridge": "300 HAM'R",
+      "barrel": {
+        "name": "Wilson Combat NULA, Model 20S, 300 HAM'R, 16\" Barrel, 1-15 Twist, Canyon Rogue, 13.5\" LOP",
+        "length": 0.4064,
+        "twistLength": 0.381,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/nula-model-20s-300-hamr-16-inch/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 HAM'R",
+          "barrelLength": "16\" Barrel",
+          "twist": "1-15 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat NULA, Model 20S, 300 HAM'R, 16\" Barrel, 1-15 Twist, Charcoal Gray, 13.5\" LOP",
+      "maker": "Wilson Combat",
+      "cartridge": "300 HAM'R",
+      "barrel": {
+        "name": "Wilson Combat NULA, Model 20S, 300 HAM'R, 16\" Barrel, 1-15 Twist, Charcoal Gray, 13.5\" LOP",
+        "length": 0.4064,
+        "twistLength": 0.381,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/nula-model-20s-300-hamr-16-inch-charcoal-gray/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 HAM'R",
+          "barrelLength": "16\" Barrel",
+          "twist": "1-15 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat NULA, Model 20S, 300 HAM'R, 18\" Barrel, 1-13 Twist, Kodiak Rogue, 13.5\" LOP, Varmint Rifle",
+      "maker": "Wilson Combat",
+      "cartridge": "300 HAM'R",
+      "barrel": {
+        "name": "Wilson Combat NULA, Model 20S, 300 HAM'R, 18\" Barrel, 1-13 Twist, Kodiak Rogue, 13.5\" LOP, Varmint Rifle",
+        "length": 0.4572,
+        "twistLength": 0.3302,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/nula-model-20s-300-hamr-18-inch-kodiak-rogue-varmint-rifle/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 HAM'R",
+          "barrelLength": "18\" Barrel",
+          "twist": "1-13 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat NULA, Model 20S, 300 HAM'R, 18\" Barrel, 1-15 Twist, Canyon Rogue, 13.5\" LOP",
+      "maker": "Wilson Combat",
+      "cartridge": "300 HAM'R",
+      "barrel": {
+        "name": "Wilson Combat NULA, Model 20S, 300 HAM'R, 18\" Barrel, 1-15 Twist, Canyon Rogue, 13.5\" LOP",
+        "length": 0.4572,
+        "twistLength": 0.381,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/nula-model-20s-300-hamr-18-inch/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 HAM'R",
+          "barrelLength": "18\" Barrel",
+          "twist": "1-15 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat NULA, Model 20S, 300 HAM'R, 18\" Barrel, 1-15 Twist, Charcoal Gray, 13.5\" LOP",
+      "maker": "Wilson Combat",
+      "cartridge": "300 HAM'R",
+      "barrel": {
+        "name": "Wilson Combat NULA, Model 20S, 300 HAM'R, 18\" Barrel, 1-15 Twist, Charcoal Gray, 13.5\" LOP",
+        "length": 0.4572,
+        "twistLength": 0.381,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/nula-model-20s-300-hamr-18-inch-charcoal-gray/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "300 HAM'R",
+          "barrelLength": "18\" Barrel",
+          "twist": "1-15 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat NULA, Model 20S, 350 Legend, 16\" Barrel, 1-15 Twist, Kodiak Rogue, 13.5\" LOP",
+      "maker": "Wilson Combat",
+      "cartridge": "350 Legend",
+      "barrel": {
+        "name": "Wilson Combat NULA, Model 20S, 350 Legend, 16\" Barrel, 1-15 Twist, Kodiak Rogue, 13.5\" LOP",
+        "length": 0.4064,
+        "twistLength": 0.381,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/nula-model-20s-350-legend-16-inch-kodiak-rogue/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "350 Legend",
+          "barrelLength": "16\" Barrel",
+          "twist": "1-15 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Protector Carbine, 300 HAM'R, 16\" Barrel, 1-15 Twist, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "300 HAM'R",
+      "barrel": {
+        "name": "Wilson Combat Protector Carbine, 300 HAM'R, 16\" Barrel, 1-15 Twist, Black",
+        "length": 0.4064,
+        "twistLength": 0.381,
+        "gunMass": 2.94835,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/protector-carbine-300-hamr-16-inch/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 HAM'R",
+          "barrelLength": "16\" (Non-Fluted, Threaded)",
+          "weight": "6 lbs 8 oz",
+          "twist": "1-15 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Protector Carbine, 300 HAM'R, 16\" Barrel, 1-15 Twist, Green Tiger Stripe Camo",
+      "maker": "Wilson Combat",
+      "cartridge": "300 HAM'R",
+      "barrel": {
+        "name": "Wilson Combat Protector Carbine, 300 HAM'R, 16\" Barrel, 1-15 Twist, Green Tiger Stripe Camo",
+        "length": 0.4064,
+        "twistLength": 0.381,
+        "gunMass": 2.94835,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/protector-carbine-300-hamr-16-inch-green-tiger-stripe-camo/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 HAM'R",
+          "barrelLength": "16\" (Non-Fluted, Threaded)",
+          "weight": "6 lbs 8 oz",
+          "twist": "1-15 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Protector Carbine, 350 Legend, 16\" Barrel, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "350 Legend",
+      "barrel": {
+        "name": "Wilson Combat Protector Carbine, 350 Legend, 16\" Barrel, Black",
+        "length": 0.4064,
+        "gunMass": 2.94835,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/rifle4351m",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "350 Legend",
+          "barrelLength": "16\" (Non-Fluted, Threaded)",
+          "weight": "6 lbs 8 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Protector Carbine, 350 Legend, 16\" Barrel, Forest Camo",
+      "maker": "Wilson Combat",
+      "cartridge": "350 Legend",
+      "barrel": {
+        "name": "Wilson Combat Protector Carbine, 350 Legend, 16\" Barrel, Forest Camo",
+        "length": 0.4064,
+        "gunMass": 2.94835,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/protector-carbine-350-legend-16-inch-forest-camo/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "350 Legend",
+          "barrelLength": "16\" (Non-Fluted, Threaded)",
+          "weight": "6 lbs 8 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Protector Carbine, California Compliant, 300 HAM'R, 16\" Barrel, 1-15 Twist, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "300 HAM'R",
+      "barrel": {
+        "name": "Wilson Combat Protector Carbine, California Compliant, 300 HAM'R, 16\" Barrel, 1-15 Twist, Black",
+        "length": 0.4064,
+        "twistLength": 0.381,
+        "gunMass": 3.050409,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/protector-carbine-california-compliant-300-hamr-16-inch-black/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 HAM'R",
+          "barrelLength": "16\"",
+          "weight": "6 lbs 11.6 oz",
+          "twist": "1-15 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Protector Carbine, California Compliant, 350 Legend, 16\" Barrel, Black Anodize",
+      "maker": "Wilson Combat",
+      "cartridge": "350 Legend",
+      "barrel": {
+        "name": "Wilson Combat Protector Carbine, California Compliant, 350 Legend, 16\" Barrel, Black Anodize",
+        "length": 0.4064,
+        "gunMass": 3.050409,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/protector-carbine-california-compliant-350-legend-16-inch-black-anodize/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "350 Legend",
+          "barrelLength": "16\"",
+          "weight": "6 lbs 11.6 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Protector Elite Carbine, 5.56 NATO, 16\" Round Barrel, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Wilson Combat Protector Elite Carbine, 5.56 NATO, 16\" Round Barrel, Black",
+        "length": 0.4064,
+        "gunMass": 2.99371,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/protector-elite-carbine-5-56-nato-16-inch-round-barrel/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "16\" round threaded",
+          "weight": "6 lbs, 9.6 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Ranger, .243 WIN, 16\" Barrel, 1-10 Twist, Flat Dark Earth",
+      "maker": "Wilson Combat",
+      "cartridge": ".243 Winchester",
+      "barrel": {
+        "name": "Wilson Combat Ranger, .243 WIN, 16\" Barrel, 1-10 Twist, Flat Dark Earth",
+        "length": 0.4064,
+        "twistLength": 0.254,
+        "gunMass": 3.518176,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/ranger-243-win-16-inch/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".243 Winchester",
+          "barrelLength": "16\" (Non-Fluted, Threaded)",
+          "weight": "7 lbs, 12.1 oz",
+          "twist": "1-10 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Ranger, 6.8 SPC II, 16\" Barrel, 1-11 Twist, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "6.8mm SPC",
+      "barrel": {
+        "name": "Wilson Combat Ranger, 6.8 SPC II, 16\" Barrel, 1-11 Twist, Black",
+        "length": 0.4064,
+        "twistLength": 0.2794,
+        "gunMass": 2.783923,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/ranger-6-8-spc-ii-16-inch/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6.8mm SPC",
+          "barrelLength": "16\" round threaded",
+          "weight": "6 lbs, 2.2 oz",
+          "twist": "1-11 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Ranger, 300 Blackout, 16\" Barrel, 1-7 Twist, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "300 Blackout",
+      "barrel": {
+        "name": "Wilson Combat Ranger, 300 Blackout, 16\" Barrel, 1-7 Twist, Black",
+        "length": 0.4064,
+        "twistLength": 0.1778,
+        "gunMass": 2.871807,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/ranger-300-blackout-16-inch/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 Blackout",
+          "barrelLength": "16\" round threaded (1-7 twist rate)",
+          "weight": "6 lbs, 5.3 oz",
+          "twist": "1-7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Recon Tactical Rifle, .204 Ruger, 18\" Barrel, 1-12 Twist, Black",
+      "maker": "Wilson Combat",
+      "cartridge": ".204 Ruger",
+      "barrel": {
+        "name": "Wilson Combat Recon Tactical Rifle, .204 Ruger, 18\" Barrel, 1-12 Twist, Black",
+        "length": 0.4572,
+        "twistLength": 0.3048,
+        "gunMass": 3.407613,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/rifle4929m",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".204 Ruger",
+          "barrelLength": "18\"",
+          "weight": "7 lbs, 8.2 oz",
+          "twist": "1-12 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Recon Tactical, .338 Federal, 16\" Fluted Barrel, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "338 Federal",
+      "barrel": {
+        "name": "Wilson Combat Recon Tactical, .338 Federal, 16\" Fluted Barrel, Black",
+        "length": 0.4064,
+        "gunMass": 3.57204,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/recon-tactical-338-federal-16-inch-fluted-barrel/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "338 Federal",
+          "barrelLength": "16\"",
+          "weight": "7 lbs, 14 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Recon Tactical, .450 Bushmaster, 16\", 1-24 Twist, Fluted, Black",
+      "maker": "Wilson Combat",
+      "cartridge": ".450 Bushmaster",
+      "barrel": {
+        "name": "Wilson Combat Recon Tactical, .450 Bushmaster, 16\", 1-24 Twist, Fluted, Black",
+        "length": 0.4064,
+        "twistLength": 0.6096,
+        "gunMass": 2.996545,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/recon-tactical-450-bushmaster-16-inch-fluted/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".450 Bushmaster",
+          "barrelLength": "16\"",
+          "weight": "6 lbs, 9.7 oz",
+          "twist": "1-24 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Recon Tactical, .458 SOCOM, 16\" Barrel, 1-14 twist, Fluted, Black",
+      "maker": "Wilson Combat",
+      "cartridge": ".458 SOCOM",
+      "barrel": {
+        "name": "Wilson Combat Recon Tactical, .458 SOCOM, 16\" Barrel, 1-14 twist, Fluted, Black",
+        "length": 0.4064,
+        "twistLength": 0.3556,
+        "gunMass": 3.022059,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/recon-tactical-458-socom-16-inch-fluted/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".458 SOCOM",
+          "barrelLength": "16\"",
+          "weight": "6 lbs, 10.6 oz",
+          "twist": "1-14 twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Recon Tactical, .458 SOCOM, 16\" Barrel, 1-22 twist, Black",
+      "maker": "Wilson Combat",
+      "cartridge": ".458 SOCOM",
+      "barrel": {
+        "name": "Wilson Combat Recon Tactical, .458 SOCOM, 16\" Barrel, 1-22 twist, Black",
+        "length": 0.4064,
+        "twistLength": 0.5588,
+        "gunMass": 3.022059,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/recon-tactical-458-socom-16-inch/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".458 SOCOM",
+          "barrelLength": "16\"",
+          "weight": "6 lbs, 10.6 oz",
+          "twist": "1-22 twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Recon Tactical, .458 SOCOM, 16\" Barrel, Fluted, 1-14 twist, Coyote Tan",
+      "maker": "Wilson Combat",
+      "cartridge": ".458 SOCOM",
+      "barrel": {
+        "name": "Wilson Combat Recon Tactical, .458 SOCOM, 16\" Barrel, Fluted, 1-14 twist, Coyote Tan",
+        "length": 0.4064,
+        "twistLength": 0.3556,
+        "gunMass": 3.022059,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/recon-tactical-458-socom-16-inch-fluted-coyote-tan/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".458 SOCOM",
+          "barrelLength": "16\"",
+          "weight": "6 lbs, 10.6 oz",
+          "twist": "1-14 twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Recon Tactical, 5.56 NATO, 16\" Barrel, 1-8 Twist, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Wilson Combat Recon Tactical, 5.56 NATO, 16\" Barrel, 1-8 Twist, Black",
+        "length": 0.4064,
+        "twistLength": 0.2032,
+        "gunMass": 3.194991,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/rifle4330m",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "16\"",
+          "weight": "7 lbs, 0.7 oz",
+          "twist": "1-8 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Recon Tactical, 6.5 Grendel, 18\", 1-8 Twist, Fluted, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "6.5mm Grendel",
+      "barrel": {
+        "name": "Wilson Combat Recon Tactical, 6.5 Grendel, 18\", 1-8 Twist, Fluted, Black",
+        "length": 0.4572,
+        "twistLength": 0.2032,
+        "gunMass": 3.243185,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/recon-tactical-6-5-grendel-18-inch-fluted/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6.5mm Grendel",
+          "barrelLength": "18\"",
+          "weight": "7 lbs, 2.4 oz",
+          "twist": "1-8 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Recon Tactical, 22 ARC, 18\", 1-8 Twist, Fluted, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "22 ARC",
+      "barrel": {
+        "name": "Wilson Combat Recon Tactical, 22 ARC, 18\", 1-8 Twist, Fluted, Black",
+        "length": 0.4572,
+        "twistLength": 0.2032,
+        "gunMass": 3.175147,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/recon-tactical-22-arc-18-inch-fluted-black/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "22 ARC",
+          "barrelLength": "18\"",
+          "weight": "7 lbs, 0 oz",
+          "twist": "1-8 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Recon Tactical, 22 ARC, 18\", 1-8 Twist, Fluted, Gray",
+      "maker": "Wilson Combat",
+      "cartridge": "22 ARC",
+      "barrel": {
+        "name": "Wilson Combat Recon Tactical, 22 ARC, 18\", 1-8 Twist, Fluted, Gray",
+        "length": 0.4572,
+        "twistLength": 0.2032,
+        "gunMass": 3.175147,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/recon-tactical-22-arc-18-inch-fluted-gray/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "22 ARC",
+          "barrelLength": "18\"",
+          "weight": "7 lbs, 0 oz",
+          "twist": "1-8 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Recon Tactical, 300 HAM'R, 16\" Barrel, 1-15 Twist, Crimson Smoke",
+      "maker": "Wilson Combat",
+      "cartridge": "300 HAM'R",
+      "barrel": {
+        "name": "Wilson Combat Recon Tactical, 300 HAM'R, 16\" Barrel, 1-15 Twist, Crimson Smoke",
+        "length": 0.4064,
+        "twistLength": 0.381,
+        "gunMass": 3.073088,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/recon-tactical-300-hamr-16-inch-crimson-smoke/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 HAM'R",
+          "barrelLength": "16\"",
+          "weight": "6 lbs, 12.4 oz",
+          "twist": "1-15 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Recon Tactical, California Compliant, 5.56 NATO, 16\" Barrel, 1-8 Twist, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Wilson Combat Recon Tactical, California Compliant, 5.56 NATO, 16\" Barrel, 1-8 Twist, Black",
+        "length": 0.4064,
+        "twistLength": 0.2032,
+        "gunMass": 3.194991,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/recon-tactical-california-compliant-5-56-nato-16-inch/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "16\"",
+          "weight": "7 lbs, 0.7 oz",
+          "twist": "1-8 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat SBR Tactical, 8\" Barrel, 5.56mm NATO, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Wilson Combat SBR Tactical, 8\" Barrel, 5.56mm NATO, Black",
+        "length": 0.2032,
+        "gunMass": 2.659185,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/sbr-tactical-8-inch-5-56-nato/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "8\" round threaded",
+          "weight": "5 lbs, 13.8 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat SBR Tactical, 11.3\" Barrel, 5.56mm NATO, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "5.56mm NATO",
+      "barrel": {
+        "name": "Wilson Combat SBR Tactical, 11.3\" Barrel, 5.56mm NATO, Black",
+        "length": 0.28702,
+        "gunMass": 2.891651,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/sbr-tactical-11-3-inch-5-56-nato/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "5.56mm NATO",
+          "barrelLength": "11.3\" round threaded",
+          "weight": "6 lbs, 6 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat SBR Tactical, 11.3\" Barrel, 300 Blackout, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "300 Blackout",
+      "barrel": {
+        "name": "Wilson Combat SBR Tactical, 11.3\" Barrel, 300 Blackout, Black",
+        "length": 0.28702,
+        "gunMass": 2.727224,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/sbr-tactical-11-3-inch-300-blackout/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 Blackout",
+          "barrelLength": "11.3\" round threaded",
+          "weight": "6 lbs, 0.2 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat SBR Tactical, 300 HAM'R, 11.3\" Barrel, 1-13 Twist, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "300 Blackout",
+      "barrel": {
+        "name": "Wilson Combat SBR Tactical, 300 HAM'R, 11.3\" Barrel, 1-13 Twist, Black",
+        "length": 0.28702,
+        "twistLength": 0.3302,
+        "gunMass": 2.727224,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/sbr-tactical-300-ham-r-11-3-barrel-1-13-twist-black/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 Blackout",
+          "barrelLength": "11.3\" round threaded",
+          "weight": "6 lbs, 0.2 oz",
+          "twist": "1-13 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Sentinel, Armor-Tuff, 9mm, Ambi, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Wilson Combat Sentinel, Armor-Tuff, 9mm, Ambi, Black",
+        "length": 0.09144,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/sentinel-armor-tuff-9mm-ambi/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "3.6\" Stainless Steel match-grade cone barrel, hand fit"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Sentinel, Armor-Tuff, 9mm, Ambi, Lightweight Frame, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Wilson Combat Sentinel, Armor-Tuff, 9mm, Ambi, Lightweight Frame, Black",
+        "length": 0.09144,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/sentinel-armor-tuff-9mm-ambi-lightweight-frame/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "3.6\" Stainless Steel match-grade cone barrel, hand fit"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat SFX9, 10 round, 3.25\", 9mm, Ambi Safety, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Wilson Combat SFX9, 10 round, 3.25\", 9mm, Ambi Safety, Black",
+        "length": 0.08255,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/sfx9-10-round-3-25-inch-9mm-ambi-safety/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "3.25\" Stainless Cone barrel with Reliability Enhancing Lock-up, flush cut reverse crown"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat SFX9, 10 round, Lightrail, 3.25\", 9mm, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Wilson Combat SFX9, 10 round, Lightrail, 3.25\", 9mm, Black",
+        "length": 0.08255,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/sfx9-10-round-lightrail-3-25-inch-9mm/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "3.25\" Stainless Cone barrel with Reliability Enhancing Lock-up, flush cut reverse crown"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat SFX9, 15 Round, 4\", 9mm, Lightrail, Black / Gray",
+      "maker": "Wilson Combat",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Wilson Combat SFX9, 15 Round, 4\", 9mm, Lightrail, Black / Gray",
+        "length": 0.1016,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/sfx9-15-round-4-inch-9mm-lightrail-black-gray/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4\" Stainless Cone barrel with Reliability Enhancing Lock-up, flush cut reverse crown"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat SFX9, 15 Round, Lightrail Frame, 4\" Slide, 9mm, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "9mm",
+      "barrel": {
+        "name": "Wilson Combat SFX9, 15 Round, Lightrail Frame, 4\" Slide, 9mm, Black",
+        "length": 0.1016,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/sfx9-15-round-lightrail-frame-4-slide-9mm-black/handgun7353",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "9mm",
+          "barrelLength": "4\" Stainless Cone barrel with Reliability Enhancing Lock-up, flush cut reverse crown"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Super Sniper, .224 Valkyrie, 22\" Fluted Barrel, 1-6.5 Twist, Fluted, Black",
+      "maker": "Wilson Combat",
+      "cartridge": ".224 Valkyrie",
+      "barrel": {
+        "name": "Wilson Combat Super Sniper, .224 Valkyrie, 22\" Fluted Barrel, 1-6.5 Twist, Fluted, Black",
+        "length": 0.5588,
+        "twistLength": 0.1651,
+        "gunMass": 3.719457,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/super-sniper-224-valkyrie-22-inch-fluted-barrel/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".224 Valkyrie",
+          "barrelLength": "22\"",
+          "weight": "8 lbs 3.2 oz",
+          "twist": "1-6.5 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Super Sniper, .308 Winchester, 20\" Fluted Barrel, Gray Tiger Stripe Camo",
+      "maker": "Wilson Combat",
+      "cartridge": ".308 Winchester",
+      "barrel": {
+        "name": "Wilson Combat Super Sniper, .308 Winchester, 20\" Fluted Barrel, Gray Tiger Stripe Camo",
+        "length": 0.508,
+        "gunMass": 4.065322,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/super-sniper-308-winchester-20-inch-fluted-barrel-gray-tiger-stripe-camo/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".308 Winchester",
+          "barrelLength": "20\"",
+          "weight": "8 lbs, 15.4 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Super Sniper, .308 Winchester, 20\" Fluted, Threaded Barrel, Black",
+      "maker": "Wilson Combat",
+      "cartridge": ".308 Winchester",
+      "barrel": {
+        "name": "Wilson Combat Super Sniper, .308 Winchester, 20\" Fluted, Threaded Barrel, Black",
+        "length": 0.508,
+        "gunMass": 4.065322,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/super-sniper-308-winchester-20-inch-fluted-threaded-barrel/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".308 Winchester",
+          "barrelLength": "20\"",
+          "weight": "8 lbs, 15.4 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Super Sniper, 6.5 Creedmoor, 24\" Fluted Barrel, Fluted, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "6.5mm Creedmoor",
+      "barrel": {
+        "name": "Wilson Combat Super Sniper, 6.5 Creedmoor, 24\" Fluted Barrel, Fluted, Black",
+        "length": 0.6096,
+        "gunMass": 4.124856,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/rifle4416m",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6.5mm Creedmoor",
+          "barrelLength": "24\"",
+          "weight": "9 lbs, 1.5 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Super Sniper, 6.5 Grendel, 22\" Fluted Barrel, 1-8 Twist, Black",
+      "maker": "Wilson Combat",
+      "cartridge": ".6.5mm Grendel",
+      "barrel": {
+        "name": "Wilson Combat Super Sniper, 6.5 Grendel, 22\" Fluted Barrel, 1-8 Twist, Black",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gunMass": 3.716622,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/rifle4366m",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".6.5mm Grendel",
+          "barrelLength": "22\" fluted threaded",
+          "weight": "8 lbs, 3.1 oz",
+          "twist": "1-8 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Tactical Hunter Rifle, 6mm ARC, 18\" Fluted Barrel, Orange Digi-Cam",
+      "maker": "Wilson Combat",
+      "cartridge": "6mm ARC",
+      "barrel": {
+        "name": "Wilson Combat Tactical Hunter Rifle, 6mm ARC, 18\" Fluted Barrel, Orange Digi-Cam",
+        "length": 0.4572,
+        "gunMass": 3.118448,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/tactical-hunter-rifle-6mm-arc-18-inch-fluted-barrel-orange-digi-cam/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "6mm ARC",
+          "barrelLength": "18\"",
+          "weight": "6 lbs, 14 oz"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Tactical Hunter, .260 Remington, 20\" Fluted Barrel, 1-8 Twist, Black",
+      "maker": "Wilson Combat",
+      "cartridge": ".260 Remington",
+      "barrel": {
+        "name": "Wilson Combat Tactical Hunter, .260 Remington, 20\" Fluted Barrel, 1-8 Twist, Black",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gunMass": 3.702448,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/tactical-hunter-260-remington-20-inch-fluted-barrel/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".260 Remington",
+          "barrelLength": "20\"",
+          "weight": "8 lbs, 2.6 oz",
+          "twist": "1-8 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Tactical Hunter, .308 Winchester, 18\", 1-11.25 Twist, Fluted, Black",
+      "maker": "Wilson Combat",
+      "cartridge": ".308 Winchester",
+      "barrel": {
+        "name": "Wilson Combat Tactical Hunter, .308 Winchester, 18\", 1-11.25 Twist, Fluted, Black",
+        "length": 0.4572,
+        "twistLength": 0.28575,
+        "gunMass": 3.53802,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/rifle4289m",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".308 Winchester",
+          "barrelLength": "18\" fluted threaded",
+          "weight": "7 lbs, 12.8 oz",
+          "twist": "1-11.25 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Tactical Hunter, .338 Federal, 18\" Fluted Barrel, 1-12 Twist, Forest Camo",
+      "maker": "Wilson Combat",
+      "cartridge": ".338 Federal",
+      "barrel": {
+        "name": "Wilson Combat Tactical Hunter, .338 Federal, 18\" Fluted Barrel, 1-12 Twist, Forest Camo",
+        "length": 0.4572,
+        "twistLength": 0.3048,
+        "gunMass": 3.540855,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/tactical-hunter-338-federal-18-inch-fluted-barrel-forest-camo/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".338 Federal",
+          "barrelLength": "18\" fluted threaded",
+          "weight": "7 lbs, 12.9 oz",
+          "twist": "1-12 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Tactical Hunter, 7mm-08 Remington, 18\" Barrel, Blue / White",
+      "maker": "Wilson Combat",
+      "cartridge": "7mm-08 Remington",
+      "barrel": {
+        "name": "Wilson Combat Tactical Hunter, 7mm-08 Remington, 18\" Barrel, Blue / White",
+        "length": 0.4572,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/tactical-hunter-7mm-08-remington-18-inch-blue-white/",
+        "retrieved": "2026-11-02",
+        "published": {
+          "caliber": "7mm-08 Remington",
+          "barrelLength": "18\" Barrel"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Tactical Ultralight, 300 HAM'R, 16\" Barrel, 1-15 Twist, Black",
+      "maker": "Wilson Combat",
+      "cartridge": "300 HAM'R",
+      "barrel": {
+        "name": "Wilson Combat Tactical Ultralight, 300 HAM'R, 16\" Barrel, 1-15 Twist, Black",
+        "length": 0.4064,
+        "twistLength": 0.381,
+        "gunMass": 2.523108,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/rifle4323m",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 HAM'R",
+          "barrelLength": "16\"",
+          "weight": "5 lbs, 9 oz",
+          "twist": "1-15 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Tactical Ultralight, 300 HAM'R, 16\" Barrel, 1-15 Twist, Gray Urban Camo",
+      "maker": "Wilson Combat",
+      "cartridge": "300 HAM'R",
+      "barrel": {
+        "name": "Wilson Combat Tactical Ultralight, 300 HAM'R, 16\" Barrel, 1-15 Twist, Gray Urban Camo",
+        "length": 0.4064,
+        "twistLength": 0.381,
+        "gunMass": 2.523108,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/rifle4324m",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 HAM'R",
+          "barrelLength": "16\"",
+          "weight": "5 lbs, 9 oz",
+          "twist": "1-15 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Ultralight Hunter, 300 Blackout, 16\", 1-7 Twist, Round, Forest Camo",
+      "maker": "Wilson Combat",
+      "cartridge": "300 Blackout",
+      "barrel": {
+        "name": "Wilson Combat Ultralight Hunter, 300 Blackout, 16\", 1-7 Twist, Round, Forest Camo",
+        "length": 0.4064,
+        "twistLength": 0.1778,
+        "gunMass": 2.384195,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/ultralight-hunter-300-blackout-16-inch-forest-camo-green-base/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": "300 Blackout",
+          "barrelLength": "16\"",
+          "weight": "5 lbs, 4.1 oz",
+          "twist": "1-7 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Ultralight Ranger, .243 Winchester, 16\" Barrel, 1-10 Twist, Black",
+      "maker": "Wilson Combat",
+      "cartridge": ".243 Winchester",
+      "barrel": {
+        "name": "Wilson Combat Ultralight Ranger, .243 Winchester, 16\" Barrel, 1-10 Twist, Black",
+        "length": 0.4064,
+        "twistLength": 0.254,
+        "gunMass": 3.345244,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/ultralight-ranger-243-winchester-16-inch/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".243 Winchester",
+          "barrelLength": "16\" round threaded",
+          "weight": "7lbs, 6 oz",
+          "twist": "1-10 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Ultralight Ranger, .308 Winchester, 16\" Barrel, 1-11.25 Twist, Black",
+      "maker": "Wilson Combat",
+      "cartridge": ".308 Winchester",
+      "barrel": {
+        "name": "Wilson Combat Ultralight Ranger, .308 Winchester, 16\" Barrel, 1-11.25 Twist, Black",
+        "length": 0.4064,
+        "twistLength": 0.28575,
+        "gunMass": 3.325399,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/ultralight-ranger-308-winchester-16-inch/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".308 Winchester",
+          "barrelLength": "16\" round threaded",
+          "weight": "7 lbs, 5.3 oz",
+          "twist": "1-11.25 Twist"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Wilson Combat Ultralight Ranger, .358 Winchester, 16\" Barrel, 1-14 Twist, Black",
+      "maker": "Wilson Combat",
+      "cartridge": ".358 Winchester",
+      "barrel": {
+        "name": "Wilson Combat Ultralight Ranger, .358 Winchester, 16\" Barrel, 1-14 Twist, Black",
+        "length": 0.4064,
+        "twistLength": 0.3556,
+        "gunMass": 3.345244,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Wilson Combat",
+        "url": "https://wilsoncombat.com/ultralight-ranger-358-winchester-16-inch/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".358 Winchester",
+          "barrelLength": "16\" round threaded",
+          "weight": "7 lbs, 6 oz",
+          "twist": "1-14 Twist"
+        }
+      }
+    }
+  ]
+}

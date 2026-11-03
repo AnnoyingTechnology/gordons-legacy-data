@@ -1,0 +1,720 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by Nosler, Inc.; facts, released in this repository under CC0",
+    "source": "https://www.nosler.com",
+    "file": "",
+    "author": "Nosler, Inc.",
+    "date": "2026-11-02",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Limited Edition M21 Carbon Rifle 28 Nosler",
+      "maker": "Nosler",
+      "model": "Limited Edition M21 Carbon Rifle",
+      "cartridge": "28 Nosler",
+      "barrel": {
+        "name": "Nosler Limited Edition M21 Carbon Rifle 28 Nosler",
+        "length": 0.6096,
+        "twistLength": 0.254,
+        "gunMass": 3.197826208,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/limited-edition-m21-carbon-rifle",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24\"",
+          "weight": "7.05 lbs",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Limited Edition M21 Carbon Rifle 308 Win",
+      "maker": "Nosler",
+      "model": "Limited Edition M21 Carbon Rifle",
+      "cartridge": "308 Win",
+      "barrel": {
+        "name": "Nosler Limited Edition M21 Carbon Rifle 308 Win",
+        "length": 0.4064,
+        "gunMass": 2.676194983,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/limited-edition-m21-carbon-rifle",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "16\"",
+          "weight": "5.9 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 21 6.5 Creedmoor",
+      "maker": "Nosler",
+      "model": "Model 21",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Nosler Model 21 6.5 Creedmoor",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gunMass": 3.084428116,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-21-rifles.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "22\"",
+          "weight": "6.8 lbs",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 21 26 Nosler",
+      "maker": "Nosler",
+      "model": "Model 21",
+      "cartridge": "26 Nosler",
+      "barrel": {
+        "name": "Nosler Model 21 26 Nosler",
+        "length": 0.6096,
+        "gunMass": 3.220505827,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-21-rifles.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24\"",
+          "weight": "7.1 lbs"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 21 27 Nosler",
+      "maker": "Nosler",
+      "model": "Model 21",
+      "cartridge": "27 Nosler",
+      "barrel": {
+        "name": "Nosler Model 21 27 Nosler",
+        "length": 0.6096,
+        "twistLength": 0.2159,
+        "gunMass": 3.220505827,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-21-rifles.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24\"",
+          "weight": "7.1 lbs",
+          "twist": "1:8.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 21 28 Nosler",
+      "maker": "Nosler",
+      "model": "Model 21",
+      "cartridge": "28 Nosler",
+      "barrel": {
+        "name": "Nosler Model 21 28 Nosler",
+        "length": 0.6096,
+        "twistLength": 0.2286,
+        "gunMass": 3.220505827,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-21-rifles.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24\"",
+          "weight": "7.1 lbs",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 21 30 Nosler",
+      "maker": "Nosler",
+      "model": "Model 21",
+      "cartridge": "30 Nosler",
+      "barrel": {
+        "name": "Nosler Model 21 30 Nosler",
+        "length": 0.6096,
+        "twistLength": 0.254,
+        "gunMass": 3.220505827,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-21-rifles.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24\"",
+          "weight": "7.1 lbs",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 21 33 Nosler",
+      "maker": "Nosler",
+      "model": "Model 21",
+      "cartridge": "33 Nosler",
+      "barrel": {
+        "name": "Nosler Model 21 33 Nosler",
+        "length": 0.6096,
+        "twistLength": 0.254,
+        "gunMass": 3.220505827,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-21-rifles.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24\"",
+          "weight": "7.1 lbs",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 21 280 Ackley Improved",
+      "maker": "Nosler",
+      "model": "Model 21",
+      "cartridge": "280 Ackley Improved",
+      "barrel": {
+        "name": "Nosler Model 21 280 Ackley Improved",
+        "length": 0.6096,
+        "twistLength": 0.2286,
+        "gunMass": 3.220505827,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-21-rifles.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24\"",
+          "weight": "7.1 lbs",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 21 300 Win Mag",
+      "maker": "Nosler",
+      "model": "Model 21",
+      "cartridge": "300 Win Mag",
+      "barrel": {
+        "name": "Nosler Model 21 300 Win Mag",
+        "length": 0.6096,
+        "twistLength": 0.254,
+        "gunMass": 3.220505827,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-21-rifles.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24\"",
+          "weight": "7.1 lbs",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 21 308 Win",
+      "maker": "Nosler",
+      "model": "Model 21",
+      "cartridge": "308 Win",
+      "barrel": {
+        "name": "Nosler Model 21 308 Win",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gunMass": 3.084428116,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-21-rifles.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "22\"",
+          "weight": "6.8 lbs",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 21 375 H&H Mag",
+      "maker": "Nosler",
+      "model": "Model 21",
+      "cartridge": "375 H&H Mag",
+      "barrel": {
+        "name": "Nosler Model 21 375 H&H Mag",
+        "length": 0.5588,
+        "twistLength": 0.3048,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-21-rifles.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "22\"",
+          "weight": "7.0 lbs",
+          "twist": "1:12"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 48 Long-Range Carbon Rifle 6.5 Creedmoor",
+      "maker": "Nosler",
+      "model": "Model 48 Long-Range Carbon Rifle",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Nosler Model 48 Long-Range Carbon Rifle 6.5 Creedmoor",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-48-long-range-carbon-rifle.html",
+        "retrieved": "2026-11-02",
+        "published": {
+          "barrelLength": "26\"",
+          "twist": "1-8\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 48 Long-Range Carbon Rifle 26 Nosler",
+      "maker": "Nosler",
+      "model": "Model 48 Long-Range Carbon Rifle",
+      "cartridge": "26 Nosler",
+      "barrel": {
+        "name": "Nosler Model 48 Long-Range Carbon Rifle 26 Nosler",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-48-long-range-carbon-rifle.html",
+        "retrieved": "2026-11-02",
+        "published": {
+          "barrelLength": "26\"",
+          "twist": "1-8\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 48 Long-Range Carbon Rifle 27 Nosler",
+      "maker": "Nosler",
+      "model": "Model 48 Long-Range Carbon Rifle",
+      "cartridge": "27 Nosler",
+      "barrel": {
+        "name": "Nosler Model 48 Long-Range Carbon Rifle 27 Nosler",
+        "length": 0.6604,
+        "twistLength": 0.2159,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-48-long-range-carbon-rifle.html",
+        "retrieved": "2026-11-02",
+        "published": {
+          "barrelLength": "26\"",
+          "twist": "1-8.5\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 48 Long-Range Carbon Rifle 28 Nosler",
+      "maker": "Nosler",
+      "model": "Model 48 Long-Range Carbon Rifle",
+      "cartridge": "28 Nosler",
+      "barrel": {
+        "name": "Nosler Model 48 Long-Range Carbon Rifle 28 Nosler",
+        "length": 0.6604,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-48-long-range-carbon-rifle.html",
+        "retrieved": "2026-11-02",
+        "published": {
+          "barrelLength": "26\"",
+          "twist": "1-9\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 48 Long-Range Carbon Rifle 30 Nosler",
+      "maker": "Nosler",
+      "model": "Model 48 Long-Range Carbon Rifle",
+      "cartridge": "30 Nosler",
+      "barrel": {
+        "name": "Nosler Model 48 Long-Range Carbon Rifle 30 Nosler",
+        "length": 0.6604,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-48-long-range-carbon-rifle.html",
+        "retrieved": "2026-11-02",
+        "published": {
+          "barrelLength": "26\"",
+          "twist": "1-9\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 48 Long-Range Carbon Rifle 33 Nosler",
+      "maker": "Nosler",
+      "model": "Model 48 Long-Range Carbon Rifle",
+      "cartridge": "33 Nosler",
+      "barrel": {
+        "name": "Nosler Model 48 Long-Range Carbon Rifle 33 Nosler",
+        "length": 0.6604,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-48-long-range-carbon-rifle.html",
+        "retrieved": "2026-11-02",
+        "published": {
+          "barrelLength": "26\"",
+          "twist": "1-10\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 48 Long-Range Carbon Rifle 300 Win Mag",
+      "maker": "Nosler",
+      "model": "Model 48 Long-Range Carbon Rifle",
+      "cartridge": "300 Win Mag",
+      "barrel": {
+        "name": "Nosler Model 48 Long-Range Carbon Rifle 300 Win Mag",
+        "length": 0.6604,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-48-long-range-carbon-rifle.html",
+        "retrieved": "2026-11-02",
+        "published": {
+          "barrelLength": "26\"",
+          "twist": "1-9\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 48 Mountain Carbon Rifle 6.5 Creedmoor",
+      "maker": "Nosler",
+      "model": "Model 48 Mountain Carbon Rifle",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Nosler Model 48 Mountain Carbon Rifle 6.5 Creedmoor",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gunMass": 2.72155422,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-48r-mountain-carbon-rifle.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24\"",
+          "weight": "6.0 lbs",
+          "twist": "1-8\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 48 Mountain Carbon Rifle 26 Nosler",
+      "maker": "Nosler",
+      "model": "Model 48 Mountain Carbon Rifle",
+      "cartridge": "26 Nosler",
+      "barrel": {
+        "name": "Nosler Model 48 Mountain Carbon Rifle 26 Nosler",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gunMass": 2.72155422,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-48r-mountain-carbon-rifle.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24\"",
+          "weight": "6.0 lbs",
+          "twist": "1-8\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 48 Mountain Carbon Rifle 27 Nosler",
+      "maker": "Nosler",
+      "model": "Model 48 Mountain Carbon Rifle",
+      "cartridge": "27 Nosler",
+      "barrel": {
+        "name": "Nosler Model 48 Mountain Carbon Rifle 27 Nosler",
+        "length": 0.6096,
+        "twistLength": 0.2159,
+        "gunMass": 2.72155422,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-48r-mountain-carbon-rifle.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24\"",
+          "weight": "6.0 lbs",
+          "twist": "1-8.5\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 48 Mountain Carbon Rifle 28 Nosler",
+      "maker": "Nosler",
+      "model": "Model 48 Mountain Carbon Rifle",
+      "cartridge": "28 Nosler",
+      "barrel": {
+        "name": "Nosler Model 48 Mountain Carbon Rifle 28 Nosler",
+        "length": 0.6096,
+        "twistLength": 0.2286,
+        "gunMass": 2.72155422,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-48r-mountain-carbon-rifle.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24\"",
+          "weight": "6.0 lbs",
+          "twist": "1-9\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 48 Mountain Carbon Rifle 30 Nosler",
+      "maker": "Nosler",
+      "model": "Model 48 Mountain Carbon Rifle",
+      "cartridge": "30 Nosler",
+      "barrel": {
+        "name": "Nosler Model 48 Mountain Carbon Rifle 30 Nosler",
+        "length": 0.6096,
+        "twistLength": 0.2286,
+        "gunMass": 2.72155422,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-48r-mountain-carbon-rifle.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24\"",
+          "weight": "6.0 lbs",
+          "twist": "1-9\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 48 Mountain Carbon Rifle 33 Nosler",
+      "maker": "Nosler",
+      "model": "Model 48 Mountain Carbon Rifle",
+      "cartridge": "33 Nosler",
+      "barrel": {
+        "name": "Nosler Model 48 Mountain Carbon Rifle 33 Nosler",
+        "length": 0.6096,
+        "twistLength": 0.254,
+        "gunMass": 2.72155422,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-48r-mountain-carbon-rifle.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24\"",
+          "weight": "6.0 lbs",
+          "twist": "1-10\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 48 Mountain Carbon Rifle 280 Ackley Imp",
+      "maker": "Nosler",
+      "model": "Model 48 Mountain Carbon Rifle",
+      "cartridge": "280 Ackley Imp",
+      "barrel": {
+        "name": "Nosler Model 48 Mountain Carbon Rifle 280 Ackley Imp",
+        "length": 0.6096,
+        "twistLength": 0.2286,
+        "gunMass": 2.72155422,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-48r-mountain-carbon-rifle.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24\"",
+          "weight": "6.0 lbs",
+          "twist": "1-9\""
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Nosler Model 48 Mountain Carbon Rifle 300 Win Mag",
+      "maker": "Nosler",
+      "model": "Model 48 Mountain Carbon Rifle",
+      "cartridge": "300 Win Mag",
+      "barrel": {
+        "name": "Nosler Model 48 Mountain Carbon Rifle 300 Win Mag",
+        "length": 0.6096,
+        "twistLength": 0.2286,
+        "gunMass": 2.72155422,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Nosler, Inc.",
+        "url": "https://www.nosler.com/model-48r-mountain-carbon-rifle.html",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24\"",
+          "weight": "6.0 lbs",
+          "twist": "1-9\""
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by Montana Rifle Company; facts, released in this repository under CC0",
+    "source": "https://montanarifleco.com",
+    "file": "",
+    "author": "Montana Rifle Company",
+    "date": "2026-11-02",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Montana Rifle Company Highline .300 Win Mag",
+      "maker": "Montana Rifle Company",
+      "model": "Highline",
+      "cartridge": ".300 Win Mag",
+      "barrel": {
+        "name": "Montana Rifle Company Highline .300 Win Mag",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gunMass": 3.265865064,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Montana Rifle Company",
+        "url": "https://montanarifleco.com/rifles/highline/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "26\"",
+          "weight": "7.2lbs",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Montana Rifle Company Highline .308 Win",
+      "maker": "Montana Rifle Company",
+      "model": "Highline",
+      "cartridge": ".308 Win",
+      "barrel": {
+        "name": "Montana Rifle Company Highline .308 Win",
+        "length": 0.6096,
+        "twistLength": 0.254,
+        "gunMass": 3.084428116,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Montana Rifle Company",
+        "url": "https://montanarifleco.com/rifles/highline/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24\"",
+          "weight": "6.8lbs",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Montana Rifle Company Highline 6.5 Creedmoor",
+      "maker": "Montana Rifle Company",
+      "model": "Highline",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Montana Rifle Company Highline 6.5 Creedmoor",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gunMass": 3.084428116,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Montana Rifle Company",
+        "url": "https://montanarifleco.com/rifles/highline/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24\"",
+          "weight": "6.8lbs",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Montana Rifle Company Highline 6.5 PRC",
+      "maker": "Montana Rifle Company",
+      "model": "Highline",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Montana Rifle Company Highline 6.5 PRC",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gunMass": 2.948350405,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Montana Rifle Company",
+        "url": "https://montanarifleco.com/rifles/highline/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "6.5lbs",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Montana Rifle Company Highline 7mm PRC",
+      "maker": "Montana Rifle Company",
+      "model": "Highline",
+      "cartridge": "7mm PRC",
+      "barrel": {
+        "name": "Montana Rifle Company Highline 7mm PRC",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Montana Rifle Company",
+        "url": "https://montanarifleco.com/rifles/highline/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24\"",
+          "weight": "7lbs",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Montana Rifle Company Junction .300 Win Mag",
+      "maker": "Montana Rifle Company",
+      "model": "Junction",
+      "cartridge": ".300 Win Mag",
+      "barrel": {
+        "name": "Montana Rifle Company Junction .300 Win Mag",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gunMass": 3.447302012,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Montana Rifle Company",
+        "url": "https://montanarifleco.com/rifles/junction/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "26\"",
+          "weight": "7.6lbs",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Montana Rifle Company Junction .308 Win",
+      "maker": "Montana Rifle Company",
+      "model": "Junction",
+      "cartridge": ".308 Win",
+      "barrel": {
+        "name": "Montana Rifle Company Junction .308 Win",
+        "length": 0.6096,
+        "twistLength": 0.254,
+        "gunMass": 3.084428116,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Montana Rifle Company",
+        "url": "https://montanarifleco.com/rifles/junction/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24\"",
+          "weight": "6.8lbs",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Montana Rifle Company Junction 6.5 Creedmoor",
+      "maker": "Montana Rifle Company",
+      "model": "Junction",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Montana Rifle Company Junction 6.5 Creedmoor",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gunMass": 3.084428116,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Montana Rifle Company",
+        "url": "https://montanarifleco.com/rifles/junction/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24\"",
+          "weight": "6.8lbs",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Montana Rifle Company Junction 6.5 PRC",
+      "maker": "Montana Rifle Company",
+      "model": "Junction",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Montana Rifle Company Junction 6.5 PRC",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gunMass": 2.948350405,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Montana Rifle Company",
+        "url": "https://montanarifleco.com/rifles/junction/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "20\"",
+          "weight": "6.5lbs",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Montana Rifle Company Junction 7mm PRC",
+      "maker": "Montana Rifle Company",
+      "model": "Junction",
+      "cartridge": "7mm PRC",
+      "barrel": {
+        "name": "Montana Rifle Company Junction 7mm PRC",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gunMass": 3.17514659,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Montana Rifle Company",
+        "url": "https://montanarifleco.com/rifles/junction/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "24\"",
+          "weight": "7lbs",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Montana Rifle Company Marshall 6 Creedmoor",
+      "maker": "Montana Rifle Company",
+      "model": "Marshall",
+      "cartridge": "6 Creedmoor",
+      "barrel": {
+        "name": "Montana Rifle Company Marshall 6 Creedmoor",
+        "length": 0.4572,
+        "twistLength": 0.1778,
+        "gunMass": 2.948350405,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Montana Rifle Company",
+        "url": "https://montanarifleco.com/rifles/marshall/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "18\"",
+          "weight": "6.5lbs",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Montana Rifle Company Marshall 6.5 Creedmoor",
+      "maker": "Montana Rifle Company",
+      "model": "Marshall",
+      "cartridge": "6.5 Creedmoor",
+      "barrel": {
+        "name": "Montana Rifle Company Marshall 6.5 Creedmoor",
+        "length": 0.4572,
+        "twistLength": 0.2032,
+        "gunMass": 2.948350405,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Montana Rifle Company",
+        "url": "https://montanarifleco.com/rifles/marshall/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "18\"",
+          "weight": "6.5lbs",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Montana Rifle Company Marshall 6.5 PRC",
+      "maker": "Montana Rifle Company",
+      "model": "Marshall",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Montana Rifle Company Marshall 6.5 PRC",
+        "length": 0.4572,
+        "twistLength": 0.2032,
+        "gunMass": 2.948350405,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Montana Rifle Company",
+        "url": "https://montanarifleco.com/rifles/marshall/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "18\"",
+          "weight": "6.5lbs",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Montana Rifle Company Marshall 22 Creedmoor",
+      "maker": "Montana Rifle Company",
+      "model": "Marshall",
+      "cartridge": "22 Creedmoor",
+      "barrel": {
+        "name": "Montana Rifle Company Marshall 22 Creedmoor",
+        "length": 0.4572,
+        "twistLength": 0.1778,
+        "gunMass": 2.948350405,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Montana Rifle Company",
+        "url": "https://montanarifleco.com/rifles/marshall/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "18\"",
+          "weight": "6.5lbs",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Montana Rifle Company Marshall 308 WIN",
+      "maker": "Montana Rifle Company",
+      "model": "Marshall",
+      "cartridge": "308 WIN",
+      "barrel": {
+        "name": "Montana Rifle Company Marshall 308 WIN",
+        "length": 0.4572,
+        "twistLength": 0.254,
+        "gunMass": 2.948350405,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Montana Rifle Company",
+        "url": "https://montanarifleco.com/rifles/marshall/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "18\"",
+          "weight": "6.5lbs",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Montana Rifle Company Tsavo .375 H&H",
+      "maker": "Montana Rifle Company",
+      "model": "Tsavo",
+      "cartridge": ".375 H&H",
+      "barrel": {
+        "name": "Montana Rifle Company Tsavo .375 H&H",
+        "length": 0.5842,
+        "twistLength": 0.3048,
+        "gunMass": 3.62873896,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Montana Rifle Company",
+        "url": "https://montanarifleco.com/rifles/tsavo/",
+        "retrieved": "2026-11-02",
+        "massBasis": "unstated",
+        "published": {
+          "barrelLength": "23\"",
+          "weight": "8lbs",
+          "twist": "1:12"
+        }
+      }
+    }
+  ]
+}

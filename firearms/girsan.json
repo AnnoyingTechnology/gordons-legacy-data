@@ -1,0 +1,2610 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by Girsan Arms Industry; facts, released in this repository under CC0",
+    "source": "https://www.girsan.com",
+    "file": "",
+    "author": "Girsan Arms Industry",
+    "date": "2026-10-16",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Compact MC Black",
+      "maker": "Girsan",
+      "model": "Compact MC Black",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Compact MC Black",
+        "length": 0.11,
+        "gunMass": 0.83,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/compact-mc-black/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "110 mm",
+          "weight": "830 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Compact MC Black Gold Pieced",
+      "maker": "Girsan",
+      "model": "Compact MC Black Gold Pieced",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Compact MC Black Gold Pieced",
+        "length": 0.11,
+        "gunMass": 0.83,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/compact-mc-black-gold-pieced/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "110 mm",
+          "weight": "830 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Compact MC Bright White",
+      "maker": "Girsan",
+      "model": "Compact MC Bright White",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Compact MC Bright White",
+        "length": 0.11,
+        "gunMass": 0.83,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/compact-mc-bright-white/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "110 mm",
+          "weight": "830 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Compact MC Gold Plated",
+      "maker": "Girsan",
+      "model": "Compact MC Gold Plated",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Compact MC Gold Plated",
+        "length": 0.11,
+        "gunMass": 0.83,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/compact-mc-gold-plated/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "110 mm",
+          "weight": "830 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Compact MC White Gold Pieced",
+      "maker": "Girsan",
+      "model": "Compact MC White Gold Pieced",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Compact MC White Gold Pieced",
+        "length": 0.11,
+        "gunMass": 0.83,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/compact-mc-white-gold-pieced/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "110 mm",
+          "weight": "830 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 9 Barret Brown",
+      "maker": "Girsan",
+      "model": "MC 9 Barret Brown",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC 9 Barret Brown",
+        "length": 0.108,
+        "gunMass": 0.7,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-9-barret-brown/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "108 mm",
+          "weight": "700 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 9 Black",
+      "maker": "Girsan",
+      "model": "MC 9 Black",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC 9 Black",
+        "length": 0.108,
+        "gunMass": 0.7,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-9-black/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "108 mm",
+          "weight": "700 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 9 BX OD Green Camo",
+      "maker": "Girsan",
+      "model": "MC 9 BX OD Green Camo",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC 9 BX OD Green Camo",
+        "length": 0.108,
+        "gunMass": 0.71,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-9-bx-od-green-camo/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "108 mm",
+          "weight": "710 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 9 BX Two Tone",
+      "maker": "Girsan",
+      "model": "MC 9 BX Two Tone",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC 9 BX Two Tone",
+        "length": 0.108,
+        "gunMass": 0.71,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-9-bx-two-tone/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "108 mm",
+          "weight": "710 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 9 OD Green",
+      "maker": "Girsan",
+      "model": "MC 9 OD Green",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC 9 OD Green",
+        "length": 0.108,
+        "gunMass": 0.7,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-9-od-green/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "108 mm",
+          "weight": "700 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 9 Two Tone",
+      "maker": "Girsan",
+      "model": "MC 9 Two Tone",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC 9 Two Tone",
+        "length": 0.108,
+        "gunMass": 0.7,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-9-two-tone/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "108 mm",
+          "weight": "700 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 9 Xtreme Black",
+      "maker": "Girsan",
+      "model": "MC 9 Xtreme Black",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC 9 Xtreme Black",
+        "length": 0.108,
+        "gunMass": 0.7,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-9-xtreme-black/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "108 mm",
+          "weight": "700 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 9 Xtreme Black Camo",
+      "maker": "Girsan",
+      "model": "MC 9 Xtreme Black Camo",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC 9 Xtreme Black Camo",
+        "length": 0.108,
+        "gunMass": 0.7,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-9-xtreme-black-camo/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "108 mm",
+          "weight": "700 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 9 Xtreme BX",
+      "maker": "Girsan",
+      "model": "MC 9 Xtreme BX",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC 9 Xtreme BX",
+        "length": 0.1205,
+        "gunMass": 0.71,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-9-xtreme-bx/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "120.5 mm",
+          "weight": "710 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 9 Xtreme Fardot",
+      "maker": "Girsan",
+      "model": "MC 9 Xtreme Fardot",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC 9 Xtreme Fardot",
+        "length": 0.108,
+        "gunMass": 0.7,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-9-xtreme-fardot/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "108 mm",
+          "weight": "700 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 9S Black",
+      "maker": "Girsan",
+      "model": "MC 9S Black",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC 9S Black",
+        "length": 0.108,
+        "gunMass": 0.7,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-9s-black/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "108 mm",
+          "weight": "700 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 9T BX Match Comp.",
+      "maker": "Girsan",
+      "model": "MC 9T BX Match Comp.",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC 9T BX Match Comp.",
+        "length": 0.1355,
+        "gunMass": 0.75,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-9t-bx-match-comp/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "135.5 mm",
+          "weight": "750 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 9T Match",
+      "maker": "Girsan",
+      "model": "MC 9T Match",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC 9T Match",
+        "length": 0.108,
+        "gunMass": 0.7,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-9t-match/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "108 mm",
+          "weight": "700 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 9T Match Comp",
+      "maker": "Girsan",
+      "model": "MC 9T Match Comp",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC 9T Match Comp",
+        "length": 0.108,
+        "gunMass": 0.7,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-9t-match-comp/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "108 mm",
+          "weight": "700 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 13 Black",
+      "maker": "Girsan",
+      "model": "MC 13 Black",
+      "cartridge": "7.65 mm",
+      "barrel": {
+        "name": "Girsan MC 13 Black",
+        "length": 0.097,
+        "gunMass": 0.615,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-13-black/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "7.65 mm",
+          "barrelLength": "97 mm",
+          "weight": "615 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 13 Chrome",
+      "maker": "Girsan",
+      "model": "MC 13 Chrome",
+      "cartridge": "7.65 mm",
+      "barrel": {
+        "name": "Girsan MC 13 Chrome",
+        "length": 0.097,
+        "gunMass": 0.615,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-13-chrome/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "7.65 mm",
+          "barrelLength": "97 mm",
+          "weight": "615 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 14 Black",
+      "maker": "Girsan",
+      "model": "MC 14 Black",
+      "cartridge": ".380 Auto",
+      "barrel": {
+        "name": "Girsan MC 14 Black",
+        "length": 0.097,
+        "gunMass": 0.615,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-14-black/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".380ACP",
+          "barrelLength": "97 mm",
+          "weight": "615 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 14 Chrome",
+      "maker": "Girsan",
+      "model": "MC 14 Chrome",
+      "cartridge": ".380 Auto",
+      "barrel": {
+        "name": "Girsan MC 14 Chrome",
+        "length": 0.097,
+        "gunMass": 0.615,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-14-chrome/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".380ACP",
+          "barrelLength": "97 mm",
+          "weight": "615 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 14 Select",
+      "maker": "Girsan",
+      "model": "MC 14 Select",
+      "cartridge": ".380 Auto",
+      "barrel": {
+        "name": "Girsan MC 14 Select",
+        "length": 0.097,
+        "gunMass": 0.615,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-14-select/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".380ACP",
+          "barrelLength": "97 mm",
+          "weight": "615 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 14 T CAL",
+      "maker": "Girsan",
+      "model": "MC 14 T CAL",
+      "cartridge": ".380 Auto",
+      "barrel": {
+        "name": "Girsan MC 14 T CAL",
+        "length": 0.115,
+        "gunMass": 0.665,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-14-t-cal/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".380ACP",
+          "barrelLength": "115 mm",
+          "weight": "665 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 14 T Gold",
+      "maker": "Girsan",
+      "model": "MC 14 T Gold",
+      "cartridge": ".380 Auto",
+      "barrel": {
+        "name": "Girsan MC 14 T Gold",
+        "length": 0.115,
+        "gunMass": 0.665,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-14-t-gold/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".380ACP",
+          "barrelLength": "115 mm",
+          "weight": "665 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 14 T Lady",
+      "maker": "Girsan",
+      "model": "MC 14 T Lady",
+      "cartridge": ".380 Auto",
+      "barrel": {
+        "name": "Girsan MC 14 T Lady",
+        "length": 0.115,
+        "gunMass": 0.665,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-14-t-lady/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".380ACP",
+          "barrelLength": "115 mm",
+          "weight": "665 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 14 TX",
+      "maker": "Girsan",
+      "model": "MC 14 TX",
+      "cartridge": ".380 Auto",
+      "barrel": {
+        "name": "Girsan MC 14 TX",
+        "length": 0.12635,
+        "gunMass": 0.67,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-14-tx/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".380ACP",
+          "barrelLength": "126.35 mm",
+          "weight": "670 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 14 TX Solution",
+      "maker": "Girsan",
+      "model": "MC 14 TX Solution",
+      "cartridge": ".380 Auto",
+      "barrel": {
+        "name": "Girsan MC 14 TX Solution",
+        "length": 0.12635,
+        "gunMass": 0.67,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-14-tx-solution/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".380ACP",
+          "barrelLength": "126.35 mm",
+          "weight": "670 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 28 Barret Brown",
+      "maker": "Girsan",
+      "model": "MC 28 Barret Brown",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC 28 Barret Brown",
+        "length": 0.1205,
+        "gunMass": 0.74,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-28-barret-brown/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9x 19 mm",
+          "barrelLength": "120.5 mm",
+          "weight": "740 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 28 Black",
+      "maker": "Girsan",
+      "model": "MC 28 Black",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC 28 Black",
+        "length": 0.1205,
+        "gunMass": 0.74,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-28-black/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9x 19 mm",
+          "barrelLength": "120.5 mm",
+          "weight": "740 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 28 OD Green",
+      "maker": "Girsan",
+      "model": "MC 28 OD Green",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC 28 OD Green",
+        "length": 0.1205,
+        "gunMass": 0.74,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-28-od-green/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9x 19 mm",
+          "barrelLength": "120.5 mm",
+          "weight": "740 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 28 T BX Barret Brown",
+      "maker": "Girsan",
+      "model": "MC 28 T BX Barret Brown",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC 28 T BX Barret Brown",
+        "length": 0.1205,
+        "gunMass": 0.74,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-28-t-bx-barret-brown/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9x 19 mm",
+          "barrelLength": "120.5 mm",
+          "weight": "740 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 28 T Fardot",
+      "maker": "Girsan",
+      "model": "MC 28 T Fardot",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC 28 T Fardot",
+        "length": 0.1205,
+        "gunMass": 0.74,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-28-t-fardot/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9x 19 mm",
+          "barrelLength": "120.5 mm",
+          "weight": "740 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 28 Two Tone",
+      "maker": "Girsan",
+      "model": "MC 28 Two Tone",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC 28 Two Tone",
+        "length": 0.1205,
+        "gunMass": 0.74,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-28-two-tone/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9x 19 mm",
+          "barrelLength": "120.5 mm",
+          "weight": "740 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 28S Black",
+      "maker": "Girsan",
+      "model": "MC 28S Black",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC 28S Black",
+        "length": 0.1205,
+        "gunMass": 0.74,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-28s-black/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9x 19 mm",
+          "barrelLength": "120.5 mm",
+          "weight": "740 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 39 Black",
+      "maker": "Girsan",
+      "model": "MC 39 Black",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC 39 Black",
+        "length": 0.12055,
+        "gunMass": 0.89,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-39-black/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9x 19 mm",
+          "barrelLength": "120.55 mm",
+          "weight": "890 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 39 Tungsten",
+      "maker": "Girsan",
+      "model": "MC 39 Tungsten",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC 39 Tungsten",
+        "length": 0.12055,
+        "gunMass": 0.89,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-39-tungsten/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9x 19 mm",
+          "barrelLength": "120.55 mm",
+          "weight": "890 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 Barret Brown",
+      "maker": "Girsan",
+      "model": "MC 1911 Barret Brown",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 Barret Brown",
+        "length": 0.1108,
+        "gunMass": 1.022,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-barret-brown/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".45ACP",
+          "barrelLength": "110.8 mm",
+          "weight": "1022 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 Black Camo",
+      "maker": "Girsan",
+      "model": "MC 1911 Black Camo",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 Black Camo",
+        "length": 0.1108,
+        "gunMass": 1.022,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-black-camo/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".45ACP",
+          "barrelLength": "110.8 mm",
+          "weight": "1022 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 C Black",
+      "maker": "Girsan",
+      "model": "MC 1911 C Black",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 C Black",
+        "length": 0.1108,
+        "gunMass": 1.04,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-c-black/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".45ACP",
+          "barrelLength": "110.8 mm",
+          "weight": "1040 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 C Comp",
+      "maker": "Girsan",
+      "model": "MC 1911 C Comp",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 C Comp",
+        "length": 0.1108,
+        "gunMass": 1.022,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-c-comp/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".45ACP",
+          "barrelLength": "110.8 mm",
+          "weight": "1022 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 C OD Green",
+      "maker": "Girsan",
+      "model": "MC 1911 C OD Green",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 C OD Green",
+        "length": 0.1108,
+        "gunMass": 1.04,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-c-od-green/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".45ACP",
+          "barrelLength": "110.8 mm",
+          "weight": "1040 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 C Two Tone",
+      "maker": "Girsan",
+      "model": "MC 1911 C Two Tone",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 C Two Tone",
+        "length": 0.1108,
+        "gunMass": 1.04,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-c-two-tone/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".45ACP",
+          "barrelLength": "110.8 mm",
+          "weight": "1040 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 C10 Black",
+      "maker": "Girsan",
+      "model": "MC 1911 C10 Black",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 C10 Black",
+        "length": 0.111,
+        "gunMass": 1.05,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-c10-black/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "10 mm",
+          "barrelLength": "111 mm",
+          "weight": "1050 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 Chrome",
+      "maker": "Girsan",
+      "model": "MC 1911 Chrome",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 Chrome",
+        "length": 0.1108,
+        "gunMass": 1.022,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-chrome/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".45ACP",
+          "barrelLength": "110.8 mm",
+          "weight": "1022 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 Combat",
+      "maker": "Girsan",
+      "model": "MC 1911 Combat",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 Combat",
+        "length": 0.1108,
+        "gunMass": 1.022,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-combat/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".45ACP",
+          "barrelLength": "110.8 mm",
+          "weight": "1022 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 Commander Chrome",
+      "maker": "Girsan",
+      "model": "MC 1911 Commander Chrome",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC 1911 Commander Chrome",
+        "length": 0.1108,
+        "gunMass": 1.022,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-c-chrome/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9X19MM",
+          "barrelLength": "110.8 mm",
+          "weight": "1022 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 Deluxe",
+      "maker": "Girsan",
+      "model": "MC 1911 Deluxe",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 Deluxe",
+        "length": 0.1108,
+        "gunMass": 1.022,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-deluxe/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".45ACP",
+          "barrelLength": "110.8 mm",
+          "weight": "1022 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 Deluxe .38 Super",
+      "maker": "Girsan",
+      "model": "MC 1911 Deluxe",
+      "cartridge": ".38 Super",
+      "barrel": {
+        "name": "Girsan MC 1911 Deluxe .38 Super",
+        "length": 0.1278,
+        "gunMass": 1.11,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-deluxe-super/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".38SUPER",
+          "barrelLength": "127.8 mm",
+          "weight": "1110 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 Gold",
+      "maker": "Girsan",
+      "model": "MC 1911 Gold",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 Gold",
+        "length": 0.1108,
+        "gunMass": 1.022,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-gold/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".45ACP",
+          "barrelLength": "110.8 mm",
+          "weight": "1022 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 Lux",
+      "maker": "Girsan",
+      "model": "MC 1911 Lux",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 Lux",
+        "length": 0.1108,
+        "gunMass": 1.022,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-lux/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".45ACP",
+          "barrelLength": "110.8 mm",
+          "weight": "1022 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 Match Black",
+      "maker": "Girsan",
+      "model": "MC 1911 Match Black",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 Match Black",
+        "length": 0.1108,
+        "gunMass": 1.022,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-match-black/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".45ACP",
+          "barrelLength": "110.8 mm",
+          "weight": "1022 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 Match Elite Chrome",
+      "maker": "Girsan",
+      "model": "MC 1911 Match Elite Chrome",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 Match Elite Chrome",
+        "length": 0.1108,
+        "gunMass": 1.022,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-match-elite-chrome/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".45ACP",
+          "barrelLength": "110.8 mm",
+          "weight": "1022 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 S Hunter Black",
+      "maker": "Girsan",
+      "model": "MC 1911 S Hunter Black",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 S Hunter Black",
+        "length": 0.155,
+        "gunMass": 1.19,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-s-hunter-black/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "10 mm",
+          "barrelLength": "155 mm",
+          "weight": "1190 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 S Hunter OD Green Camo",
+      "maker": "Girsan",
+      "model": "MC 1911 S Hunter OD Green Camo",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 S Hunter OD Green Camo",
+        "length": 0.155,
+        "gunMass": 1.19,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-s-hunter-od-green-camo/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "10 mm",
+          "barrelLength": "155 mm",
+          "weight": "1190 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 S10 Combat",
+      "maker": "Girsan",
+      "model": "MC 1911 S10 Combat",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 S10 Combat",
+        "length": 0.1279,
+        "gunMass": 1.12,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-s-black/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "10 MM",
+          "barrelLength": "127.9 mm",
+          "weight": "1120 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 S10 Hunter Barret Brown",
+      "maker": "Girsan",
+      "model": "MC 1911 S10 Hunter Barret Brown",
+      "cartridge": "10mm Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 S10 Hunter Barret Brown",
+        "length": 0.155,
+        "gunMass": 1.19,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-hunter-barret-brown/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "10 mm",
+          "barrelLength": "155 mm",
+          "weight": "1190 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 SC Black",
+      "maker": "Girsan",
+      "model": "MC 1911 SC Black",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 SC Black",
+        "length": 0.1108,
+        "gunMass": 1.022,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-sc-black/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".45ACP",
+          "barrelLength": "110.8 mm",
+          "weight": "1022 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 SC Fardot Black",
+      "maker": "Girsan",
+      "model": "MC 1911 SC Fardot Black",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 SC Fardot Black",
+        "length": 0.1108,
+        "gunMass": 1.022,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-sc-fardot-black/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".45ACP",
+          "barrelLength": "110.8 mm",
+          "weight": "1022 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 SC Optic Black",
+      "maker": "Girsan",
+      "model": "MC 1911 SC Optic Black",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 SC Optic Black",
+        "length": 0.1108,
+        "gunMass": 1.022,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-st-optic-black/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".45ACP",
+          "barrelLength": "110.8 mm",
+          "weight": "1022 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 SC Rose Gold",
+      "maker": "Girsan",
+      "model": "MC 1911 SC Rose Gold",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 SC Rose Gold",
+        "length": 0.1108,
+        "gunMass": 1.022,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-sc-rose-gold/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".45ACP",
+          "barrelLength": "110.8 mm",
+          "weight": "1022 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 SC Two Tone",
+      "maker": "Girsan",
+      "model": "MC 1911 SC Two Tone",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 SC Two Tone",
+        "length": 0.1108,
+        "gunMass": 1.022,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-sc-two-tone/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".45ACP",
+          "barrelLength": "110.8 mm",
+          "weight": "1022 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 SC Two Tone 1",
+      "maker": "Girsan",
+      "model": "MC 1911 SC Two Tone 1",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 SC Two Tone 1",
+        "length": 0.1108,
+        "gunMass": 1.022,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-sc-two-tone-1/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".45ACP",
+          "barrelLength": "110.8 mm",
+          "weight": "1022 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 SC Ultimate Barret Brown",
+      "maker": "Girsan",
+      "model": "MC 1911 SC Ultimate Barret Brown",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 SC Ultimate Barret Brown",
+        "length": 0.1108,
+        "gunMass": 1.022,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-sc-ultimate-barret-brown/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".45ACP",
+          "barrelLength": "110.8 mm",
+          "weight": "1022 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 Two Tone",
+      "maker": "Girsan",
+      "model": "MC 1911 Two Tone",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 Two Tone",
+        "length": 0.1108,
+        "gunMass": 1.022,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-two-tone/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".45ACP",
+          "barrelLength": "110.8 mm",
+          "weight": "1022 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC 1911 Xtreme",
+      "maker": "Girsan",
+      "model": "MC 1911 Xtreme",
+      "cartridge": ".45 Auto",
+      "barrel": {
+        "name": "Girsan MC 1911 Xtreme",
+        "length": 0.1108,
+        "gunMass": 1.022,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-1911-xtreme/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": ".45ACP",
+          "barrelLength": "110.8 mm",
+          "weight": "1022 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC P35 CAL",
+      "maker": "Girsan",
+      "model": "MC P35 CAL",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC P35 CAL",
+        "length": 0.1238,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-p35-cal/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "9X19 mm",
+          "barrelLength": "123.8 mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC P35 CAL Liberador",
+      "maker": "Girsan",
+      "model": "MC P35 CAL Liberador",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC P35 CAL Liberador",
+        "length": 0.1238,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-p35-cal-liberador/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "9X19 mm",
+          "barrelLength": "123.8 mm"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC P35 PI Black",
+      "maker": "Girsan",
+      "model": "MC P35 PI Black",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC P35 PI Black",
+        "length": 0.0987,
+        "gunMass": 0.81,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-p35-defender-pi/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9x 19 mm",
+          "barrelLength": "98.7 mm",
+          "weight": "810 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC P35 PI LW Black",
+      "maker": "Girsan",
+      "model": "MC P35 PI LW Black",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC P35 PI LW Black",
+        "length": 0.0987,
+        "gunMass": 0.61,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-p35-pi-lw-black/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9x 19 mm",
+          "barrelLength": "98.7 mm",
+          "weight": "610 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC P35 PI LW Optic",
+      "maker": "Girsan",
+      "model": "MC P35 PI LW Optic",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC P35 PI LW Optic",
+        "length": 0.0987,
+        "gunMass": 0.61,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-p35-pi-lw-optic/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9x 19 mm",
+          "barrelLength": "98.7 mm",
+          "weight": "610 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC P35 PI LW Two Tone",
+      "maker": "Girsan",
+      "model": "MC P35 PI LW Two Tone",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC P35 PI LW Two Tone",
+        "length": 0.0987,
+        "gunMass": 0.61,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-p35-pi-lw-two-tone/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9x 19 mm",
+          "barrelLength": "98.7 mm",
+          "weight": "610 gr."
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC R9 Black",
+      "maker": "Girsan",
+      "model": "MC R9 Black",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC R9 Black",
+        "length": 0.125,
+        "gunMass": 0.884,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-r9-black/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "125 mm",
+          "weight": "884 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC R9 BX Chrome",
+      "maker": "Girsan",
+      "model": "MC R9 BX Chrome",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC R9 BX Chrome",
+        "length": 0.125,
+        "gunMass": 0.884,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-r9-bx-chrome/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "125 mm",
+          "weight": "884 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan MC R9 Chrome",
+      "maker": "Girsan",
+      "model": "MC R9 Chrome",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan MC R9 Chrome",
+        "length": 0.125,
+        "gunMass": 0.884,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/mc-r9-chrome/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "125 mm",
+          "weight": "884 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Regard MC Barret Brown",
+      "maker": "Girsan",
+      "model": "Regard MC Barret Brown",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Regard MC Barret Brown",
+        "length": 0.11,
+        "gunMass": 0.83,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/regard-mc-barret-brown/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "110 mm",
+          "weight": "830 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Regard MC Black",
+      "maker": "Girsan",
+      "model": "Regard MC Black",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Regard MC Black",
+        "length": 0.11,
+        "gunMass": 0.83,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/regard-mc-black/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "110 mm",
+          "weight": "830 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Regard MC Black Gold Pieced",
+      "maker": "Girsan",
+      "model": "Regard MC Black Gold Pieced",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Regard MC Black Gold Pieced",
+        "length": 0.11,
+        "gunMass": 0.83,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/regard-mc-black-gold-pieced/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "110 mm",
+          "weight": "830 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Regard MC Burnt Bronze",
+      "maker": "Girsan",
+      "model": "Regard MC Burnt Bronze",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Regard MC Burnt Bronze",
+        "length": 0.11,
+        "gunMass": 0.83,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/regard-mc-burnt-bronze/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "110 mm",
+          "weight": "830 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Regard MC BX",
+      "maker": "Girsan",
+      "model": "Regard MC BX",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Regard MC BX",
+        "length": 0.13055,
+        "gunMass": 0.88,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/regard-mc-bx/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "130.55 mm",
+          "weight": "880 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Regard MC BX Barret Brown",
+      "maker": "Girsan",
+      "model": "Regard MC BX Barret Brown",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Regard MC BX Barret Brown",
+        "length": 0.11,
+        "gunMass": 0.83,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/regard-mc-bx-barret-brown/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "110 mm",
+          "weight": "830 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Regard MC BX Barret Brown Camo",
+      "maker": "Girsan",
+      "model": "Regard MC BX Barret Brown Camo",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Regard MC BX Barret Brown Camo",
+        "length": 0.13055,
+        "gunMass": 0.88,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/regard-mc-bx-barret-brown-camo/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "130.55 mm",
+          "weight": "880 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Regard MC Chrome",
+      "maker": "Girsan",
+      "model": "Regard MC Chrome",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Regard MC Chrome",
+        "length": 0.11,
+        "gunMass": 0.83,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/regard-mc-chrome/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "110 mm",
+          "weight": "830 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Regard MC Deluxe",
+      "maker": "Girsan",
+      "model": "Regard MC Deluxe",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Regard MC Deluxe",
+        "length": 0.11,
+        "gunMass": 0.83,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/regard-mc-deluxe/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "110 mm",
+          "weight": "830 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Regard MC GEN 4",
+      "maker": "Girsan",
+      "model": "Regard MC GEN 4",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Regard MC GEN 4",
+        "length": 0.11,
+        "gunMass": 0.83,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/regard-mc-gen-4/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "110 mm",
+          "weight": "830 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Regard MC GEN3 OD Green",
+      "maker": "Girsan",
+      "model": "Regard MC GEN3 OD Green",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Regard MC GEN3 OD Green",
+        "length": 0.125,
+        "gunMass": 0.874,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/regard-mc-gen3-od-green/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "125 mm",
+          "weight": "874 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Regard MC GEN3 Optic",
+      "maker": "Girsan",
+      "model": "Regard MC GEN3 Optic",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Regard MC GEN3 Optic",
+        "length": 0.125,
+        "gunMass": 0.874,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/regard-mc-gen3/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "125 mm",
+          "weight": "874 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Regard MC Gloss Black",
+      "maker": "Girsan",
+      "model": "Regard MC Gloss Black",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Regard MC Gloss Black",
+        "length": 0.11,
+        "gunMass": 0.83,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/regard-mc-gloss-black/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "110 mm",
+          "weight": "830 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Regard MC Gold",
+      "maker": "Girsan",
+      "model": "Regard MC Gold",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Regard MC Gold",
+        "length": 0.11,
+        "gunMass": 0.83,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/regard-mc-gold/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "110 mm",
+          "weight": "830 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Regard MC Lux",
+      "maker": "Girsan",
+      "model": "Regard MC Lux",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Regard MC Lux",
+        "length": 0.11,
+        "gunMass": 0.83,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/regard-mc-lux/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "110 mm",
+          "weight": "830 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Regard MC OD Green",
+      "maker": "Girsan",
+      "model": "Regard MC OD Green",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Regard MC OD Green",
+        "length": 0.11,
+        "gunMass": 0.83,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/regard-mc-od-green/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "110 mm",
+          "weight": "830 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Regard MC Tugra White Gold Pieced",
+      "maker": "Girsan",
+      "model": "Regard MC Tugra White Gold Pieced",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Regard MC Tugra White Gold Pieced",
+        "length": 0.11,
+        "gunMass": 0.83,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/regard-mc-tugra-white-gold-pieced/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "110 mm",
+          "weight": "830 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Regard MC Two Tone",
+      "maker": "Girsan",
+      "model": "Regard MC Two Tone",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Regard MC Two Tone",
+        "length": 0.11,
+        "gunMass": 0.83,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/regard-mc-two-tone/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "110 mm",
+          "weight": "830 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Regard MC White",
+      "maker": "Girsan",
+      "model": "Regard MC White",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Regard MC White",
+        "length": 0.11,
+        "gunMass": 0.83,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/regard-mc-white/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "110 mm",
+          "weight": "830 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Regard MC White Gold Pieced",
+      "maker": "Girsan",
+      "model": "Regard MC White Gold Pieced",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Regard MC White Gold Pieced",
+        "length": 0.11,
+        "gunMass": 0.83,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/regard-mc-white-gold-pieced/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "110 mm",
+          "weight": "830 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Tugra Black",
+      "maker": "Girsan",
+      "model": "Tugra Black",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Tugra Black",
+        "length": 0.13,
+        "gunMass": 0.905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/tugra-black/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "130 mm",
+          "weight": "905 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Tugra Chrome",
+      "maker": "Girsan",
+      "model": "Tugra Chrome",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Tugra Chrome",
+        "length": 0.13,
+        "gunMass": 0.905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/tugra-chrome/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "130 mm",
+          "weight": "905 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Tugra Deluxe",
+      "maker": "Girsan",
+      "model": "Tugra Deluxe",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Tugra Deluxe",
+        "length": 0.13,
+        "gunMass": 0.905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/tugra-deluxe/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "130 mm",
+          "weight": "905 gr"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Girsan Tugra Gold",
+      "maker": "Girsan",
+      "model": "Tugra Gold",
+      "cartridge": "9x19 mm",
+      "barrel": {
+        "name": "Girsan Tugra Gold",
+        "length": 0.13,
+        "gunMass": 0.905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Girsan Arms Industry",
+        "url": "https://www.girsan.com/urun/tugra-gold/",
+        "retrieved": "2026-10-16",
+        "massBasis": "without-magazine",
+        "published": {
+          "caliber": "9mm x19",
+          "barrelLength": "130 mm",
+          "weight": "905 gr"
+        }
+      }
+    }
+  ]
+}

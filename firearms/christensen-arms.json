@@ -1,0 +1,5722 @@
+{
+  "format": "gordons-legacy.component",
+  "version": 1,
+  "kind": "firearm",
+  "provenance": {
+    "origin": "published by Christensen Arms; facts, released in this repository under CC0",
+    "source": "https://christensenarms.com",
+    "file": "",
+    "author": "Christensen Arms",
+    "date": "2026-10-16",
+    "method": "read from the maker's own specification pages",
+    "status": "published specification, not measured"
+  },
+  "value": [
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms BA Tactical .300 PRC",
+      "maker": "Christensen Arms",
+      "model": "BA Tactical",
+      "cartridge": ".300 PRC",
+      "barrel": {
+        "name": "Christensen Arms BA Tactical .300 PRC",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ba-tactical/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 PRC",
+          "barrelLength": "26 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms BA Tactical .300 WIN MAG",
+      "maker": "Christensen Arms",
+      "model": "BA Tactical",
+      "cartridge": ".300 WIN MAG",
+      "barrel": {
+        "name": "Christensen Arms BA Tactical .300 WIN MAG",
+        "length": 0.6604,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ba-tactical/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 WIN MAG",
+          "barrelLength": "26 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms BA Tactical .308 WIN 16 in.",
+      "maker": "Christensen Arms",
+      "model": "BA Tactical",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms BA Tactical .308 WIN 16 in.",
+        "length": 0.4064,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ba-tactical/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN",
+          "barrelLength": "16 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms BA Tactical .308 WIN 20 in.",
+      "maker": "Christensen Arms",
+      "model": "BA Tactical",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms BA Tactical .308 WIN 20 in.",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ba-tactical/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN",
+          "barrelLength": "20 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms BA Tactical .338 LAP MAG",
+      "maker": "Christensen Arms",
+      "model": "BA Tactical",
+      "cartridge": ".338 LAP MAG",
+      "barrel": {
+        "name": "Christensen Arms BA Tactical .338 LAP MAG",
+        "length": 0.6858,
+        "twistLength": 0.23622,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ba-tactical/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".338 LAP MAG",
+          "barrelLength": "27 in.",
+          "twist": "1:9.3"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms BA Tactical 6.5 CRDMR 16 in.",
+      "maker": "Christensen Arms",
+      "model": "BA Tactical",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms BA Tactical 6.5 CRDMR 16 in.",
+        "length": 0.4064,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ba-tactical/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR",
+          "barrelLength": "16 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms BA Tactical 6.5 CRDMR 26 in.",
+      "maker": "Christensen Arms",
+      "model": "BA Tactical",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms BA Tactical 6.5 CRDMR 26 in.",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ba-tactical/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR",
+          "barrelLength": "26 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms BA Tactical 6.5 PRC",
+      "maker": "Christensen Arms",
+      "model": "BA Tactical",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Christensen Arms BA Tactical 6.5 PRC",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ba-tactical/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "26 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms BA Tactical 6MM CRDMR",
+      "maker": "Christensen Arms",
+      "model": "BA Tactical",
+      "cartridge": "6MM CRDMR",
+      "barrel": {
+        "name": "Christensen Arms BA Tactical 6MM CRDMR",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ba-tactical/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6MM CRDMR",
+          "barrelLength": "24 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Buckmaster Mesa FFT .243 WIN",
+      "maker": "Christensen Arms",
+      "model": "Buckmaster Mesa FFT",
+      "cartridge": ".243 WIN",
+      "barrel": {
+        "name": "Christensen Arms Buckmaster Mesa FFT .243 WIN",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/buckmaster-mesa-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".243 WIN",
+          "barrelLength": "20 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Buckmaster Mesa FFT .270 WIN",
+      "maker": "Christensen Arms",
+      "model": "Buckmaster Mesa FFT",
+      "cartridge": ".270 WIN",
+      "barrel": {
+        "name": "Christensen Arms Buckmaster Mesa FFT .270 WIN",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/buckmaster-mesa-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".270 WIN",
+          "barrelLength": "20 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Buckmaster Mesa FFT .300 WIN MAG",
+      "maker": "Christensen Arms",
+      "model": "Buckmaster Mesa FFT",
+      "cartridge": ".300 WIN MAG",
+      "barrel": {
+        "name": "Christensen Arms Buckmaster Mesa FFT .300 WIN MAG",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/buckmaster-mesa-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 WIN MAG",
+          "barrelLength": "22 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Buckmaster Mesa FFT .308 WIN",
+      "maker": "Christensen Arms",
+      "model": "Buckmaster Mesa FFT",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms Buckmaster Mesa FFT .308 WIN",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/buckmaster-mesa-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN",
+          "barrelLength": "20 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Buckmaster Mesa FFT 6.5 PRC",
+      "maker": "Christensen Arms",
+      "model": "Buckmaster Mesa FFT",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Christensen Arms Buckmaster Mesa FFT 6.5 PRC",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/buckmaster-mesa-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Buckmaster Mesa FFT 7MM BACKCOUNTRY",
+      "maker": "Christensen Arms",
+      "model": "Buckmaster Mesa FFT",
+      "cartridge": "7MM BACKCOUNTRY",
+      "barrel": {
+        "name": "Christensen Arms Buckmaster Mesa FFT 7MM BACKCOUNTRY",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/buckmaster-mesa-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM BACKCOUNTRY",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Buckmaster Mesa FFT 7MM REM MAG",
+      "maker": "Christensen Arms",
+      "model": "Buckmaster Mesa FFT",
+      "cartridge": "7MM REM MAG",
+      "barrel": {
+        "name": "Christensen Arms Buckmaster Mesa FFT 7MM REM MAG",
+        "length": 0.5588,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/buckmaster-mesa-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM REM MAG",
+          "barrelLength": "22 in.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Buckmaster Mesa FFT 7MM-08 REM",
+      "maker": "Christensen Arms",
+      "model": "Buckmaster Mesa FFT",
+      "cartridge": "7MM-08 REM",
+      "barrel": {
+        "name": "Christensen Arms Buckmaster Mesa FFT 7MM-08 REM",
+        "length": 0.508,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/buckmaster-mesa-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM-08 REM",
+          "barrelLength": "20 in.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms CA-10 DMR .308 WIN 18 in.",
+      "maker": "Christensen Arms",
+      "model": "CA-10 DMR",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms CA-10 DMR .308 WIN 18 in.",
+        "length": 0.4572,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ca-10-dmr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN",
+          "barrelLength": "18 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms CA-10 DMR .308 WIN 20 in.",
+      "maker": "Christensen Arms",
+      "model": "CA-10 DMR",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms CA-10 DMR .308 WIN 20 in.",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ca-10-dmr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN",
+          "barrelLength": "20 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms CA-10 DMR 6.5 CRDMR 20 in.",
+      "maker": "Christensen Arms",
+      "model": "CA-10 DMR",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms CA-10 DMR 6.5 CRDMR 20 in.",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ca-10-dmr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms CA-10 DMR 6.5 CRDMR 22 in.",
+      "maker": "Christensen Arms",
+      "model": "CA-10 DMR",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms CA-10 DMR 6.5 CRDMR 22 in.",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ca-10-dmr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR",
+          "barrelLength": "22 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms CA-10 G2 .308 WIN",
+      "maker": "Christensen Arms",
+      "model": "CA-10 G2",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms CA-10 G2 .308 WIN",
+        "length": 0.4572,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ca-10-g2/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN",
+          "barrelLength": "18 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms CA-10 G2 6.5 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "CA-10 G2",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms CA-10 G2 6.5 CRDMR",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ca-10-g2/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms CA-15 G2 .223 WYLDE",
+      "maker": "Christensen Arms",
+      "model": "CA-15 G2",
+      "cartridge": ".223 WYLDE",
+      "barrel": {
+        "name": "Christensen Arms CA-15 G2 .223 WYLDE",
+        "length": 0.4064,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ca-15-g2/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".223 WYLDE",
+          "barrelLength": "16 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms CA-15 G2 6MM ARC",
+      "maker": "Christensen Arms",
+      "model": "CA-15 G2",
+      "cartridge": "6MM ARC",
+      "barrel": {
+        "name": "Christensen Arms CA-15 G2 6MM ARC",
+        "length": 0.4572,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ca-15-g2/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6MM ARC",
+          "barrelLength": "18 in.",
+          "twist": "1:7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms CA5five6 FFT .223 WYLDE",
+      "maker": "Christensen Arms",
+      "model": "CA5five6 FFT",
+      "cartridge": ".223 WYLDE",
+      "barrel": {
+        "name": "Christensen Arms CA5five6 FFT .223 WYLDE",
+        "length": 0.4064,
+        "twistLength": 0.2032,
+        "gunMass": 2.857631931,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ca5five6-fft/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".223 WYLDE",
+          "barrelLength": "16 in.",
+          "weight": "Starting Weight 6.3 LBS",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms ELR .28 NOS",
+      "maker": "Christensen Arms",
+      "model": "ELR",
+      "cartridge": ".28 NOS",
+      "barrel": {
+        "name": "Christensen Arms ELR .28 NOS",
+        "length": 0.6604,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/elr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".28 NOS",
+          "barrelLength": "26 in.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms ELR .300 PRC",
+      "maker": "Christensen Arms",
+      "model": "ELR",
+      "cartridge": ".300 PRC",
+      "barrel": {
+        "name": "Christensen Arms ELR .300 PRC",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/elr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 PRC",
+          "barrelLength": "26 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms ELR .300 WIN MAG",
+      "maker": "Christensen Arms",
+      "model": "ELR",
+      "cartridge": ".300 WIN MAG",
+      "barrel": {
+        "name": "Christensen Arms ELR .300 WIN MAG",
+        "length": 0.6604,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/elr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 WIN MAG",
+          "barrelLength": "26 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms ELR .338 LAP MAG",
+      "maker": "Christensen Arms",
+      "model": "ELR",
+      "cartridge": ".338 LAP MAG",
+      "barrel": {
+        "name": "Christensen Arms ELR .338 LAP MAG",
+        "length": 0.6858,
+        "twistLength": 0.23622,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/elr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".338 LAP MAG*",
+          "barrelLength": "27 in.",
+          "twist": "1:9.3"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms ELR 6.5 PRC",
+      "maker": "Christensen Arms",
+      "model": "ELR",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Christensen Arms ELR 6.5 PRC",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/elr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "26 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms ELR 7MM PRC",
+      "maker": "Christensen Arms",
+      "model": "ELR",
+      "cartridge": "7MM PRC",
+      "barrel": {
+        "name": "Christensen Arms ELR 7MM PRC",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/elr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM PRC",
+          "barrelLength": "26 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms ELR 7mm REM MAG",
+      "maker": "Christensen Arms",
+      "model": "ELR",
+      "cartridge": "7mm REM MAG",
+      "barrel": {
+        "name": "Christensen Arms ELR 7mm REM MAG",
+        "length": 0.6604,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/elr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7mm REM MAG",
+          "barrelLength": "26 in.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Evoke .22 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Evoke",
+      "cartridge": ".22 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Evoke .22 CRDMR",
+        "length": 0.508,
+        "twistLength": 0.1778,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/evoke/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".22 CRDMR",
+          "barrelLength": "20 in.",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Evoke .25 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Evoke",
+      "cartridge": ".25 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Evoke .25 CRDMR",
+        "length": 0.508,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/evoke/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".25 CRDMR",
+          "barrelLength": "20 in.",
+          "twist": "1:7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Evoke .30.06 SPRGFLD",
+      "maker": "Christensen Arms",
+      "model": "Evoke",
+      "cartridge": ".30.06 SPRGFLD",
+      "barrel": {
+        "name": "Christensen Arms Evoke .30.06 SPRGFLD",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/evoke/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".30.06 SPRGFLD",
+          "barrelLength": "22 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Evoke .243 WIN",
+      "maker": "Christensen Arms",
+      "model": "Evoke",
+      "cartridge": ".243 WIN",
+      "barrel": {
+        "name": "Christensen Arms Evoke .243 WIN",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/evoke/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".243 WIN",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Evoke .270 WIN",
+      "maker": "Christensen Arms",
+      "model": "Evoke",
+      "cartridge": ".270 WIN",
+      "barrel": {
+        "name": "Christensen Arms Evoke .270 WIN",
+        "length": 0.5588,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/evoke/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".270 WIN",
+          "barrelLength": "22 in.",
+          "twist": "1:7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Evoke .300 PRC",
+      "maker": "Christensen Arms",
+      "model": "Evoke",
+      "cartridge": ".300 PRC",
+      "barrel": {
+        "name": "Christensen Arms Evoke .300 PRC",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/evoke/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 PRC",
+          "barrelLength": "22 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Evoke .300 WIN MAG",
+      "maker": "Christensen Arms",
+      "model": "Evoke",
+      "cartridge": ".300 WIN MAG",
+      "barrel": {
+        "name": "Christensen Arms Evoke .300 WIN MAG",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/evoke/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 WIN MAG",
+          "barrelLength": "22 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Evoke .308 WIN",
+      "maker": "Christensen Arms",
+      "model": "Evoke",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms Evoke .308 WIN",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/evoke/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN",
+          "barrelLength": "20 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Evoke .450 BUSHMASTER",
+      "maker": "Christensen Arms",
+      "model": "Evoke",
+      "cartridge": ".450 BUSHMASTER",
+      "barrel": {
+        "name": "Christensen Arms Evoke .450 BUSHMASTER",
+        "length": 0.508,
+        "twistLength": 0.4064,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/evoke/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".450 BUSHMASTER*",
+          "barrelLength": "20 in.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Evoke 6.5 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Evoke",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Evoke 6.5 CRDMR",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/evoke/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Evoke 6.5 PRC",
+      "maker": "Christensen Arms",
+      "model": "Evoke",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Christensen Arms Evoke 6.5 PRC",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/evoke/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "22 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Evoke 7MM BACKCOUNTRY 16.25 in.",
+      "maker": "Christensen Arms",
+      "model": "Evoke",
+      "cartridge": "7MM BACKCOUNTRY",
+      "barrel": {
+        "name": "Christensen Arms Evoke 7MM BACKCOUNTRY 16.25 in.",
+        "length": 0.41275,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/evoke/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM BACKCOUNTRY",
+          "barrelLength": "16.25 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Evoke 7MM BACKCOUNTRY 20 in.",
+      "maker": "Christensen Arms",
+      "model": "Evoke",
+      "cartridge": "7MM BACKCOUNTRY",
+      "barrel": {
+        "name": "Christensen Arms Evoke 7MM BACKCOUNTRY 20 in.",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/evoke/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM BACKCOUNTRY",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Evoke 7MM PRC",
+      "maker": "Christensen Arms",
+      "model": "Evoke",
+      "cartridge": "7MM PRC",
+      "barrel": {
+        "name": "Christensen Arms Evoke 7MM PRC",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/evoke/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM PRC",
+          "barrelLength": "22 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Evoke 7MM REM MAG",
+      "maker": "Christensen Arms",
+      "model": "Evoke",
+      "cartridge": "7MM REM MAG",
+      "barrel": {
+        "name": "Christensen Arms Evoke 7MM REM MAG",
+        "length": 0.5588,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/evoke/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM REM MAG",
+          "barrelLength": "22 in.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa .300 WIN MAG",
+      "maker": "Christensen Arms",
+      "model": "Mesa",
+      "cartridge": ".300 WIN MAG",
+      "barrel": {
+        "name": "Christensen Arms Mesa .300 WIN MAG",
+        "length": 0.6096,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 WIN MAG",
+          "barrelLength": "24 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa .308 WIN",
+      "maker": "Christensen Arms",
+      "model": "Mesa",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms Mesa .308 WIN",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN",
+          "barrelLength": "22 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa 6.5 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Mesa",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Mesa 6.5 CRDMR",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR",
+          "barrelLength": "22 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa 6.5 PRC",
+      "maker": "Christensen Arms",
+      "model": "Mesa",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Christensen Arms Mesa 6.5 PRC",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "24 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa FFT .22 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Mesa FFT",
+      "cartridge": ".22 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Mesa FFT .22 CRDMR",
+        "length": 0.508,
+        "twistLength": 0.1778,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".22 CRDMR*",
+          "barrelLength": "20 in.",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa FFT .25 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Mesa FFT",
+      "cartridge": ".25 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Mesa FFT .25 CRDMR",
+        "length": 0.508,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".25 CRDMR*",
+          "barrelLength": "20 in.",
+          "twist": "1:7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa FFT .300 PRC",
+      "maker": "Christensen Arms",
+      "model": "Mesa FFT",
+      "cartridge": ".300 PRC",
+      "barrel": {
+        "name": "Christensen Arms Mesa FFT .300 PRC",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 PRC*",
+          "barrelLength": "22 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa FFT .300 WIN MAG",
+      "maker": "Christensen Arms",
+      "model": "Mesa FFT",
+      "cartridge": ".300 WIN MAG",
+      "barrel": {
+        "name": "Christensen Arms Mesa FFT .300 WIN MAG",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 WIN MAG*",
+          "barrelLength": "22 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa FFT .308 WIN",
+      "maker": "Christensen Arms",
+      "model": "Mesa FFT",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms Mesa FFT .308 WIN",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN*",
+          "barrelLength": "20 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa FFT (Left Handed) .22 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Mesa FFT (Left Handed)",
+      "cartridge": ".22 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Mesa FFT (Left Handed) .22 CRDMR",
+        "length": 0.508,
+        "twistLength": 0.1778,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-fft-left-handed/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".22 CRDMR*",
+          "barrelLength": "20 in.",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa FFT (Left Handed) .25 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Mesa FFT (Left Handed)",
+      "cartridge": ".25 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Mesa FFT (Left Handed) .25 CRDMR",
+        "length": 0.508,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-fft-left-handed/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".25 CRDMR*",
+          "barrelLength": "20 in.",
+          "twist": "1:7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa FFT (Left Handed) .300 PRC",
+      "maker": "Christensen Arms",
+      "model": "Mesa FFT (Left Handed)",
+      "cartridge": ".300 PRC",
+      "barrel": {
+        "name": "Christensen Arms Mesa FFT (Left Handed) .300 PRC",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-fft-left-handed/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 PRC*",
+          "barrelLength": "22 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa FFT (Left Handed) .300 WIN MAG",
+      "maker": "Christensen Arms",
+      "model": "Mesa FFT (Left Handed)",
+      "cartridge": ".300 WIN MAG",
+      "barrel": {
+        "name": "Christensen Arms Mesa FFT (Left Handed) .300 WIN MAG",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-fft-left-handed/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 WIN MAG*",
+          "barrelLength": "22 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa FFT (Left Handed) .308 WIN",
+      "maker": "Christensen Arms",
+      "model": "Mesa FFT (Left Handed)",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms Mesa FFT (Left Handed) .308 WIN",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-fft-left-handed/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN*",
+          "barrelLength": "20 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa FFT (Left Handed) 6.5 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Mesa FFT (Left Handed)",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Mesa FFT (Left Handed) 6.5 CRDMR",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-fft-left-handed/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR*",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa FFT (Left Handed) 6.5 PRC",
+      "maker": "Christensen Arms",
+      "model": "Mesa FFT (Left Handed)",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Christensen Arms Mesa FFT (Left Handed) 6.5 PRC",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-fft-left-handed/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 PRC*",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa FFT (Left Handed) 7MM PRC",
+      "maker": "Christensen Arms",
+      "model": "Mesa FFT (Left Handed)",
+      "cartridge": "7MM PRC",
+      "barrel": {
+        "name": "Christensen Arms Mesa FFT (Left Handed) 7MM PRC",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-fft-left-handed/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM PRC*",
+          "barrelLength": "22 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa FFT (Left Handed) 7MM REM MAG",
+      "maker": "Christensen Arms",
+      "model": "Mesa FFT (Left Handed)",
+      "cartridge": "7MM REM MAG",
+      "barrel": {
+        "name": "Christensen Arms Mesa FFT (Left Handed) 7MM REM MAG",
+        "length": 0.5588,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-fft-left-handed/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM REM MAG*",
+          "barrelLength": "22 in.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa FFT 6.5 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Mesa FFT",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Mesa FFT 6.5 CRDMR",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR*",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa FFT 6.5 PRC",
+      "maker": "Christensen Arms",
+      "model": "Mesa FFT",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Christensen Arms Mesa FFT 6.5 PRC",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 PRC*",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa FFT 7MM PRC",
+      "maker": "Christensen Arms",
+      "model": "Mesa FFT",
+      "cartridge": "7MM PRC",
+      "barrel": {
+        "name": "Christensen Arms Mesa FFT 7MM PRC",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM PRC*",
+          "barrelLength": "22 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa FFT 7MM REM MAG",
+      "maker": "Christensen Arms",
+      "model": "Mesa FFT",
+      "cartridge": "7MM REM MAG",
+      "barrel": {
+        "name": "Christensen Arms Mesa FFT 7MM REM MAG",
+        "length": 0.5588,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM REM MAG*",
+          "barrelLength": "22 in.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa Long Range .28 NOS",
+      "maker": "Christensen Arms",
+      "model": "Mesa Long Range",
+      "cartridge": ".28 NOS",
+      "barrel": {
+        "name": "Christensen Arms Mesa Long Range .28 NOS",
+        "length": 0.6604,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-long-range/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".28 NOS",
+          "barrelLength": "26 in.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa Long Range .300 PRC",
+      "maker": "Christensen Arms",
+      "model": "Mesa Long Range",
+      "cartridge": ".300 PRC",
+      "barrel": {
+        "name": "Christensen Arms Mesa Long Range .300 PRC",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-long-range/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 PRC",
+          "barrelLength": "26 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa Long Range .300 WIN MAG",
+      "maker": "Christensen Arms",
+      "model": "Mesa Long Range",
+      "cartridge": ".300 WIN MAG",
+      "barrel": {
+        "name": "Christensen Arms Mesa Long Range .300 WIN MAG",
+        "length": 0.6604,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-long-range/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 WIN MAG",
+          "barrelLength": "26 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa Long Range .308 WIN 16.25 in.",
+      "maker": "Christensen Arms",
+      "model": "Mesa Long Range",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms Mesa Long Range .308 WIN 16.25 in.",
+        "length": 0.41275,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-long-range/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN",
+          "barrelLength": "16.25 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa Long Range .308 WIN 24 in.",
+      "maker": "Christensen Arms",
+      "model": "Mesa Long Range",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms Mesa Long Range .308 WIN 24 in.",
+        "length": 0.6096,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-long-range/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN",
+          "barrelLength": "24 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa Long Range .338 LAP MAG",
+      "maker": "Christensen Arms",
+      "model": "Mesa Long Range",
+      "cartridge": ".338 LAP MAG",
+      "barrel": {
+        "name": "Christensen Arms Mesa Long Range .338 LAP MAG",
+        "length": 0.6858,
+        "twistLength": 0.23622,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-long-range/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".338 LAP MAG*",
+          "barrelLength": "27 in.",
+          "twist": "1:9.3"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa Long Range 6.5 CRDMR 16.25 in.",
+      "maker": "Christensen Arms",
+      "model": "Mesa Long Range",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Mesa Long Range 6.5 CRDMR 16.25 in.",
+        "length": 0.41275,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-long-range/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR",
+          "barrelLength": "16.25 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa Long Range 6.5 CRDMR 26 in.",
+      "maker": "Christensen Arms",
+      "model": "Mesa Long Range",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Mesa Long Range 6.5 CRDMR 26 in.",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-long-range/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR",
+          "barrelLength": "26 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa Long Range 6.5 PRC",
+      "maker": "Christensen Arms",
+      "model": "Mesa Long Range",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Christensen Arms Mesa Long Range 6.5 PRC",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-long-range/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "26 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Mesa Long Range 7MM PRC",
+      "maker": "Christensen Arms",
+      "model": "Mesa Long Range",
+      "cartridge": "7MM PRC",
+      "barrel": {
+        "name": "Christensen Arms Mesa Long Range 7MM PRC",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mesa-long-range/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM PRC",
+          "barrelLength": "26 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms MHR 6.5 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "MHR",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms MHR 6.5 CRDMR",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mhr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR",
+          "barrelLength": "22 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms MHR 6.5 PRC",
+      "maker": "Christensen Arms",
+      "model": "MHR",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Christensen Arms MHR 6.5 PRC",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mhr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "22 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms MHR 6.8 WESTERN",
+      "maker": "Christensen Arms",
+      "model": "MHR",
+      "cartridge": "6.8 WESTERN",
+      "barrel": {
+        "name": "Christensen Arms MHR 6.8 WESTERN",
+        "length": 0.5588,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mhr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.8 WESTERN",
+          "barrelLength": "22 in.",
+          "twist": "1:7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms MHR 7MM PRC",
+      "maker": "Christensen Arms",
+      "model": "MHR",
+      "cartridge": "7MM PRC",
+      "barrel": {
+        "name": "Christensen Arms MHR 7MM PRC",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mhr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM PRC",
+          "barrelLength": "24 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms MHR 7MM REM MAG",
+      "maker": "Christensen Arms",
+      "model": "MHR",
+      "cartridge": "7MM REM MAG",
+      "barrel": {
+        "name": "Christensen Arms MHR 7MM REM MAG",
+        "length": 0.6096,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mhr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM REM MAG",
+          "barrelLength": "24 in.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms MHR 300 PRC",
+      "maker": "Christensen Arms",
+      "model": "MHR",
+      "cartridge": "300 PRC",
+      "barrel": {
+        "name": "Christensen Arms MHR 300 PRC",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mhr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "300 PRC",
+          "barrelLength": "24 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms MHR 300 WIN MAG",
+      "maker": "Christensen Arms",
+      "model": "MHR",
+      "cartridge": "300 WIN MAG",
+      "barrel": {
+        "name": "Christensen Arms MHR 300 WIN MAG",
+        "length": 0.6096,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mhr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "300 WIN MAG",
+          "barrelLength": "24 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms MHR 308 WIN",
+      "maker": "Christensen Arms",
+      "model": "MHR",
+      "cartridge": "308 WIN",
+      "barrel": {
+        "name": "Christensen Arms MHR 308 WIN",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mhr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "308 WIN",
+          "barrelLength": "22 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Carbon Rifle .22 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Modern Carbon Rifle",
+      "cartridge": ".22 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Modern Carbon Rifle .22 CRDMR",
+        "length": 0.508,
+        "twistLength": 0.1778,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-carbon-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".22 CRDMR",
+          "barrelLength": "20 in.",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Carbon Rifle .25 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Modern Carbon Rifle",
+      "cartridge": ".25 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Modern Carbon Rifle .25 CRDMR",
+        "length": 0.508,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-carbon-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".25 CRDMR",
+          "barrelLength": "20 in.",
+          "twist": "1:7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Carbon Rifle .300 PRC",
+      "maker": "Christensen Arms",
+      "model": "Modern Carbon Rifle",
+      "cartridge": ".300 PRC",
+      "barrel": {
+        "name": "Christensen Arms Modern Carbon Rifle .300 PRC",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-carbon-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 PRC",
+          "barrelLength": "24 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Carbon Rifle .300 WIN MAG 22 in.",
+      "maker": "Christensen Arms",
+      "model": "Modern Carbon Rifle",
+      "cartridge": ".300 WIN MAG",
+      "barrel": {
+        "name": "Christensen Arms Modern Carbon Rifle .300 WIN MAG 22 in.",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-carbon-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 WIN MAG",
+          "barrelLength": "22 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Carbon Rifle .300 WIN MAG 24 in.",
+      "maker": "Christensen Arms",
+      "model": "Modern Carbon Rifle",
+      "cartridge": ".300 WIN MAG",
+      "barrel": {
+        "name": "Christensen Arms Modern Carbon Rifle .300 WIN MAG 24 in.",
+        "length": 0.6096,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-carbon-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 WIN MAG",
+          "barrelLength": "24 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Carbon Rifle .308 WIN 20 in.",
+      "maker": "Christensen Arms",
+      "model": "Modern Carbon Rifle",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms Modern Carbon Rifle .308 WIN 20 in.",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-carbon-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN",
+          "barrelLength": "20 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Carbon Rifle .308 WIN 22 in.",
+      "maker": "Christensen Arms",
+      "model": "Modern Carbon Rifle",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms Modern Carbon Rifle .308 WIN 22 in.",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-carbon-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN",
+          "barrelLength": "22 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Carbon Rifle 6.5 CRDMR 20 in.",
+      "maker": "Christensen Arms",
+      "model": "Modern Carbon Rifle",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Modern Carbon Rifle 6.5 CRDMR 20 in.",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-carbon-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Carbon Rifle 6.5 CRDMR 22 in.",
+      "maker": "Christensen Arms",
+      "model": "Modern Carbon Rifle",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Modern Carbon Rifle 6.5 CRDMR 22 in.",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-carbon-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR",
+          "barrelLength": "22 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Carbon Rifle 6.5 PRC 20 in.",
+      "maker": "Christensen Arms",
+      "model": "Modern Carbon Rifle",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Christensen Arms Modern Carbon Rifle 6.5 PRC 20 in.",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-carbon-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Carbon Rifle 6.5 PRC 22 in.",
+      "maker": "Christensen Arms",
+      "model": "Modern Carbon Rifle",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Christensen Arms Modern Carbon Rifle 6.5 PRC 22 in.",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-carbon-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "22 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Carbon Rifle 7MM PRC",
+      "maker": "Christensen Arms",
+      "model": "Modern Carbon Rifle",
+      "cartridge": "7MM PRC",
+      "barrel": {
+        "name": "Christensen Arms Modern Carbon Rifle 7MM PRC",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-carbon-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM PRC",
+          "barrelLength": "24 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Carbon Rifle 7MM REM MAG",
+      "maker": "Christensen Arms",
+      "model": "Modern Carbon Rifle",
+      "cartridge": "7MM REM MAG",
+      "barrel": {
+        "name": "Christensen Arms Modern Carbon Rifle 7MM REM MAG",
+        "length": 0.5588,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-carbon-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM REM MAG",
+          "barrelLength": "22 in.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Precision Rifle .22 CRDMR 20 in.",
+      "maker": "Christensen Arms",
+      "model": "Modern Precision Rifle",
+      "cartridge": ".22 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Modern Precision Rifle .22 CRDMR 20 in.",
+        "length": 0.508,
+        "twistLength": 0.1778,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-precision-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".22 CRDMR",
+          "barrelLength": "20 in.",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Precision Rifle .22 CRDMR 24 in.",
+      "maker": "Christensen Arms",
+      "model": "Modern Precision Rifle",
+      "cartridge": ".22 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Modern Precision Rifle .22 CRDMR 24 in.",
+        "length": 0.6096,
+        "twistLength": 0.1778,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-precision-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".22 CRDMR",
+          "barrelLength": "24 in.",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Precision Rifle .25 CRDMR 20 in.",
+      "maker": "Christensen Arms",
+      "model": "Modern Precision Rifle",
+      "cartridge": ".25 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Modern Precision Rifle .25 CRDMR 20 in.",
+        "length": 0.508,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-precision-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".25 CRDMR",
+          "barrelLength": "20 in.",
+          "twist": "1:7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Precision Rifle .25 CRDMR 24 in.",
+      "maker": "Christensen Arms",
+      "model": "Modern Precision Rifle",
+      "cartridge": ".25 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Modern Precision Rifle .25 CRDMR 24 in.",
+        "length": 0.6096,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-precision-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".25 CRDMR",
+          "barrelLength": "24 in.",
+          "twist": "1:7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Precision Rifle .223 REM",
+      "maker": "Christensen Arms",
+      "model": "Modern Precision Rifle",
+      "cartridge": ".223 REM",
+      "barrel": {
+        "name": "Christensen Arms Modern Precision Rifle .223 REM",
+        "length": 0.4064,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-precision-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".223 REM",
+          "barrelLength": "16 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Precision Rifle .300 PRC",
+      "maker": "Christensen Arms",
+      "model": "Modern Precision Rifle",
+      "cartridge": ".300 PRC",
+      "barrel": {
+        "name": "Christensen Arms Modern Precision Rifle .300 PRC",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-precision-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 PRC",
+          "barrelLength": "26 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Precision Rifle .300 WIN MAG",
+      "maker": "Christensen Arms",
+      "model": "Modern Precision Rifle",
+      "cartridge": ".300 WIN MAG",
+      "barrel": {
+        "name": "Christensen Arms Modern Precision Rifle .300 WIN MAG",
+        "length": 0.6604,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-precision-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 WIN MAG",
+          "barrelLength": "26 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Precision Rifle .308 WIN 16 in.",
+      "maker": "Christensen Arms",
+      "model": "Modern Precision Rifle",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms Modern Precision Rifle .308 WIN 16 in.",
+        "length": 0.4064,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-precision-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN",
+          "barrelLength": "16 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Precision Rifle .308 WIN 20 in.",
+      "maker": "Christensen Arms",
+      "model": "Modern Precision Rifle",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms Modern Precision Rifle .308 WIN 20 in.",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-precision-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN",
+          "barrelLength": "20 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Precision Rifle .308 WIN 24 in.",
+      "maker": "Christensen Arms",
+      "model": "Modern Precision Rifle",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms Modern Precision Rifle .308 WIN 24 in.",
+        "length": 0.6096,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-precision-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN",
+          "barrelLength": "24 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Precision Rifle .338 LAP MAG",
+      "maker": "Christensen Arms",
+      "model": "Modern Precision Rifle",
+      "cartridge": ".338 LAP MAG",
+      "barrel": {
+        "name": "Christensen Arms Modern Precision Rifle .338 LAP MAG",
+        "length": 0.6858,
+        "twistLength": 0.23622,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-precision-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".338 LAP MAG",
+          "barrelLength": "27 in.",
+          "twist": "1:9.3"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Precision Rifle 6.5 CRDMR 16 in.",
+      "maker": "Christensen Arms",
+      "model": "Modern Precision Rifle",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Modern Precision Rifle 6.5 CRDMR 16 in.",
+        "length": 0.4064,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-precision-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR",
+          "barrelLength": "16 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Precision Rifle 6.5 CRDMR 22 in.",
+      "maker": "Christensen Arms",
+      "model": "Modern Precision Rifle",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Modern Precision Rifle 6.5 CRDMR 22 in.",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-precision-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR",
+          "barrelLength": "22 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Precision Rifle 6.5 CRDMR 24 in.",
+      "maker": "Christensen Arms",
+      "model": "Modern Precision Rifle",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Modern Precision Rifle 6.5 CRDMR 24 in.",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-precision-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR",
+          "barrelLength": "24 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Precision Rifle 6.5 PRC",
+      "maker": "Christensen Arms",
+      "model": "Modern Precision Rifle",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Christensen Arms Modern Precision Rifle 6.5 PRC",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-precision-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "24 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Precision Rifle 6MM ARC",
+      "maker": "Christensen Arms",
+      "model": "Modern Precision Rifle",
+      "cartridge": "6MM ARC",
+      "barrel": {
+        "name": "Christensen Arms Modern Precision Rifle 6MM ARC",
+        "length": 0.4064,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-precision-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6MM ARC",
+          "barrelLength": "16 in.",
+          "twist": "1:7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Precision Rifle 6MM CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Modern Precision Rifle",
+      "cartridge": "6MM CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Modern Precision Rifle 6MM CRDMR",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-precision-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6MM CRDMR",
+          "barrelLength": "24 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Modern Precision Rifle 7MM PRC",
+      "maker": "Christensen Arms",
+      "model": "Modern Precision Rifle",
+      "cartridge": "7MM PRC",
+      "barrel": {
+        "name": "Christensen Arms Modern Precision Rifle 7MM PRC",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/modern-precision-rifle/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM PRC",
+          "barrelLength": "26 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms MPR Competition .223 rem",
+      "maker": "Christensen Arms",
+      "model": "MPR Competition",
+      "cartridge": ".223 rem",
+      "barrel": {
+        "name": "Christensen Arms MPR Competition .223 rem",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mpr-competition/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".223 rem",
+          "barrelLength": "26 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms MPR Competition .308 WIN",
+      "maker": "Christensen Arms",
+      "model": "MPR Competition",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms MPR Competition .308 WIN",
+        "length": 0.6604,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mpr-competition/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN",
+          "barrelLength": "26 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms MPR Competition 6.5 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "MPR Competition",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms MPR Competition 6.5 CRDMR",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mpr-competition/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR",
+          "barrelLength": "26 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms MPR Competition 6.5 PRC",
+      "maker": "Christensen Arms",
+      "model": "MPR Competition",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Christensen Arms MPR Competition 6.5 PRC",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mpr-competition/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "26 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms MPR Competition 6MM ARC",
+      "maker": "Christensen Arms",
+      "model": "MPR Competition",
+      "cartridge": "6MM ARC",
+      "barrel": {
+        "name": "Christensen Arms MPR Competition 6MM ARC",
+        "length": 0.6604,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mpr-competition/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6MM ARC",
+          "barrelLength": "26 in.",
+          "twist": "1:7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms MPR Competition 6MM CRDMR",
+      "maker": "Christensen Arms",
+      "model": "MPR Competition",
+      "cartridge": "6MM CRDMR",
+      "barrel": {
+        "name": "Christensen Arms MPR Competition 6MM CRDMR",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mpr-competition/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6MM CRDMR",
+          "barrelLength": "26 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms MPR Competition 6MM GT",
+      "maker": "Christensen Arms",
+      "model": "MPR Competition",
+      "cartridge": "6MM GT",
+      "barrel": {
+        "name": "Christensen Arms MPR Competition 6MM GT",
+        "length": 0.6604,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/mpr-competition/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6MM GT",
+          "barrelLength": "26 in.",
+          "twist": "1:7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline .300 WIN MAG",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline",
+      "cartridge": ".300 WIN MAG",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline .300 WIN MAG",
+        "length": 0.6604,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 WIN MAG",
+          "barrelLength": "26 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline .308 WIN",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline .308 WIN",
+        "length": 0.6096,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN",
+          "barrelLength": "24 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline 6.5 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline 6.5 CRDMR",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR",
+          "barrelLength": "24 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline 6.5 PRC",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline 6.5 PRC",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "24 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT .22 CRDMR 20 in.",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": ".22 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT .22 CRDMR 20 in.",
+        "length": 0.508,
+        "twistLength": 0.1778,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".22 CRDMR*",
+          "barrelLength": "20 in.",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT .22 CRDMR 22 in.",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": ".22 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT .22 CRDMR 22 in.",
+        "length": 0.5588,
+        "twistLength": 0.1778,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".22 CRDMR",
+          "barrelLength": "22 in.",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT .22-250 REM",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": ".22-250 REM",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT .22-250 REM",
+        "length": 0.508,
+        "twistLength": 0.3556,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".22-250 REM",
+          "barrelLength": "20 in.",
+          "twist": "1:14"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT .25 CRDMR 20 in.",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": ".25 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT .25 CRDMR 20 in.",
+        "length": 0.508,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".25 CRDMR*",
+          "barrelLength": "20 in.",
+          "twist": "1:7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT .25 CRDMR 22 in.",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": ".25 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT .25 CRDMR 22 in.",
+        "length": 0.5588,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".25 CRDMR",
+          "barrelLength": "22 in.",
+          "twist": "1:7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT .28 NOS",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": ".28 NOS",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT .28 NOS",
+        "length": 0.5588,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".28 NOS*",
+          "barrelLength": "22 in.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT .30-06 SPRGFLD",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": ".30-06 SPRGFLD",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT .30-06 SPRGFLD",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".30-06 SPRGFLD",
+          "barrelLength": "22 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT .243 WIN",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": ".243 WIN",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT .243 WIN",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".243 WIN",
+          "barrelLength": "20 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT .270 WIN",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": ".270 WIN",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT .270 WIN",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".270 WIN",
+          "barrelLength": "20 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT .270 WSM",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": ".270 WSM",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT .270 WSM",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".270 WSM",
+          "barrelLength": "20 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT .280 ACKLEY",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": ".280 ACKLEY",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT .280 ACKLEY",
+        "length": 0.5588,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".280 ACKLEY",
+          "barrelLength": "22 in.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT .300 PRC",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": ".300 PRC",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT .300 PRC",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 PRC*",
+          "barrelLength": "22 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT .300 RUM",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": ".300 RUM",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT .300 RUM",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 RUM",
+          "barrelLength": "22 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT .300 Win Mag",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": ".300 Win Mag",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT .300 Win Mag",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 Win Mag*",
+          "barrelLength": "22 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT .300 WSM",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": ".300 WSM",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT .300 WSM",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 WSM",
+          "barrelLength": "20 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT .308 WIN 16 in.",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT .308 WIN 16 in.",
+        "length": 0.4064,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN",
+          "barrelLength": "16 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT .308 WIN 20 in.",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT .308 WIN 20 in.",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN*",
+          "barrelLength": "20 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT (Left Handed) .22 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT (Left Handed)",
+      "cartridge": ".22 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT (Left Handed) .22 CRDMR",
+        "length": 0.508,
+        "twistLength": 0.1778,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-left-handed/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".22 CRDMR",
+          "barrelLength": "20 in.",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT (Left Handed) .25 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT (Left Handed)",
+      "cartridge": ".25 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT (Left Handed) .25 CRDMR",
+        "length": 0.508,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-left-handed/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".25 CRDMR",
+          "barrelLength": "20 in.",
+          "twist": "1:7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT (Left Handed) .28 NOS",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT (Left Handed)",
+      "cartridge": ".28 NOS",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT (Left Handed) .28 NOS",
+        "length": 0.5588,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-left-handed/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".28 NOS",
+          "barrelLength": "22 in.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT (Left Handed) .300 PRC",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT (Left Handed)",
+      "cartridge": ".300 PRC",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT (Left Handed) .300 PRC",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-left-handed/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 PRC",
+          "barrelLength": "22 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT (Left Handed) .300 Win Mag",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT (Left Handed)",
+      "cartridge": ".300 Win Mag",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT (Left Handed) .300 Win Mag",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-left-handed/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 Win Mag",
+          "barrelLength": "22 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT (Left Handed) .308 WIN",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT (Left Handed)",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT (Left Handed) .308 WIN",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-left-handed/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN",
+          "barrelLength": "20 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT (Left Handed) 6.5 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT (Left Handed)",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT (Left Handed) 6.5 CRDMR",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-left-handed/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT (Left Handed) 6.5 PRC",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT (Left Handed)",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT (Left Handed) 6.5 PRC",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-left-handed/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT (Left Handed) 7MM PRC",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT (Left Handed)",
+      "cartridge": "7MM PRC",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT (Left Handed) 7MM PRC",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-left-handed/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM PRC",
+          "barrelLength": "22 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT (Left Handed) 7MM REM MAG",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT (Left Handed)",
+      "cartridge": "7MM REM MAG",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT (Left Handed) 7MM REM MAG",
+        "length": 0.5588,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-left-handed/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM REM MAG",
+          "barrelLength": "22 in.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT (Left Handed) 7MM-08 REM",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT (Left Handed)",
+      "cartridge": "7MM-08 REM",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT (Left Handed) 7MM-08 REM",
+        "length": 0.508,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-left-handed/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM-08 REM",
+          "barrelLength": "20 in.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT 6.5 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT 6.5 CRDMR",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR*",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT 6.5 PRC",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT 6.5 PRC",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 PRC*",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT 6.5-284 NORMA",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": "6.5-284 NORMA",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT 6.5-284 NORMA",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5-284 NORMA",
+          "barrelLength": "22 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT 6.8 WESTERN",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": "6.8 WESTERN",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT 6.8 WESTERN",
+        "length": 0.508,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.8 WESTERN",
+          "barrelLength": "20 in.",
+          "twist": "1:7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT 6MM CRDMR 20 in.",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": "6MM CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT 6MM CRDMR 20 in.",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6MM CRDMR",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT 6MM CRDMR 24 in.",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": "6MM CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT 6MM CRDMR 24 in.",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6MM CRDMR",
+          "barrelLength": "24 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT 7MM BACKCOUNTRY 16.25 in.",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": "7MM BACKCOUNTRY",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT 7MM BACKCOUNTRY 16.25 in.",
+        "length": 0.41275,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM BACKCOUNTRY",
+          "barrelLength": "16.25 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT 7MM BACKCOUNTRY 20 in.",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": "7MM BACKCOUNTRY",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT 7MM BACKCOUNTRY 20 in.",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM BACKCOUNTRY",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT 7MM PRC",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": "7MM PRC",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT 7MM PRC",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM PRC*",
+          "barrelLength": "22 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT 7MM REM MAG",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": "7MM REM MAG",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT 7MM REM MAG",
+        "length": 0.5588,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM REM MAG*",
+          "barrelLength": "22 in.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT 7MM-08 REM",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT",
+      "cartridge": "7MM-08 REM",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT 7MM-08 REM",
+        "length": 0.508,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM-08 REM*",
+          "barrelLength": "20 in.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT Titanium .22 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT Titanium",
+      "cartridge": ".22 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT Titanium .22 CRDMR",
+        "length": 0.508,
+        "twistLength": 0.1778,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-titanium/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".22 CRDMR",
+          "barrelLength": "20 in.",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT Titanium .25 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT Titanium",
+      "cartridge": ".25 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT Titanium .25 CRDMR",
+        "length": 0.508,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-titanium/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".25 CRDMR",
+          "barrelLength": "20 in.",
+          "twist": "1:7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT Titanium .28 NOS",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT Titanium",
+      "cartridge": ".28 NOS",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT Titanium .28 NOS",
+        "length": 0.5588,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-titanium/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".28 NOS",
+          "barrelLength": "22 in.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT Titanium .300 PRC",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT Titanium",
+      "cartridge": ".300 PRC",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT Titanium .300 PRC",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-titanium/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 PRC",
+          "barrelLength": "22 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT Titanium .300 WIN MAG",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT Titanium",
+      "cartridge": ".300 WIN MAG",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT Titanium .300 WIN MAG",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-titanium/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 WIN MAG",
+          "barrelLength": "22 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT Titanium .308 WIN",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT Titanium",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT Titanium .308 WIN",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-titanium/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN",
+          "barrelLength": "20 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT Titanium 6.5 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT Titanium",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT Titanium 6.5 CRDMR",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-titanium/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT Titanium 6.5 PRC",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT Titanium",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT Titanium 6.5 PRC",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-titanium/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT Titanium 6.8 WESTERN",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT Titanium",
+      "cartridge": "6.8 WESTERN",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT Titanium 6.8 WESTERN",
+        "length": 0.508,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-titanium/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.8 WESTERN",
+          "barrelLength": "20 in.",
+          "twist": "1:7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT Titanium 6MM CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT Titanium",
+      "cartridge": "6MM CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT Titanium 6MM CRDMR",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-titanium/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6MM CRDMR",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT Titanium 7MM BACKCOUNTRY 16.25 in.",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT Titanium",
+      "cartridge": "7MM BACKCOUNTRY",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT Titanium 7MM BACKCOUNTRY 16.25 in.",
+        "length": 0.41275,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-titanium/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM BACKCOUNTRY",
+          "barrelLength": "16.25 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT Titanium 7MM BACKCOUNTRY 20 in.",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT Titanium",
+      "cartridge": "7MM BACKCOUNTRY",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT Titanium 7MM BACKCOUNTRY 20 in.",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-titanium/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM BACKCOUNTRY",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT Titanium 7MM PRC",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT Titanium",
+      "cartridge": "7MM PRC",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT Titanium 7MM PRC",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-titanium/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM PRC",
+          "barrelLength": "22 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline FFT Titanium 7MM REM MAG",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline FFT Titanium",
+      "cartridge": "7MM REM MAG",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline FFT Titanium 7MM REM MAG",
+        "length": 0.5588,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-fft-titanium/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM REM MAG",
+          "barrelLength": "22 in.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline MCR .25 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline MCR",
+      "cartridge": ".25 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline MCR .25 CRDMR",
+        "length": 0.5588,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-mcr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".25 CRDMR",
+          "barrelLength": "22 in.",
+          "twist": "1:7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline MCR .300 WIN MAG",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline MCR",
+      "cartridge": ".300 WIN MAG",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline MCR .300 WIN MAG",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-mcr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 WIN MAG",
+          "barrelLength": "22 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline MCR .308 WIN",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline MCR",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline MCR .308 WIN",
+        "length": 0.508,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-mcr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN",
+          "barrelLength": "20 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline MCR 6.5 PRC",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline MCR",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline MCR 6.5 PRC",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-mcr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline MCR 7 PRC",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline MCR",
+      "cartridge": "7 PRC",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline MCR 7 PRC",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-mcr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7 PRC",
+          "barrelLength": "22 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline MCR 7MM BACKCOUNTRY 16 in.",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline MCR",
+      "cartridge": "7MM BACKCOUNTRY",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline MCR 7MM BACKCOUNTRY 16 in.",
+        "length": 0.4064,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-mcr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM BACKCOUNTRY",
+          "barrelLength": "16 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline MCR 7MM BACKCOUNTRY 20 in.",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline MCR",
+      "cartridge": "7MM BACKCOUNTRY",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline MCR 7MM BACKCOUNTRY 20 in.",
+        "length": 0.508,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-mcr/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM BACKCOUNTRY",
+          "barrelLength": "20 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline Safari .300 Win Mag",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline Safari",
+      "cartridge": ".300 Win Mag",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline Safari .300 Win Mag",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-safari/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 Win Mag",
+          "barrelLength": "22 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline Safari 7MM BACKCOUNTRY",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline Safari",
+      "cartridge": "7MM BACKCOUNTRY",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline Safari 7MM BACKCOUNTRY",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-safari/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM BACKCOUNTRY",
+          "barrelLength": "22 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline Safari 7MM PRC",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline Safari",
+      "cartridge": "7MM PRC",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline Safari 7MM PRC",
+        "length": 0.5588,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-safari/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM PRC",
+          "barrelLength": "22 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline Scout .223 REM",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline Scout",
+      "cartridge": ".223 REM",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline Scout .223 REM",
+        "length": 0.4064,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-scout/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".223 REM",
+          "barrelLength": "16 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline Scout .300 BLK",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline Scout",
+      "cartridge": ".300 BLK",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline Scout .300 BLK",
+        "length": 0.4064,
+        "twistLength": 0.1778,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-scout/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 BLK*",
+          "barrelLength": "16 in.",
+          "twist": "1:7"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline Scout .308 WIN",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline Scout",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline Scout .308 WIN",
+        "length": 0.4064,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-scout/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN",
+          "barrelLength": "16 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline Scout .450 BUSHMASTER",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline Scout",
+      "cartridge": ".450 BUSHMASTER",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline Scout .450 BUSHMASTER",
+        "length": 0.4064,
+        "twistLength": 0.4064,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-scout/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".450 BUSHMASTER*",
+          "barrelLength": "16 in.",
+          "twist": "1:16"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline Scout 6.5 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline Scout",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline Scout 6.5 CRDMR",
+        "length": 0.4064,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-scout/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR",
+          "barrelLength": "16 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Ridgeline Scout 6MM ARC",
+      "maker": "Christensen Arms",
+      "model": "Ridgeline Scout",
+      "cartridge": "6MM ARC",
+      "barrel": {
+        "name": "Christensen Arms Ridgeline Scout 6MM ARC",
+        "length": 0.4064,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/ridgeline-scout/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6MM ARC",
+          "barrelLength": "16 in.",
+          "twist": "1:7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Spartan Ridgeline FFT .300 WIN MAG",
+      "maker": "Christensen Arms",
+      "model": "Spartan Ridgeline FFT",
+      "cartridge": ".300 WIN MAG",
+      "barrel": {
+        "name": "Christensen Arms Spartan Ridgeline FFT .300 WIN MAG",
+        "length": 0.5588,
+        "twistLength": 0.254,
+        "gunMass": 2.449398798,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/spartan-ridgeline-fft/",
+        "retrieved": "2026-10-16",
+        "massBasis": "unstated",
+        "published": {
+          "caliber": ".300 WIN MAG",
+          "barrelLength": "22 in.",
+          "weight": "Starting Weight 5.4 LBS",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Summit Ti .28 NOS",
+      "maker": "Christensen Arms",
+      "model": "Summit Ti",
+      "cartridge": ".28 NOS",
+      "barrel": {
+        "name": "Christensen Arms Summit Ti .28 NOS",
+        "length": 0.6604,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/summit-ti/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".28 NOS",
+          "barrelLength": "26 in.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Summit Ti .300 PRC",
+      "maker": "Christensen Arms",
+      "model": "Summit Ti",
+      "cartridge": ".300 PRC",
+      "barrel": {
+        "name": "Christensen Arms Summit Ti .300 PRC",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/summit-ti/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 PRC",
+          "barrelLength": "26 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Summit Ti .300 WIN MAG",
+      "maker": "Christensen Arms",
+      "model": "Summit Ti",
+      "cartridge": ".300 WIN MAG",
+      "barrel": {
+        "name": "Christensen Arms Summit Ti .300 WIN MAG",
+        "length": 0.6604,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/summit-ti/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 WIN MAG",
+          "barrelLength": "26 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Summit Ti 6.5 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Summit Ti",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Summit Ti 6.5 CRDMR",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/summit-ti/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR",
+          "barrelLength": "24 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Summit Ti 6.5 PRC",
+      "maker": "Christensen Arms",
+      "model": "Summit Ti",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Christensen Arms Summit Ti 6.5 PRC",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/summit-ti/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "24 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Summit Ti 6.8 WESTERN",
+      "maker": "Christensen Arms",
+      "model": "Summit Ti",
+      "cartridge": "6.8 WESTERN",
+      "barrel": {
+        "name": "Christensen Arms Summit Ti 6.8 WESTERN",
+        "length": 0.6096,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/summit-ti/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.8 WESTERN",
+          "barrelLength": "24 in.",
+          "twist": "1:7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Summit Ti 7MM PRC",
+      "maker": "Christensen Arms",
+      "model": "Summit Ti",
+      "cartridge": "7MM PRC",
+      "barrel": {
+        "name": "Christensen Arms Summit Ti 7MM PRC",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/summit-ti/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM PRC",
+          "barrelLength": "26 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Summit Ti 7MM REM MAG",
+      "maker": "Christensen Arms",
+      "model": "Summit Ti",
+      "cartridge": "7MM REM MAG",
+      "barrel": {
+        "name": "Christensen Arms Summit Ti 7MM REM MAG",
+        "length": 0.6604,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/summit-ti/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM REM MAG",
+          "barrelLength": "26 in.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms TFM .300 PRC",
+      "maker": "Christensen Arms",
+      "model": "TFM",
+      "cartridge": ".300 PRC",
+      "barrel": {
+        "name": "Christensen Arms TFM .300 PRC",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/tfm/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 PRC",
+          "barrelLength": "26 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms TFM .300 WIN MAG",
+      "maker": "Christensen Arms",
+      "model": "TFM",
+      "cartridge": ".300 WIN MAG",
+      "barrel": {
+        "name": "Christensen Arms TFM .300 WIN MAG",
+        "length": 0.6604,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/tfm/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 WIN MAG",
+          "barrelLength": "26 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms TFM .338 LAP MAG",
+      "maker": "Christensen Arms",
+      "model": "TFM",
+      "cartridge": ".338 LAP MAG",
+      "barrel": {
+        "name": "Christensen Arms TFM .338 LAP MAG",
+        "length": 0.6858,
+        "twistLength": 0.23622,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/tfm/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".338 LAP MAG",
+          "barrelLength": "27 in.",
+          "twist": "1:9.3"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms TFM 6.5 CRDMR 16 in.",
+      "maker": "Christensen Arms",
+      "model": "TFM",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms TFM 6.5 CRDMR 16 in.",
+        "length": 0.4064,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/tfm/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR",
+          "barrelLength": "16 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms TFM 6.5 CRDMR 26 in.",
+      "maker": "Christensen Arms",
+      "model": "TFM",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms TFM 6.5 CRDMR 26 in.",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/tfm/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR",
+          "barrelLength": "26 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms TFM 6.5 PRC",
+      "maker": "Christensen Arms",
+      "model": "TFM",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Christensen Arms TFM 6.5 PRC",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/tfm/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "26 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms TFM 6MM CRDMR",
+      "maker": "Christensen Arms",
+      "model": "TFM",
+      "cartridge": "6MM CRDMR",
+      "barrel": {
+        "name": "Christensen Arms TFM 6MM CRDMR",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/tfm/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6MM CRDMR",
+          "barrelLength": "24 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Traverse .22-250",
+      "maker": "Christensen Arms",
+      "model": "Traverse",
+      "cartridge": ".22-250",
+      "barrel": {
+        "name": "Christensen Arms Traverse .22-250",
+        "length": 0.6096,
+        "twistLength": 0.3556,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/traverse/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".22-250",
+          "barrelLength": "24 in.",
+          "twist": "1:14"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Traverse .28 NOS",
+      "maker": "Christensen Arms",
+      "model": "Traverse",
+      "cartridge": ".28 NOS",
+      "barrel": {
+        "name": "Christensen Arms Traverse .28 NOS",
+        "length": 0.6604,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/traverse/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".28 NOS",
+          "barrelLength": "26 in.",
+          "twist": "1:9"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Traverse .300 PRC",
+      "maker": "Christensen Arms",
+      "model": "Traverse",
+      "cartridge": ".300 PRC",
+      "barrel": {
+        "name": "Christensen Arms Traverse .300 PRC",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/traverse/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 PRC",
+          "barrelLength": "26 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Traverse .300 RUM",
+      "maker": "Christensen Arms",
+      "model": "Traverse",
+      "cartridge": ".300 RUM",
+      "barrel": {
+        "name": "Christensen Arms Traverse .300 RUM",
+        "length": 0.6604,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/traverse/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 RUM",
+          "barrelLength": "26 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Traverse .300 WIN MAG",
+      "maker": "Christensen Arms",
+      "model": "Traverse",
+      "cartridge": ".300 WIN MAG",
+      "barrel": {
+        "name": "Christensen Arms Traverse .300 WIN MAG",
+        "length": 0.6604,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/traverse/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".300 WIN MAG",
+          "barrelLength": "26 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Traverse .308 WIN",
+      "maker": "Christensen Arms",
+      "model": "Traverse",
+      "cartridge": ".308 WIN",
+      "barrel": {
+        "name": "Christensen Arms Traverse .308 WIN",
+        "length": 0.6096,
+        "twistLength": 0.254,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/traverse/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".308 WIN",
+          "barrelLength": "24 in.",
+          "twist": "1:10"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Traverse .338 LAP MAG",
+      "maker": "Christensen Arms",
+      "model": "Traverse",
+      "cartridge": ".338 LAP MAG",
+      "barrel": {
+        "name": "Christensen Arms Traverse .338 LAP MAG",
+        "length": 0.6858,
+        "twistLength": 0.23622,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/traverse/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": ".338 LAP MAG*",
+          "barrelLength": "27 in.",
+          "twist": "1:9.3"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Traverse 6.5 CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Traverse",
+      "cartridge": "6.5 CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Traverse 6.5 CRDMR",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/traverse/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 CRDMR",
+          "barrelLength": "24 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Traverse 6.5 PRC",
+      "maker": "Christensen Arms",
+      "model": "Traverse",
+      "cartridge": "6.5 PRC",
+      "barrel": {
+        "name": "Christensen Arms Traverse 6.5 PRC",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/traverse/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.5 PRC",
+          "barrelLength": "24 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Traverse 6.8 WESTERN",
+      "maker": "Christensen Arms",
+      "model": "Traverse",
+      "cartridge": "6.8 WESTERN",
+      "barrel": {
+        "name": "Christensen Arms Traverse 6.8 WESTERN",
+        "length": 0.6096,
+        "twistLength": 0.1905,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/traverse/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6.8 WESTERN",
+          "barrelLength": "24 in.",
+          "twist": "1:7.5"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Traverse 6MM CRDMR",
+      "maker": "Christensen Arms",
+      "model": "Traverse",
+      "cartridge": "6MM CRDMR",
+      "barrel": {
+        "name": "Christensen Arms Traverse 6MM CRDMR",
+        "length": 0.6096,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/traverse/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "6MM CRDMR",
+          "barrelLength": "24 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Traverse 7MM PRC",
+      "maker": "Christensen Arms",
+      "model": "Traverse",
+      "cartridge": "7MM PRC",
+      "barrel": {
+        "name": "Christensen Arms Traverse 7MM PRC",
+        "length": 0.6604,
+        "twistLength": 0.2032,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/traverse/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM PRC",
+          "barrelLength": "26 in.",
+          "twist": "1:8"
+        }
+      }
+    },
+    {
+      "format": "gordons-legacy.firearm",
+      "schemaVersion": 1,
+      "name": "Christensen Arms Traverse 7MM REM MAG",
+      "maker": "Christensen Arms",
+      "model": "Traverse",
+      "cartridge": "7MM REM MAG",
+      "barrel": {
+        "name": "Christensen Arms Traverse 7MM REM MAG",
+        "length": 0.6604,
+        "twistLength": 0.2286,
+        "gasLeaks": []
+      },
+      "source": {
+        "kind": "published",
+        "publisher": "Christensen Arms",
+        "url": "https://christensenarms.com/product/traverse/",
+        "retrieved": "2026-10-16",
+        "published": {
+          "caliber": "7MM REM MAG",
+          "barrelLength": "26 in.",
+          "twist": "1:9"
+        }
+      }
+    }
+  ]
+}
