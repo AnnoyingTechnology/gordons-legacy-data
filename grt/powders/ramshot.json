@@ -1,0 +1,317 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-powders",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database, published with the written permission of Gordon's family (2026-11-04, issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table propellant, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "maker": "Ramshot",
+   "product": "Big Game",
+   "lot": "2020-08-01",
+   "heatOfExplosion": 4000000,
+   "heatCapacityRatio": 1.2224,
+   "covolume": 0.001,
+   "grainDensity": 1650,
+   "bulkDensity": 980,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.5843,
+    "a0": 0.1591,
+    "a1": 0,
+    "z1": 0.2631,
+    "z2": 0.7283,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2020-09-05",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2339",
+    "Lr": "0.2",
+    "L01": "0.4216",
+    "L02": "0.5174",
+    "L03": "0.5184",
+    "L04": "0.4881",
+    "L05": "0.4667",
+    "L06": "0.4405",
+    "L07": "0.401",
+    "L08": "0.346",
+    "L09": "0.2665",
+    "Qlty": "0.35"
+   }
+  },
+  {
+   "maker": "Ramshot",
+   "product": "Hunter",
+   "lot": "2021-01-07",
+   "heatOfExplosion": 3800000,
+   "heatCapacityRatio": 1.2347,
+   "covolume": 0.001,
+   "grainDensity": 1620,
+   "bulkDensity": 940,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.4643,
+    "a0": 0.6891,
+    "a1": 0,
+    "z1": 0.6061,
+    "z2": 0.8511,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-01-12",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2222",
+    "Lr": "0.2",
+    "L01": "0.3418",
+    "L02": "0.4067",
+    "L03": "0.4348",
+    "L04": "0.4499",
+    "L05": "0.4619",
+    "L06": "0.4696",
+    "L07": "0.4272",
+    "L08": "0.3738",
+    "L09": "0.3057",
+    "Qlty": "0.3"
+   }
+  },
+  {
+   "maker": "Ramshot",
+   "product": "Magnum",
+   "lot": "2021-01-07",
+   "heatOfExplosion": 3700000,
+   "heatCapacityRatio": 1.2363,
+   "covolume": 0.001,
+   "grainDensity": 1680,
+   "bulkDensity": 995,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.3615,
+    "a0": 2.4653,
+    "a1": 0,
+    "z1": 0.6102,
+    "z2": 0.8505,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-01-12",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2163",
+    "Lr": "0.2",
+    "L01": "0.2726",
+    "L02": "0.3426",
+    "L03": "0.3708",
+    "L04": "0.3921",
+    "L05": "0.407",
+    "L06": "0.42",
+    "L07": "0.3936",
+    "L08": "0.345",
+    "L09": "0.2755",
+    "Qlty": "0.3"
+   }
+  },
+  {
+   "maker": "Ramshot",
+   "product": "Silhouette",
+   "lot": "2020-01-07",
+   "heatOfExplosion": 3900000,
+   "heatCapacityRatio": 1.2166,
+   "covolume": 0.001,
+   "grainDensity": 1600,
+   "bulkDensity": 800,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 2.8378,
+    "a0": 1.5449,
+    "a1": 0,
+    "z1": 0.2146,
+    "z2": 0.7616,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-01-12",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2281",
+    "Lr": "0.2",
+    "L01": "2.5244",
+    "L02": "2.8218",
+    "L03": "2.8045",
+    "L04": "2.7107",
+    "L05": "2.5692",
+    "L06": "2.3697",
+    "L07": "2.1159",
+    "L08": "1.8084",
+    "L09": "1.3662",
+    "Qlty": "0.3"
+   }
+  },
+  {
+   "maker": "Ramshot",
+   "product": "TAC",
+   "lot": "2021-04-18",
+   "heatOfExplosion": 3750000,
+   "heatCapacityRatio": 1.2364,
+   "covolume": 0.001,
+   "grainDensity": 1680,
+   "bulkDensity": 990,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.6232,
+    "a0": 0.3279,
+    "a1": 0,
+    "z1": 0.4725,
+    "z2": 0.7564,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-04-29",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2251",
+    "Lr": "0.2",
+    "L01": "0.4206",
+    "L02": "0.5201",
+    "L03": "0.5471",
+    "L04": "0.556",
+    "L05": "0.5193",
+    "L06": "0.4919",
+    "L07": "0.4537",
+    "L08": "0.3949",
+    "L09": "0.3054",
+    "Qlty": "0.4"
+   }
+  },
+  {
+   "maker": "Ramshot",
+   "product": "True Blue",
+   "lot": "2020-09-01",
+   "heatOfExplosion": 4000000,
+   "heatCapacityRatio": 1.2137,
+   "covolume": 0.001,
+   "grainDensity": 1490,
+   "bulkDensity": 950,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 2.4928,
+    "a0": 0.4498,
+    "a1": 0,
+    "z1": 0.2506,
+    "z2": 0.7316,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2020-09-05",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2339",
+    "Lr": "0.2",
+    "L01": "1.9526",
+    "L02": "1.8832",
+    "L03": "1.8491",
+    "L04": "1.7358",
+    "L05": "1.6191",
+    "L06": "1.4938",
+    "L07": "1.3311",
+    "L08": "1.121",
+    "L09": "0.8319",
+    "Qlty": "0.35"
+   }
+  },
+  {
+   "maker": "Ramshot",
+   "product": "X-Terminator",
+   "lot": "2019-11-22",
+   "heatOfExplosion": 3710000,
+   "heatCapacityRatio": 1.2409,
+   "covolume": 0.001,
+   "grainDensity": 1540,
+   "bulkDensity": 986,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.5524,
+    "a0": 3.4891,
+    "a1": 0,
+    "z1": 0.5091,
+    "z2": 0.8305,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2020-09-06",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2169",
+    "Lr": "0.2",
+    "L01": "0.4453",
+    "L02": "0.5744",
+    "L03": "0.6362",
+    "L04": "0.6835",
+    "L05": "0.72",
+    "L06": "0.6713",
+    "L07": "0.6118",
+    "L08": "0.5498",
+    "L09": "0.4414",
+    "Qlty": "0.85"
+   }
+  }
+ ]
+}

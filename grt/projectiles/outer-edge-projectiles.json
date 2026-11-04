@@ -1,0 +1,1866 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database, published with the written permission of Gordon's family (2026-11-04, issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "Outer Edge Projectiles, OEP-10-BBT",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-10-BBT",
+   "lot": "2020",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00421192915,
+   "length": 0.02309,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00093,
+    "diameterA": 0.00617,
+    "diameterB": 0.00602
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 197.562551879,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-10-BBT",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-10-BBT",
+   "lot": "2020",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.0051839128,
+   "length": 0.0255,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00251,
+    "diameterA": 0.00653,
+    "diameterB": 0.00613
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 220.060778427,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-10-BBT",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-10-BBT",
+   "lot": "2020",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.00771107029,
+   "length": 0.03063,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00436,
+    "diameterA": 0.00704,
+    "diameterB": 0.00683
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 270.681788161,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-10-BBT",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-10-BBT",
+   "lot": "2020",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.008521056665,
+   "length": 0.0315,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00106,
+    "diameterA": 0.00704,
+    "diameterB": 0.00683
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 283.337040595,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-10-BBT",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-10-BBT",
+   "lot": "2020",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.007743469745,
+   "length": 0.03071,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00516,
+    "diameterA": 0.00721,
+    "diameterB": 0.00678
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 291.070805971,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-10-BBT",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-10-BBT",
+   "lot": "2020",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0103678256,
+   "length": 0.03401,
+   "base": {
+    "shape": "boattail",
+    "length": 0.007,
+    "diameterA": 0.00782,
+    "diameterB": 0.00696
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 329.739632851,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-10-BBT",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-10-BBT",
+   "lot": "2020",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01516294494,
+   "length": 0.04232,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00934,
+    "diameterA": 0.00859,
+    "diameterB": 0.00723
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 227.091474223,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-10-HP",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-10-HP",
+   "lot": "2020",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0071278801,
+   "length": 0.02969,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00306,
+    "diameterA": 0.00704,
+    "diameterB": 0.00662
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 239.043657077,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-10-HP",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-10-HP",
+   "lot": "2020",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.007743469745,
+   "length": 0.03071,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00516,
+    "diameterA": 0.00721,
+    "diameterB": 0.00678
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 253.80811825,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-10-HP",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-10-HP",
+   "lot": "2020",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01373736892,
+   "length": 0.03731,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00761,
+    "diameterA": 0.00859,
+    "diameterB": 0.00723
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 336.770328647,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-10-HP-Win Mag",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-10-HP-Win Mag",
+   "lot": "2020",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01483895039,
+   "length": 0.04034,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00902,
+    "diameterA": 0.00859,
+    "diameterB": 0.00724
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 376.142225107,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-10-RBT-T",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-10-RBT-T",
+   "lot": "2020",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01004383105,
+   "length": 0.03599,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00292,
+    "diameterA": 0.00782,
+    "diameterB": 0.00683
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 172.955116591,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-10-T",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-10-T",
+   "lot": "2020",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01004383105,
+   "length": 0.03599,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00469,
+    "diameterA": 0.00782,
+    "diameterB": 0.00696
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 177.876603649,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-10-T-Lapua",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-10-T-Lapua",
+   "lot": "2020",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01496854821,
+   "length": 0.04389,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00635,
+    "diameterA": 0.00859,
+    "diameterB": 0.00782
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 233.41910044,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-10-T-Snipetac",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-10-T-Snipetac",
+   "lot": "2020",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.02261481959,
+   "length": 0.05301,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00846,
+    "diameterA": 0.00952,
+    "diameterB": 0.00831
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 298.101501767,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-11-BBT",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-11-BBT",
+   "lot": "2020",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0090718474,
+   "length": 0.03051,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00529,
+    "diameterA": 0.00782,
+    "diameterB": 0.00696
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 281.227831856,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-11-EU-HP",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-11-EU-HP",
+   "lot": "2020",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01121021143,
+   "length": 0.03371,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0059,
+    "diameterA": 0.0082,
+    "diameterB": 0.00742
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 300.913780086,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-11-FN",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-11-FN",
+   "lot": "2020",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01153420598,
+   "length": 0.03,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-11-HP",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-11-HP",
+   "lot": "2020",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0090718474,
+   "length": 0.03051,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00529,
+    "diameterA": 0.00782,
+    "diameterB": 0.00659
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 260.135744466,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-11-HP",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-11-HP",
+   "lot": "2020",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.03051,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00528,
+    "diameterA": 0.00782,
+    "diameterB": 0.00735
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 247.480492033,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-11-RBT-T",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-11-RBT-T",
+   "lot": "2020",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0334,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00292,
+    "diameterA": 0.00782,
+    "diameterB": 0.00684
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 161.706003317,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-11-T",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-11-T",
+   "lot": "2020",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0334,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00293,
+    "diameterA": 0.00782,
+    "diameterB": 0.00715
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 162.409072897,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-11-US-HP",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-11-US-HP",
+   "lot": "2020",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.0116638038,
+   "length": 0.0347,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0076,
+    "diameterA": 0.0082,
+    "diameterB": 0.00738
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 299.507640926,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-12-HP",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-12-HP",
+   "lot": "2020",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.008572895793,
+   "length": 0.02969,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0034,
+    "diameterA": 0.00782,
+    "diameterB": 0.00735
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 242.559004976,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-12-HP",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-12-HP",
+   "lot": "2020",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01043262451,
+   "length": 0.03,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00241,
+    "diameterA": 0.00859,
+    "diameterB": 0.00833
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 250.292770352,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-12-HP",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-12-HP",
+   "lot": "2020",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.01730130897,
+   "length": 0.0363,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00861,
+    "diameterA": 0.00952,
+    "diameterB": 0.0095
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 298.101501767,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-13-T-BMG",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-13-T-BMG",
+   "lot": "2020",
+   "nominalCaliber": ".510",
+   "diameter": 0.01295,
+   "mass": 0.05287591056,
+   "length": 0.07,
+   "base": {
+    "shape": "boattail",
+    "length": 0.01162,
+    "diameterA": 0.01295,
+    "diameterB": 0.011
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 395.828173337,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-14-BBT",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-14-BBT",
+   "lot": "2020",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00233276076,
+   "length": 0.0142,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0011,
+    "diameterA": 0.00569,
+    "diameterB": 0.00552
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 85.0714191363,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-14-HP",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-14-HP",
+   "lot": "2020",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01483895039,
+   "length": 0.03538,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00357,
+    "diameterA": 0.0093,
+    "diameterB": 0.00872
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 288.258527652,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-14-HP Whelen",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-14-HP Whelen",
+   "lot": "2020",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01270058636,
+   "length": 0.03165,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 244.668213714,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-14-T-Steyr",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-14-T-Steyr",
+   "lot": "2020",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.03725937325,
+   "length": 0.05601,
+   "base": {
+    "shape": "boattail",
+    "length": 0.01038,
+    "diameterA": 0.01163,
+    "diameterB": 0.01058
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 292.47694513,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-15-T-BMG",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-15-T-BMG",
+   "lot": "2020",
+   "nominalCaliber": ".510",
+   "diameter": 0.01295,
+   "mass": 0.04937676942,
+   "length": 0.065,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00777,
+    "diameterA": 0.01295,
+    "diameterB": 0.01176
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 336.770328647,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-16-HP",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-16-HP",
+   "lot": "2020",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.01308937982,
+   "length": 0.02901,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00131,
+    "diameterA": 0.00952,
+    "diameterB": 0.0095
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 219.357708847,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-16-HP",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-16-HP",
+   "lot": "2020",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.02118924357,
+   "length": 0.0379,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00823,
+    "diameterA": 0.01057,
+    "diameterB": 0.00994
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 284.040110174,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-18-T-BMG",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-18-T-BMG",
+   "lot": "2020",
+   "nominalCaliber": ".510",
+   "diameter": 0.01295,
+   "mass": 0.0466552152,
+   "length": 0.05588,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00777,
+    "diameterA": 0.01295,
+    "diameterB": 0.01176
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 269.978718581,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-20-FN-45/70",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-20-FN-45/70",
+   "lot": "2020",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.02287401523,
+   "length": 0.032,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 114.600341481,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-20-HP-45/70",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-20-HP-45/70",
+   "lot": "2020",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.019439673,
+   "length": 0.032,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 114.600341481,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-6-T",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-6-T",
+   "lot": "2020",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00673908664,
+   "length": 0.0365,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00612,
+    "diameterA": 0.00617,
+    "diameterB": 0.00537
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 210.217804312,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-7-BBT",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-7-BBT",
+   "lot": "2020",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0058319019,
+   "length": 0.03175,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00401,
+    "diameterA": 0.00617,
+    "diameterB": 0.00549
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 321.302797895,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-7-BBT",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-7-BBT",
+   "lot": "2020",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0084238583,
+   "length": 0.0379,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00617,
+    "diameterA": 0.00671,
+    "diameterB": 0.00302
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 407.780356191,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-7-BBT Norma",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-7-BBT Norma",
+   "lot": "2020",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01393176565,
+   "length": 0.04671,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00861,
+    "diameterA": 0.00782,
+    "diameterB": 0.00649
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 544.175854641,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-7-T",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-7-T",
+   "lot": "2020",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00563750517,
+   "length": 0.032,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00371,
+    "diameterA": 0.00617,
+    "diameterB": 0.00561
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 168.033629534,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-7-T",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-7-T",
+   "lot": "2020",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.008261861025,
+   "length": 0.0384,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00617,
+    "diameterA": 0.00671,
+    "diameterB": 0.00604
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 214.43622179,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-7-T Norma",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-7-T Norma",
+   "lot": "2020",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01347817328,
+   "length": 0.04684,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00862,
+    "diameterA": 0.00782,
+    "diameterB": 0.00659
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 286.149318913,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-8-BBT",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-8-BBT",
+   "lot": "2020",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00369353787,
+   "length": 0.02301,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00513,
+    "diameterA": 0.00569,
+    "diameterB": 0.00518
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 208.811665153,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-8-BBT",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-8-BBT",
+   "lot": "2020",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0051839128,
+   "length": 0.02789,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00281,
+    "diameterA": 0.00617,
+    "diameterB": 0.00561
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 263.651092365,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-8-BBT",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-8-BBT",
+   "lot": "2020",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00725747792,
+   "length": 0.03299,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00726,
+    "diameterA": 0.00671,
+    "diameterB": 0.00612
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 329.739632851,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-8-BBT",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-8-BBT",
+   "lot": "2020",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00959023868,
+   "length": 0.03701,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0064,
+    "diameterA": 0.00721,
+    "diameterB": 0.00627
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 399.343521235,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-8-BBT 300 Norma / 300 PRC",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-8-BBT 300 Norma / 300 PRC",
+   "lot": "2020",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01328377655,
+   "length": 0.04343,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00877,
+    "diameterA": 0.00782,
+    "diameterB": 0.00696
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 472.462757518,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-8-HP",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-8-HP",
+   "lot": "2020",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00725747792,
+   "length": 0.03299,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00576,
+    "diameterA": 0.00671,
+    "diameterB": 0.00611
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 274.900205639,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-8-T",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-8-T",
+   "lot": "2020",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.004762719885,
+   "length": 0.02751,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0037,
+    "diameterA": 0.00617,
+    "diameterB": 0.00561
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 138.504707189,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-8-T",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-8-T",
+   "lot": "2020",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0071278801,
+   "length": 0.03381,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00603,
+    "diameterA": 0.00671,
+    "diameterB": 0.00631
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 172.252047012,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-8-T",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-8-T",
+   "lot": "2020",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00939584195,
+   "length": 0.03899,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00639,
+    "diameterA": 0.00721,
+    "diameterB": 0.00656
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 214.43622179,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-8-T Norma",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-8-T Norma",
+   "lot": "2020",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01283018418,
+   "length": 0.04501,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00615,
+    "diameterA": 0.00782,
+    "diameterB": 0.00681
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 253.10504867,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-8-T-Snipetac 8.4 + Twist",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-8-T-Snipetac 8.4 + Twist",
+   "lot": "2020",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.02637315637,
+   "length": 0.06101,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0099,
+    "diameterA": 0.00952,
+    "diameterB": 0.00783
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 380.360642585,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-8.5-BBT",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-8.5-BBT",
+   "lot": "2020",
+   "nominalCaliber": ".265",
+   "diameter": 0.00673,
+   "mass": 0.00680388555,
+   "length": 0.03099,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00356,
+    "diameterA": 0.00673,
+    "diameterB": 0.00632
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 291.070805971,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-8.5-HP",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-8.5-HP",
+   "lot": "2020",
+   "nominalCaliber": ".265",
+   "diameter": 0.00673,
+   "mass": 0.00667428773,
+   "length": 0.03099,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00405,
+    "diameterA": 0.00673,
+    "diameterB": 0.00653
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 243.262074555,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-9-BBT",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-9-BBT",
+   "lot": "2020",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.003324184083,
+   "length": 0.02101,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00312,
+    "diameterA": 0.00569,
+    "diameterB": 0.00518
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 184.204229865,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-9-BBT",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-9-BBT",
+   "lot": "2020",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00466552152,
+   "length": 0.0254,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00302,
+    "diameterA": 0.00617,
+    "diameterB": 0.00574
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 229.200682962,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-9-BBT",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-9-BBT",
+   "lot": "2020",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.008521056665,
+   "length": 0.0333,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00726,
+    "diameterA": 0.00721,
+    "diameterB": 0.00655
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 331.14577201,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-9-BBT 300 Norma / 300 PRC",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-9-BBT 300 Norma / 300 PRC",
+   "lot": "2020",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01133980925,
+   "length": 0.03866,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00505,
+    "diameterA": 0.00782,
+    "diameterB": 0.00704
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 400.749660394,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-9-HP",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-9-HP",
+   "lot": "2020",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.008521056665,
+   "length": 0.0333,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00526,
+    "diameterA": 0.00721,
+    "diameterB": 0.00656
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 288.258527652,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-9-T Norma",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-9-T Norma",
+   "lot": "2020",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01133980925,
+   "length": 0.04049,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00505,
+    "diameterA": 0.00782,
+    "diameterB": 0.00712
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 213.030082631,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-9-T-Lapua",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-9-T-Lapua",
+   "lot": "2020",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01652372205,
+   "length": 0.04849,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00712,
+    "diameterA": 0.00859,
+    "diameterB": 0.00764
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 267.869509843,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-9-T-Snipetac",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-9-T-Snipetac",
+   "lot": "2020",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.02559556945,
+   "length": 0.05999,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00889,
+    "diameterA": 0.00952,
+    "diameterB": 0.00841
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 352.237859399,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-9.5-BBT",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-9.5-BBT",
+   "lot": "2020",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0084238583,
+   "length": 0.032,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00596,
+    "diameterA": 0.00721,
+    "diameterB": 0.00678
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 311.45982378,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-9.5-BBT",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-9.5-BBT",
+   "lot": "2020",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0084238583,
+   "length": 0.032,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00597,
+    "diameterA": 0.00721,
+    "diameterB": 0.00678
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 311.45982378,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-9.5-HP",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-9.5-HP",
+   "lot": "2020",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0084238583,
+   "length": 0.032,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00597,
+    "diameterA": 0.00721,
+    "diameterB": 0.00678
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 259.432674887,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Outer Edge Projectiles, OEP-9.5-HP",
+   "maker": "Outer Edge Projectiles",
+   "product": "OEP-9.5-HP",
+   "lot": "2020",
+   "nominalCaliber": ".285",
+   "diameter": 0.00724,
+   "mass": 0.0084238583,
+   "length": 0.032,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00426,
+    "diameterA": 0.00724,
+    "diameterB": 0.00659
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 262.244953205,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

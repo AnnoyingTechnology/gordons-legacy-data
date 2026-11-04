@@ -1,0 +1,360 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-powders",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database, published with the written permission of Gordon's family (2026-11-04, issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table propellant, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "maker": "ADI",
+   "product": "AR 2205",
+   "lot": "2020-04-30",
+   "heatOfExplosion": 3940000,
+   "heatCapacityRatio": 1.2021,
+   "covolume": 0.001,
+   "grainDensity": 1510,
+   "bulkDensity": 890,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 1.1582,
+    "a0": 1.0555,
+    "a1": 0,
+    "z1": 0.2382,
+    "z2": 0.752,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-02-27",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2304",
+    "Lr": "0.2",
+    "L01": "0.9273",
+    "L02": "0.9136",
+    "L03": "0.8927",
+    "L04": "0.8399",
+    "L05": "0.7838",
+    "L06": "0.7235",
+    "L07": "0.6455",
+    "L08": "0.5449",
+    "L09": "0.4059",
+    "Qlty": "0.25"
+   }
+  },
+  {
+   "maker": "ADI",
+   "product": "AR 2206H",
+   "lot": "2020-04-14",
+   "heatOfExplosion": 4020000,
+   "heatCapacityRatio": 1.2328,
+   "covolume": 0.001,
+   "grainDensity": 1670,
+   "bulkDensity": 930,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.5686,
+    "a0": 1.4893,
+    "a1": 0,
+    "z1": 0.4309,
+    "z2": 0.8236,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-02-27",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2075",
+    "Lr": "0.2",
+    "L01": "0.5052",
+    "L02": "0.5149",
+    "L03": "0.5616",
+    "L04": "0.5924",
+    "L05": "0.5684",
+    "L06": "0.5261",
+    "L07": "0.4741",
+    "L08": "0.409",
+    "L09": "0.312",
+    "Qlty": "0.35"
+   }
+  },
+  {
+   "maker": "ADI",
+   "product": "AR 2209",
+   "lot": "2021-03-16",
+   "heatOfExplosion": 3900000,
+   "heatCapacityRatio": 1.2322,
+   "covolume": 0.001,
+   "grainDensity": 1560,
+   "bulkDensity": 990,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.4834,
+    "a0": 0.5013,
+    "a1": 0,
+    "z1": 0.5295,
+    "z2": 0.8036,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-03-16",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2187",
+    "Lr": "0.2",
+    "L01": "0.3839",
+    "L02": "0.4616",
+    "L03": "0.4849",
+    "L04": "0.4991",
+    "L05": "0.5079",
+    "L06": "0.4763",
+    "L07": "0.4333",
+    "L08": "0.3887",
+    "L09": "0.31",
+    "Qlty": "0.75"
+   }
+  },
+  {
+   "maker": "ADI",
+   "product": "AR 2213SC",
+   "lot": "2020-04-14",
+   "heatOfExplosion": 3850000,
+   "heatCapacityRatio": 1.2301,
+   "covolume": 0.001,
+   "grainDensity": 1550,
+   "bulkDensity": 930,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.4369,
+    "a0": 0.4014,
+    "a1": 0,
+    "z1": 0.5063,
+    "z2": 0.8091,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-02-27",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2280",
+    "Lr": "0.2",
+    "L01": "0.3107",
+    "L02": "0.3779",
+    "L03": "0.3931",
+    "L04": "0.4013",
+    "L05": "0.4026",
+    "L06": "0.3869",
+    "L07": "0.3524",
+    "L08": "0.3093",
+    "L09": "0.2419",
+    "Qlty": "0.35"
+   }
+  },
+  {
+   "maker": "ADI",
+   "product": "AR 2217",
+   "lot": "2020-08-03",
+   "heatOfExplosion": 3780000,
+   "heatCapacityRatio": 1.2384,
+   "covolume": 0.001,
+   "grainDensity": 1580,
+   "bulkDensity": 920,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.3474,
+    "a0": 1.7994,
+    "a1": 0,
+    "z1": 0.5278,
+    "z2": 0.787,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-02-27",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2163",
+    "Lr": "0.2",
+    "L01": "0.2571",
+    "L02": "0.3191",
+    "L03": "0.3454",
+    "L04": "0.3642",
+    "L05": "0.3788",
+    "L06": "0.3882",
+    "L07": "0.3856",
+    "L08": "0.3433",
+    "L09": "0.2739",
+    "Qlty": "0.45"
+   }
+  },
+  {
+   "maker": "ADI",
+   "product": "AR 2219",
+   "lot": "2020-02-04",
+   "heatOfExplosion": 3720000,
+   "heatCapacityRatio": 1.2289,
+   "covolume": 0.001,
+   "grainDensity": 1510,
+   "bulkDensity": 940,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.7288,
+    "a0": 0.1177,
+    "a1": 0,
+    "z1": 0.4989,
+    "z2": 0.7672,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-02-27",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2280",
+    "Lr": "0.2",
+    "L01": "0.5826",
+    "L02": "0.5808",
+    "L03": "0.6084",
+    "L04": "0.6252",
+    "L05": "0.6342",
+    "L06": "0.5851",
+    "L07": "0.532",
+    "L08": "0.4766",
+    "L09": "0.3805",
+    "Qlty": "0.65"
+   }
+  },
+  {
+   "maker": "ADI",
+   "product": "BM 2",
+   "lot": "2020-04-30",
+   "heatOfExplosion": 3670000,
+   "heatCapacityRatio": 1.2267,
+   "covolume": 0.001,
+   "grainDensity": 1540,
+   "bulkDensity": 980,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.7182,
+    "a0": 0.5755,
+    "a1": 0,
+    "z1": 0.3942,
+    "z2": 0.8071,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-02-27",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2204",
+    "Lr": "0.2",
+    "L01": "0.5067",
+    "L02": "0.6236",
+    "L03": "0.6553",
+    "L04": "0.6747",
+    "L05": "0.6303",
+    "L06": "0.5857",
+    "L07": "0.5434",
+    "L08": "0.4812",
+    "L09": "0.3782",
+    "Qlty": "0.45"
+   }
+  },
+  {
+   "maker": "ADI",
+   "product": "AR 2208",
+   "lot": "2021-10-08",
+   "heatOfExplosion": 3920000,
+   "heatCapacityRatio": 1.2213,
+   "covolume": 0.001,
+   "grainDensity": 1580,
+   "bulkDensity": 900,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.6351,
+    "a0": 0.2577,
+    "a1": 0,
+    "z1": 0.4154,
+    "z2": 0.7283,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-09",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2310",
+    "Lr": "0.2",
+    "L01": "0.4824",
+    "L02": "0.5177",
+    "L03": "0.5343",
+    "L04": "0.5422",
+    "L05": "0.5227",
+    "L06": "0.4843",
+    "L07": "0.4502",
+    "L08": "0.3977",
+    "L09": "0.3105",
+    "Qlty": "0.6"
+   }
+  }
+ ]
+}

@@ -1,0 +1,151 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database, published with the written permission of Gordon's family (2026-11-04, issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "rusbulletmaker, MG168",
+   "maker": "rusbulletmaker",
+   "product": "MG168",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01088621688,
+   "length": 0.03038,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00485,
+    "diameterA": 0.00706,
+    "diameterB": 0.00569
+   },
+   "shotStartPressure": 65000000,
+   "ballisticCoefficientG1": 258.026535728,
+   "ubcsCode": "H2H6R6S4N6",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "rusbulletmaker, MG175 HP",
+   "maker": "rusbulletmaker",
+   "product": "MG175 HP",
+   "lot": "09/2021",
+   "nominalCaliber": ".308",
+   "diameter": 0.00785,
+   "mass": 0.01133980925,
+   "length": 0.03265,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00462,
+    "diameterA": 0.00692,
+    "diameterB": 0.00569
+   },
+   "shotStartPressure": 65000000,
+   "ballisticCoefficientG1": 330.44270243,
+   "ubcsCode": "H2H6R6S4N6",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "rusbulletmaker, MG185 HP",
+   "maker": "rusbulletmaker",
+   "product": "MG185 HP",
+   "lot": "09/2021",
+   "nominalCaliber": ".308",
+   "diameter": 0.00785,
+   "mass": 0.01133980925,
+   "length": 0.03265,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00462,
+    "diameterA": 0.00692,
+    "diameterB": 0.00569
+   },
+   "shotStartPressure": 65000000,
+   "ballisticCoefficientG1": 330.44270243,
+   "ubcsCode": "H2H6R6S4N6",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "rusbulletmaker, MG207 HP",
+   "maker": "rusbulletmaker",
+   "product": "MG207 HP",
+   "lot": "09/2021",
+   "nominalCaliber": ".308",
+   "diameter": 0.00785,
+   "mass": 0.013426334152,
+   "length": 0.03512,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0047,
+    "diameterA": 0.00706,
+    "diameterB": 0.00569
+   },
+   "shotStartPressure": 65000000,
+   "ballisticCoefficientG1": 435.903139376,
+   "ubcsCode": "H2H6R6S4N6",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "rusbulletmaker, SPRBT185",
+   "maker": "rusbulletmaker",
+   "product": "SPRBT185",
+   "lot": "Sep2021",
+   "nominalCaliber": ".308",
+   "diameter": 0.00785,
+   "mass": 0.012020197805,
+   "length": 0.03038,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00474,
+    "diameterA": 0.00693,
+    "diameterB": 0.0059
+   },
+   "shotStartPressure": 65000000,
+   "ballisticCoefficientG1": 210.920873892,
+   "ubcsCode": "H2L2R6S4N1",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

@@ -1,0 +1,4799 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database, published with the written permission of Gordon's family (2026-11-04, issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "Peregrine, Glider (GRM)",
+   "maker": "Peregrine",
+   "product": "Glider (GRM)",
+   "lot": "2020-06",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.0278635313,
+   "length": 0.0526,
+   "base": {
+    "shape": "boattail",
+    "length": 0.008,
+    "diameterA": 0.01057,
+    "diameterB": 0.00861
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 610.967464706,
+   "ballisticCoefficientG7": 312.16289336,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Glider (GRM)",
+   "maker": "Peregrine",
+   "product": "Glider (GRM)",
+   "lot": "2020-06",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.032399455,
+   "length": 0.0591,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0087,
+    "diameterA": 0.01057,
+    "diameterB": 0.00851
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 655.260848224,
+   "ballisticCoefficientG7": 337.473398227,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Glider (GRM)",
+   "maker": "Peregrine",
+   "product": "Glider (GRM)",
+   "lot": "2020-06",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01464455366,
+   "length": 0.0478,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0065,
+    "diameterA": 0.00782,
+    "diameterB": 0.00623
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 681.97749225,
+   "ballisticCoefficientG7": 340.988746125,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Glider (GRM)",
+   "maker": "Peregrine",
+   "product": "Glider (GRM)",
+   "lot": "2020-06",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.032399455,
+   "length": 0.0651,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0085,
+    "diameterA": 0.01057,
+    "diameterB": 0.00847
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 756.502867692,
+   "ballisticCoefficientG7": 378.251433846,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Glider (GRM)",
+   "maker": "Peregrine",
+   "product": "Glider (GRM)",
+   "lot": "2020-05",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00421192915,
+   "length": 0.02725,
+   "base": {
+    "shape": "boattail",
+    "length": 0.004,
+    "diameterA": 0.00569,
+    "diameterB": 0.00471
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 340.285676545,
+   "ballisticCoefficientG7": 172.252047012,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Glider (GRM)",
+   "maker": "Peregrine",
+   "product": "Glider (GRM)",
+   "lot": "2020-05",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00485991825,
+   "length": 0.0306,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0044,
+    "diameterA": 0.00569,
+    "diameterB": 0.0046
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 389.50054712,
+   "ballisticCoefficientG7": 209.514734732,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Glider (GRM)",
+   "maker": "Peregrine",
+   "product": "Glider (GRM)",
+   "lot": "2020-05",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.00784066811,
+   "length": 0.0339,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0051,
+    "diameterA": 0.00704,
+    "diameterB": 0.00579
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 407.780356191,
+   "ballisticCoefficientG7": 206.702456414,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Glider (GRM)",
+   "maker": "Peregrine",
+   "product": "Glider (GRM)",
+   "lot": "2020-05",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00946064086,
+   "length": 0.0333,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0051,
+    "diameterA": 0.00782,
+    "diameterB": 0.00657
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 348.019441921,
+   "ballisticCoefficientG7": 234.825239599,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Glider (GRM)",
+   "maker": "Peregrine",
+   "product": "Glider (GRM)",
+   "lot": "2020-05",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0342,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0049,
+    "diameterA": 0.00782,
+    "diameterB": 0.0061
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 356.456276877,
+   "ballisticCoefficientG7": 179.985812388,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Glider (GRM)",
+   "maker": "Peregrine",
+   "product": "Glider (GRM)",
+   "lot": "2020-05",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01075661906,
+   "length": 0.0373,
+   "base": {
+    "shape": "boattail",
+    "length": 0.006,
+    "diameterA": 0.00782,
+    "diameterB": 0.00635
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 456.292157186,
+   "ballisticCoefficientG7": 227.091474223,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Glider (GRM)",
+   "maker": "Peregrine",
+   "product": "Glider (GRM)",
+   "lot": "2020-05",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01140460816,
+   "length": 0.0389,
+   "base": {
+    "shape": "boattail",
+    "length": 0.006,
+    "diameterA": 0.00782,
+    "diameterB": 0.00635
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 484.414940371,
+   "ballisticCoefficientG7": 241.152865816,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Glider (GRM)",
+   "maker": "Peregrine",
+   "product": "Glider (GRM)",
+   "lot": "2020-05",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01270058636,
+   "length": 0.0419,
+   "base": {
+    "shape": "boattail",
+    "length": 0.006,
+    "diameterA": 0.00782,
+    "diameterB": 0.00635
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 540.660506743,
+   "ballisticCoefficientG7": 269.275649002,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Glider (GRM)",
+   "maker": "Peregrine",
+   "product": "Glider (GRM)",
+   "lot": "2020-05",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01334857546,
+   "length": 0.0435,
+   "base": {
+    "shape": "boattail",
+    "length": 0.006,
+    "diameterA": 0.0078,
+    "diameterB": 0.00635
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 579.329333623,
+   "ballisticCoefficientG7": 289.664666811,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Glider (GRM)",
+   "maker": "Peregrine",
+   "product": "Glider (GRM)",
+   "lot": "2020-05",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01205259726,
+   "length": 0.0404,
+   "base": {
+    "shape": "boattail",
+    "length": 0.006,
+    "diameterA": 0.00782,
+    "diameterB": 0.00635
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 523.083767252,
+   "ballisticCoefficientG7": 261.541883626,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Glider (GRM)",
+   "maker": "Peregrine",
+   "product": "Glider (GRM)",
+   "lot": "2020-05",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01399656456,
+   "length": 0.0463,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0065,
+    "diameterA": 0.00782,
+    "diameterB": 0.00623
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 615.888951764,
+   "ballisticCoefficientG7": 307.241406302,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Glider (GRM)",
+   "maker": "Peregrine",
+   "product": "Glider (GRM)",
+   "lot": "2020-05",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.00874785285,
+   "length": 0.0364,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0051,
+    "diameterA": 0.00704,
+    "diameterB": 0.00579
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 461.213644243,
+   "ballisticCoefficientG7": 227.091474223,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Glider (GRM)",
+   "maker": "Peregrine",
+   "product": "Glider (GRM)",
+   "lot": "2020-05",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.010076230505,
+   "length": 0.035,
+   "base": {
+    "shape": "boattail",
+    "length": 0.006,
+    "diameterA": 0.00782,
+    "diameterB": 0.00635
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 383.172920903,
+   "ballisticCoefficientG7": 191.234925662,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Glider (GRM)",
+   "maker": "Peregrine",
+   "product": "Glider (GRM)",
+   "lot": "05-2020",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00809986375,
+   "length": 0.0366,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00525,
+    "diameterA": 0.00671,
+    "diameterB": 0.0054
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 480.899592473,
+   "ballisticCoefficientG7": 239.746726657,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Glider (GRM)",
+   "maker": "Peregrine",
+   "product": "Glider (GRM)",
+   "lot": "05-2020",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00874785285,
+   "length": 0.0388,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0056,
+    "diameterA": 0.00671,
+    "diameterB": 0.00532
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Glider Rangemaster",
+   "maker": "Peregrine",
+   "product": "Glider Rangemaster",
+   "lot": "2020/01",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00628549427,
+   "length": 0.032,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0049,
+    "diameterA": 0.00617,
+    "diameterB": 0.00497
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 398.640451655,
+   "ballisticCoefficientG7": 200.374830197,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Glider Rangemaster",
+   "maker": "Peregrine",
+   "product": "Glider Rangemaster",
+   "lot": "2020-04",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01146940707,
+   "length": 0.0436,
+   "base": {
+    "shape": "boattail",
+    "length": 0.006,
+    "diameterA": 0.00721,
+    "diameterB": 0.00573
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 604.63983849,
+   "ballisticCoefficientG7": 301.616849665,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Glider Rangemaster",
+   "maker": "Peregrine",
+   "product": "Glider Rangemaster",
+   "lot": "2020-03",
+   "nominalCaliber": ".375",
+   "diameter": 0.00953,
+   "mass": 0.0226796185,
+   "length": 0.0528,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0078,
+    "diameterA": 0.00953,
+    "diameterB": 0.0076
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 632.059552096,
+   "ballisticCoefficientG7": 318.490519577,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Glider Rangemaster",
+   "maker": "Peregrine",
+   "product": "Glider Rangemaster",
+   "lot": "2019-06",
+   "nominalCaliber": ".375",
+   "diameter": 0.00953,
+   "mass": 0.02533637381,
+   "length": 0.057,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0078,
+    "diameterA": 0.00953,
+    "diameterB": 0.00763
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 753.690589373,
+   "ballisticCoefficientG7": 378.251433846,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Glider Rangemaster",
+   "maker": "Peregrine",
+   "product": "Glider Rangemaster",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00953,
+   "mass": 0.025919564,
+   "length": 0.0559,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0068,
+    "diameterA": 0.0095,
+    "diameterB": 0.0079
+   },
+   "shotStartPressure": 43000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "S0F1B1C1N1",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Rangemaster",
+   "maker": "Peregrine",
+   "product": "Rangemaster",
+   "lot": "2020-05 (discontinued)",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.00693348337,
+   "length": 0.0304,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0035,
+    "diameterA": 0.007,
+    "diameterB": 0.0062
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 285.446249333,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Rangemaster",
+   "maker": "Peregrine",
+   "product": "Rangemaster",
+   "lot": "2020-02",
+   "nominalCaliber": ".408",
+   "diameter": 0.01036,
+   "mass": 0.02948350405,
+   "length": 0.0551,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0052,
+    "diameterA": 0.01036,
+    "diameterB": 0.0091
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 520.271488933,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Rangemaster",
+   "maker": "Peregrine",
+   "product": "Rangemaster",
+   "lot": "2019-08",
+   "nominalCaliber": ".509",
+   "diameter": 0.01293,
+   "mass": 0.0563750517,
+   "length": 0.0715,
+   "base": {
+    "shape": "boattail",
+    "length": 0.01,
+    "diameterA": 0.0129,
+    "diameterB": 0.0105
+   },
+   "shotStartPressure": 30000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Rangemaster",
+   "maker": "Peregrine",
+   "product": "Rangemaster",
+   "lot": "2019-06 (Discontinued)",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01010862996,
+   "length": 0.0353,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0039,
+    "diameterA": 0.0078,
+    "diameterB": 0.0069
+   },
+   "shotStartPressure": 33000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 343.097954864,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Rangemaster",
+   "maker": "Peregrine",
+   "product": "Rangemaster",
+   "lot": "2019-06",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00939584195,
+   "length": 0.0371,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0044,
+    "diameterA": 0.0072,
+    "diameterB": 0.0061
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 383.875990483,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Rangemaster",
+   "maker": "Peregrine",
+   "product": "Rangemaster",
+   "lot": "2019-06",
+   "nominalCaliber": ".509",
+   "diameter": 0.01293,
+   "mass": 0.0485991825,
+   "length": 0.0625,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0065,
+    "diameterA": 0.0129,
+    "diameterB": 0.0114
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 648.230152427,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Rangemaster",
+   "maker": "Peregrine",
+   "product": "Rangemaster",
+   "lot": "2019-06",
+   "nominalCaliber": ".408",
+   "diameter": 0.01036,
+   "mass": 0.02624355855,
+   "length": 0.0509,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0052,
+    "diameterA": 0.01036,
+    "diameterB": 0.0091
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 520.271488933,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Rangemaster",
+   "maker": "Peregrine",
+   "product": "Rangemaster",
+   "lot": "2019-06",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.00874785285,
+   "length": 0.0364,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0051,
+    "diameterA": 0.00704,
+    "diameterB": 0.0058
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 435.903139376,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Rangemaster",
+   "maker": "Peregrine",
+   "product": "Rangemaster",
+   "lot": "2019-06",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0103678256,
+   "length": 0.0399,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0044,
+    "diameterA": 0.0072,
+    "diameterB": 0.0061
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 412.701843248,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Rangemaster",
+   "maker": "Peregrine",
+   "product": "Rangemaster",
+   "lot": "05-2020",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0077758692,
+   "length": 0.0351,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0051,
+    "diameterA": 0.00671,
+    "diameterB": 0.0054
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Rangemaster (Discontinued)",
+   "maker": "Peregrine",
+   "product": "Rangemaster (Discontinued)",
+   "lot": "2019-06",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00946064086,
+   "length": 0.0339,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0039,
+    "diameterA": 0.0078,
+    "diameterB": 0.0069
+   },
+   "shotStartPressure": 33000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 316.381310838,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Rangemaster (Discontinued)",
+   "maker": "Peregrine",
+   "product": "Rangemaster (Discontinued)",
+   "lot": "2019-06",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00758147247,
+   "length": 0.0345,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0047,
+    "diameterA": 0.00671,
+    "diameterB": 0.00556
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 358.565485616,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Rangemaster (Discontinued)",
+   "maker": "Peregrine",
+   "product": "Rangemaster (Discontinued)",
+   "lot": "2019-06",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00349914114,
+   "length": 0.0234,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0014,
+    "diameterA": 0.00569,
+    "diameterB": 0.0054
+   },
+   "shotStartPressure": 33000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 204.593247675,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, SD",
+   "maker": "Peregrine",
+   "product": "SD",
+   "lot": "2019-06",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.006479891,
+   "length": 0.0158,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0013,
+    "diameterA": 0.009,
+    "diameterB": 0.0088
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, Sub-Sonic",
+   "maker": "Peregrine",
+   "product": "Sub-Sonic",
+   "lot": "2020-04",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.03077948225,
+   "length": 0.0426,
+   "base": {
+    "shape": "boattail",
+    "length": 0.006,
+    "diameterA": 0.01163,
+    "diameterB": 0.00989
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 227.794543803,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, SubSonic",
+   "maker": "Peregrine",
+   "product": "SubSonic",
+   "lot": "2019-06",
+   "nominalCaliber": ".312",
+   "diameter": 0.00792,
+   "mass": 0.01069182015,
+   "length": 0.03164,
+   "base": {
+    "shape": "boattail",
+    "length": 0.002,
+    "diameterA": 0.00792,
+    "diameterB": 0.00736
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-06",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00881265176,
+   "length": 0.0303,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0045,
+    "diameterA": 0.00782,
+    "diameterB": 0.0067
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 288.961597232,
+   "ballisticCoefficientG7": 155.3783771,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-06",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0326,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.00782,
+    "diameterB": 0.00658
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 314.975171678,
+   "ballisticCoefficientG7": 157.487585839,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-06",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.0252715749,
+   "length": 0.04699,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0062,
+    "diameterA": 0.01057,
+    "diameterB": 0.00905
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 461.916713823,
+   "ballisticCoefficientG7": 230.606822122,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-06",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.02902991168,
+   "length": 0.05209,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0072,
+    "diameterA": 0.01057,
+    "diameterB": 0.00881
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 513.240793137,
+   "ballisticCoefficientG7": 256.620396568,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-06",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.0161997275,
+   "length": 0.0359,
+   "base": {
+    "shape": "boattail",
+    "length": 0.006,
+    "diameterA": 0.00952,
+    "diameterB": 0.0081
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 310.053684621,
+   "ballisticCoefficientG7": 155.3783771,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-06",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.0149037493,
+   "length": 0.0336,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0053,
+    "diameterA": 0.00952,
+    "diameterB": 0.00825
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 291.77387555,
+   "ballisticCoefficientG7": 146.238472565,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-06",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.019439673,
+   "length": 0.03575,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0062,
+    "diameterA": 0.01057,
+    "diameterB": 0.00905
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 320.599728315,
+   "ballisticCoefficientG7": 160.299864158,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-06",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01315417873,
+   "length": 0.0413,
+   "base": {
+    "shape": "boattail",
+    "length": 0.006,
+    "diameterA": 0.00782,
+    "diameterB": 0.00634
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 452.776809288,
+   "ballisticCoefficientG7": 225.685335064,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-06",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01250618963,
+   "length": 0.0397,
+   "base": {
+    "shape": "boattail",
+    "length": 0.006,
+    "diameterA": 0.00782,
+    "diameterB": 0.00634
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 374.736085948,
+   "ballisticCoefficientG7": 187.719577764,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-06",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01185820053,
+   "length": 0.038,
+   "base": {
+    "shape": "boattail",
+    "length": 0.006,
+    "diameterA": 0.00782,
+    "diameterB": 0.00634
+   },
+   "shotStartPressure": 29000000,
+   "ballisticCoefficientG1": 364.893111833,
+   "ballisticCoefficientG7": 182.798090706,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-06",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01082141797,
+   "length": 0.0352,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0054,
+    "diameterA": 0.00782,
+    "diameterB": 0.00649
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 326.224284953,
+   "ballisticCoefficientG7": 163.112142476,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-05",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.019439673,
+   "length": 0.0508,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0059,
+    "diameterA": 0.00859,
+    "diameterB": 0.0072
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 495.664053646,
+   "ballisticCoefficientG7": 249.589700772,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-05",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.012959782,
+   "length": 0.0379,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0057,
+    "diameterA": 0.0082,
+    "diameterB": 0.0068
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 378.954503426,
+   "ballisticCoefficientG7": 190.531856082,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-05",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00285115204,
+   "length": 0.0181,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0031,
+    "diameterA": 0.00569,
+    "diameterB": 0.0049
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 149.050750884,
+   "ballisticCoefficientG7": 75.2284450214,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-05",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00330474441,
+   "length": 0.02135,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0037,
+    "diameterA": 0.00569,
+    "diameterB": 0.00475
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 178.579673228,
+   "ballisticCoefficientG7": 89.9929061938,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-05",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.00855345612,
+   "length": 0.0353,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00545,
+    "diameterA": 0.00704,
+    "diameterB": 0.00565
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 345.207163603,
+   "ballisticCoefficientG7": 173.658186171,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-05",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0090718474,
+   "length": 0.0356,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0055,
+    "diameterA": 0.00721,
+    "diameterB": 0.0059
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 350.12865066,
+   "ballisticCoefficientG7": 175.76739491,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-05",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0097198365,
+   "length": 0.0376,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0055,
+    "diameterA": 0.00721,
+    "diameterB": 0.0059
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 357.862416036,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-05",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00803506484,
+   "length": 0.0358,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0052,
+    "diameterA": 0.0067,
+    "diameterB": 0.0054
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 374.033016368,
+   "ballisticCoefficientG7": 187.719577764,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-05",
+   "nominalCaliber": ".312",
+   "diameter": 0.00798,
+   "mass": 0.01088621688,
+   "length": 0.0345,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0054,
+    "diameterA": 0.00798,
+    "diameterB": 0.00664
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 332.551911169,
+   "ballisticCoefficientG7": 182.095021127,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-05",
+   "nominalCaliber": ".312",
+   "diameter": 0.00798,
+   "mass": 0.00984943432,
+   "length": 0.032,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0054,
+    "diameterA": 0.00798,
+    "diameterB": 0.00664
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 313.569032519,
+   "ballisticCoefficientG7": 156.78451626,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-05",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00434152697,
+   "length": 0.0261,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0041,
+    "diameterA": 0.00569,
+    "diameterB": 0.0047
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 231.309891701,
+   "ballisticCoefficientG7": 116.00648064,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-05",
+   "nominalCaliber": ".365",
+   "diameter": 0.00928,
+   "mass": 0.0149037493,
+   "length": 0.0357,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0058,
+    "diameterA": 0.00928,
+    "diameterB": 0.0078
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 332.551911169,
+   "ballisticCoefficientG7": 164.518281636,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-05",
+   "nominalCaliber": ".365",
+   "diameter": 0.00928,
+   "mass": 0.0161997275,
+   "length": 0.038,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0058,
+    "diameterA": 0.00928,
+    "diameterB": 0.0078
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 352.237859399,
+   "ballisticCoefficientG7": 174.361255751,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-05",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00375833678,
+   "length": 0.0233,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0037,
+    "diameterA": 0.00569,
+    "diameterB": 0.0047
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 202.484038936,
+   "ballisticCoefficientG7": 101.242019468,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-05",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.0116638038,
+   "length": 0.0369,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0057,
+    "diameterA": 0.0082,
+    "diameterB": 0.00677
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 355.050137718,
+   "ballisticCoefficientG7": 178.579673228,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-05",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0174957057,
+   "length": 0.0468,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0059,
+    "diameterA": 0.00859,
+    "diameterB": 0.0072
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 478.790383734,
+   "ballisticCoefficientG7": 240.449796237,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-05",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.012959782,
+   "length": 0.0362,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00566,
+    "diameterA": 0.00859,
+    "diameterB": 0.00719
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 352.940928979,
+   "ballisticCoefficientG7": 177.173534069,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-05",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01457975475,
+   "length": 0.0395,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00566,
+    "diameterA": 0.00859,
+    "diameterB": 0.00719
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 383.172920903,
+   "ballisticCoefficientG7": 189.125716923,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-05",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0116638038,
+   "length": 0.0337,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0057,
+    "diameterA": 0.00859,
+    "diameterB": 0.0072
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 331.14577201,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2020-05",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01607012968,
+   "length": 0.0439,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00586,
+    "diameterA": 0.00859,
+    "diameterB": 0.00714
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 456.995226765,
+   "ballisticCoefficientG7": 229.200682962,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2019-06",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.0174957057,
+   "length": 0.0381,
+   "base": {
+    "shape": "boattail",
+    "length": 0.006,
+    "diameterA": 0.00952,
+    "diameterB": 0.0081
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 316.381310838,
+   "ballisticCoefficientG7": 159.596794578,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2019-06",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00764627138,
+   "length": 0.0343,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0052,
+    "diameterA": 0.0067,
+    "diameterB": 0.0054
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 337.473398227,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2019-06",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00544310844,
+   "length": 0.0292,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0042,
+    "diameterA": 0.00617,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 277.009414378,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2019-06",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0326,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.0078,
+    "diameterB": 0.0066
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 307.944475882,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4",
+   "maker": "Peregrine",
+   "product": "VLR-4",
+   "lot": "2019-06",
+   "nominalCaliber": ".306",
+   "diameter": 0.00777,
+   "mass": 0.0103678256,
+   "length": 0.0352,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0052,
+    "diameterA": 0.0078,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 318.490519577,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4 (Compact)",
+   "maker": "Peregrine",
+   "product": "VLR-4 (Compact)",
+   "lot": "2020-05",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0090718474,
+   "length": 0.0342,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00455,
+    "diameterA": 0.00704,
+    "diameterB": 0.00594
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4 (Discontinued)",
+   "maker": "Peregrine",
+   "product": "VLR-4 (Discontinued)",
+   "lot": "2020-05",
+   "nominalCaliber": ".312",
+   "diameter": 0.00798,
+   "mass": 0.0097198365,
+   "length": 0.032,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0054,
+    "diameterA": 0.00798,
+    "diameterB": 0.00664
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 313.569032519,
+   "ballisticCoefficientG7": 156.78451626,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4 (Discontinued)",
+   "maker": "Peregrine",
+   "product": "VLR-4 (Discontinued)",
+   "lot": "2019-06",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0161997275,
+   "length": 0.0439,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0059,
+    "diameterA": 0.00859,
+    "diameterB": 0.0072
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 456.995226765,
+   "ballisticCoefficientG7": 229.200682962,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4 (Experimental)",
+   "maker": "Peregrine",
+   "product": "VLR-4 (Experimental)",
+   "lot": "2019-06",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00855345612,
+   "length": 0.0304,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0036,
+    "diameterA": 0.00782,
+    "diameterB": 0.00688
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-4 (Experimental)",
+   "maker": "Peregrine",
+   "product": "VLR-4 (Experimental)",
+   "lot": "2019-06",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00686868446,
+   "length": 0.0284,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-06",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0090718474,
+   "length": 0.0303,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0045,
+    "diameterA": 0.0078,
+    "diameterB": 0.0067
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 288.961597232,
+   "ballisticCoefficientG7": 155.3783771,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-06",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00997903214,
+   "length": 0.0326,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.00782,
+    "diameterB": 0.00658
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 314.975171678,
+   "ballisticCoefficientG7": 157.487585839,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-06",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01211739617,
+   "length": 0.038,
+   "base": {
+    "shape": "boattail",
+    "length": 0.006,
+    "diameterA": 0.00782,
+    "diameterB": 0.00634
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 364.893111833,
+   "ballisticCoefficientG7": 182.798090706,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-06",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01276538527,
+   "length": 0.0397,
+   "base": {
+    "shape": "boattail",
+    "length": 0.006,
+    "diameterA": 0.00782,
+    "diameterB": 0.00634
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 374.736085948,
+   "ballisticCoefficientG7": 187.719577764,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-06",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.02566036836,
+   "length": 0.04699,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0062,
+    "diameterA": 0.01057,
+    "diameterB": 0.00905
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 461.916713823,
+   "ballisticCoefficientG7": 230.606822122,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-06",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.02941870514,
+   "length": 0.05209,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0072,
+    "diameterA": 0.01057,
+    "diameterB": 0.00881
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 513.240793137,
+   "ballisticCoefficientG7": 256.620396568,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-06",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.01529254276,
+   "length": 0.0336,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0053,
+    "diameterA": 0.00952,
+    "diameterB": 0.00825
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 291.77387555,
+   "ballisticCoefficientG7": 146.238472565,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-06",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.01658852096,
+   "length": 0.0359,
+   "base": {
+    "shape": "boattail",
+    "length": 0.006,
+    "diameterA": 0.00952,
+    "diameterB": 0.0081
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 310.053684621,
+   "ballisticCoefficientG7": 155.3783771,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-06",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.01788449916,
+   "length": 0.0381,
+   "base": {
+    "shape": "boattail",
+    "length": 0.006,
+    "diameterA": 0.00952,
+    "diameterB": 0.0081
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 316.381310838,
+   "ballisticCoefficientG7": 159.596794578,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-06",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.01982846646,
+   "length": 0.03575,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0062,
+    "diameterA": 0.01057,
+    "diameterB": 0.00905
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 320.599728315,
+   "ballisticCoefficientG7": 160.299864158,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-06",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01108061361,
+   "length": 0.0353,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0054,
+    "diameterA": 0.00782,
+    "diameterB": 0.00649
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 326.224284953,
+   "ballisticCoefficientG7": 163.112142476,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-06",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01341337437,
+   "length": 0.0413,
+   "base": {
+    "shape": "boattail",
+    "length": 0.006,
+    "diameterA": 0.00782,
+    "diameterB": 0.00634
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 452.776809288,
+   "ballisticCoefficientG7": 225.685335064,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-05",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01334857546,
+   "length": 0.0362,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00566,
+    "diameterA": 0.00859,
+    "diameterB": 0.00719
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 352.940928979,
+   "ballisticCoefficientG7": 177.173534069,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-05",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01496854821,
+   "length": 0.0395,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00566,
+    "diameterA": 0.00859,
+    "diameterB": 0.00719
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 383.172920903,
+   "ballisticCoefficientG7": 189.125716923,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-05",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01788449916,
+   "length": 0.0468,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0059,
+    "diameterA": 0.00859,
+    "diameterB": 0.0072
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 478.790383734,
+   "ballisticCoefficientG7": 240.449796237,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-05",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01982846646,
+   "length": 0.0508,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0059,
+    "diameterA": 0.00859,
+    "diameterB": 0.0072
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 495.664053646,
+   "ballisticCoefficientG7": 249.589700772,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-05",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01205259726,
+   "length": 0.0369,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0057,
+    "diameterA": 0.0082,
+    "diameterB": 0.0068
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 355.050137718,
+   "ballisticCoefficientG7": 178.579673228,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-05",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01334857546,
+   "length": 0.0379,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0057,
+    "diameterA": 0.0082,
+    "diameterB": 0.0068
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 378.954503426,
+   "ballisticCoefficientG7": 190.531856082,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-05",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00298074986,
+   "length": 0.0181,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0031,
+    "diameterA": 0.00569,
+    "diameterB": 0.0049
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 149.050750884,
+   "ballisticCoefficientG7": 75.2284450214,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-05",
+   "nominalCaliber": ".365",
+   "diameter": 0.00928,
+   "mass": 0.01529254276,
+   "length": 0.0356,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0058,
+    "diameterA": 0.00928,
+    "diameterB": 0.0078
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 332.551911169,
+   "ballisticCoefficientG7": 164.518281636,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-05",
+   "nominalCaliber": ".365",
+   "diameter": 0.00928,
+   "mass": 0.01658852096,
+   "length": 0.03785,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0058,
+    "diameterA": 0.00928,
+    "diameterB": 0.0078
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 352.237859399,
+   "ballisticCoefficientG7": 174.361255751,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-05",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00829426048,
+   "length": 0.0358,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0052,
+    "diameterA": 0.00671,
+    "diameterB": 0.0054
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 374.033016368,
+   "ballisticCoefficientG7": 187.719577764,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-05",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00343434223,
+   "length": 0.02135,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0037,
+    "diameterA": 0.00569,
+    "diameterB": 0.00475
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 178.579673228,
+   "ballisticCoefficientG7": 89.9929061938,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-05",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0038879346,
+   "length": 0.0233,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0037,
+    "diameterA": 0.00569,
+    "diameterB": 0.0047
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 202.484038936,
+   "ballisticCoefficientG7": 101.242019468,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-05",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00447112479,
+   "length": 0.0261,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0041,
+    "diameterA": 0.00569,
+    "diameterB": 0.0047
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 231.309891701,
+   "ballisticCoefficientG7": 116.00648064,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2020-05",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01645892314,
+   "length": 0.0439,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00586,
+    "diameterA": 0.00859,
+    "diameterB": 0.00714
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 456.995226765,
+   "ballisticCoefficientG7": 229.200682962,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2019-06",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00790546702,
+   "length": 0.0343,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0052,
+    "diameterA": 0.0067,
+    "diameterB": 0.0054
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 337.473398227,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2019-06",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00615589645,
+   "length": 0.0312,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0042,
+    "diameterA": 0.00617,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 295.289223448,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR-5",
+   "maker": "Peregrine",
+   "product": "VLR-5",
+   "lot": "2019-06",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00997903214,
+   "length": 0.0326,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.0078,
+    "diameterB": 0.0066
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 307.944475882,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VLR4",
+   "maker": "Peregrine",
+   "product": "VLR4",
+   "lot": "",
+   "nominalCaliber": ".172",
+   "diameter": 0.00437,
+   "mass": 0.00136077711,
+   "length": 0.0153,
+   "base": {
+    "shape": "boattail",
+    "length": 0.003,
+    "diameterA": 0.00437,
+    "diameterB": 0.00353
+   },
+   "shotStartPressure": 30000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-2",
+   "maker": "Peregrine",
+   "product": "VRG-2",
+   "lot": "2020-06",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01010862996,
+   "length": 0.0272,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.00782,
+    "diameterB": 0.0066
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-2",
+   "maker": "Peregrine",
+   "product": "VRG-2",
+   "lot": "2020-06",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.0226796185,
+   "length": 0.03255,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0067,
+    "diameterA": 0.01057,
+    "diameterB": 0.00892
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 187.016508184,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-2",
+   "maker": "Peregrine",
+   "product": "VRG-2",
+   "lot": "2020-06",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.0265675531,
+   "length": 0.03775,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0067,
+    "diameterA": 0.01057,
+    "diameterB": 0.00892
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 220.060778427,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-2",
+   "maker": "Peregrine",
+   "product": "VRG-2",
+   "lot": "2020-05",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.012959782,
+   "length": 0.03275,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0057,
+    "diameterA": 0.0082,
+    "diameterB": 0.00679
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 200.374830197,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-2",
+   "maker": "Peregrine",
+   "product": "VRG-2",
+   "lot": "2020-05",
+   "nominalCaliber": ".365",
+   "diameter": 0.00928,
+   "mass": 0.01535734167,
+   "length": 0.02925,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0057,
+    "diameterA": 0.00928,
+    "diameterB": 0.0079
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 175.06432533,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-2",
+   "maker": "Peregrine",
+   "product": "VRG-2",
+   "lot": "2020-05",
+   "nominalCaliber": ".365",
+   "diameter": 0.00928,
+   "mass": 0.01665331987,
+   "length": 0.0315,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0057,
+    "diameterA": 0.00928,
+    "diameterB": 0.0079
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 175.06432533,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-2",
+   "maker": "Peregrine",
+   "product": "VRG-2",
+   "lot": "2020-05",
+   "nominalCaliber": ".365",
+   "diameter": 0.00928,
+   "mass": 0.01898608063,
+   "length": 0.03575,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0062,
+    "diameterA": 0.00928,
+    "diameterB": 0.00775
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 199.671760618,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-2",
+   "maker": "Peregrine",
+   "product": "VRG-2",
+   "lot": "2020-05",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00317514659,
+   "length": 0.01615,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00385,
+    "diameterA": 0.00569,
+    "diameterB": 0.00498
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 85.774488716,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-2",
+   "maker": "Peregrine",
+   "product": "VRG-2",
+   "lot": "2020-05",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00375833678,
+   "length": 0.01895,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00385,
+    "diameterA": 0.00569,
+    "diameterB": 0.00475
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 102.648158627,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-2",
+   "maker": "Peregrine",
+   "product": "VRG-2",
+   "lot": "2020-05",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00473032043,
+   "length": 0.0234,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00385,
+    "diameterA": 0.00569,
+    "diameterB": 0.00475
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 102.648158627,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-2",
+   "maker": "Peregrine",
+   "product": "VRG-2",
+   "lot": "2019-06",
+   "nominalCaliber": ".474",
+   "diameter": 0.01205,
+   "mass": 0.02993709642,
+   "length": 0.0339,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0058,
+    "diameterA": 0.01205,
+    "diameterB": 0.01057
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 201.077899777,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-2",
+   "maker": "Peregrine",
+   "product": "VRG-2",
+   "lot": "2019-06",
+   "nominalCaliber": ".474",
+   "diameter": 0.01199,
+   "mass": 0.032399455,
+   "length": 0.0365,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0065,
+    "diameterA": 0.01199,
+    "diameterB": 0.011
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 223.576126325,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-2 (Discontinued)",
+   "maker": "Peregrine",
+   "product": "VRG-2 (Discontinued)",
+   "lot": "2019-06",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01108061361,
+   "length": 0.0295,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0054,
+    "diameterA": 0.0078,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-2 (Discontinued)",
+   "maker": "Peregrine",
+   "product": "VRG-2 (Discontinued)",
+   "lot": "2019-06",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.019439673,
+   "length": 0.0284,
+   "base": {
+    "shape": "hollow",
+    "length": 0.001,
+    "diameterA": 0.008,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 43000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 180.688881967,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-2 (Discontinued)",
+   "maker": "Peregrine",
+   "product": "VRG-2 (Discontinued)",
+   "lot": "2019-06",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.0220316294,
+   "length": 0.0319,
+   "base": {
+    "shape": "hollow",
+    "length": 0.001,
+    "diameterA": 0.008,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 43000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 187.016508184,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-2 (Discontinued)",
+   "maker": "Peregrine",
+   "product": "VRG-2 (Discontinued)",
+   "lot": "2019-06",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.025919564,
+   "length": 0.0367,
+   "base": {
+    "shape": "hollow",
+    "length": 0.001,
+    "diameterA": 0.008,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 43000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 220.060778427,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-2 (Discontinued)",
+   "maker": "Peregrine",
+   "product": "VRG-2 (Discontinued)",
+   "lot": "2019-06",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.0142557602,
+   "length": 0.0353,
+   "base": {
+    "shape": "boattail",
+    "length": 0.001,
+    "diameterA": 0.0082,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 220.763848007,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-2 (Discontinued)",
+   "maker": "Peregrine",
+   "product": "VRG-2 (Discontinued)",
+   "lot": "2019-06",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00298074986,
+   "length": 0.0156,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0027,
+    "diameterA": 0.00569,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 85.774488716,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-2 (Discontinued)",
+   "maker": "Peregrine",
+   "product": "VRG-2 (Discontinued)",
+   "lot": "2019-06",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.0184,
+   "base": {
+    "shape": "boattail",
+    "length": 0.003,
+    "diameterA": 0.00569,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 100.538949888,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-2 (Discontinued)",
+   "maker": "Peregrine",
+   "product": "VRG-2 (Discontinued)",
+   "lot": "2019-06",
+   "nominalCaliber": ".365",
+   "diameter": 0.00927,
+   "mass": 0.0149037493,
+   "length": 0.0289,
+   "base": {
+    "shape": "hollow",
+    "length": 0.001,
+    "diameterA": 0.007,
+    "diameterB": 0.0047
+   },
+   "shotStartPressure": 43000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 175.06432533,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-2 (Discontinued)",
+   "maker": "Peregrine",
+   "product": "VRG-2 (Discontinued)",
+   "lot": "2019-06",
+   "nominalCaliber": ".365",
+   "diameter": 0.00927,
+   "mass": 0.0161997275,
+   "length": 0.031,
+   "base": {
+    "shape": "hollow",
+    "length": 0.001,
+    "diameterA": 0.007,
+    "diameterB": 0.0047
+   },
+   "shotStartPressure": 43000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 175.06432533,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-2 (Discontinued)",
+   "maker": "Peregrine",
+   "product": "VRG-2 (Discontinued)",
+   "lot": "2019-06",
+   "nominalCaliber": ".365",
+   "diameter": 0.00927,
+   "mass": 0.01853248826,
+   "length": 0.0352,
+   "base": {
+    "shape": "hollow",
+    "length": 0.001,
+    "diameterA": 0.007,
+    "diameterB": 0.0047
+   },
+   "shotStartPressure": 43000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 199.671760618,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-06",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0272,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.00782,
+    "diameterB": 0.0066
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-06",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.0220316294,
+   "length": 0.03255,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0067,
+    "diameterA": 0.01057,
+    "diameterB": 0.00892
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 187.016508184,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-06",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.025919564,
+   "length": 0.03775,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0067,
+    "diameterA": 0.01057,
+    "diameterB": 0.00892
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 220.060778427,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-05",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.012959782,
+   "length": 0.03275,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0057,
+    "diameterA": 0.0082,
+    "diameterB": 0.00679
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 200.374830197,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-05",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00298074986,
+   "length": 0.01615,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00385,
+    "diameterA": 0.00569,
+    "diameterB": 0.00498
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 85.774488716,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-05",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.01895,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00385,
+    "diameterA": 0.00569,
+    "diameterB": 0.00475
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 102.648158627,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-05",
+   "nominalCaliber": ".365",
+   "diameter": 0.00928,
+   "mass": 0.0149037493,
+   "length": 0.0297,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0057,
+    "diameterA": 0.00928,
+    "diameterB": 0.0079
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 175.06432533,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-05",
+   "nominalCaliber": ".365",
+   "diameter": 0.00928,
+   "mass": 0.01853248826,
+   "length": 0.0362,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0062,
+    "diameterA": 0.00928,
+    "diameterB": 0.00775
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 199.671760618,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-05",
+   "nominalCaliber": ".375",
+   "diameter": 0.00955,
+   "mass": 0.0161997275,
+   "length": 0.0304,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0057,
+    "diameterA": 0.00955,
+    "diameterB": 0.00815
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 179.282742808,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-05",
+   "nominalCaliber": ".375",
+   "diameter": 0.00955,
+   "mass": 0.0174957057,
+   "length": 0.03245,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0057,
+    "diameterA": 0.00955,
+    "diameterB": 0.00814
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 184.907299445,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-05",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0090718474,
+   "length": 0.0292,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0045,
+    "diameterA": 0.00721,
+    "diameterB": 0.0061
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-05",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0103678256,
+   "length": 0.0329,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0045,
+    "diameterA": 0.00721,
+    "diameterB": 0.0061
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-05",
+   "nominalCaliber": ".365",
+   "diameter": 0.00928,
+   "mass": 0.0161997275,
+   "length": 0.03195,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0057,
+    "diameterA": 0.00928,
+    "diameterB": 0.0079
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 175.06432533,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-05",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.0161997275,
+   "length": 0.0227,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00225,
+    "diameterA": 0.01163,
+    "diameterB": 0.01089
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-05",
+   "nominalCaliber": ".456",
+   "diameter": 0.01158,
+   "mass": 0.0187916839,
+   "length": 0.0249,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00495,
+    "diameterA": 0.01158,
+    "diameterB": 0.0103
+   },
+   "shotStartPressure": 24000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-05",
+   "nominalCaliber": ".375",
+   "diameter": 0.00955,
+   "mass": 0.019439673,
+   "length": 0.0359,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0062,
+    "diameterA": 0.00955,
+    "diameterB": 0.008
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 205.999386834,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-05",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0045359237,
+   "length": 0.0234,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00385,
+    "diameterA": 0.00569,
+    "diameterB": 0.00475
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 102.648158627,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-04",
+   "nominalCaliber": ".422",
+   "diameter": 0.01072,
+   "mass": 0.0226796185,
+   "length": 0.0305,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.0107,
+    "diameterB": 0.0097
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 208.811665153,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-04",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0272,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.0078,
+    "diameterB": 0.0066
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-04",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.0295,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0054,
+    "diameterA": 0.00782,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-04",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.032399455,
+   "length": 0.0388,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00545,
+    "diameterA": 0.01163,
+    "diameterB": 0.0103
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 227.794543803,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-04",
+   "nominalCaliber": ".457",
+   "diameter": 0.01161,
+   "mass": 0.0291595095,
+   "length": 0.0355,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00495,
+    "diameterA": 0.01161,
+    "diameterB": 0.01037
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 205.296317255,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-04",
+   "nominalCaliber": ".320",
+   "diameter": 0.00813,
+   "mass": 0.01056222233,
+   "length": 0.02715,
+   "base": {
+    "shape": "boattail",
+    "length": 0.002,
+    "diameterA": 0.00813,
+    "diameterB": 0.0076
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-04",
+   "nominalCaliber": ".456",
+   "diameter": 0.01158,
+   "mass": 0.0200876621,
+   "length": 0.0255,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00495,
+    "diameterA": 0.01158,
+    "diameterB": 0.0103
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-03",
+   "nominalCaliber": ".450",
+   "diameter": 0.01144,
+   "mass": 0.01846768935,
+   "length": 0.02425,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0024,
+    "diameterA": 0.01144,
+    "diameterB": 0.01085
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2020-03",
+   "nominalCaliber": ".456",
+   "diameter": 0.01158,
+   "mass": 0.0174957057,
+   "length": 0.0226,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00225,
+    "diameterA": 0.01158,
+    "diameterB": 0.01089
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2019-06",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0142557602,
+   "length": 0.034,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0057,
+    "diameterA": 0.00859,
+    "diameterB": 0.0072
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2019-06",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0161997275,
+   "length": 0.038,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0057,
+    "diameterA": 0.00859,
+    "diameterB": 0.0072
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2019-06",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.032399455,
+   "length": 0.0388,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0065,
+    "diameterA": 0.0116,
+    "diameterB": 0.0106
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 227.794543803,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2019-06",
+   "nominalCaliber": ".474",
+   "diameter": 0.01199,
+   "mass": 0.0291595095,
+   "length": 0.0332,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0065,
+    "diameterA": 0.01199,
+    "diameterB": 0.011
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 201.077899777,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3",
+   "maker": "Peregrine",
+   "product": "VRG-3",
+   "lot": "2019-06",
+   "nominalCaliber": ".474",
+   "diameter": 0.01199,
+   "mass": 0.032399455,
+   "length": 0.0365,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0065,
+    "diameterA": 0.01199,
+    "diameterB": 0.011
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 223.576126325,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3 (Discontinued)",
+   "maker": "Peregrine",
+   "product": "VRG-3 (Discontinued)",
+   "lot": "2020-06",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.019439673,
+   "length": 0.02895,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.01057,
+    "diameterB": 0.0096
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 180.688881967,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-3 (Discontinued)",
+   "maker": "Peregrine",
+   "product": "VRG-3 (Discontinued)",
+   "lot": "2019-06",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.0142557602,
+   "length": 0.0353,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.0082,
+    "diameterB": 0.0072
+   },
+   "shotStartPressure": 29000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 220.763848007,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-4 (Discontinued)",
+   "maker": "Peregrine",
+   "product": "VRG-4 (Discontinued)",
+   "lot": "2019-06",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.019439673,
+   "length": 0.0337,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.01057,
+    "diameterB": 0.0098
+   },
+   "shotStartPressure": 43000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 283.337040595,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-4 (Discontinued)",
+   "maker": "Peregrine",
+   "product": "VRG-4 (Discontinued)",
+   "lot": "2019-06",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.0211,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0025,
+    "diameterA": 0.00569,
+    "diameterB": 0.0047
+   },
+   "shotStartPressure": 33000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 197.562551879,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Peregrine, VRG-5 (Discontinued)",
+   "maker": "Peregrine",
+   "product": "VRG-5 (Discontinued)",
+   "lot": "2019-06",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.019439673,
+   "length": 0.0337,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.01057,
+    "diameterB": 0.0098
+   },
+   "shotStartPressure": 43000000,
+   "boreResistanceAdjustment": -10000000,
+   "ballisticCoefficientG1": 283.337040595,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

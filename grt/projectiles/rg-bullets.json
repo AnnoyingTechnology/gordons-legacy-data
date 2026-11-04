@@ -1,0 +1,94 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database, published with the written permission of Gordon's family (2026-11-04, issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "RG Bullets, .45ACP",
+   "maker": "RG Bullets",
+   "product": ".45ACP",
+   "lot": "2021",
+   "nominalCaliber": ".451",
+   "diameter": 0.01145,
+   "mass": 0.01503334712,
+   "length": 0.01645,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0013,
+    "diameterA": 0.0095,
+    "diameterB": 0
+   },
+   "shotStartPressure": 15000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RG bullets, CMJ9mm",
+   "maker": "RG bullets",
+   "product": "CMJ9mm",
+   "lot": "2021",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00803506484,
+   "length": 0.01415,
+   "base": {
+    "shape": "hollow",
+    "length": 0.00131,
+    "diameterA": 0.00725,
+    "diameterB": 0
+   },
+   "shotStartPressure": 15000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RG bullets, HBWC",
+   "maker": "RG bullets",
+   "product": "HBWC",
+   "lot": "10031",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00959023868,
+   "length": 0.0154,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0063,
+    "diameterA": 0.006,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 25000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}
