@@ -1,0 +1,739 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "RUAG, AP-FMJHC",
+   "maker": "RUAG",
+   "product": "AP-FMJHC",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00408233133,
+   "length": 0.0211,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0034,
+    "diameterA": 0.0057,
+    "diameterB": 0.0047
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 240.449796237,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, CDP",
+   "maker": "RUAG",
+   "product": "CDP",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.01846768935,
+   "length": 0.0301,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0022,
+    "diameterA": 0.0095,
+    "diameterB": 0.0079
+   },
+   "shotStartPressure": 41000000,
+   "ballisticCoefficientG1": 295.289223448,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, FMJ GP11",
+   "maker": "RUAG",
+   "product": "FMJ GP11",
+   "lot": "",
+   "nominalCaliber": ".307",
+   "diameter": 0.0078,
+   "mass": 0.01133980925,
+   "length": 0.0346,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0065,
+    "diameterA": 0.0078,
+    "diameterB": 0.0055
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 355.050137718,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, FMJ GP80",
+   "maker": "RUAG",
+   "product": "FMJ GP80",
+   "lot": "",
+   "nominalCaliber": ".260",
+   "diameter": 0.0066,
+   "mass": 0.00622069536,
+   "length": 0.026,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0037,
+    "diameterA": 0.0066,
+    "diameterB": 0.0057
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 267.166440263,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, FMJ GP90",
+   "maker": "RUAG",
+   "product": "FMJ GP90",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00408233133,
+   "length": 0.0221,
+   "base": {
+    "shape": "boattail",
+    "length": 0.002,
+    "diameterA": 0.0057,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 242.559004976,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, Match",
+   "maker": "RUAG",
+   "product": "Match",
+   "lot": "",
+   "nominalCaliber": ".307",
+   "diameter": 0.0078,
+   "mass": 0.01140460816,
+   "length": 0.0368,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.0078,
+    "diameterB": 0.0057
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 351.53478982,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, Match",
+   "maker": "RUAG",
+   "product": "Match",
+   "lot": "",
+   "nominalCaliber": ".307",
+   "diameter": 0.0078,
+   "mass": 0.01237659181,
+   "length": 0.0369,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.0078,
+    "diameterB": 0.0057
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 359.971624775,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, Match",
+   "maker": "RUAG",
+   "product": "Match",
+   "lot": "",
+   "nominalCaliber": ".307",
+   "diameter": 0.0078,
+   "mass": 0.01302458091,
+   "length": 0.0371,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.0078,
+    "diameterB": 0.0057
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 369.111529311,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, SeCa",
+   "maker": "RUAG",
+   "product": "SeCa",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.006479891,
+   "length": 0.0178,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 78.0407233399,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, SM-AP-FMJHC",
+   "maker": "RUAG",
+   "product": "SM-AP-FMJHC",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01270058636,
+   "length": 0.0353,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0054,
+    "diameterA": 0.0078,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 439.418487274,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, SM-AP-FMJHC",
+   "maker": "RUAG",
+   "product": "SM-AP-FMJHC",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0168477166,
+   "length": 0.0361,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0039,
+    "diameterA": 0.0086,
+    "diameterB": 0.0068
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 468.947409619,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, SM-Ball FMJ",
+   "maker": "RUAG",
+   "product": "SM-Ball FMJ",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01140460816,
+   "length": 0.0334,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0054,
+    "diameterA": 0.0078,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 364.190042253,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, SM-Ball FMJ",
+   "maker": "RUAG",
+   "product": "SM-Ball FMJ",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01632932532,
+   "length": 0.0374,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0039,
+    "diameterA": 0.0086,
+    "diameterB": 0.0068
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 452.073739708,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, SM-HPBT Styx",
+   "maker": "RUAG",
+   "product": "SM-HPBT Styx",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00447112479,
+   "length": 0.0223,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0033,
+    "diameterA": 0.0057,
+    "diameterB": 0.0044
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 214.43622179,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, SM-HPBT Styx",
+   "maker": "RUAG",
+   "product": "SM-HPBT Styx",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01082141797,
+   "length": 0.0286,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0039,
+    "diameterA": 0.0078,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 255.214257409,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, SM-HPBT Styx",
+   "maker": "RUAG",
+   "product": "SM-HPBT Styx",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01283018418,
+   "length": 0.0333,
+   "base": {
+    "shape": "boattail",
+    "length": 0.006,
+    "diameterA": 0.0078,
+    "diameterB": 0.0059
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 288.961597232,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, SM-HPBT Styx",
+   "maker": "RUAG",
+   "product": "SM-HPBT Styx",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01607012968,
+   "length": 0.0339,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0039,
+    "diameterA": 0.0086,
+    "diameterB": 0.0068
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 296.695362608,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, SM-Solid FNBT",
+   "maker": "RUAG",
+   "product": "SM-Solid FNBT",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01062702124,
+   "length": 0.0311,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0039,
+    "diameterA": 0.0078,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 230.606822122,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, SM-Solid FNBT",
+   "maker": "RUAG",
+   "product": "SM-Solid FNBT",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0161997275,
+   "length": 0.0394,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0052,
+    "diameterA": 0.0086,
+    "diameterB": 0.0062
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 274.197136059,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, SP Jagd",
+   "maker": "RUAG",
+   "product": "SP Jagd",
+   "lot": "",
+   "nominalCaliber": ".414",
+   "diameter": 0.01052,
+   "mass": 0.01652372205,
+   "length": 0.0245,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 175.06432533,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, Swiss Jagd CDP",
+   "maker": "RUAG",
+   "product": "Swiss Jagd CDP",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.006479891,
+   "length": 0.0273,
+   "base": {
+    "shape": "boattail",
+    "length": 0.001,
+    "diameterA": 0.005,
+    "diameterB": 0.003
+   },
+   "shotStartPressure": 40000000,
+   "ballisticCoefficientG1": 215.13929137,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, Swiss Jagd CDP",
+   "maker": "RUAG",
+   "product": "Swiss Jagd CDP",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00822946157,
+   "length": 0.0291,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0018,
+    "diameterA": 0.0067,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 40000000,
+   "ballisticCoefficientG1": 232.012961281,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, Swiss Jagd CDP",
+   "maker": "RUAG",
+   "product": "Swiss Jagd CDP",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0084238583,
+   "length": 0.0281,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0022,
+    "diameterA": 0.007,
+    "diameterB": 0.0058
+   },
+   "shotStartPressure": 40000000,
+   "ballisticCoefficientG1": 246.074352874,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, Swiss Jagd CDP",
+   "maker": "RUAG",
+   "product": "Swiss Jagd CDP",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00997903214,
+   "length": 0.031,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0025,
+    "diameterA": 0.0072,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 40000000,
+   "ballisticCoefficientG1": 263.651092365,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, Swiss Jagd CDP",
+   "maker": "RUAG",
+   "product": "Swiss Jagd CDP",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.0294,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0078,
+    "diameterB": 0.0062
+   },
+   "shotStartPressure": 40000000,
+   "ballisticCoefficientG1": 239.043657077,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, Swiss Jagd CDP",
+   "maker": "RUAG",
+   "product": "Swiss Jagd CDP",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01270058636,
+   "length": 0.0311,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0082,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 40000000,
+   "ballisticCoefficientG1": 254.511187829,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RUAG, Swiss Jagd CDP",
+   "maker": "RUAG",
+   "product": "Swiss Jagd CDP",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01846768935,
+   "length": 0.0356,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0022,
+    "diameterA": 0.0093,
+    "diameterB": 0.0079
+   },
+   "shotStartPressure": 40000000,
+   "ballisticCoefficientG1": 309.350615041,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

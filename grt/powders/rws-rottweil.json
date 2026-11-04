@@ -1,0 +1,403 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-powders",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table propellant, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "maker": "RWS-Rottweil",
+   "product": "P801",
+   "lot": "2019-10-24",
+   "heatOfExplosion": 3960000,
+   "heatCapacityRatio": 1.2208,
+   "covolume": 0.001,
+   "grainDensity": 1610,
+   "bulkDensity": 645,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 2.7501,
+    "a0": 5.5176,
+    "a1": 0,
+    "z1": 0.3877,
+    "z2": 0.8272,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-04-17",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2350",
+    "Lr": "0.2",
+    "L01": "2.0116",
+    "L02": "2.6444",
+    "L03": "3.4659",
+    "L04": "3.9924",
+    "L05": "3.8584",
+    "L06": "3.5916",
+    "L07": "3.2916",
+    "L08": "2.8385",
+    "L09": "2.2028",
+    "Qlty": "0.85"
+   }
+  },
+  {
+   "maker": "RWS-Rottweil",
+   "product": "P803",
+   "lot": "2019-10-24",
+   "heatOfExplosion": 3930000,
+   "heatCapacityRatio": 1.2304,
+   "covolume": 0.001,
+   "grainDensity": 1610,
+   "bulkDensity": 670,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 2.2496,
+    "a0": 4.2176,
+    "a1": 0,
+    "z1": 0.4268,
+    "z2": 0.7502,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-04-17",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2339",
+    "Lr": "0.2",
+    "L01": "1.5702",
+    "L02": "1.9998",
+    "L03": "2.5676",
+    "L04": "2.969",
+    "L05": "2.96",
+    "L06": "2.7688",
+    "L07": "2.5361",
+    "L08": "2.1817",
+    "L09": "1.6864",
+    "Qlty": "0.75"
+   }
+  },
+  {
+   "maker": "RWS-Rottweil",
+   "product": "P805",
+   "lot": "2020-02-10",
+   "heatOfExplosion": 3870000,
+   "heatCapacityRatio": 1.2232,
+   "covolume": 0.001,
+   "grainDensity": 1580,
+   "bulkDensity": 465,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 3.6254,
+    "a0": 6.5672,
+    "a1": 0,
+    "z1": 0.3327,
+    "z2": 0.8984,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-04-17",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2356",
+    "Lr": "0.2",
+    "L01": "2.4942",
+    "L02": "3.5137",
+    "L03": "4.6747",
+    "L04": "4.7646",
+    "L05": "4.5185",
+    "L06": "4.2315",
+    "L07": "3.8126",
+    "L08": "3.2733",
+    "L09": "2.5199",
+    "Qlty": "0.7"
+   }
+  },
+  {
+   "maker": "RWS-Rottweil",
+   "product": "R901",
+   "lot": "2018-11",
+   "heatOfExplosion": 3910000,
+   "heatCapacityRatio": 1.2385,
+   "covolume": 0.001,
+   "grainDensity": 1580,
+   "bulkDensity": 875,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.4685,
+    "a0": 9.7673,
+    "a1": 0,
+    "z1": 0.242,
+    "z2": 0.8102,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2019-10-02",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2286",
+    "Lr": "0.2",
+    "L01": "0.4378",
+    "L02": "0.6205",
+    "L03": "0.6414",
+    "L04": "0.6066",
+    "L05": "0.5804",
+    "L06": "0.5489",
+    "L07": "0.5014",
+    "L08": "0.4357",
+    "L09": "0.3401",
+    "Qlty": "0.6"
+   }
+  },
+  {
+   "maker": "RWS-Rottweil",
+   "product": "R902",
+   "lot": "2018-11",
+   "heatOfExplosion": 3870000,
+   "heatCapacityRatio": 1.2344,
+   "covolume": 0.001,
+   "grainDensity": 1570,
+   "bulkDensity": 885,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.5106,
+    "a0": 4.1998,
+    "a1": 0,
+    "z1": 0.2957,
+    "z2": 0.8158,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2019-10-02",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2263",
+    "Lr": "0.2",
+    "L01": "0.4199",
+    "L02": "0.5623",
+    "L03": "0.6159",
+    "L04": "0.5807",
+    "L05": "0.5563",
+    "L06": "0.5256",
+    "L07": "0.479",
+    "L08": "0.4139",
+    "L09": "0.3202",
+    "Qlty": "0.7"
+   }
+  },
+  {
+   "maker": "RWS-Rottweil",
+   "product": "R903",
+   "lot": "2020-12-01",
+   "heatOfExplosion": 3780000,
+   "heatCapacityRatio": 1.2309,
+   "covolume": 0.001,
+   "grainDensity": 1520,
+   "bulkDensity": 980,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.5611,
+    "a0": 1.3391,
+    "a1": 0,
+    "z1": 0.3541,
+    "z2": 0.7933,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-04-17",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2210",
+    "Lr": "0.2",
+    "L01": "0.3632",
+    "L02": "0.4755",
+    "L03": "0.5236",
+    "L04": "0.5594",
+    "L05": "0.5234",
+    "L06": "0.4869",
+    "L07": "0.4523",
+    "L08": "0.4014",
+    "L09": "0.3172",
+    "Qlty": "0.8"
+   }
+  },
+  {
+   "maker": "RWS-Rottweil",
+   "product": "R904",
+   "lot": "2021-04-16",
+   "heatOfExplosion": 3700000,
+   "heatCapacityRatio": 1.2354,
+   "covolume": 0.001,
+   "grainDensity": 1570,
+   "bulkDensity": 905,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.4781,
+    "a0": 1.0529,
+    "a1": 0,
+    "z1": 0.4084,
+    "z2": 0.8114,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-04-17",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2239",
+    "Lr": "0.2",
+    "L01": "0.3443",
+    "L02": "0.4203",
+    "L03": "0.4346",
+    "L04": "0.4385",
+    "L05": "0.4281",
+    "L06": "0.4038",
+    "L07": "0.3689",
+    "L08": "0.32",
+    "L09": "0.2479",
+    "Qlty": "0.7"
+   }
+  },
+  {
+   "maker": "RWS-Rottweil",
+   "product": "R905",
+   "lot": "2021-04-16",
+   "heatOfExplosion": 3500000,
+   "heatCapacityRatio": 1.2194,
+   "covolume": 0.001,
+   "grainDensity": 1510,
+   "bulkDensity": 915,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.4919,
+    "a0": 0.7237,
+    "a1": 0,
+    "z1": 0.4377,
+    "z2": 0.8187,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-04-17",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2233",
+    "Lr": "0.2",
+    "L01": "0.2898",
+    "L02": "0.3634",
+    "L03": "0.3865",
+    "L04": "0.4013",
+    "L05": "0.4016",
+    "L06": "0.3831",
+    "L07": "0.3503",
+    "L08": "0.3039",
+    "L09": "0.2357",
+    "Qlty": "0.55"
+   }
+  },
+  {
+   "maker": "RWS-Rottweil",
+   "product": "R907",
+   "lot": "2021-04-16",
+   "heatOfExplosion": 3940000,
+   "heatCapacityRatio": 1.233,
+   "covolume": 0.001,
+   "grainDensity": 1560,
+   "bulkDensity": 905,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.5173,
+    "a0": 0.9048,
+    "a1": 0,
+    "z1": 0.3645,
+    "z2": 0.8146,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-04-17",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2304",
+    "Lr": "0.2",
+    "L01": "0.3766",
+    "L02": "0.4858",
+    "L03": "0.5127",
+    "L04": "0.4831",
+    "L05": "0.4625",
+    "L06": "0.4367",
+    "L07": "0.3978",
+    "L08": "0.3435",
+    "L09": "0.2652",
+    "Qlty": "0.65"
+   }
+  }
+ ]
+}

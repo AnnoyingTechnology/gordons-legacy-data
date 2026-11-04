@@ -1,0 +1,529 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "IBEX, TRD T9006",
+   "maker": "IBEX",
+   "product": "TRD T9006",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00900704849,
+   "length": 0.029,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0022,
+    "diameterA": 0.0075,
+    "diameterB": 0.007
+   },
+   "shotStartPressure": 40000000,
+   "ballisticCoefficientG1": 217.951569688,
+   "ubcsCode": "H0H1B1D1N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "IBEX, TRD T9007",
+   "maker": "IBEX",
+   "product": "TRD T9007",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00628549427,
+   "length": 0.028,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0066,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 45000000,
+   "ballisticCoefficientG1": 226.388404644,
+   "ubcsCode": "H0H1B1D1N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "IBEX, TRD T9008",
+   "maker": "IBEX",
+   "product": "TRD T9008",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00563750517,
+   "length": 0.025,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0017,
+    "diameterA": 0.0064,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 184.907299445,
+   "ubcsCode": "H0H1B1D1N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "IBEX, TRD T9010",
+   "maker": "IBEX",
+   "product": "TRD T9010",
+   "lot": "",
+   "nominalCaliber": ".278",
+   "diameter": 0.00706,
+   "mass": 0.00764627138,
+   "length": 0.0305,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0028,
+    "diameterA": 0.0071,
+    "diameterB": 0.0064
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 242.559004976,
+   "ubcsCode": "H0H1B1D1N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "IBEX, TRD T9011",
+   "maker": "IBEX",
+   "product": "TRD T9011",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00829426048,
+   "length": 0.031,
+   "base": {
+    "shape": "boattail",
+    "length": 0.002,
+    "diameterA": 0.0071,
+    "diameterB": 0.0066
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 255.917326989,
+   "ubcsCode": "H0H1B1D1N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "IBEX, TRD T9012",
+   "maker": "IBEX",
+   "product": "TRD T9012",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00550790735,
+   "length": 0.029,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0033,
+    "diameterA": 0.006,
+    "diameterB": 0.0052
+   },
+   "shotStartPressure": 45000000,
+   "ballisticCoefficientG1": 210.920873892,
+   "ubcsCode": "H0H1B1D1N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "IBEX, TRD T9013",
+   "maker": "IBEX",
+   "product": "TRD T9013",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00226796185,
+   "length": 0.0145,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0009,
+    "diameterA": 0.0056,
+    "diameterB": 0.0054
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 95.6174628309,
+   "ubcsCode": "H0H1B1D1N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "IBEX, TRD T9014",
+   "maker": "IBEX",
+   "product": "TRD T9014",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00291595095,
+   "length": 0.0175,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0016,
+    "diameterA": 0.0056,
+    "diameterB": 0.0052
+   },
+   "shotStartPressure": 40000000,
+   "ballisticCoefficientG1": 120.224898118,
+   "ubcsCode": "H0H1B1D1N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "IBEX, TRD T9015",
+   "maker": "IBEX",
+   "product": "TRD T9015",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0032399455,
+   "length": 0.0195,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0015,
+    "diameterA": 0.0056,
+    "diameterB": 0.0052
+   },
+   "shotStartPressure": 45000000,
+   "ballisticCoefficientG1": 145.535402985,
+   "ubcsCode": "H0H1B1D1N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "IBEX, TRD T9018",
+   "maker": "IBEX",
+   "product": "TRD T9018",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00498951607,
+   "length": 0.0255,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0032,
+    "diameterA": 0.0062,
+    "diameterB": 0.0054
+   },
+   "shotStartPressure": 45000000,
+   "ballisticCoefficientG1": 186.313438604,
+   "ubcsCode": "H0H1B1D1N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "IBEX, TRD T9019",
+   "maker": "IBEX",
+   "product": "TRD T9019",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01030302669,
+   "length": 0.034,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0029,
+    "diameterA": 0.0077,
+    "diameterB": 0.007
+   },
+   "shotStartPressure": 40000000,
+   "ballisticCoefficientG1": 275.603275219,
+   "ubcsCode": "H0H1B1D1N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "IBEX, TRD T9023",
+   "maker": "IBEX",
+   "product": "TRD T9023",
+   "lot": "",
+   "nominalCaliber": ".278",
+   "diameter": 0.00706,
+   "mass": 0.00622069536,
+   "length": 0.025,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0024,
+    "diameterA": 0.0071,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 40000000,
+   "ballisticCoefficientG1": 195.45334314,
+   "ubcsCode": "H0H1B1D1N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "IBEX, TRD T9024",
+   "maker": "IBEX",
+   "product": "TRD T9024",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.0058319019,
+   "length": 0.027,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0024,
+    "diameterA": 0.0065,
+    "diameterB": 0.0059
+   },
+   "shotStartPressure": 40000000,
+   "ballisticCoefficientG1": 189.828786503,
+   "ubcsCode": "H0H1B1D1N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "IBEX, TRD T9025CR",
+   "maker": "IBEX",
+   "product": "TRD T9025CR",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00920144522,
+   "length": 0.031,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0025,
+    "diameterA": 0.0077,
+    "diameterB": 0.0071
+   },
+   "shotStartPressure": 40000000,
+   "ballisticCoefficientG1": 246.074352874,
+   "ubcsCode": "H0H1B1D1N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "IBEX, TRD T9027",
+   "maker": "IBEX",
+   "product": "TRD T9027",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0071278801,
+   "length": 0.031,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0046,
+    "diameterA": 0.0067,
+    "diameterB": 0.0055
+   },
+   "shotStartPressure": 40000000,
+   "ballisticCoefficientG1": 239.746726657,
+   "ubcsCode": "H0H1B1D1N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "IBEX, Viper T7001",
+   "maker": "IBEX",
+   "product": "Viper T7001",
+   "lot": "",
+   "nominalCaliber": ".278",
+   "diameter": 0.00706,
+   "mass": 0.00635029318,
+   "length": 0.0285,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0038,
+    "diameterA": 0.0071,
+    "diameterB": 0.0058
+   },
+   "shotStartPressure": 40000000,
+   "ballisticCoefficientG1": 243.262074555,
+   "ubcsCode": "H0H1B1D1N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "IBEX, Viper T7002",
+   "maker": "IBEX",
+   "product": "Viper T7002",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00680388555,
+   "length": 0.029,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0046,
+    "diameterA": 0.0072,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 40000000,
+   "ballisticCoefficientG1": 244.668213714,
+   "ubcsCode": "H0H1B1D1N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "IBEX, Viper T7004",
+   "maker": "IBEX",
+   "product": "Viper T7004",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00874785285,
+   "length": 0.032,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0046,
+    "diameterA": 0.0078,
+    "diameterB": 0.0066
+   },
+   "shotStartPressure": 40000000,
+   "ballisticCoefficientG1": 310.756754201,
+   "ubcsCode": "H0H1B1D1N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "IBEX, Viper T7005",
+   "maker": "IBEX",
+   "product": "Viper T7005",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00563750517,
+   "length": 0.028,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0039,
+    "diameterA": 0.0067,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 40000000,
+   "ballisticCoefficientG1": 221.466917586,
+   "ubcsCode": "H0H1B1D1N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

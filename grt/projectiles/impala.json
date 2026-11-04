@@ -1,0 +1,1503 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "Impala, LWFP KS Bullet",
+   "maker": "Impala",
+   "product": "LWFP KS Bullet",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00421192915,
+   "length": 0.0143,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 84.3683495567,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWFP KS Bullet",
+   "maker": "Impala",
+   "product": "LWFP KS Bullet",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.0058319019,
+   "length": 0.0149,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 80.8530016585,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWFP KS Bullet",
+   "maker": "Impala",
+   "product": "LWFP KS Bullet",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.0071278801,
+   "length": 0.0171,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 94.9143932513,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWFP KS Bullet",
+   "maker": "Impala",
+   "product": "LWFP KS Bullet",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01016,
+   "mass": 0.0077758692,
+   "length": 0.0147,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 77.3376537603,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWFP KS Bullet",
+   "maker": "Impala",
+   "product": "LWFP KS Bullet",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.0103678256,
+   "length": 0.0173,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 92.1021149327,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWFP KS Bullet",
+   "maker": "Impala",
+   "product": "LWFP KS Bullet",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.01004383105,
+   "length": 0.0161,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 73.8223058621,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".172",
+   "diameter": 0.00437,
+   "mass": 0.0012959782,
+   "length": 0.0168,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 132.177080972,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".204",
+   "diameter": 0.00518,
+   "mass": 0.0019439673,
+   "length": 0.0173,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 134.286289711,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0019439673,
+   "length": 0.0135,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 84.3683495567,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00226796185,
+   "length": 0.0168,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 112.491132742,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0032399455,
+   "length": 0.0227,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 143.426194246,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".227",
+   "diameter": 0.00577,
+   "mass": 0.0032399455,
+   "length": 0.0223,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 140.613915928,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0032399455,
+   "length": 0.022,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 137.09856803,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00421192915,
+   "length": 0.0262,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 186.313438604,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.0045359237,
+   "length": 0.0248,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 157.487585839,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0058319019,
+   "length": 0.0313,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 234.825239599,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.006479891,
+   "length": 0.0315,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 232.716030861,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0071278801,
+   "length": 0.0323,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 229.903752542,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0058319019,
+   "length": 0.02,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 98.4297411495,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0084238583,
+   "length": 0.0322,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 220.060778427,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".311",
+   "diameter": 0.0079,
+   "mass": 0.0084238583,
+   "length": 0.0324,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 216.545430529,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".318",
+   "diameter": 0.00808,
+   "mass": 0.0097198365,
+   "length": 0.0339,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 219.357708847,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.0077758692,
+   "length": 0.0274,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 172.252047012,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.0097198365,
+   "length": 0.0333,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 217.248500109,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01069182015,
+   "length": 0.0333,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 229.903752542,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.0116638038,
+   "length": 0.0324,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 193.344134401,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.0116638038,
+   "length": 0.0319,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 189.828786503,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.012959782,
+   "length": 0.0329,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 45000000,
+   "ballisticCoefficientG1": 214.43622179,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".410",
+   "diameter": 0.01041,
+   "mass": 0.01522774385,
+   "length": 0.0328,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 45000000,
+   "ballisticCoefficientG1": 201.077899777,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".413",
+   "diameter": 0.01049,
+   "mass": 0.012959782,
+   "length": 0.0275,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 162.409072897,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.0155517384,
+   "length": 0.0327,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 187.719577764,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".423",
+   "diameter": 0.01074,
+   "mass": 0.0149037493,
+   "length": 0.03,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 157.487585839,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.0161997275,
+   "length": 0.0235,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 165.221351215,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.019439673,
+   "length": 0.0336,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 193.344134401,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".472",
+   "diameter": 0.01199,
+   "mass": 0.0207356512,
+   "length": 0.0329,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 45000000,
+   "ballisticCoefficientG1": 185.610369025,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".505",
+   "diameter": 0.01283,
+   "mass": 0.0233276076,
+   "length": 0.0333,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 45000000,
+   "ballisticCoefficientG1": 165.221351215,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, LWHV LS Bullet",
+   "maker": "Impala",
+   "product": "LWHV LS Bullet",
+   "lot": "",
+   "nominalCaliber": ".510",
+   "diameter": 0.01295,
+   "mass": 0.0239755967,
+   "length": 0.0335,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 45000000,
+   "ballisticCoefficientG1": 172.955116591,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RN Solid",
+   "maker": "Impala",
+   "product": "RN Solid",
+   "lot": "",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.025919564,
+   "length": 0.039,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ubcsCode": "B0?2F??1?1",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RNFP KO Bullet",
+   "maker": "Impala",
+   "product": "RNFP KO Bullet",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00291595095,
+   "length": 0.0176,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 84.3683495567,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RNFP KO Bullet",
+   "maker": "Impala",
+   "product": "RNFP KO Bullet",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0032399455,
+   "length": 0.0192,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 108.975784844,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RNFP KO Bullet",
+   "maker": "Impala",
+   "product": "RNFP KO Bullet",
+   "lot": "",
+   "nominalCaliber": ".227",
+   "diameter": 0.00577,
+   "mass": 0.0032399455,
+   "length": 0.0188,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 106.866576105,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RNFP KO Bullet",
+   "maker": "Impala",
+   "product": "RNFP KO Bullet",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0058319019,
+   "length": 0.0287,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 166.627490374,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RNFP KO Bullet",
+   "maker": "Impala",
+   "product": "RNFP KO Bullet",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.006479891,
+   "length": 0.0278,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 165.221351215,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RNFP KO Bullet",
+   "maker": "Impala",
+   "product": "RNFP KO Bullet",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0077758692,
+   "length": 0.0322,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 182.095021127,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RNFP KO Bullet",
+   "maker": "Impala",
+   "product": "RNFP KO Bullet",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0090718474,
+   "length": 0.0335,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 196.156412719,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RNFP KO Bullet",
+   "maker": "Impala",
+   "product": "RNFP KO Bullet",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0090718474,
+   "length": 0.0319,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 176.470464489,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RNFP KO Bullet",
+   "maker": "Impala",
+   "product": "RNFP KO Bullet",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0110158147,
+   "length": 0.0325,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 183.501160286,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RNFP KO Bullet",
+   "maker": "Impala",
+   "product": "RNFP KO Bullet",
+   "lot": "",
+   "nominalCaliber": ".311",
+   "diameter": 0.0079,
+   "mass": 0.01127501034,
+   "length": 0.0326,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 184.907299445,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RNFP KO Bullet",
+   "maker": "Impala",
+   "product": "RNFP KO Bullet",
+   "lot": "",
+   "nominalCaliber": ".318",
+   "diameter": 0.00808,
+   "mass": 0.01270058636,
+   "length": 0.0349,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 197.562551879,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RNFP KO Bullet",
+   "maker": "Impala",
+   "product": "RNFP KO Bullet",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.012959782,
+   "length": 0.0345,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 196.156412719,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RNFP KO Bullet",
+   "maker": "Impala",
+   "product": "RNFP KO Bullet",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0136077711,
+   "length": 0.0328,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 187.016508184,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RNFP KO Bullet",
+   "maker": "Impala",
+   "product": "RNFP KO Bullet",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.0161997275,
+   "length": 0.0345,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 185.610369025,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RNFP KO Bullet",
+   "maker": "Impala",
+   "product": "RNFP KO Bullet",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.0161997275,
+   "length": 0.0331,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 181.391951547,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RNFP KO Bullet",
+   "maker": "Impala",
+   "product": "RNFP KO Bullet",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.0174957057,
+   "length": 0.0338,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 55000000,
+   "ballisticCoefficientG1": 196.156412719,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RNFP KO Bullet",
+   "maker": "Impala",
+   "product": "RNFP KO Bullet",
+   "lot": "",
+   "nominalCaliber": ".410",
+   "diameter": 0.01041,
+   "mass": 0.02105964575,
+   "length": 0.034,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 170.142838273,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RNFP KO Bullet",
+   "maker": "Impala",
+   "product": "RNFP KO Bullet",
+   "lot": "",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.0226796185,
+   "length": 0.0352,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 180.688881967,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RNFP KO Bullet",
+   "maker": "Impala",
+   "product": "RNFP KO Bullet",
+   "lot": "",
+   "nominalCaliber": ".423",
+   "diameter": 0.01074,
+   "mass": 0.0207356512,
+   "length": 0.0313,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 157.487585839,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RNFP KO Bullet",
+   "maker": "Impala",
+   "product": "RNFP KO Bullet",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.0272155422,
+   "length": 0.0345,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 169.439768693,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RNFP KO Bullet",
+   "maker": "Impala",
+   "product": "RNFP KO Bullet",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.03077948225,
+   "length": 0.0387,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 191.234925662,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RNFP KO Bullet",
+   "maker": "Impala",
+   "product": "RNFP KO Bullet",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.0356394005,
+   "length": 0.0443,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 230.606822122,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RNFP KO Bullet",
+   "maker": "Impala",
+   "product": "RNFP KO Bullet",
+   "lot": "",
+   "nominalCaliber": ".505",
+   "diameter": 0.01283,
+   "mass": 0.032399455,
+   "length": 0.0337,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 164.518281636,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Impala, RNFP KO Bullet",
+   "maker": "Impala",
+   "product": "RNFP KO Bullet",
+   "lot": "",
+   "nominalCaliber": ".510",
+   "diameter": 0.01295,
+   "mass": 0.0356394005,
+   "length": 0.0362,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 180.688881967,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

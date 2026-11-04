@@ -1,0 +1,526 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "Lutz Möller, .375 Kreuzer",
+   "maker": "Lutz Möller",
+   "product": ".375 Kreuzer",
+   "lot": "",
+   "nominalCaliber": ".376",
+   "diameter": 0.00955,
+   "mass": 0.01205259726,
+   "length": 0.027,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0035,
+    "diameterA": 0.0096,
+    "diameterB": 0.009
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 142.723124667,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lutz Möller, 10",
+   "maker": "Lutz Möller",
+   "product": "10",
+   "lot": "",
+   "nominalCaliber": ".409",
+   "diameter": 0.01039,
+   "mass": 0.01283018418,
+   "length": 0.0333,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 447.152252651,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lutz Möller, 5",
+   "maker": "Lutz Möller",
+   "product": "5",
+   "lot": "",
+   "nominalCaliber": ".222",
+   "diameter": 0.00564,
+   "mass": 0.00233276076,
+   "length": 0.0156,
+   "base": {
+    "shape": "boattail",
+    "length": 0.002,
+    "diameterA": 0.0056,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 122.334106857,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lutz Möller, 5",
+   "maker": "Lutz Möller",
+   "product": "5",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00285115204,
+   "length": 0.0185,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0057,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 171.548977432,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lutz Möller, 6",
+   "maker": "Lutz Möller",
+   "product": "6",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0058319019,
+   "length": 0.027,
+   "base": {
+    "shape": "boattail",
+    "length": 0.004,
+    "diameterA": 0.0067,
+    "diameterB": 0.0059
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 293.883084289,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lutz Möller, 6",
+   "maker": "Lutz Möller",
+   "product": "6",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.00667428773,
+   "length": 0.028,
+   "base": {
+    "shape": "boattail",
+    "length": 0.004,
+    "diameterA": 0.007,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 305.835267143,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lutz Möller, 6 mm MJG 6004",
+   "maker": "Lutz Möller",
+   "product": "6 mm MJG 6004",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00460072261,
+   "length": 0.026,
+   "base": {
+    "shape": "boattail",
+    "length": 0.004,
+    "diameterA": 0.0062,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 317.084380417,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lutz Möller, 6XC",
+   "maker": "Lutz Möller",
+   "product": "6XC",
+   "lot": "",
+   "nominalCaliber": ".244",
+   "diameter": 0.0062,
+   "mass": 0.00466552152,
+   "length": 0.0255,
+   "base": {
+    "shape": "boattail",
+    "length": 0.004,
+    "diameterA": 0.0062,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 313.569032519,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lutz Möller, 7",
+   "maker": "Lutz Möller",
+   "product": "7",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00784066811,
+   "length": 0.0325,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.0078,
+    "diameterB": 0.0066
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 293.18001471,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lutz Möller, 7",
+   "maker": "Lutz Möller",
+   "product": "7",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00784066811,
+   "length": 0.025,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.0078,
+    "diameterB": 0.0066
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 138.504707189,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lutz Möller, 7 mm Flitzer",
+   "maker": "Lutz Möller",
+   "product": "7 mm Flitzer",
+   "lot": "",
+   "nominalCaliber": ".283",
+   "diameter": 0.00719,
+   "mass": 0.00680388555,
+   "length": 0.032,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0038,
+    "diameterA": 0.0072,
+    "diameterB": 0.0066
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 296.695362608,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lutz Möller, 7 mm Kreuzer",
+   "maker": "Lutz Möller",
+   "product": "7 mm Kreuzer",
+   "lot": "",
+   "nominalCaliber": ".285",
+   "diameter": 0.00724,
+   "mass": 0.00673908664,
+   "length": 0.025,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0038,
+    "diameterA": 0.0072,
+    "diameterB": 0.0064
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 95.6174628309,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lutz Möller, 8",
+   "maker": "Lutz Möller",
+   "product": "8",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.00855345612,
+   "length": 0.0305,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0025,
+    "diameterA": 0.0086,
+    "diameterB": 0.008
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 250.995839931,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lutz Möller, 8 mm Flitzer",
+   "maker": "Lutz Möller",
+   "product": "8 mm Flitzer",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.00829426048,
+   "length": 0.0317,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0019,
+    "diameterA": 0.0082,
+    "diameterB": 0.008
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 248.183561613,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lutz Möller, 8 mm Kreuzer",
+   "maker": "Lutz Möller",
+   "product": "8 mm Kreuzer",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.00829426048,
+   "length": 0.0242,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0019,
+    "diameterA": 0.0082,
+    "diameterB": 0.008
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 95.6174628309,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lutz Möller, 9",
+   "maker": "Lutz Möller",
+   "product": "9",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01004383105,
+   "length": 0.0234,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0017,
+    "diameterA": 0.0093,
+    "diameterB": 0.009
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 112.491132742,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lutz Möller, 9",
+   "maker": "Lutz Möller",
+   "product": "9",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01004383105,
+   "length": 0.0319,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0017,
+    "diameterA": 0.0093,
+    "diameterB": 0.009
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 239.043657077,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lutz Möller, MJG 1046",
+   "maker": "Lutz Möller",
+   "product": "MJG 1046",
+   "lot": "",
+   "nominalCaliber": ".419",
+   "diameter": 0.01064,
+   "mass": 0.02105964575,
+   "length": 0.042,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0022,
+    "diameterA": 0.0106,
+    "diameterB": 0.01
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 349.425581081,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lutz Möller, MSG 1051",
+   "maker": "Lutz Möller",
+   "product": "MSG 1051",
+   "lot": "",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.02753953675,
+   "length": 0.056,
+   "base": {
+    "shape": "boattail",
+    "length": 0.012,
+    "diameterA": 0.0106,
+    "diameterB": 0.008
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 762.127424329,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

@@ -1,0 +1,2664 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "Frontier, .224 55 gr. CMJ",
+   "maker": "Frontier",
+   "product": ".224 55 gr. CMJ",
+   "lot": "2020",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.01838,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 137.801637609,
+   "ballisticCoefficientG7": 71.0100275436,
+   "ubcsCode": "S0T1F2S4N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, .452 230 gr. CMJ",
+   "maker": "Frontier",
+   "product": ".452 230 gr. CMJ",
+   "lot": "2020",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.0149037493,
+   "length": 0.01631,
+   "base": {
+    "shape": "hollow",
+    "length": 0.00051,
+    "diameterA": 0.00688,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 115.303411061,
+   "ubcsCode": "S0F2H2S4N4",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, .452 FP 200 gr. CMJ",
+   "maker": "Frontier",
+   "product": ".452 FP 200 gr. CMJ",
+   "lot": "2020",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.012959782,
+   "length": 0.01318,
+   "base": {
+    "shape": "hollow",
+    "length": 0.00051,
+    "diameterA": 0.00688,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 115.303411061,
+   "ubcsCode": "S0F7H2S4N4",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, BTSP",
+   "maker": "Frontier",
+   "product": "BTSP",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00291595095,
+   "length": 0.0187,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0057,
+    "diameterB": 0.0043
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 152.566098782,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, BTSP",
+   "maker": "Frontier",
+   "product": "BTSP",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0051839128,
+   "length": 0.0274,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0042,
+    "diameterA": 0.0062,
+    "diameterB": 0.0045
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 256.620396568,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, BTSP",
+   "maker": "Frontier",
+   "product": "BTSP",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.006479891,
+   "length": 0.0303,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0042,
+    "diameterA": 0.0065,
+    "diameterB": 0.0048
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 295.289223448,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, BTSP",
+   "maker": "Frontier",
+   "product": "BTSP",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0077758692,
+   "length": 0.0344,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0035,
+    "diameterA": 0.0067,
+    "diameterB": 0.0049
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 340.285676545,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, BTSP",
+   "maker": "Frontier",
+   "product": "BTSP",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0090718474,
+   "length": 0.0374,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0046,
+    "diameterA": 0.007,
+    "diameterB": 0.0047
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 368.408459731,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, BTSP",
+   "maker": "Frontier",
+   "product": "BTSP",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0090718474,
+   "length": 0.0365,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0049,
+    "diameterA": 0.0072,
+    "diameterB": 0.0042
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 357.159346457,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, BTSP",
+   "maker": "Frontier",
+   "product": "BTSP",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00809986375,
+   "length": 0.0293,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0041,
+    "diameterA": 0.0078,
+    "diameterB": 0.0054
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 253.10504867,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, BTSP",
+   "maker": "Frontier",
+   "product": "BTSP",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.0364,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0054,
+    "diameterA": 0.0078,
+    "diameterB": 0.0054
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 369.81459889,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, BTSP",
+   "maker": "Frontier",
+   "product": "BTSP",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0077758692,
+   "length": 0.0262,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0034,
+    "diameterA": 0.0078,
+    "diameterB": 0.0057
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 205.999386834,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, BTSP",
+   "maker": "Frontier",
+   "product": "BTSP",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01069182015,
+   "length": 0.0342,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0051,
+    "diameterA": 0.0082,
+    "diameterB": 0.0059
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 319.896658736,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, BTSP",
+   "maker": "Frontier",
+   "product": "BTSP",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01457975475,
+   "length": 0.0411,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0054,
+    "diameterA": 0.0086,
+    "diameterB": 0.0061
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 408.48342577,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, BTSP",
+   "maker": "Frontier",
+   "product": "BTSP",
+   "lot": "",
+   "nominalCaliber": ".374",
+   "diameter": 0.0095,
+   "mass": 0.0161997275,
+   "length": 0.0354,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0046,
+    "diameterA": 0.0095,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 280.524762276,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, CMJ Restrike",
+   "maker": "Frontier",
+   "product": "CMJ Restrike",
+   "lot": "R 1080.00",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00952543977,
+   "length": 0.01745,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ubcsCode": "S0F7F2S4N1",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, CMJ Restrike",
+   "maker": "Frontier",
+   "product": "CMJ Restrike",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00809986375,
+   "length": 0.0136,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ubcsCode": "S0F7F2S4N1",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, CMJ Restrike FP",
+   "maker": "Frontier",
+   "product": "CMJ Restrike FP",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01,
+   "mass": 0.0116638038,
+   "length": 0.0152,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ubcsCode": "S0F7F2S4N1",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, CMJ Restrike Match",
+   "maker": "Frontier",
+   "product": "CMJ Restrike Match",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00803506484,
+   "length": 0.0148,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ubcsCode": "S0F2F2S4N1",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, CMJ Sized FP",
+   "maker": "Frontier",
+   "product": "CMJ Sized FP",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.01587573295,
+   "length": 0.018,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ubcsCode": "S0F7F2S4N1",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, FBSP",
+   "maker": "Frontier",
+   "product": "FBSP",
+   "lot": "",
+   "nominalCaliber": ".311",
+   "diameter": 0.0079,
+   "mass": 0.01004383105,
+   "length": 0.0332,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 232.012961281,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, Flatpoint 200 gr",
+   "maker": "Frontier",
+   "product": "Flatpoint 200 gr",
+   "lot": "2021",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.012959782,
+   "length": 0.01318,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 115.303411061,
+   "ubcsCode": "S0F7H2S4N4",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, HP",
+   "maker": "Frontier",
+   "product": "HP",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0084238583,
+   "length": 0.032,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 295.289223448,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, HP",
+   "maker": "Frontier",
+   "product": "HP",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0090718474,
+   "length": 0.0339,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 319.193589156,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, HP",
+   "maker": "Frontier",
+   "product": "HP",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0097198365,
+   "length": 0.0357,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 338.879537386,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, HP",
+   "maker": "Frontier",
+   "product": "HP",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0084238583,
+   "length": 0.0309,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 306.538336723,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, HP",
+   "maker": "Frontier",
+   "product": "HP",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0090718474,
+   "length": 0.0332,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 313.569032519,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, HP",
+   "maker": "Frontier",
+   "product": "HP",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01004383105,
+   "length": 0.0356,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 336.770328647,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, HP",
+   "maker": "Frontier",
+   "product": "HP",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0110158147,
+   "length": 0.0385,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 366.299250992,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, HP",
+   "maker": "Frontier",
+   "product": "HP",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0303,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 266.463370683,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, HP",
+   "maker": "Frontier",
+   "product": "HP",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01088621688,
+   "length": 0.0328,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 334.661119908,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, HP",
+   "maker": "Frontier",
+   "product": "HP",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.012959782,
+   "length": 0.0382,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 379.657573005,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, HP",
+   "maker": "Frontier",
+   "product": "HP",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01133980925,
+   "length": 0.0322,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 249.589700772,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, HP",
+   "maker": "Frontier",
+   "product": "HP",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.0116638038,
+   "length": 0.0425,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 284.743179754,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, HP",
+   "maker": "Frontier",
+   "product": "HP",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.012959782,
+   "length": 0.0358,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 288.258527652,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, HP",
+   "maker": "Frontier",
+   "product": "HP",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.012959782,
+   "length": 0.0366,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 303.726058404,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, HP",
+   "maker": "Frontier",
+   "product": "HP",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0161997275,
+   "length": 0.0401,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 359.971624775,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, HP",
+   "maker": "Frontier",
+   "product": "HP",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0174957057,
+   "length": 0.0425,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 374.033016368,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, HP",
+   "maker": "Frontier",
+   "product": "HP",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01522774385,
+   "length": 0.0326,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 260.135744466,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, HP",
+   "maker": "Frontier",
+   "product": "HP",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01853248826,
+   "length": 0.0382,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 323.412006634,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, HP",
+   "maker": "Frontier",
+   "product": "HP",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.0161997275,
+   "length": 0.0332,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 310.756754201,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, HP",
+   "maker": "Frontier",
+   "product": "HP",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.019439673,
+   "length": 0.0382,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 355.050137718,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, HP",
+   "maker": "Frontier",
+   "product": "HP",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.0291595095,
+   "length": 0.0393,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 316.381310838,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, HP",
+   "maker": "Frontier",
+   "product": "HP",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.0330474441,
+   "length": 0.0435,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 358.565485616,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPBT",
+   "maker": "Frontier",
+   "product": "PH HPBT",
+   "lot": "",
+   "nominalCaliber": ".220",
+   "diameter": 0.00559,
+   "mass": 0.00291595095,
+   "length": 0.0173,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0018,
+    "diameterA": 0.0056,
+    "diameterB": 0.0044
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 137.09856803,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPBT",
+   "maker": "Frontier",
+   "product": "PH HPBT",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00336954332,
+   "length": 0.0199,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0033,
+    "diameterA": 0.0057,
+    "diameterB": 0.0035
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 161.706003317,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPBT",
+   "maker": "Frontier",
+   "product": "PH HPBT",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00550790735,
+   "length": 0.0274,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0042,
+    "diameterA": 0.0062,
+    "diameterB": 0.0036
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 239.043657077,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPBT",
+   "maker": "Frontier",
+   "product": "PH HPBT",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.00550790735,
+   "length": 0.0251,
+   "base": {
+    "shape": "boattail",
+    "length": 0.004,
+    "diameterA": 0.0065,
+    "diameterB": 0.0041
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 196.859482299,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPBT",
+   "maker": "Frontier",
+   "product": "PH HPBT",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.006479891,
+   "length": 0.0286,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0039,
+    "diameterA": 0.0065,
+    "diameterB": 0.0039
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 239.746726657,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPBT",
+   "maker": "Frontier",
+   "product": "PH HPBT",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.00745187465,
+   "length": 0.0317,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0047,
+    "diameterA": 0.0065,
+    "diameterB": 0.0046
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 284.040110174,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPBT",
+   "maker": "Frontier",
+   "product": "PH HPBT",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0077758692,
+   "length": 0.0318,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0034,
+    "diameterA": 0.0067,
+    "diameterB": 0.0042
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 279.118623117,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPBT",
+   "maker": "Frontier",
+   "product": "PH HPBT",
+   "lot": "",
+   "nominalCaliber": ".276",
+   "diameter": 0.00701,
+   "mass": 0.0090718474,
+   "length": 0.0347,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0028,
+    "diameterA": 0.007,
+    "diameterB": 0.0045
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 308.647545462,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPBT",
+   "maker": "Frontier",
+   "product": "PH HPBT",
+   "lot": "",
+   "nominalCaliber": ".276",
+   "diameter": 0.00701,
+   "mass": 0.0097198365,
+   "length": 0.0366,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0039,
+    "diameterA": 0.007,
+    "diameterB": 0.0052
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 337.473398227,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPBT",
+   "maker": "Frontier",
+   "product": "PH HPBT",
+   "lot": "",
+   "nominalCaliber": ".283",
+   "diameter": 0.00719,
+   "mass": 0.0090718474,
+   "length": 0.0338,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0036,
+    "diameterA": 0.0072,
+    "diameterB": 0.0048
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 297.398432187,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPBT",
+   "maker": "Frontier",
+   "product": "PH HPBT",
+   "lot": "",
+   "nominalCaliber": ".307",
+   "diameter": 0.0078,
+   "mass": 0.0116638038,
+   "length": 0.0357,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0041,
+    "diameterA": 0.0078,
+    "diameterB": 0.0055
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 313.569032519,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPBT",
+   "maker": "Frontier",
+   "product": "PH HPBT",
+   "lot": "",
+   "nominalCaliber": ".307",
+   "diameter": 0.0078,
+   "mass": 0.012959782,
+   "length": 0.0394,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0053,
+    "diameterA": 0.0078,
+    "diameterB": 0.0048
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 364.893111833,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPBT",
+   "maker": "Frontier",
+   "product": "PH HPBT",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0312,
+   "base": {
+    "shape": "boattail",
+    "length": 0.004,
+    "diameterA": 0.0078,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 258.026535728,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPBT",
+   "maker": "Frontier",
+   "product": "PH HPBT",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.0335,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0039,
+    "diameterA": 0.0078,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 292.47694513,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPBT",
+   "maker": "Frontier",
+   "product": "PH HPBT",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01457975475,
+   "length": 0.0381,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0061,
+    "diameterA": 0.0086,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 352.237859399,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPBT",
+   "maker": "Frontier",
+   "product": "PH HPBT",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.012959782,
+   "length": 0.0285,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0015,
+    "diameterA": 0.0095,
+    "diameterB": 0.0079
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 310.053684621,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPBT",
+   "maker": "Frontier",
+   "product": "PH HPBT",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.01457975475,
+   "length": 0.0312,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0036,
+    "diameterA": 0.0095,
+    "diameterB": 0.0068
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 244.668213714,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPBT",
+   "maker": "Frontier",
+   "product": "PH HPBT",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.0161997275,
+   "length": 0.0339,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0036,
+    "diameterA": 0.0095,
+    "diameterB": 0.0067
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 272.08792732,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00550790735,
+   "length": 0.0264,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 175.06432533,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.00563750517,
+   "length": 0.0243,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 161.706003317,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".276",
+   "diameter": 0.00701,
+   "mass": 0.0084238583,
+   "length": 0.0314,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 222.169987166,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".276",
+   "diameter": 0.00701,
+   "mass": 0.0090718474,
+   "length": 0.0336,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 238.340587498,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".283",
+   "diameter": 0.00719,
+   "mass": 0.0084238583,
+   "length": 0.0312,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 222.873056746,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".283",
+   "diameter": 0.00719,
+   "mass": 0.0090718474,
+   "length": 0.0331,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 232.012961281,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01004383105,
+   "length": 0.0359,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 248.886631192,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0305,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 201.077899777,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01088621688,
+   "length": 0.0332,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 225.685335064,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.035,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 238.340587498,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.012959782,
+   "length": 0.038,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 278.415553537,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".311",
+   "diameter": 0.0079,
+   "mass": 0.0097198365,
+   "length": 0.0303,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 201.077899777,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".311",
+   "diameter": 0.0079,
+   "mass": 0.01127501034,
+   "length": 0.0337,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 241.152865816,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".322",
+   "diameter": 0.00818,
+   "mass": 0.01133980925,
+   "length": 0.0321,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 228.497613383,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".321",
+   "diameter": 0.00815,
+   "mass": 0.0116638038,
+   "length": 0.0329,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 232.012961281,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".319",
+   "diameter": 0.0081,
+   "mass": 0.012959782,
+   "length": 0.0356,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 256.620396568,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.012959782,
+   "length": 0.0334,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 229.200682962,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01522774385,
+   "length": 0.0329,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 217.248500109,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".365",
+   "diameter": 0.00927,
+   "mass": 0.01853248826,
+   "length": 0.0383,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 262.948022785,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.0161997275,
+   "length": 0.0332,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 219.357708847,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.019439673,
+   "length": 0.0386,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 268.572579422,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".415",
+   "diameter": 0.01054,
+   "mass": 0.0226796185,
+   "length": 0.0372,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 253.10504867,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".415",
+   "diameter": 0.01054,
+   "mass": 0.025919564,
+   "length": 0.0413,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 293.18001471,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".421",
+   "diameter": 0.01069,
+   "mass": 0.0226796185,
+   "length": 0.0354,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 246.074352874,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".421",
+   "diameter": 0.01069,
+   "mass": 0.025919564,
+   "length": 0.0393,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 283.337040595,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".427",
+   "diameter": 0.01085,
+   "mass": 0.0142557602,
+   "length": 0.0207,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 150.456890043,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".457",
+   "diameter": 0.01161,
+   "mass": 0.0226796185,
+   "length": 0.0321,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 208.811665153,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".457",
+   "diameter": 0.01161,
+   "mass": 0.025919564,
+   "length": 0.0356,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 237.637517918,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".457",
+   "diameter": 0.01161,
+   "mass": 0.0291595095,
+   "length": 0.0395,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 267.869509843,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.032399455,
+   "length": 0.0435,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 294.586153869,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH HPFB",
+   "maker": "Frontier",
+   "product": "PH HPFB",
+   "lot": "",
+   "nominalCaliber": ".509",
+   "diameter": 0.01293,
+   "mass": 0.032399455,
+   "length": 0.0344,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 284.040110174,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH PHL",
+   "maker": "Frontier",
+   "product": "PH PHL",
+   "lot": "",
+   "nominalCaliber": ".364",
+   "diameter": 0.00925,
+   "mass": 0.01853248826,
+   "length": 0.0342,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 253.80811825,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH PHL",
+   "maker": "Frontier",
+   "product": "PH PHL",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.019439673,
+   "length": 0.0342,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 263.651092365,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH PHL",
+   "maker": "Frontier",
+   "product": "PH PHL",
+   "lot": "",
+   "nominalCaliber": ".413",
+   "diameter": 0.01049,
+   "mass": 0.025919564,
+   "length": 0.0376,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 287.555458072,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH PHL",
+   "maker": "Frontier",
+   "product": "PH PHL",
+   "lot": "",
+   "nominalCaliber": ".421",
+   "diameter": 0.01069,
+   "mass": 0.025919564,
+   "length": 0.0371,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 280.524762276,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH PHL",
+   "maker": "Frontier",
+   "product": "PH PHL",
+   "lot": "",
+   "nominalCaliber": ".457",
+   "diameter": 0.01161,
+   "mass": 0.0291595095,
+   "length": 0.0346,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 286.852388493,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH PHL",
+   "maker": "Frontier",
+   "product": "PH PHL",
+   "lot": "",
+   "nominalCaliber": ".457",
+   "diameter": 0.01161,
+   "mass": 0.032399455,
+   "length": 0.0381,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 307.241406302,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH PHL",
+   "maker": "Frontier",
+   "product": "PH PHL",
+   "lot": "",
+   "nominalCaliber": ".506",
+   "diameter": 0.01285,
+   "mass": 0.03466741685,
+   "length": 0.0346,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 271.384857741,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, PH Phlanx",
+   "maker": "Frontier",
+   "product": "PH Phlanx",
+   "lot": "",
+   "nominalCaliber": ".222",
+   "diameter": 0.00564,
+   "mass": 0.00336954332,
+   "length": 0.0186,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0056,
+    "diameterB": 0.0042
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 156.08144668,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, Phalanx",
+   "maker": "Frontier",
+   "product": "Phalanx",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.019439673,
+   "length": 0.0332,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 215.842360949,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, Phalanx",
+   "maker": "Frontier",
+   "product": "Phalanx",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.0330474441,
+   "length": 0.0393,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 277.009414378,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, RSBT",
+   "maker": "Frontier",
+   "product": "RSBT",
+   "lot": "",
+   "nominalCaliber": ".219",
+   "diameter": 0.00556,
+   "mass": 0.00336954332,
+   "length": 0.0219,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0041,
+    "diameterA": 0.0056,
+    "diameterB": 0.0037
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 177.173534069,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, RSBT",
+   "maker": "Frontier",
+   "product": "RSBT",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00939584195,
+   "length": 0.0335,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0055,
+    "diameterA": 0.0078,
+    "diameterB": 0.0047
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 307.944475882,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Frontier, RSBT",
+   "maker": "Frontier",
+   "product": "RSBT",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01004383105,
+   "length": 0.0352,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0055,
+    "diameterA": 0.0078,
+    "diameterB": 0.0047
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 335.364189488,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

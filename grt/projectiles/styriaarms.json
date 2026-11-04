@@ -1,0 +1,3881 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "StyriaArms, AERO ECO",
+   "maker": "StyriaArms",
+   "product": "AERO ECO",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0058319019,
+   "length": 0.02309,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 131.474011393,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0116,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO ECO",
+   "maker": "StyriaArms",
+   "product": "AERO ECO",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.006479891,
+   "length": 0.02319,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 138.504707189,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0112,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO ECO",
+   "maker": "StyriaArms",
+   "product": "AERO ECO",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0077758692,
+   "length": 0.02291,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0015,
+    "diameterA": 0.00782,
+    "diameterB": 0.00746
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 127.958663494,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0084,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO ECO",
+   "maker": "StyriaArms",
+   "product": "AERO ECO",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0090718474,
+   "length": 0.02619,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 165.924420795,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0117,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO ECO",
+   "maker": "StyriaArms",
+   "product": "AERO ECO",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01004383105,
+   "length": 0.02649,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 151.863029202,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0135,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO ECO",
+   "maker": "StyriaArms",
+   "product": "AERO ECO",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0110158147,
+   "length": 0.02659,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 151.863029202,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0136,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO ECO -",
+   "maker": "StyriaArms",
+   "product": "AERO ECO -",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00680388555,
+   "length": 0.02309,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 138.504707189,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0111,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO ECO -",
+   "maker": "StyriaArms",
+   "product": "AERO ECO -",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.0110158147,
+   "length": 0.02339,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 138.504707189,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0104,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO EXPP",
+   "maker": "StyriaArms",
+   "product": "AERO EXPP",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00550790735,
+   "length": 0.01389,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0074,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO EXPP RN",
+   "maker": "StyriaArms",
+   "product": "AERO EXPP RN",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.006479891,
+   "length": 0.0143,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0044,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO EXPP RN",
+   "maker": "StyriaArms",
+   "product": "AERO EXPP RN",
+   "lot": "",
+   "nominalCaliber": ".365",
+   "diameter": 0.00927,
+   "mass": 0.0051839128,
+   "length": 0.01199,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.007,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".183",
+   "diameter": 0.00465,
+   "mass": 0.00200876621,
+   "length": 0.01781,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0029,
+    "diameterA": 0.00465,
+    "diameterB": 0.00394
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 75.931514601,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0119,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".222",
+   "diameter": 0.00564,
+   "mass": 0.00207356512,
+   "length": 0.01349,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 82.9622103974,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0065,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00226796185,
+   "length": 0.0146,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 82.9622103974,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0066,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0025919564,
+   "length": 0.01621,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 117.4126198,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0082,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00291595095,
+   "length": 0.01849,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 124.443315596,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.009,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0032399455,
+   "length": 0.01941,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 124.443315596,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0114,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00330474441,
+   "length": 0.0206,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 131.474011393,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0095,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0038879346,
+   "length": 0.0241,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 179.282742808,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0131,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".227",
+   "diameter": 0.00577,
+   "mass": 0.0032399455,
+   "length": 0.0191,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 124.443315596,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0111,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".227",
+   "diameter": 0.00577,
+   "mass": 0.00408233133,
+   "length": 0.02469,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 179.282742808,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.013,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0038879346,
+   "length": 0.02095,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 138.504707189,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.01045,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00485991825,
+   "length": 0.0257,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 213.73315221,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0132,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0051839128,
+   "length": 0.027,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 207.405525994,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.014,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00550790735,
+   "length": 0.02931,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 220.763848007,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0133,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.00615589645,
+   "length": 0.02789,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 227.794543803,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0159,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".261",
+   "diameter": 0.00663,
+   "mass": 0.00745187465,
+   "length": 0.03371,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 303.726058404,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0182,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00550790735,
+   "length": 0.02436,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 186.313438604,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.01285,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.006479891,
+   "length": 0.02939,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 220.763848007,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0139,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00732227683,
+   "length": 0.03299,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00429,
+    "diameterA": 0.00671,
+    "diameterB": 0.00564
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 255.214257409,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0175,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00745187465,
+   "length": 0.03299,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 303.726058404,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0175,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".267",
+   "diameter": 0.00678,
+   "mass": 0.00745187465,
+   "length": 0.03241,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 303.726058404,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0169,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0058319019,
+   "length": 0.02357,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 172.955116591,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.01207,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.00745187465,
+   "length": 0.0304,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 248.886631192,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0154,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.00745187465,
+   "length": 0.0304,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00439,
+    "diameterA": 0.00704,
+    "diameterB": 0.00597
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 234.825239599,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0154,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0077758692,
+   "length": 0.0301,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 248.886631192,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0151,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0077758692,
+   "length": 0.0302,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 234.825239599,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0152,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0090718474,
+   "length": 0.0352,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 317.787449997,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0172,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0090718474,
+   "length": 0.03505,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00385,
+    "diameterA": 0.00721,
+    "diameterB": 0.00629
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 283.337040595,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.01705,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".306",
+   "diameter": 0.00777,
+   "mass": 0.0103678256,
+   "length": 0.03391,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 276.306344798,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0179,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00745187465,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 179.282742808,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0109,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00874785285,
+   "length": 0.02959,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 227.794543803,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0131,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.03241,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 276.306344798,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0159,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.03211,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 262.244953205,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0156,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.03465,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 290.367736391,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.01815,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.03739,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 317.787449997,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0209,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01263578745,
+   "length": 0.04011,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 366.299250992,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0236,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".318",
+   "diameter": 0.00808,
+   "mass": 0.0090718474,
+   "length": 0.02789,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 207.405525994,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0139,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.00939584195,
+   "length": 0.02794,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 220.763848007,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.01395,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.00939584195,
+   "length": 0.02789,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 207.405525994,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0139,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01069182015,
+   "length": 0.03254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 310.756754201,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.01455,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01283018418,
+   "length": 0.03769,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 310.756754201,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0197,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01088621688,
+   "length": 0.02979,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 227.794543803,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0148,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.012959782,
+   "length": 0.03625,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 276.306344798,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.01725,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0149037493,
+   "length": 0.04036,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 366.299250992,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.02135,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.0090718474,
+   "length": 0.022,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 138.504707189,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.011,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".364",
+   "diameter": 0.00925,
+   "mass": 0.0097198365,
+   "length": 0.0237,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0022,
+    "diameterA": 0.00925,
+    "diameterB": 0.00871
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 113.897271902,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0127,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.0097198365,
+   "length": 0.02355,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 144.832333406,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.01005,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.0116638038,
+   "length": 0.02705,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 179.282742808,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.01355,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.0149037493,
+   "length": 0.03531,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 276.306344798,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0173,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.0110158147,
+   "length": 0.02499,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 158.893724998,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.011,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.01393176565,
+   "length": 0.02995,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 207.405525994,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.01595,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".408",
+   "diameter": 0.01036,
+   "mass": 0.0246235858,
+   "length": 0.0458,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0067,
+    "diameterA": 0.01036,
+    "diameterB": 0.00872
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 359.268555196,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0178,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".414",
+   "diameter": 0.01052,
+   "mass": 0.01393176565,
+   "length": 0.02639,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 179.282742808,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0114,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.01393176565,
+   "length": 0.02611,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0021,
+    "diameterA": 0.01057,
+    "diameterB": 0.00983
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 179.282742808,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0111,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.01522774385,
+   "length": 0.02789,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 179.282742808,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0129,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".420",
+   "diameter": 0.01067,
+   "mass": 0.0142557602,
+   "length": 0.0253,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 124.443315596,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0133,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".422",
+   "diameter": 0.01072,
+   "mass": 0.0142557602,
+   "length": 0.0251,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 124.443315596,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0131,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".422",
+   "diameter": 0.01072,
+   "mass": 0.0155517384,
+   "length": 0.02743,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 124.443315596,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.01293,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".423",
+   "diameter": 0.01074,
+   "mass": 0.0155517384,
+   "length": 0.0273,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 124.443315596,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0128,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".430",
+   "diameter": 0.01092,
+   "mass": 0.01328377655,
+   "length": 0.02111,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 124.443315596,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0131,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.01587573295,
+   "length": 0.02286,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 97.0236019902,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.01285,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.01911567845,
+   "length": 0.02931,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 179.282742808,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0128,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB",
+   "maker": "StyriaArms",
+   "product": "AERO SB",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0136077711,
+   "length": 0.0442,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0058,
+    "diameterA": 0.00782,
+    "diameterB": 0.0064
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 386.688268802,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0232,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB MannlSch",
+   "maker": "StyriaArms",
+   "product": "AERO SB MannlSch",
+   "lot": "",
+   "nominalCaliber": ".267",
+   "diameter": 0.00678,
+   "mass": 0.00816466266,
+   "length": 0.032,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0017,
+    "diameterA": 0.00678,
+    "diameterB": 0.00618
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 213.73315221,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.017,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB-SR",
+   "maker": "StyriaArms",
+   "product": "AERO SB-SR",
+   "lot": "",
+   "nominalCaliber": ".172",
+   "diameter": 0.00437,
+   "mass": 0.00123117929,
+   "length": 0.01349,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.007,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB-SR",
+   "maker": "StyriaArms",
+   "product": "AERO SB-SR",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00485991825,
+   "length": 0.0256,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 213.73315221,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0131,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB-SR",
+   "maker": "StyriaArms",
+   "product": "AERO SB-SR",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0103678256,
+   "length": 0.03495,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00525,
+    "diameterA": 0.00782,
+    "diameterB": 0.00653
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 283.337040595,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.01845,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB-SR",
+   "maker": "StyriaArms",
+   "product": "AERO SB-SR",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.0142557602,
+   "length": 0.02111,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 82.9622103974,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0111,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB-tanOgive",
+   "maker": "StyriaArms",
+   "product": "AERO SB-tanOgive",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0045359237,
+   "length": 0.0224,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 193.344134401,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0119,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SB-tanOgive",
+   "maker": "StyriaArms",
+   "product": "AERO SB-tanOgive",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0090718474,
+   "length": 0.0335,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 227.794543803,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0195,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SBSR",
+   "maker": "StyriaArms",
+   "product": "AERO SBSR",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00680388555,
+   "length": 0.0221,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 110.381924003,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0111,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SO",
+   "maker": "StyriaArms",
+   "product": "AERO SO",
+   "lot": "",
+   "nominalCaliber": ".250",
+   "diameter": 0.00635,
+   "mass": 0.00226796185,
+   "length": 0.0126,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0061,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SO",
+   "maker": "StyriaArms",
+   "product": "AERO SO",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00550790735,
+   "length": 0.01425,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.00785,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SO",
+   "maker": "StyriaArms",
+   "product": "AERO SO",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00615589645,
+   "length": 0.0174,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 89.9929061938,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0074,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SO",
+   "maker": "StyriaArms",
+   "product": "AERO SO",
+   "lot": "",
+   "nominalCaliber": ".450",
+   "diameter": 0.01143,
+   "mass": 0.0110158147,
+   "length": 0.01819,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 103.351228207,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.00918,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SO",
+   "maker": "StyriaArms",
+   "product": "AERO SO",
+   "lot": "",
+   "nominalCaliber": ".450",
+   "diameter": 0.01143,
+   "mass": 0.01133980925,
+   "length": 0.01626,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 103.351228207,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.00725,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOHS",
+   "maker": "StyriaArms",
+   "product": "AERO SOHS",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00298074986,
+   "length": 0.0141,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0081,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOHS",
+   "maker": "StyriaArms",
+   "product": "AERO SOHS",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00356394005,
+   "length": 0.0144,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0084,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOHS",
+   "maker": "StyriaArms",
+   "product": "AERO SOHS",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00421192915,
+   "length": 0.0144,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0084,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOHS",
+   "maker": "StyriaArms",
+   "product": "AERO SOHS",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.00550790735,
+   "length": 0.01661,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0101,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOHS",
+   "maker": "StyriaArms",
+   "product": "AERO SOHS",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.00615589645,
+   "length": 0.0172,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0102,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOHS",
+   "maker": "StyriaArms",
+   "product": "AERO SOHS",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.00745187465,
+   "length": 0.01791,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0104,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0032399455,
+   "length": 0.02205,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 186.313438604,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.00955,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00375833678,
+   "length": 0.024,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 213.73315221,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.013,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00304554877,
+   "length": 0.01699,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 137.801637609,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.008,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00531351062,
+   "length": 0.02931,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0045,
+    "diameterA": 0.00617,
+    "diameterB": 0.00506
+   },
+   "shotStartPressure": 80000000,
+   "ballisticCoefficientG1": 293.883084289,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0133,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00550790735,
+   "length": 0.02489,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 193.344134401,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0134,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00764627138,
+   "length": 0.0348,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.00671,
+    "diameterB": 0.00547
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 362.783903094,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0161,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0077758692,
+   "length": 0.0348,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 352.237859399,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0203,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0084238583,
+   "length": 0.03419,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.00721,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 80000000,
+   "ballisticCoefficientG1": 338.176467806,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0182,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00745187465,
+   "length": 0.02619,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 186.313438604,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0117,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0084238583,
+   "length": 0.0299,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0039,
+    "diameterA": 0.00782,
+    "diameterB": 0.00687
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 296.695362608,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0129,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.03345,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00535,
+    "diameterA": 0.00782,
+    "diameterB": 0.00651
+   },
+   "shotStartPressure": 80000000,
+   "ballisticCoefficientG1": 338.176467806,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.01645,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.0364,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0055,
+    "diameterA": 0.0076,
+    "diameterB": 0.00625
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 366.299250992,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0189,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.012959782,
+   "length": 0.0426,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 442.230765593,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0188,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01380216783,
+   "length": 0.04191,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 442.230765593,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0169,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01250618963,
+   "length": 0.0364,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0059,
+    "diameterA": 0.00859,
+    "diameterB": 0.00714
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 372.626877209,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.017,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01457975475,
+   "length": 0.04054,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 435.200069797,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.02155,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01652372205,
+   "length": 0.04501,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 483.711870792,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0195,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01652372205,
+   "length": 0.0446,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 462.619783403,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0256,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0174957057,
+   "length": 0.04699,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 490.742566588,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0195,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.01587573295,
+   "length": 0.0351,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 269.275649002,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0196,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.0181436948,
+   "length": 0.04031,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 359.268555196,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0223,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.0187916839,
+   "length": 0.04321,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 414.107982407,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0178,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.0187916839,
+   "length": 0.04031,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 324.818145793,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0248,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.02105964575,
+   "length": 0.04699,
+   "base": {
+    "shape": "boattail",
+    "length": 0.007,
+    "diameterA": 0.00953,
+    "diameterB": 0.00783
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 469.650479199,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.02,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.02235562395,
+   "length": 0.0492,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 511.131584398,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0222,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".408",
+   "diameter": 0.01036,
+   "mass": 0.0239755967,
+   "length": 0.04651,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0064,
+    "diameterA": 0.01036,
+    "diameterB": 0.00879
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 469.650479199,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0175,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".408",
+   "diameter": 0.01036,
+   "mass": 0.02559556945,
+   "length": 0.04879,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0066,
+    "diameterA": 0.01036,
+    "diameterB": 0.00874
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 497.070192805,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0198,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".408",
+   "diameter": 0.01036,
+   "mass": 0.02715074329,
+   "length": 0.05179,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0069,
+    "diameterA": 0.01036,
+    "diameterB": 0.00867
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 552.612689596,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0225,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.02300361305,
+   "length": 0.04409,
+   "base": {
+    "shape": "boattail",
+    "length": 0.007,
+    "diameterA": 0.01057,
+    "diameterB": 0.00885
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 469.650479199,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0181,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.025919564,
+   "length": 0.04826,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00705,
+    "diameterA": 0.01057,
+    "diameterB": 0.00884
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 511.131584398,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.02025,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.0291595095,
+   "length": 0.05301,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 545.5819938,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.021,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.0356394005,
+   "length": 0.05451,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0082,
+    "diameterA": 0.01163,
+    "diameterB": 0.00962
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 545.5819938,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0235,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".510",
+   "diameter": 0.01295,
+   "mass": 0.04633122065,
+   "length": 0.05451,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 614.482812605,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0235,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR",
+   "lot": "",
+   "nominalCaliber": ".510",
+   "diameter": 0.01295,
+   "mass": 0.0524871171,
+   "length": 0.06421,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 662.9946136,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0292,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOLR-SR",
+   "maker": "StyriaArms",
+   "product": "AERO SOLR-SR",
+   "lot": "",
+   "nominalCaliber": ".172",
+   "diameter": 0.00437,
+   "mass": 0.00123117929,
+   "length": 0.01389,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 131.474011393,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0069,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOP",
+   "maker": "StyriaArms",
+   "product": "AERO SOP",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00550790735,
+   "length": 0.01801,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0011,
+    "diameterA": 0.00782,
+    "diameterB": 0.00756
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 97.0236019902,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0081,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOP",
+   "maker": "StyriaArms",
+   "product": "AERO SOP",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.0058319019,
+   "length": 0.0143,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 89.9929061938,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0044,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOP",
+   "maker": "StyriaArms",
+   "product": "AERO SOP",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.0051839128,
+   "length": 0.01209,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0046,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SORN",
+   "maker": "StyriaArms",
+   "product": "AERO SORN",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01393176565,
+   "length": 0.02619,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 138.504707189,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0127,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SORN",
+   "maker": "StyriaArms",
+   "product": "AERO SORN",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.01717171115,
+   "length": 0.02979,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 207.405525994,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0158,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SORN",
+   "maker": "StyriaArms",
+   "product": "AERO SORN",
+   "lot": "",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.01976366755,
+   "length": 0.02799,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 179.282742808,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0129,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SORN",
+   "maker": "StyriaArms",
+   "product": "AERO SORN",
+   "lot": "",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.025919564,
+   "length": 0.0367,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 269.275649002,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0205,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SORN",
+   "maker": "StyriaArms",
+   "product": "AERO SORN",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.0291595095,
+   "length": 0.03419,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 276.306344798,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0184,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOSR",
+   "maker": "StyriaArms",
+   "product": "AERO SOSR",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00421192915,
+   "length": 0.0239,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 179.282742808,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0121,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOSR",
+   "maker": "StyriaArms",
+   "product": "AERO SOSR",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0058319019,
+   "length": 0.02809,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 227.794543803,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0142,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOSR",
+   "maker": "StyriaArms",
+   "product": "AERO SOSR",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.006479891,
+   "length": 0.0283,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 227.794543803,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0142,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOSR",
+   "maker": "StyriaArms",
+   "product": "AERO SOSR",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00680388555,
+   "length": 0.0283,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 227.794543803,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0142,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOSR",
+   "maker": "StyriaArms",
+   "product": "AERO SOSR",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0090718474,
+   "length": 0.0318,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 269.275649002,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0163,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOSR",
+   "maker": "StyriaArms",
+   "product": "AERO SOSR",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01004383105,
+   "length": 0.032,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 269.275649002,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0163,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOSR",
+   "maker": "StyriaArms",
+   "product": "AERO SOSR",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01133980925,
+   "length": 0.03391,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 290.367736391,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0163,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SOSR",
+   "maker": "StyriaArms",
+   "product": "AERO SOSR",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01328377655,
+   "length": 0.03386,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 276.306344798,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0163,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SUB",
+   "maker": "StyriaArms",
+   "product": "AERO SUB",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0077758692,
+   "length": 0.0319,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 138.504707189,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0169,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SUB",
+   "maker": "StyriaArms",
+   "product": "AERO SUB",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00745187465,
+   "length": 0.02789,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 144.832333406,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0114,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SUB",
+   "maker": "StyriaArms",
+   "product": "AERO SUB",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0123117929,
+   "length": 0.04041,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 172.955116591,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0239,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SUB",
+   "maker": "StyriaArms",
+   "product": "AERO SUB",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.0084238583,
+   "length": 0.0271,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 151.863029202,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0127,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SUB",
+   "maker": "StyriaArms",
+   "product": "AERO SUB",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.0123117929,
+   "length": 0.03749,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 179.282742808,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.021,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SUB",
+   "maker": "StyriaArms",
+   "product": "AERO SUB",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01133980925,
+   "length": 0.0273,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 138.504707189,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0138,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SUB-I",
+   "maker": "StyriaArms",
+   "product": "AERO SUB-I",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00615589645,
+   "length": 0.0235,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 138.504707189,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0113,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "StyriaArms, AERO SUB-I",
+   "maker": "StyriaArms",
+   "product": "AERO SUB-I",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0110158147,
+   "length": 0.03071,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 20000000,
+   "ballisticCoefficientG1": 158.893724998,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0177,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

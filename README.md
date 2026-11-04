@@ -1,8 +1,9 @@
 # Gordon's Legacy data
 
 Component data for [Gordon's Legacy](https://github.com/AnnoyingTechnology/gordons-legacy), the open
-interior-ballistics simulator carrying on Gordon's Reloading Tool: powders, projectiles and calibers, one
-JSON file each, and the makers' published gun specifications, one file per maker, under CC0 1.0.
+interior-ballistics simulator carrying on Gordon's Reloading Tool: GRT's own component catalogue
+(powders, bullets, cartridges), the community's powders, projectiles and calibers, and the makers'
+published gun specifications.
 
 **This is not load data.** A powder model predicts pressures that may be wrong; every charge must come
 from the powder or bullet maker's published data, started low and worked up.
@@ -14,6 +15,8 @@ powders/       one file per powder model
 projectiles/   one file per projectile
 calibers/      one file per caliber definition (case, chamber, rifling)
 firearms/      one file per maker, holding that maker's published guns
+grt/           GRT's own database: powders/ and projectiles/ one file per maker, calibers/ one
+               file per standard
 index.json     every file with its SHA-256, read by the app
 ```
 
@@ -23,13 +26,13 @@ Each file:
 {
   "format": "gordons-legacy.component",
   "version": 1,
-  "kind": "powder | projectile | caliber | firearm",
+  "kind": "powder | projectile | caliber | firearm | grt-powders | grt-projectiles | grt-calibers",
   "provenance": { "origin", "source", "file", "author", "date", "method", "status" },
   "value": { ... }
 }
 ```
 
-A gun file's `value` is a **list** of guns rather than one: the application downloads a maker's whole
+A gun file's and a `grt-` file's `value` is a **list** rather than one entry: the application downloads a maker's whole
 catalogue to search it, and a file per gun would make a first search thousands of requests.
 
 `value` follows the load format of Gordon's Legacy (`Propellant`, `Projectile`, `CaliberDefinition` in
@@ -52,7 +55,7 @@ A gun that leaves a catalogue stays in these files. Discontinued guns are loaded
 
 ## Status and intake
 
-The first files are the GRT community's shared files ([zen/grt_databases](https://github.com/zen/grt_databases)
+The files outside `grt/` and `firearms/` are the GRT community's shared files ([zen/grt_databases](https://github.com/zen/grt_databases)
 at `9d2f84d`, CC0), converted to SI by `tools/data/export-repository.ts` in the main repository. Their
 status is `unverified`: nobody has checked them against published data yet.
 
@@ -61,8 +64,20 @@ Intake rules (main repository, `docs/PLAN.md`, Data):
 - Accepted: CC0 community files (unverified until checked), models fitted from published charge,
   velocity and pressure data, factual specifications (bullet weight, length, BC; cartridge dimensions;
   a gun's barrel length, twist and weight).
-- Not accepted: GRT's database or anything derived from it; whole tables copied from manufacturers'
-  manuals.
+- GRT's database: its own records, converted (maintainer's decision, 2026-11-04); not its
+  encrypted file, nor entries a user of the copy made, nor powder models GRT hid.
+- Not accepted: whole tables copied from manufacturers' manuals.
 - Data changes are safety-critical: each one needs the maintainer's review. CI checks every change
   with the main repository's validator (`tools/data/validate-repository.ts`): index and files agree,
   hashes match, every file is a valid component. A green check is necessary, not sufficient.
+
+## GRT's catalogue
+
+`grt/` holds the cartridges, bullets and powder models of Gordon's Reloading Tool's own database
+(GRT nightly 2030), converted to SI. These files are GRT's own data and not released under CC0. They hold GRT's own entries only, none
+GRT deleted, and no powder model GRT hid. Each entry keeps its GRT authorship in `info`. How the
+database was read, and every record left out with the reason:
+[docs/formats/grt-database.md](https://github.com/AnnoyingTechnology/gordons-legacy/blob/main/docs/formats/grt-database.md)
+and [docs/data/grt-catalogue.md](https://github.com/AnnoyingTechnology/gordons-legacy/blob/main/docs/data/grt-catalogue.md).
+GRT's powder models are its author's fits, not checked here against published data: their pressures
+may be wrong.

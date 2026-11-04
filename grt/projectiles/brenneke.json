@@ -1,0 +1,868 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "Brenneke, TAG",
+   "maker": "Brenneke",
+   "product": "TAG",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.01010862996,
+   "length": 0.0338,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0035,
+    "diameterA": 0.007,
+    "diameterB": 0.0054
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 179.985812388,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TAG",
+   "maker": "Brenneke",
+   "product": "TAG",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0084238583,
+   "length": 0.0326,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0051,
+    "diameterA": 0.007,
+    "diameterB": 0.0042
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 166.627490374,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TAG",
+   "maker": "Brenneke",
+   "product": "TAG",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01004383105,
+   "length": 0.0316,
+   "base": {
+    "shape": "boattail",
+    "length": 0.003,
+    "diameterA": 0.0078,
+    "diameterB": 0.0019
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 140.613915928,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TAG",
+   "maker": "Brenneke",
+   "product": "TAG",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01133980925,
+   "length": 0.0324,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0035,
+    "diameterA": 0.0082,
+    "diameterB": 0.0009
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 127.958663494,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TAG",
+   "maker": "Brenneke",
+   "product": "TAG",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01457975475,
+   "length": 0.033,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0016,
+    "diameterA": 0.0093,
+    "diameterB": 0.0025
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 131.474011393,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TAG 590236",
+   "maker": "Brenneke",
+   "product": "TAG 590236",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01043262451,
+   "length": 0.0334,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0037,
+    "diameterA": 0.0072,
+    "diameterB": 0.0055
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 175.76739491,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TAG 590336",
+   "maker": "Brenneke",
+   "product": "TAG 590336",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0084238583,
+   "length": 0.0311,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 170.845907852,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, Teilmantel",
+   "maker": "Brenneke",
+   "product": "Teilmantel",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00946064086,
+   "length": 0.0281,
+   "base": {
+    "shape": "boattail",
+    "length": 0.003,
+    "diameterA": 0.0072,
+    "diameterB": 0.001
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 250.292770352,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TIG",
+   "maker": "Brenneke",
+   "product": "TIG",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01146940707,
+   "length": 0.0331,
+   "base": {
+    "shape": "boattail",
+    "length": 0.003,
+    "diameterA": 0.0072,
+    "diameterB": 0.001
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 250.292770352,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TIG",
+   "maker": "Brenneke",
+   "product": "TIG",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0274,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0034,
+    "diameterA": 0.0078,
+    "diameterB": 0.001
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 213.030082631,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TIG",
+   "maker": "Brenneke",
+   "product": "TIG",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01283018418,
+   "length": 0.0334,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0035,
+    "diameterA": 0.0082,
+    "diameterB": 0.0009
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 246.074352874,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TIG",
+   "maker": "Brenneke",
+   "product": "TIG",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01283018418,
+   "length": 0.0334,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 246.074352874,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TIG nature",
+   "maker": "Brenneke",
+   "product": "TIG nature",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00829426048,
+   "length": 0.0331,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0031,
+    "diameterA": 0.0072,
+    "diameterB": 0.0013
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 131.474011393,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TIG nature",
+   "maker": "Brenneke",
+   "product": "TIG nature",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00855345612,
+   "length": 0.0316,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0034,
+    "diameterA": 0.0078,
+    "diameterB": 0.001
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 179.282742808,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TIG nature",
+   "maker": "Brenneke",
+   "product": "TIG nature",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.00939584195,
+   "length": 0.0323,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0035,
+    "diameterA": 0.0082,
+    "diameterB": 0.0009
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 179.985812388,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TOG",
+   "maker": "Brenneke",
+   "product": "TOG",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0097198365,
+   "length": 0.0311,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0012,
+    "diameterA": 0.0072,
+    "diameterB": 0.0022
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 297.398432187,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TOG",
+   "maker": "Brenneke",
+   "product": "TOG",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.0301,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0015,
+    "diameterA": 0.0078,
+    "diameterB": 0.0026
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 295.992293028,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TOG",
+   "maker": "Brenneke",
+   "product": "TOG",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01172860271,
+   "length": 0.0309,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0035,
+    "diameterA": 0.0082,
+    "diameterB": 0.0009
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 201.077899777,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TOG",
+   "maker": "Brenneke",
+   "product": "TOG",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.0142557602,
+   "length": 0.0361,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0015,
+    "diameterA": 0.0082,
+    "diameterB": 0.0023
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 288.258527652,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TOG",
+   "maker": "Brenneke",
+   "product": "TOG",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01600533077,
+   "length": 0.0306,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0016,
+    "diameterA": 0.0093,
+    "diameterB": 0.0025
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 293.883084289,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TOG",
+   "maker": "Brenneke",
+   "product": "TOG",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.0174957057,
+   "length": 0.0321,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0016,
+    "diameterA": 0.0095,
+    "diameterB": 0.0033
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 295.289223448,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TOG",
+   "maker": "Brenneke",
+   "product": "TOG",
+   "lot": "",
+   "nominalCaliber": ".413",
+   "diameter": 0.01049,
+   "mass": 0.01522774385,
+   "length": 0.0233,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0021,
+    "diameterA": 0.0105,
+    "diameterB": 0.0047
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 124.443315596,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TOG 530836",
+   "maker": "Brenneke",
+   "product": "TOG 530836",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00622069536,
+   "length": 0.0269,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 212.327013051,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TUG",
+   "maker": "Brenneke",
+   "product": "TUG",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01172860271,
+   "length": 0.0318,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0034,
+    "diameterA": 0.0078,
+    "diameterB": 0.001
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 246.074352874,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TUG",
+   "maker": "Brenneke",
+   "product": "TUG",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01898608063,
+   "length": 0.0369,
+   "base": {
+    "shape": "boattail",
+    "length": 0.004,
+    "diameterA": 0.0093,
+    "diameterB": 0.001
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 326.927354532,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TUG",
+   "maker": "Brenneke",
+   "product": "TUG",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.019439673,
+   "length": 0.0352,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 235.528309179,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TUG nature",
+   "maker": "Brenneke",
+   "product": "TUG nature",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00952543977,
+   "length": 0.0341,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0034,
+    "diameterA": 0.0078,
+    "diameterB": 0.001
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 165.924420795,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TUG nature",
+   "maker": "Brenneke",
+   "product": "TUG nature",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.0142557602,
+   "length": 0.0375,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0035,
+    "diameterA": 0.0093,
+    "diameterB": 0.0025
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 250.995839931,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TUG nature+",
+   "maker": "Brenneke",
+   "product": "TUG nature+",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00829426048,
+   "length": 0.0318,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0028,
+    "diameterA": 0.0072,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 195.45334314,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TUG nature+",
+   "maker": "Brenneke",
+   "product": "TUG nature+",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00952543977,
+   "length": 0.034,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0032,
+    "diameterA": 0.0078,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 165.924420795,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TUG nature+",
+   "maker": "Brenneke",
+   "product": "TUG nature+",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.0097198365,
+   "length": 0.0322,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0035,
+    "diameterA": 0.0082,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 163.815212056,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Brenneke, TUG nature+",
+   "maker": "Brenneke",
+   "product": "TUG nature+",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.0142557602,
+   "length": 0.0364,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0037,
+    "diameterA": 0.0093,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 201.077899777,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

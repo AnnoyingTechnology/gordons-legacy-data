@@ -1,0 +1,1098 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "LOS, .357 HP",
+   "maker": "LOS",
+   "product": ".357 HP",
+   "lot": "04.01.2021",
+   "nominalCaliber": ".357",
+   "diameter": 0.00905,
+   "mass": 0.0116638038,
+   "length": 0.0182,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ubcsCode": "S0H5F2S4N4",
+   "maxSeatingDepth": 0.011,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, .45 RN",
+   "maker": "LOS",
+   "product": ".45 RN",
+   "lot": "09.01.2021",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.0149037493,
+   "length": 0.01625,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ubcsCode": "S0F2F2S4N4",
+   "maxSeatingDepth": 0.0075,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, FMJ RN",
+   "maker": "LOS",
+   "product": "FMJ RN",
+   "lot": "2021",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00803506484,
+   "length": 0.01527,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ubcsCode": "S0F2F6S4N4",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, FMJ RN",
+   "maker": "LOS",
+   "product": "FMJ RN",
+   "lot": "2019",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00745187465,
+   "length": 0.0141,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ubcsCode": "S0F2F6S4N4",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, FMJ RN",
+   "maker": "LOS",
+   "product": "FMJ RN",
+   "lot": "2019",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00803506484,
+   "length": 0.0153,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ubcsCode": "S0F2F6S4N4",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, FP",
+   "maker": "LOS",
+   "product": "FP",
+   "lot": "2021",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00797026593,
+   "length": 0.01415,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.1328107291,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, FP",
+   "maker": "LOS",
+   "product": "FP",
+   "lot": "2021",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00939584195,
+   "length": 0.0164,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 119.521828539,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, FP",
+   "maker": "LOS",
+   "product": "FP",
+   "lot": "2021",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.01645,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 130.770941813,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, FP",
+   "maker": "LOS",
+   "product": "FP",
+   "lot": "2021",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01172860271,
+   "length": 0.0185,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 138.504707189,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, FP",
+   "maker": "LOS",
+   "product": "FP",
+   "lot": "2019",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00797026593,
+   "length": 0.01415,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.1328107291,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, FP",
+   "maker": "LOS",
+   "product": "FP",
+   "lot": "2019",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.01645,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 130.770941813,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, FP",
+   "maker": "LOS",
+   "product": "FP",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00939584195,
+   "length": 0.0164,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 119.521828539,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, FP",
+   "maker": "LOS",
+   "product": "FP",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01172860271,
+   "length": 0.0185,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 138.504707189,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, HP",
+   "maker": "LOS",
+   "product": "HP",
+   "lot": "2021",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00797026593,
+   "length": 0.01395,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.8358803088,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, HP",
+   "maker": "LOS",
+   "product": "HP",
+   "lot": "2021",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00939584195,
+   "length": 0.0159,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 121.631037278,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, HP",
+   "maker": "LOS",
+   "product": "HP",
+   "lot": "2021",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.016,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 131.474011393,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, HP",
+   "maker": "LOS",
+   "product": "HP",
+   "lot": "2019",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00797026593,
+   "length": 0.01395,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.8358803088,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, HP",
+   "maker": "LOS",
+   "product": "HP",
+   "lot": "2019",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00939584195,
+   "length": 0.0159,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 121.631037278,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, HP",
+   "maker": "LOS",
+   "product": "HP",
+   "lot": "04.01.2021",
+   "nominalCaliber": ".356",
+   "diameter": 0.009,
+   "mass": 0.00797026593,
+   "length": 0.01415,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ubcsCode": "S0H5F2S4N1",
+   "maxSeatingDepth": 0.007,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, HP",
+   "maker": "LOS",
+   "product": "HP",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.016,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 131.474011393,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, Hunter",
+   "maker": "LOS",
+   "product": "Hunter",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01004383105,
+   "length": 0.0315,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0033,
+    "diameterA": 0.0078,
+    "diameterB": 0.0072
+   },
+   "shotStartPressure": 10000000,
+   "ballisticCoefficientG1": 209.514734732,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, Hunter Tactic",
+   "maker": "LOS",
+   "product": "Hunter Tactic",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00336954332,
+   "length": 0.0213,
+   "base": {
+    "shape": "boattail",
+    "length": 0.003,
+    "diameterA": 0.006,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 11000000,
+   "ballisticCoefficientG1": 139.910846348,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, Hunter Tactic",
+   "maker": "LOS",
+   "product": "Hunter Tactic",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0084238583,
+   "length": 0.0333,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0058,
+    "diameterA": 0.0072,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 11000000,
+   "ballisticCoefficientG1": 246.074352874,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, Hunter Tactic",
+   "maker": "LOS",
+   "product": "Hunter Tactic",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00939584195,
+   "length": 0.0368,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0058,
+    "diameterA": 0.0072,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 11000000,
+   "ballisticCoefficientG1": 277.009414378,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, Hunter Tactic",
+   "maker": "LOS",
+   "product": "Hunter Tactic",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0090718474,
+   "length": 0.0314,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0038,
+    "diameterA": 0.0077,
+    "diameterB": 0.0071
+   },
+   "shotStartPressure": 11000000,
+   "ballisticCoefficientG1": 210.920873892,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, Hunter Tactic",
+   "maker": "LOS",
+   "product": "Hunter Tactic",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.033,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0048,
+    "diameterA": 0.0078,
+    "diameterB": 0.0072
+   },
+   "shotStartPressure": 11000000,
+   "ballisticCoefficientG1": 214.43622179,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, Hunter Tactic",
+   "maker": "LOS",
+   "product": "Hunter Tactic",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.0361,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0048,
+    "diameterA": 0.0078,
+    "diameterB": 0.0072
+   },
+   "shotStartPressure": 11000000,
+   "ballisticCoefficientG1": 270.681788161,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, RN",
+   "maker": "LOS",
+   "product": "RN",
+   "lot": "2021",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00797026593,
+   "length": 0.0148,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.8358803088,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, RN",
+   "maker": "LOS",
+   "product": "RN",
+   "lot": "2021",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00939584195,
+   "length": 0.0168,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.8358803088,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, RN",
+   "maker": "LOS",
+   "product": "RN",
+   "lot": "2019",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00797026593,
+   "length": 0.0148,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.8358803088,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, RN",
+   "maker": "LOS",
+   "product": "RN",
+   "lot": "2019",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00939584195,
+   "length": 0.0168,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.8358803088,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, RN",
+   "maker": "LOS",
+   "product": "RN",
+   "lot": "",
+   "nominalCaliber": ".401",
+   "diameter": 0.01019,
+   "mass": 0.0116638038,
+   "length": 0.0157,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 98.4297411495,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, RN",
+   "maker": "LOS",
+   "product": "RN",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.0149037493,
+   "length": 0.0161,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 115.303411061,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, RNFP",
+   "maker": "LOS",
+   "product": "RNFP",
+   "lot": "",
+   "nominalCaliber": ".401",
+   "diameter": 0.01019,
+   "mass": 0.0116638038,
+   "length": 0.0151,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 101.242019468,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, RNFP",
+   "maker": "LOS",
+   "product": "RNFP",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.0155517384,
+   "length": 0.0168,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 147.644611724,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, SWC",
+   "maker": "LOS",
+   "product": "SWC",
+   "lot": "2021",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.0173,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 132.880150552,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, SWC",
+   "maker": "LOS",
+   "product": "SWC",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.0173,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 132.880150552,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, SWC",
+   "maker": "LOS",
+   "product": "SWC",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.012959782,
+   "length": 0.0156,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 94.9143932513,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, Tactic",
+   "maker": "LOS",
+   "product": "Tactic",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00336954332,
+   "length": 0.0215,
+   "base": {
+    "shape": "boattail",
+    "length": 0.003,
+    "diameterA": 0.006,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 11000000,
+   "ballisticCoefficientG1": 142.020055087,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, Tactic",
+   "maker": "LOS",
+   "product": "Tactic",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0338,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0038,
+    "diameterA": 0.0077,
+    "diameterB": 0.0071
+   },
+   "shotStartPressure": 11000000,
+   "ballisticCoefficientG1": 302.319919245,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, Tactic",
+   "maker": "LOS",
+   "product": "Tactic",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.037,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0033,
+    "diameterA": 0.0078,
+    "diameterB": 0.0072
+   },
+   "shotStartPressure": 11000000,
+   "ballisticCoefficientG1": 309.350615041,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, WCHB",
+   "maker": "LOS",
+   "product": "WCHB",
+   "lot": "2021",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00959023868,
+   "length": 0.015,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 64.6824013268,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, WCHB",
+   "maker": "LOS",
+   "product": "WCHB",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00959023868,
+   "length": 0.015,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 64.6824013268,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LOS, HP",
+   "maker": "LOS",
+   "product": "HP",
+   "lot": "12.10.2021",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00745187465,
+   "length": 0.01405,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ubcsCode": "S0?2F2S4N1",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-17",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

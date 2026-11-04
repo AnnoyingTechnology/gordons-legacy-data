@@ -1,0 +1,360 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-powders",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table propellant, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "maker": "Maxam",
+   "product": "CSB 1",
+   "lot": "2021-08-29",
+   "heatOfExplosion": 3656000,
+   "heatCapacityRatio": 1.2389,
+   "covolume": 0.001,
+   "grainDensity": 1550,
+   "bulkDensity": 520,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 3.5668,
+    "a0": 0.8941,
+    "a1": 0,
+    "z1": 0.2456,
+    "z2": 0.8096,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-09-02",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2301",
+    "Lr": "0.2",
+    "L01": "2.1689",
+    "L02": "2.7134",
+    "L03": "3.3401",
+    "L04": "3.3545",
+    "L05": "3.1762",
+    "L06": "2.9692",
+    "L07": "2.6669",
+    "L08": "2.2781",
+    "L09": "1.7347",
+    "Qlty": "0.4"
+   }
+  },
+  {
+   "maker": "Maxam",
+   "product": "CSB 2",
+   "lot": "2020-02-11",
+   "heatOfExplosion": 3800000,
+   "heatCapacityRatio": 1.2331,
+   "covolume": 0.001,
+   "grainDensity": 1590,
+   "bulkDensity": 540,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 2.6828,
+    "a0": 3.4143,
+    "a1": 0,
+    "z1": 0.4511,
+    "z2": 0.8636,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-09-02",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2277",
+    "Lr": "0.2",
+    "L01": "1.7794",
+    "L02": "2.2127",
+    "L03": "2.7839",
+    "L04": "3.2396",
+    "L05": "3.3347",
+    "L06": "3.1396",
+    "L07": "2.874",
+    "L08": "2.4655",
+    "L09": "1.8964",
+    "Qlty": "0.35"
+   }
+  },
+  {
+   "maker": "Maxam",
+   "product": "CSB 3",
+   "lot": "2020-02-11",
+   "heatOfExplosion": 3910000,
+   "heatCapacityRatio": 1.2284,
+   "covolume": 0.001,
+   "grainDensity": 1680,
+   "bulkDensity": 510,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 3.9491,
+    "a0": 0.4989,
+    "a1": 0,
+    "z1": 0.3487,
+    "z2": 0.7835,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-09-02",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2325",
+    "Lr": "0.2",
+    "L01": "2.4327",
+    "L02": "2.9654",
+    "L03": "3.6455",
+    "L04": "3.7549",
+    "L05": "3.585",
+    "L06": "3.3509",
+    "L07": "3.005",
+    "L08": "2.5633",
+    "L09": "1.938",
+    "Qlty": "0.65"
+   }
+  },
+  {
+   "maker": "Maxam",
+   "product": "CSB 4",
+   "lot": "2019-01",
+   "heatOfExplosion": 4145000,
+   "heatCapacityRatio": 1.2276,
+   "covolume": 0.001,
+   "grainDensity": 1580,
+   "bulkDensity": 490,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 4.2994,
+    "a0": 0.3048,
+    "a1": 0,
+    "z1": 0.383,
+    "z2": 0.8253,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-09-02",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2423",
+    "Lr": "0.2",
+    "L01": "2.6419",
+    "L02": "3.1386",
+    "L03": "3.8258",
+    "L04": "4.0678",
+    "L05": "3.9135",
+    "L06": "3.6571",
+    "L07": "3.2724",
+    "L08": "2.7854",
+    "L09": "2.0849",
+    "Qlty": "0.2"
+   }
+  },
+  {
+   "maker": "Maxam",
+   "product": "CSB 5",
+   "lot": "2019-01",
+   "heatOfExplosion": 4145000,
+   "heatCapacityRatio": 1.2267,
+   "covolume": 0.001,
+   "grainDensity": 1580,
+   "bulkDensity": 475,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 4.8892,
+    "a0": 0.238,
+    "a1": 0,
+    "z1": 0.4991,
+    "z2": 0.8396,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-09-02",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2423",
+    "Lr": "0.2",
+    "L01": "2.9966",
+    "L02": "3.4032",
+    "L03": "3.9923",
+    "L04": "4.4886",
+    "L05": "4.6776",
+    "L06": "4.4321",
+    "L07": "4.0466",
+    "L08": "3.4474",
+    "L09": "2.6032",
+    "Qlty": "0.2"
+   }
+  },
+  {
+   "maker": "Maxam",
+   "product": "CSB 6",
+   "lot": "2019-01",
+   "heatOfExplosion": 4145000,
+   "heatCapacityRatio": 1.2321,
+   "covolume": 0.001,
+   "grainDensity": 1580,
+   "bulkDensity": 475,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 5.3122,
+    "a0": 0.238,
+    "a1": 0,
+    "z1": 0.5197,
+    "z2": 0.8396,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-09-02",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2423",
+    "Lr": "0.2",
+    "L01": "3.2558",
+    "L02": "3.6721",
+    "L03": "4.2829",
+    "L04": "4.8406",
+    "L05": "5.069",
+    "L06": "4.8761",
+    "L07": "4.4479",
+    "L08": "3.8996",
+    "L09": "3.0003",
+    "Qlty": "0.2"
+   }
+  },
+  {
+   "maker": "Maxam",
+   "product": "PSB+3",
+   "lot": "2019-01",
+   "heatOfExplosion": 4061000,
+   "heatCapacityRatio": 1.2316,
+   "covolume": 0.001,
+   "grainDensity": 1580,
+   "bulkDensity": 500,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 3.891,
+    "a0": 0.5101,
+    "a1": 0,
+    "z1": 0.3987,
+    "z2": 0.8215,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-09-02",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2374",
+    "Lr": "0.2",
+    "L01": "3.4122",
+    "L02": "3.9751",
+    "L03": "4.1045",
+    "L04": "4.2043",
+    "L05": "3.9253",
+    "L06": "3.5812",
+    "L07": "3.1244",
+    "L08": "2.5084",
+    "L09": "1.5458",
+    "Qlty": "0.2"
+   }
+  },
+  {
+   "maker": "Maxam",
+   "product": "SSB+150",
+   "lot": "2019-01",
+   "heatOfExplosion": 3936000,
+   "heatCapacityRatio": 1.2192,
+   "covolume": 0.001,
+   "grainDensity": 1500,
+   "bulkDensity": 550,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 2.4722,
+    "a0": 0.57,
+    "a1": 0,
+    "z1": 0.3365,
+    "z2": 0.8206,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-09-02",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2301",
+    "Lr": "0.2",
+    "L01": "1.9451",
+    "L02": "1.8639",
+    "L03": "1.9334",
+    "L04": "1.8542",
+    "L05": "1.7328",
+    "L06": "1.5934",
+    "L07": "1.4347",
+    "L08": "1.218",
+    "L09": "0.9107",
+    "Qlty": "0.2"
+   }
+  }
+ ]
+}

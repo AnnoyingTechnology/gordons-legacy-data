@@ -1,0 +1,403 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-powders",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table propellant, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "maker": "Somchem",
+   "product": "S121",
+   "lot": "2019-09",
+   "heatOfExplosion": 3920000,
+   "heatCapacityRatio": 1.2342,
+   "covolume": 0.0009951,
+   "grainDensity": 1570,
+   "bulkDensity": 880,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 2.2925,
+    "a0": 12.862,
+    "a1": 0,
+    "z1": 0.1973,
+    "z2": 0.8057,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2019-10-02",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2004",
+    "Lr": "0.2",
+    "L01": "1.7743",
+    "L02": "2.8985",
+    "L03": "2.9054",
+    "L04": "2.6459",
+    "L05": "2.3728",
+    "L06": "1.9727",
+    "L07": "1.5382",
+    "L08": "1.1799",
+    "L09": "0.7",
+    "Qlty": "0.25"
+   }
+  },
+  {
+   "maker": "Somchem",
+   "product": "S265",
+   "lot": "2019-09",
+   "heatOfExplosion": 4088000,
+   "heatCapacityRatio": 1.2369,
+   "covolume": 0.0010015,
+   "grainDensity": 1550,
+   "bulkDensity": 840,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.8414,
+    "a0": 4.8261,
+    "a1": 0,
+    "z1": 0.2233,
+    "z2": 0.7974,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2019-10-02",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2192",
+    "Lr": "0.2",
+    "L01": "0.8287",
+    "L02": "0.9952",
+    "L03": "0.9951",
+    "L04": "0.9269",
+    "L05": "0.8455",
+    "L06": "0.7702",
+    "L07": "0.6581",
+    "L08": "0.4977",
+    "L09": "0.3057",
+    "Qlty": "0.25"
+   }
+  },
+  {
+   "maker": "Somchem",
+   "product": "S321",
+   "lot": "2020-06-16",
+   "heatOfExplosion": 3668000,
+   "heatCapacityRatio": 1.2422,
+   "covolume": 0.001,
+   "grainDensity": 1510,
+   "bulkDensity": 990,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.5596,
+    "a0": 1.9494,
+    "a1": 0,
+    "z1": 0.4076,
+    "z2": 0.7433,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2020-08-31",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2344",
+    "Lr": "0.2",
+    "L01": "0.4211",
+    "L02": "0.532",
+    "L03": "0.5701",
+    "L04": "0.5909",
+    "L05": "0.5519",
+    "L06": "0.5232",
+    "L07": "0.4827",
+    "L08": "0.4203",
+    "L09": "0.3256",
+    "Qlty": "0.5"
+   }
+  },
+  {
+   "maker": "Somchem",
+   "product": "S335",
+   "lot": "2021-04-11",
+   "heatOfExplosion": 3800000,
+   "heatCapacityRatio": 1.2236,
+   "covolume": 0.001,
+   "grainDensity": 1620,
+   "bulkDensity": 939,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.6831,
+    "a0": 0.5943,
+    "a1": 0,
+    "z1": 0.3779,
+    "z2": 0.7733,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-04-11",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2350",
+    "Lr": "0.2",
+    "L01": "0.4848",
+    "L02": "0.5898",
+    "L03": "0.6057",
+    "L04": "0.6007",
+    "L05": "0.5787",
+    "L06": "0.5361",
+    "L07": "0.4677",
+    "L08": "0.3798",
+    "L09": "0.2585",
+    "Qlty": "0"
+   }
+  },
+  {
+   "maker": "Somchem",
+   "product": "S341",
+   "lot": "2021-08-29",
+   "heatOfExplosion": 3610000,
+   "heatCapacityRatio": 1.2371,
+   "covolume": 0.001,
+   "grainDensity": 1600,
+   "bulkDensity": 990,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.5623,
+    "a0": 1.1621,
+    "a1": 0,
+    "z1": 0.4458,
+    "z2": 0.8128,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-09-01",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2111",
+    "Lr": "0.2",
+    "L01": "0.427",
+    "L02": "0.5213",
+    "L03": "0.5489",
+    "L04": "0.5675",
+    "L05": "0.557",
+    "L06": "0.5158",
+    "L07": "0.4799",
+    "L08": "0.4243",
+    "L09": "0.3316",
+    "Qlty": "0.65"
+   }
+  },
+  {
+   "maker": "Somchem",
+   "product": "S355",
+   "lot": "2019-11-13",
+   "heatOfExplosion": 3580000,
+   "heatCapacityRatio": 1.2219,
+   "covolume": 0.0010145,
+   "grainDensity": 1580,
+   "bulkDensity": 900,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.6037,
+    "a0": 1.5018,
+    "a1": 0,
+    "z1": 0.3861,
+    "z2": 0.7167,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2020-08-31",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2027",
+    "Lr": "0.2",
+    "L01": "0.5007",
+    "L02": "0.5282",
+    "L03": "0.5185",
+    "L04": "0.5129",
+    "L05": "0.4919",
+    "L06": "0.4489",
+    "L07": "0.3849",
+    "L08": "0.3031",
+    "L09": "0.197",
+    "Qlty": "1"
+   }
+  },
+  {
+   "maker": "Somchem",
+   "product": "S361",
+   "lot": "2021-01-07",
+   "heatOfExplosion": 3685000,
+   "heatCapacityRatio": 1.2382,
+   "covolume": 0.001,
+   "grainDensity": 1577,
+   "bulkDensity": 980,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.4503,
+    "a0": 0.7058,
+    "a1": 0,
+    "z1": 0.3563,
+    "z2": 0.6499,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-01-12",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "1981",
+    "Lr": "0.2",
+    "L01": "0.2933",
+    "L02": "0.3543",
+    "L03": "0.3851",
+    "L04": "0.3778",
+    "L05": "0.3511",
+    "L06": "0.3052",
+    "L07": "0.2439",
+    "L08": "0.1821",
+    "L09": "0.1043",
+    "Qlty": "0.65"
+   }
+  },
+  {
+   "maker": "Somchem",
+   "product": "S365",
+   "lot": "2021-01-07",
+   "heatOfExplosion": 3630000,
+   "heatCapacityRatio": 1.2334,
+   "covolume": 0.001,
+   "grainDensity": 1600,
+   "bulkDensity": 951,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.4988,
+    "a0": 0.9354,
+    "a1": 0,
+    "z1": 0.5039,
+    "z2": 0.7854,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-01-12",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2158",
+    "Lr": "0.2",
+    "L01": "0.4622",
+    "L02": "0.4773",
+    "L03": "0.4887",
+    "L04": "0.4846",
+    "L05": "0.4646",
+    "L06": "0.4276",
+    "L07": "0.3712",
+    "L08": "0.2858",
+    "L09": "0.1398",
+    "Qlty": "0.8"
+   }
+  },
+  {
+   "maker": "Somchem",
+   "product": "S385",
+   "lot": "2021-01-07",
+   "heatOfExplosion": 3630000,
+   "heatCapacityRatio": 1.2398,
+   "covolume": 0.001,
+   "grainDensity": 1600,
+   "bulkDensity": 949,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.4249,
+    "a0": 2.0019,
+    "a1": 0,
+    "z1": 0.4035,
+    "z2": 0.7588,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-01-12",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2158",
+    "Lr": "0.2",
+    "L01": "0.3822",
+    "L02": "0.4173",
+    "L03": "0.4348",
+    "L04": "0.4326",
+    "L05": "0.4175",
+    "L06": "0.3877",
+    "L07": "0.3392",
+    "L08": "0.2858",
+    "L09": "0.2042",
+    "Qlty": "0.85"
+   }
+  }
+ ]
+}

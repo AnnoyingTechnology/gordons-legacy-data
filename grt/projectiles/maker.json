@@ -1,0 +1,187 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "Maker, Rex",
+   "maker": "Maker",
+   "product": "Rex",
+   "lot": "2021",
+   "nominalCaliber": ".459",
+   "diameter": 0.01166,
+   "mass": 0.032399455,
+   "length": 0.04117,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 175.76739491,
+   "ubcsCode": "H2H1F1S1N1",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Maker, Rex",
+   "maker": "Maker",
+   "product": "Rex",
+   "lot": "2021",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.032399455,
+   "length": 0.04117,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 175.76739491,
+   "ubcsCode": "H2H1F1S1N1",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Maker, REX 308110Solid",
+   "maker": "Maker",
+   "product": "REX 308110Solid",
+   "lot": "SKU 308-110-HV-Rex",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0071278801,
+   "length": 0.02449,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00234,
+    "diameterA": 0.00782,
+    "diameterB": 0.00739
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 210.920873892,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Maker, REX 308125Solid",
+   "maker": "Maker",
+   "product": "REX 308125Solid",
+   "lot": "SKU 308-125-Solid",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00809986375,
+   "length": 0.02769,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 267.166440263,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Maker, REX 308200SBLK",
+   "maker": "Maker",
+   "product": "REX 308200SBLK",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.012959782,
+   "length": 0.03581,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 274.197136059,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Maker, REX 308220SBLK",
+   "maker": "Maker",
+   "product": "REX 308220SBLK",
+   "lot": "SKU 300BLK-220G-EXP",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0142557602,
+   "length": 0.03912,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 281.227831856,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Maker, REX 30885BLK",
+   "maker": "Maker",
+   "product": "REX 30885BLK",
+   "lot": "SKU 300-85-BLK-Rex",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00550790735,
+   "length": 0.02253,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 140.613915928,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

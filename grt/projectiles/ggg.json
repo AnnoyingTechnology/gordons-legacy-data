@@ -1,0 +1,97 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "GGG, .224 55 gr. FMJ",
+   "maker": "GGG",
+   "product": ".224 55 gr. FMJ",
+   "lot": "2020",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.01925,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00201,
+    "diameterA": 0.00569,
+    "diameterB": 0.00462
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 191.234925662,
+   "ubcsCode": "M0F1B5C4N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "GGG, FMJ",
+   "maker": "GGG",
+   "product": "FMJ",
+   "lot": "2020",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.0191,
+   "base": {
+    "shape": "boattail",
+    "length": 0.002,
+    "diameterA": 0.00569,
+    "diameterB": 0.00505
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 191.234925662,
+   "ubcsCode": "M0F1B2C4C6",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "GGG, FMJ (BT)",
+   "maker": "GGG",
+   "product": "FMJ (BT)",
+   "lot": "2020",
+   "nominalCaliber": ".308",
+   "diameter": 0.00777,
+   "mass": 0.00952543977,
+   "length": 0.02813,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0037,
+    "diameterA": 0.00777,
+    "diameterB": 0.0063
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 282.633971015,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}
