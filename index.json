@@ -456,7 +456,7 @@
    "path": "firearms/smith-wesson.json",
    "kind": "firearm",
    "name": "Smith & Wesson",
-   "sha256": "954c482d6cf651649b5ef3dd0c47994a2be5e8dd65c91b6cad9f368d9cb43471"
+   "sha256": "ec23385b2bcfeac759911895ac9104ce571ed05dd950cee515e480587a9e7a8f"
   },
   {
    "path": "firearms/steyr-arms.json",
