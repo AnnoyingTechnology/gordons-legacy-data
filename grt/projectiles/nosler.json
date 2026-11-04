@@ -1,0 +1,7243 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database, published with the written permission of Gordon's family (2026-11-04, issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "Nosler, 130 RDF",
+   "maker": "Nosler",
+   "product": "130 RDF",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0084238583,
+   "length": 0.0338,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0051,
+    "diameterA": 0.0067,
+    "diameterB": 0.00514
+   },
+   "shotStartPressure": 25000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond 50712",
+   "maker": "Nosler",
+   "product": "AccuBond 50712",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.01457975475,
+   "length": 0.035,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0038,
+    "diameterA": 0.00909,
+    "diameterB": 0.0076
+   },
+   "shotStartPressure": 55000000,
+   "ballisticCoefficientG1": 295.992293028,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Accubond 52165",
+   "maker": "Nosler",
+   "product": "Accubond 52165",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00809986375,
+   "length": 0.0272,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0078,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 55000000,
+   "ballisticCoefficientG1": 257.323466148,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond 53662",
+   "maker": "Nosler",
+   "product": "AccuBond 53662",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.019439673,
+   "length": 0.0387,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0042,
+    "diameterA": 0.0095,
+    "diameterB": 0.0082
+   },
+   "shotStartPressure": 55000000,
+   "ballisticCoefficientG1": 340.988746125,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond 53742",
+   "maker": "Nosler",
+   "product": "AccuBond 53742",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.0071278801,
+   "length": 0.0304,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0019,
+    "diameterA": 0.0065,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 293.883084289,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond 54357",
+   "maker": "Nosler",
+   "product": "AccuBond 54357",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01457975475,
+   "length": 0.0369,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0035,
+    "diameterA": 0.00859,
+    "diameterB": 0.0076
+   },
+   "shotStartPressure": 55000000,
+   "ballisticCoefficientG1": 386.688268802,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond 54374",
+   "maker": "Nosler",
+   "product": "AccuBond 54374",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.012959782,
+   "length": 0.0354,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0031,
+    "diameterA": 0.0082,
+    "diameterB": 0.0073
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 316.381310838,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond 54374",
+   "maker": "Nosler",
+   "product": "AccuBond 54374",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0116638038,
+   "length": 0.0315,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 55000000,
+   "ballisticCoefficientG1": 261.541883626,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond 54382",
+   "maker": "Nosler",
+   "product": "AccuBond 54382",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0071278801,
+   "length": 0.0305,
+   "base": {
+    "shape": "boattail",
+    "length": 0.002,
+    "diameterA": 0.007,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 260.135744466,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond 54413",
+   "maker": "Nosler",
+   "product": "AccuBond 54413",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.0168477166,
+   "length": 0.0354,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0042,
+    "diameterA": 0.0095,
+    "diameterB": 0.0082
+   },
+   "shotStartPressure": 55000000,
+   "ballisticCoefficientG1": 332.551911169,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond 54425",
+   "maker": "Nosler",
+   "product": "AccuBond 54425",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.012959782,
+   "length": 0.0309,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0038,
+    "diameterA": 0.00909,
+    "diameterB": 0.0076
+   },
+   "shotStartPressure": 55000000,
+   "ballisticCoefficientG1": 256.620396568,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond 54618",
+   "maker": "Nosler",
+   "product": "AccuBond 54618",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.012959782,
+   "length": 0.0379,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0078,
+    "diameterB": 0.0066
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 413.404912828,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond 54765",
+   "maker": "Nosler",
+   "product": "AccuBond 54765",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0090718474,
+   "length": 0.0333,
+   "base": {
+    "shape": "boattail",
+    "length": 0.002,
+    "diameterA": 0.007,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 348.722511501,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond 54825",
+   "maker": "Nosler",
+   "product": "AccuBond 54825",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.0351,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0078,
+    "diameterB": 0.0066
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 356.456276877,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond 54851",
+   "maker": "Nosler",
+   "product": "AccuBond 54851",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.019439673,
+   "length": 0.0445,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0035,
+    "diameterA": 0.00859,
+    "diameterB": 0.0076
+   },
+   "shotStartPressure": 55000000,
+   "ballisticCoefficientG1": 506.21009734,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond 54932",
+   "maker": "Nosler",
+   "product": "AccuBond 54932",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0103678256,
+   "length": 0.0359,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0022,
+    "diameterA": 0.0072,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 55000000,
+   "ballisticCoefficientG1": 373.329946788,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond 54987",
+   "maker": "Nosler",
+   "product": "AccuBond 54987",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0084238583,
+   "length": 0.0318,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0019,
+    "diameterA": 0.007,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 305.835267143,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Accubond 55602",
+   "maker": "Nosler",
+   "product": "Accubond 55602",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.0333,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0078,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 333.958050329,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Accubond 56357",
+   "maker": "Nosler",
+   "product": "Accubond 56357",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0058319019,
+   "length": 0.0283,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0015,
+    "diameterA": 0.0062,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 264.354161944,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Accubond 56382",
+   "maker": "Nosler",
+   "product": "Accubond 56382",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.012959782,
+   "length": 0.0342,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0038,
+    "diameterA": 0.00859,
+    "diameterB": 0.0075
+   },
+   "shotStartPressure": 55000000,
+   "ballisticCoefficientG1": 291.070805971,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond 56719",
+   "maker": "Nosler",
+   "product": "AccuBond 56719",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0313,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0078,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 305.835267143,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond 56902",
+   "maker": "Nosler",
+   "product": "AccuBond 56902",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0084238583,
+   "length": 0.0336,
+   "base": {
+    "shape": "boattail",
+    "length": 0.002,
+    "diameterA": 0.0067,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 343.097954864,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond 57287",
+   "maker": "Nosler",
+   "product": "AccuBond 57287",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0161997275,
+   "length": 0.0399,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0035,
+    "diameterA": 0.00859,
+    "diameterB": 0.0076
+   },
+   "shotStartPressure": 55000000,
+   "ballisticCoefficientG1": 404.265008293,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond 57625",
+   "maker": "Nosler",
+   "product": "AccuBond 57625",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0116638038,
+   "length": 0.0313,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0042,
+    "diameterA": 0.00859,
+    "diameterB": 0.0075
+   },
+   "shotStartPressure": 55000000,
+   "ballisticCoefficientG1": 261.541883626,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond 57845",
+   "maker": "Nosler",
+   "product": "AccuBond 57845",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.006479891,
+   "length": 0.0267,
+   "base": {
+    "shape": "boattail",
+    "length": 0.002,
+    "diameterA": 0.007,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 227.091474223,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond 57873",
+   "maker": "Nosler",
+   "product": "AccuBond 57873",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0090718474,
+   "length": 0.0348,
+   "base": {
+    "shape": "boattail",
+    "length": 0.002,
+    "diameterA": 0.0067,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 357.862416036,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond 59756",
+   "maker": "Nosler",
+   "product": "AccuBond 59756",
+   "lot": "2019",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.0161997275,
+   "length": 0.03502,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0038,
+    "diameterA": 0.0093,
+    "diameterB": 0.0082
+   },
+   "shotStartPressure": 55000000,
+   "ballisticCoefficientG1": 347.316372342,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond 59992",
+   "maker": "Nosler",
+   "product": "AccuBond 59992",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0090718474,
+   "length": 0.0328,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0022,
+    "diameterA": 0.0072,
+    "diameterB": 0.0061
+   },
+   "shotStartPressure": 55000000,
+   "ballisticCoefficientG1": 340.988746125,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond LR 58317",
+   "maker": "Nosler",
+   "product": "AccuBond LR 58317",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0136077711,
+   "length": 0.0395,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0062,
+    "diameterA": 0.0078,
+    "diameterB": 0.0062
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 513.240793137,
+   "ballisticCoefficientG7": 257.323466148,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Accubond LR 58454",
+   "maker": "Nosler",
+   "product": "Accubond LR 58454",
+   "lot": "2020",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01717171115,
+   "length": 0.04251,
+   "base": {
+    "shape": "boattail",
+    "length": 0.007,
+    "diameterA": 0.00859,
+    "diameterB": 0.00677
+   },
+   "shotStartPressure": 55000000,
+   "ballisticCoefficientG1": 514.646932296,
+   "ballisticCoefficientG7": 259.432674887,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond LR 58456",
+   "maker": "Nosler",
+   "product": "AccuBond LR 58456",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0123117929,
+   "length": 0.0371,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0062,
+    "diameterA": 0.0078,
+    "diameterB": 0.0062
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 449.964530969,
+   "ballisticCoefficientG7": 228.497613383,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Accubond LR 58517",
+   "maker": "Nosler",
+   "product": "Accubond LR 58517",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01133980925,
+   "length": 0.0384,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0063,
+    "diameterA": 0.0072,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 55000000,
+   "ballisticCoefficientG1": 472.462757518,
+   "ballisticCoefficientG7": 255.917326989,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Accubond LR 58623",
+   "maker": "Nosler",
+   "product": "Accubond LR 58623",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01088621688,
+   "length": 0.0379,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0058,
+    "diameterA": 0.0072,
+    "diameterB": 0.0057
+   },
+   "shotStartPressure": 55000000,
+   "ballisticCoefficientG1": 458.401365925,
+   "ballisticCoefficientG7": 248.183561613,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Accubond LR 58734",
+   "maker": "Nosler",
+   "product": "Accubond LR 58734",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0097198365,
+   "length": 0.0351,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0058,
+    "diameterA": 0.0072,
+    "diameterB": 0.0057
+   },
+   "shotStartPressure": 55000000,
+   "ballisticCoefficientG1": 429.57551316,
+   "ballisticCoefficientG7": 217.248500109,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Accubond LR 58836",
+   "maker": "Nosler",
+   "product": "Accubond LR 58836",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0097198365,
+   "length": 0.0354,
+   "base": {
+    "shape": "boattail",
+    "length": 0.006,
+    "diameterA": 0.007,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 439.418487274,
+   "ballisticCoefficientG7": 222.873056746,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond LR 58922",
+   "maker": "Nosler",
+   "product": "AccuBond LR 58922",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00920144522,
+   "length": 0.0369,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0053,
+    "diameterA": 0.0067,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 505.507027761,
+   "ballisticCoefficientG7": 224.982265485,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, AccuBond LR 58943",
+   "maker": "Nosler",
+   "product": "AccuBond LR 58943",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00835905939,
+   "length": 0.0344,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0053,
+    "diameterA": 0.0067,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 394.422034178,
+   "ballisticCoefficientG7": 200.374830197,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, BallSilver RN 51834",
+   "maker": "Nosler",
+   "product": "BallSilver RN 51834",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.019439673,
+   "length": 0.0233,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 134.286289711,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Bond SB 38135",
+   "maker": "Nosler",
+   "product": "Bond SB 38135",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00414713024,
+   "length": 0.0204,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 162.409072897,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Bonded SB 38140",
+   "maker": "Nosler",
+   "product": "Bonded SB 38140",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0058319019,
+   "length": 0.02,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 159.596794578,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Bonded SB 38145",
+   "maker": "Nosler",
+   "product": "Bonded SB 38145",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01088621688,
+   "length": 0.0284,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 246.074352874,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, BTLF 45140",
+   "maker": "Nosler",
+   "product": "BTLF 45140",
+   "lot": "",
+   "nominalCaliber": ".204",
+   "diameter": 0.00518,
+   "mass": 0.00207356512,
+   "length": 0.019,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 160.299864158,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, BTLF 45150",
+   "maker": "Nosler",
+   "product": "BTLF 45150",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00226796185,
+   "length": 0.0186,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 141.316985507,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, BTLF 45160",
+   "maker": "Nosler",
+   "product": "BTLF 45160",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0025919564,
+   "length": 0.0199,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 154.675307521,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, BTLF 45170",
+   "maker": "Nosler",
+   "product": "BTLF 45170",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00356394005,
+   "length": 0.0242,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 202.484038936,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, BTLF 45498",
+   "maker": "Nosler",
+   "product": "BTLF 45498",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0032399455,
+   "length": 0.0229,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 176.470464489,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CC HPBT 17101",
+   "maker": "Nosler",
+   "product": "CC HPBT 17101",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00447112479,
+   "length": 0.0229,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0033,
+    "diameterA": 0.0057,
+    "diameterB": 0.0044
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 214.43622179,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CC HPBT 22421",
+   "maker": "Nosler",
+   "product": "CC HPBT 22421",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00498951607,
+   "length": 0.0249,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0033,
+    "diameterA": 0.0057,
+    "diameterB": 0.0044
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 239.043657077,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CC HPBT 25116",
+   "maker": "Nosler",
+   "product": "CC HPBT 25116",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0051839128,
+   "length": 0.0271,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0038,
+    "diameterA": 0.0057,
+    "diameterB": 0.0045
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 291.77387555,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CC HPBT 26725",
+   "maker": "Nosler",
+   "product": "CC HPBT 26725",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0090718474,
+   "length": 0.0333,
+   "base": {
+    "shape": "boattail",
+    "length": 0.002,
+    "diameterA": 0.0067,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 371.923807629,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CC HPBT 45357",
+   "maker": "Nosler",
+   "product": "CC HPBT 45357",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.00745187465,
+   "length": 0.0333,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0019,
+    "diameterA": 0.007,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 263.651092365,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CC HPBT 49524",
+   "maker": "Nosler",
+   "product": "CC HPBT 49524",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.012959782,
+   "length": 0.0337,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0031,
+    "diameterA": 0.0082,
+    "diameterB": 0.0073
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 365.596181412,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CC HPBT 49742",
+   "maker": "Nosler",
+   "product": "CC HPBT 49742",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00693348337,
+   "length": 0.0316,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0015,
+    "diameterA": 0.0062,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 369.111529311,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CC HPBT 53152",
+   "maker": "Nosler",
+   "product": "CC HPBT 53152",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0090718474,
+   "length": 0.0257,
+   "base": {
+    "shape": "boattail",
+    "length": 0.004,
+    "diameterA": 0.0078,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 278.415553537,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CC HPBT 53154",
+   "maker": "Nosler",
+   "product": "CC HPBT 53154",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0142557602,
+   "length": 0.0389,
+   "base": {
+    "shape": "boattail",
+    "length": 0.004,
+    "diameterA": 0.0078,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 485.118009951,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CC HPBT 53294",
+   "maker": "Nosler",
+   "product": "CC HPBT 53294",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00336954332,
+   "length": 0.0186,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0033,
+    "diameterA": 0.0057,
+    "diameterB": 0.0044
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 154.675307521,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CC HPBT 53335",
+   "maker": "Nosler",
+   "product": "CC HPBT 53335",
+   "lot": "2019",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00336954332,
+   "length": 0.01814,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0014,
+    "diameterA": 0.00569,
+    "diameterB": 0.00472
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 154.675307521,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CC HPBT 53412",
+   "maker": "Nosler",
+   "product": "CC HPBT 53412",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0123117929,
+   "length": 0.0331,
+   "base": {
+    "shape": "boattail",
+    "length": 0.004,
+    "diameterA": 0.0078,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 372.626877209,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CC HPBT 53415",
+   "maker": "Nosler",
+   "product": "CC HPBT 53415",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00797026593,
+   "length": 0.0305,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0053,
+    "diameterA": 0.0067,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 358.565485616,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CC HPBT 53418",
+   "maker": "Nosler",
+   "product": "CC HPBT 53418",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01088621688,
+   "length": 0.0328,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0022,
+    "diameterA": 0.0072,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 365.596181412,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CC HPBT 53515",
+   "maker": "Nosler",
+   "product": "CC HPBT 53515",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.019439673,
+   "length": 0.0439,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0035,
+    "diameterA": 0.0086,
+    "diameterB": 0.0076
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 562.455663711,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CC HPBT 53614",
+   "maker": "Nosler",
+   "product": "CC HPBT 53614",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00680388555,
+   "length": 0.0313,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0015,
+    "diameterA": 0.0062,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 363.486972673,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CC HPBT J4 53155",
+   "maker": "Nosler",
+   "product": "CC HPBT J4 53155",
+   "lot": "2019",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01004383105,
+   "length": 0.02893,
+   "base": {
+    "shape": "boattail",
+    "length": 0.004,
+    "diameterA": 0.0078,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 316.381310838,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CC HPBT J4 53164",
+   "maker": "Nosler",
+   "product": "CC HPBT J4 53164",
+   "lot": "2019",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01088621688,
+   "length": 0.0306,
+   "base": {
+    "shape": "boattail",
+    "length": 0.004,
+    "diameterA": 0.00782,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 324.818145793,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CC HPBT J4 53952",
+   "maker": "Nosler",
+   "product": "CC HPBT J4 53952",
+   "lot": "2019",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01133980925,
+   "length": 0.0321,
+   "base": {
+    "shape": "boattail",
+    "length": 0.004,
+    "diameterA": 0.0078,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 355.050137718,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CC JHP 44847",
+   "maker": "Nosler",
+   "product": "CC JHP 44847",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.01198779835,
+   "length": 0.0135,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 99.8358803088,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Silvertip 51005",
+   "maker": "Nosler",
+   "product": "CT Ballistic Silvertip 51005",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0025919564,
+   "length": 0.0178,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0013,
+    "diameterA": 0.0057,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 155.3783771,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Silvertip 51010",
+   "maker": "Nosler",
+   "product": "CT Ballistic Silvertip 51010",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0032399455,
+   "length": 0.0202,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0013,
+    "diameterA": 0.0057,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 167.330559954,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Silvertip 51030",
+   "maker": "Nosler",
+   "product": "CT Ballistic Silvertip 51030",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00356394005,
+   "length": 0.0201,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0015,
+    "diameterA": 0.0062,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 194.04720398,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Silvertip 51031",
+   "maker": "Nosler",
+   "product": "CT Ballistic Silvertip 51031",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.0206,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0013,
+    "diameterA": 0.0057,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 187.719577764,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Silvertip 51040",
+   "maker": "Nosler",
+   "product": "CT Ballistic Silvertip 51040",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00615589645,
+   "length": 0.0284,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0015,
+    "diameterA": 0.0062,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 266.463370683,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Silvertip 51045",
+   "maker": "Nosler",
+   "product": "CT Ballistic Silvertip 51045",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.00550790735,
+   "length": 0.0254,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0019,
+    "diameterA": 0.0065,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 231.309891701,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Silvertip 51050",
+   "maker": "Nosler",
+   "product": "CT Ballistic Silvertip 51050",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.00745187465,
+   "length": 0.0307,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0019,
+    "diameterA": 0.0065,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 318.490519577,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Silvertip 51075",
+   "maker": "Nosler",
+   "product": "CT Ballistic Silvertip 51075",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0084238583,
+   "length": 0.0309,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0019,
+    "diameterA": 0.007,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 304.429127984,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Silvertip 51100",
+   "maker": "Nosler",
+   "product": "CT Ballistic Silvertip 51100",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0097198365,
+   "length": 0.0344,
+   "base": {
+    "shape": "hollow",
+    "length": 0.002,
+    "diameterA": 0.007,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 348.722511501,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Silvertip 51105",
+   "maker": "Nosler",
+   "product": "CT Ballistic Silvertip 51105",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0090718474,
+   "length": 0.0319,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0025,
+    "diameterA": 0.0072,
+    "diameterB": 0.0061
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 340.988746125,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Silvertip 51110",
+   "maker": "Nosler",
+   "product": "CT Ballistic Silvertip 51110",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0097198365,
+   "length": 0.0331,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0025,
+    "diameterA": 0.0072,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 346.613302762,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Silvertip 51150",
+   "maker": "Nosler",
+   "product": "CT Ballistic Silvertip 51150",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0326,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0078,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 305.835267143,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Silvertip 51160",
+   "maker": "Nosler",
+   "product": "CT Ballistic Silvertip 51160",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01088621688,
+   "length": 0.0318,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0078,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 344.504094023,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Silvertip 51170",
+   "maker": "Nosler",
+   "product": "CT Ballistic Silvertip 51170",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.0343,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0078,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 356.456276877,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Silvertip 51200",
+   "maker": "Nosler",
+   "product": "CT Ballistic Silvertip 51200",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.012959782,
+   "length": 0.0338,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0033,
+    "diameterA": 0.00859,
+    "diameterB": 0.0076
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 291.070805971,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 24055",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 24055",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00356394005,
+   "length": 0.0212,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 194.04720398,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 24080",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 24080",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0051839128,
+   "length": 0.0252,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0015,
+    "diameterA": 0.0062,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 231.309891701,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 24090",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 24090",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0058319019,
+   "length": 0.0273,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0015,
+    "diameterA": 0.0062,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 256.620396568,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 24095",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 24095",
+   "lot": "2019",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00615589645,
+   "length": 0.0282,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0015,
+    "diameterA": 0.00617,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 266.463370683,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 25100",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 25100",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.006479891,
+   "length": 0.0284,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0019,
+    "diameterA": 0.0065,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 276.306344798,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 25115",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 25115",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.00745187465,
+   "length": 0.0307,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0019,
+    "diameterA": 0.0065,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 318.490519577,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 26100",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 26100",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.006479891,
+   "length": 0.0275,
+   "base": {
+    "shape": "boattail",
+    "length": 0.002,
+    "diameterA": 0.0067,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 246.074352874,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 26120",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 26120",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0077758692,
+   "length": 0.0311,
+   "base": {
+    "shape": "boattail",
+    "length": 0.002,
+    "diameterA": 0.0067,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 322.005867475,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 26140",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 26140",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0090718474,
+   "length": 0.0344,
+   "base": {
+    "shape": "boattail",
+    "length": 0.002,
+    "diameterA": 0.0067,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 357.862416036,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 27130",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 27130",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0084238583,
+   "length": 0.031,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0019,
+    "diameterA": 0.007,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 304.429127984,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 27140",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 27140",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0090718474,
+   "length": 0.033,
+   "base": {
+    "shape": "boattail",
+    "length": 0.002,
+    "diameterA": 0.007,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 320.599728315,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 27150",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 27150",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0097198365,
+   "length": 0.0344,
+   "base": {
+    "shape": "hollow",
+    "length": 0.002,
+    "diameterA": 0.007,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 348.722511501,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 28120",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 28120",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0077758692,
+   "length": 0.0288,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0022,
+    "diameterA": 0.0072,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 293.18001471,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 28140",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 28140",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0090718474,
+   "length": 0.0319,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0022,
+    "diameterA": 0.0072,
+    "diameterB": 0.0061
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 340.988746125,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 28150",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 28150",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0097198365,
+   "length": 0.0331,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0025,
+    "diameterA": 0.0072,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 346.613302762,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 30125",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 30125",
+   "lot": "2020",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00809986375,
+   "length": 0.0275,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0078,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 257.323466148,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 30150",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 30150",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0326,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0078,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 305.835267143,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 30165",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 30165",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.0328,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0078,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 333.958050329,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 30168",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 30168",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01088621688,
+   "length": 0.0333,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0078,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 344.504094023,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 30180",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 30180",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.0346,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0078,
+    "diameterB": 0.0066
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 356.456276877,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 32180",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 32180",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.0116638038,
+   "length": 0.0326,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0031,
+    "diameterA": 0.0082,
+    "diameterB": 0.0073
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 277.009414378,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 33180",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 33180",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0116638038,
+   "length": 0.032,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 261.541883626,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 33200",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 33200",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.012959782,
+   "length": 0.034,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0033,
+    "diameterA": 0.0086,
+    "diameterB": 0.0076
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 291.070805971,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 34992",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 34992",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0038879346,
+   "length": 0.0217,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0013,
+    "diameterA": 0.0057,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 189.828786503,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 35216",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 35216",
+   "lot": "",
+   "nominalCaliber": ".204",
+   "diameter": 0.00518,
+   "mass": 0.00207356512,
+   "length": 0.0165,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0012,
+    "diameterA": 0.0052,
+    "diameterB": 0.0039
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 144.832333406,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 35225",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 35225",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.01457975475,
+   "length": 0.0344,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0038,
+    "diameterA": 0.0091,
+    "diameterB": 0.0076
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 295.992293028,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 36250",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 36250",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.0161997275,
+   "length": 0.0341,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0038,
+    "diameterA": 0.0093,
+    "diameterB": 0.0082
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 347.316372342,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 37260",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 37260",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.0168477166,
+   "length": 0.0352,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0042,
+    "diameterA": 0.0095,
+    "diameterB": 0.0082
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 326.927354532,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 39510",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 39510",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0025919564,
+   "length": 0.0179,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0013,
+    "diameterA": 0.0057,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 155.3783771,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 39522",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 39522",
+   "lot": "2020",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0032399455,
+   "length": 0.0204,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0013,
+    "diameterA": 0.00569,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 167.330559954,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 39526",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 39526",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.0206,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0013,
+    "diameterA": 0.0057,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 187.719577764,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 39532",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 39532",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0045359237,
+   "length": 0.0232,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0015,
+    "diameterA": 0.0062,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 217.951569688,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 39565",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 39565",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00356394005,
+   "length": 0.02,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0015,
+    "diameterA": 0.0062,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 194.04720398,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 39583",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 39583",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.0341,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 356.456276877,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 39586",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 39586",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0097198365,
+   "length": 0.0335,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 346.613302762,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 39588",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 39588",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0097198365,
+   "length": 0.034,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 348.722511501,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 39595",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 39595",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.012959782,
+   "length": 0.0335,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 291.070805971,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 43004",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 43004",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.00550790735,
+   "length": 0.0254,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0019,
+    "diameterA": 0.0065,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 231.309891701,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 51253",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 51253",
+   "lot": "",
+   "nominalCaliber": ".204",
+   "diameter": 0.00518,
+   "mass": 0.00207356512,
+   "length": 0.0163,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0012,
+    "diameterA": 0.0052,
+    "diameterB": 0.0039
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 144.832333406,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT Ballistic Tip 52111",
+   "maker": "Nosler",
+   "product": "CT Ballistic Tip 52111",
+   "lot": "",
+   "nominalCaliber": ".204",
+   "diameter": 0.00518,
+   "mass": 0.0025919564,
+   "length": 0.0189,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0012,
+    "diameterA": 0.0052,
+    "diameterB": 0.0039
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 168.033629534,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT BalSTip RN 51165",
+   "maker": "Nosler",
+   "product": "CT BalSTip RN 51165",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0271,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0078,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 163.112142476,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT FailSafe 53140",
+   "maker": "Nosler",
+   "product": "CT FailSafe 53140",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0090718474,
+   "length": 0.0311,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 226.388404644,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT FailSafe 53150",
+   "maker": "Nosler",
+   "product": "CT FailSafe 53150",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0090718474,
+   "length": 0.0288,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 227.091474223,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT FailSafe 53160",
+   "maker": "Nosler",
+   "product": "CT FailSafe 53160",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0103678256,
+   "length": 0.0326,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 268.572579422,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT FailSafe 53170",
+   "maker": "Nosler",
+   "product": "CT FailSafe 53170",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0285,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 217.951569688,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT FailSafe 53175",
+   "maker": "Nosler",
+   "product": "CT FailSafe 53175",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.0316,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 220.763848007,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT FailSafe 53180",
+   "maker": "Nosler",
+   "product": "CT FailSafe 53180",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.0333,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 274.900205639,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT FailSafe 53230",
+   "maker": "Nosler",
+   "product": "CT FailSafe 53230",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0149037493,
+   "length": 0.035,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 306.538336723,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT FailSafe 53350",
+   "maker": "Nosler",
+   "product": "CT FailSafe 53350",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.0174957057,
+   "length": 0.0356,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 276.306344798,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, CT FailSafe 53360",
+   "maker": "Nosler",
+   "product": "CT FailSafe 53360",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.019439673,
+   "length": 0.0379,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 310.053684621,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, E-Tip",
+   "maker": "Nosler",
+   "product": "E-Tip",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0097198365,
+   "length": 0.0356,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 350.12865066,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, E-Tip 59165",
+   "maker": "Nosler",
+   "product": "E-Tip 59165",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0058319019,
+   "length": 0.03,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0015,
+    "diameterA": 0.0062,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 283.337040595,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, E-Tip 59180",
+   "maker": "Nosler",
+   "product": "E-Tip 59180",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.0374,
+   "base": {
+    "shape": "boattail",
+    "length": 0.002,
+    "diameterA": 0.0078,
+    "diameterB": 0.007
+   },
+   "shotStartPressure": 46000000,
+   "ballisticCoefficientG1": 367.705390151,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, E-Tip 59186",
+   "maker": "Nosler",
+   "product": "E-Tip 59186",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.012959782,
+   "length": 0.0363,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0035,
+    "diameterA": 0.0086,
+    "diameterB": 0.0076
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 298.804571347,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, E-Tip 59298",
+   "maker": "Nosler",
+   "product": "E-Tip 59298",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0084238583,
+   "length": 0.0337,
+   "base": {
+    "shape": "boattail",
+    "length": 0.002,
+    "diameterA": 0.007,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 322.708937054,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, E-Tip 59372",
+   "maker": "Nosler",
+   "product": "E-Tip 59372",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01457975475,
+   "length": 0.0371,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0035,
+    "diameterA": 0.0086,
+    "diameterB": 0.0076
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 429.57551316,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, E-Tip 59378",
+   "maker": "Nosler",
+   "product": "E-Tip 59378",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0353,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0078,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 46000000,
+   "ballisticCoefficientG1": 329.739632851,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, E-Tip 59415",
+   "maker": "Nosler",
+   "product": "E-Tip 59415",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01088621688,
+   "length": 0.0356,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0078,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 353.643998558,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, E-Tip 59426",
+   "maker": "Nosler",
+   "product": "E-Tip 59426",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0097198365,
+   "length": 0.0363,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0022,
+    "diameterA": 0.0072,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 350.12865066,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, E-Tip 59456",
+   "maker": "Nosler",
+   "product": "E-Tip 59456",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.006479891,
+   "length": 0.0304,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0019,
+    "diameterA": 0.0065,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 274.197136059,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, E-Tip 59543",
+   "maker": "Nosler",
+   "product": "E-Tip 59543",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.00550790735,
+   "length": 0.0255,
+   "base": {
+    "shape": "boattail",
+    "length": 0.002,
+    "diameterA": 0.007,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 191.937995241,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, E-Tip 59624",
+   "maker": "Nosler",
+   "product": "E-Tip 59624",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.0229,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0013,
+    "diameterA": 0.0057,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 214.43622179,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, E-Tip 59765",
+   "maker": "Nosler",
+   "product": "E-Tip 59765",
+   "lot": "2020",
+   "nominalCaliber": ".710",
+   "diameter": 0.00671,
+   "mass": 0.0077758692,
+   "length": 0.0356,
+   "base": {
+    "shape": "boattail",
+    "length": 0.002,
+    "diameterA": 0.0067,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 349.425581081,
+   "ubcsCode": "H2B1B2C1N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, E-TIP 59765",
+   "maker": "Nosler",
+   "product": "E-TIP 59765",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0077758692,
+   "length": 0.0356,
+   "base": {
+    "shape": "boattail",
+    "length": 0.002,
+    "diameterA": 0.0067,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 349.425581081,
+   "ubcsCode": "H2B1B2C1N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, E-Tip 59955",
+   "maker": "Nosler",
+   "product": "E-Tip 59955",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0090718474,
+   "length": 0.0344,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0022,
+    "diameterA": 0.0072,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 342.394885284,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, E-Tip RN 59451",
+   "maker": "Nosler",
+   "product": "E-Tip RN 59451",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0296,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0078,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 46000000,
+   "ballisticCoefficientG1": 241.855935396,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, FailSafe 53140",
+   "maker": "Nosler",
+   "product": "FailSafe 53140",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0090718474,
+   "length": 0.031,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 226.388404644,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, FailSafe 53150",
+   "maker": "Nosler",
+   "product": "FailSafe 53150",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0090718474,
+   "length": 0.0287,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 227.091474223,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, FailSafe 53160",
+   "maker": "Nosler",
+   "product": "FailSafe 53160",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0103678256,
+   "length": 0.0325,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 268.572579422,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, FailSafe 53170",
+   "maker": "Nosler",
+   "product": "FailSafe 53170",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0284,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 216.545430529,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, FailSafe 53175",
+   "maker": "Nosler",
+   "product": "FailSafe 53175",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.0315,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 220.763848007,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, FailSafe 53180",
+   "maker": "Nosler",
+   "product": "FailSafe 53180",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.0333,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 274.900205639,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, FailSafe 53230",
+   "maker": "Nosler",
+   "product": "FailSafe 53230",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0149037493,
+   "length": 0.0349,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 306.538336723,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, FailSafe 53350",
+   "maker": "Nosler",
+   "product": "FailSafe 53350",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.0174957057,
+   "length": 0.0356,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 276.306344798,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, FailSafe 53360",
+   "maker": "Nosler",
+   "product": "FailSafe 53360",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.019439673,
+   "length": 0.0379,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 310.053684621,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, FMJ 42059",
+   "maker": "Nosler",
+   "product": "FMJ 42059",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00745187465,
+   "length": 0.0132,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 72.4161667028,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, FMJ 42064",
+   "maker": "Nosler",
+   "product": "FMJ 42064",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.0149037493,
+   "length": 0.0157,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 128.661733074,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, FN 28121",
+   "maker": "Nosler",
+   "product": "FN 28121",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0077758692,
+   "length": 0.0235,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 137.09856803,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, HP 35631",
+   "maker": "Nosler",
+   "product": "HP 35631",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00401753242,
+   "length": 0.0196,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 176.470464489,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, HP 42050",
+   "maker": "Nosler",
+   "product": "HP 42050",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.0058319019,
+   "length": 0.0103,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 60.463983849,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, HP 42055",
+   "maker": "Nosler",
+   "product": "HP 42055",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00809986375,
+   "length": 0.0139,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 100.538949888,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, HP 43009",
+   "maker": "Nosler",
+   "product": "HP 43009",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00745187465,
+   "length": 0.0129,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 77.3376537603,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, HP 43012",
+   "maker": "Nosler",
+   "product": "HP 43012",
+   "lot": "",
+   "nominalCaliber": ".410",
+   "diameter": 0.01041,
+   "mass": 0.0136077711,
+   "length": 0.0175,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 119.521828539,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, HP 44837",
+   "maker": "Nosler",
+   "product": "HP 44837",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01016,
+   "mass": 0.0116638038,
+   "length": 0.0153,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 103.351228207,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, HP 44844",
+   "maker": "Nosler",
+   "product": "HP 44844",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01016,
+   "mass": 0.0110158147,
+   "length": 0.015,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 96.3205324106,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, HP Match SB 28471",
+   "maker": "Nosler",
+   "product": "HP Match SB 28471",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0301,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0041,
+    "diameterA": 0.0078,
+    "diameterB": 0.0062
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 267.869509843,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, HP Practical Pistol 44835",
+   "maker": "Nosler",
+   "product": "HP Practical Pistol 44835",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00745187465,
+   "length": 0.013,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 77.3376537603,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, HP SolBase 28467",
+   "maker": "Nosler",
+   "product": "HP SolBase 28467",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0032399455,
+   "length": 0.0196,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0013,
+    "diameterA": 0.0057,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 141.316985507,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, HPBT 17101",
+   "maker": "Nosler",
+   "product": "HPBT 17101",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00447112479,
+   "length": 0.0229,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 214.43622179,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, HPBT 22421",
+   "maker": "Nosler",
+   "product": "HPBT 22421",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00498951607,
+   "length": 0.0249,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 239.043657077,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, HPBT 25116",
+   "maker": "Nosler",
+   "product": "HPBT 25116",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0051839128,
+   "length": 0.0271,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 291.77387555,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, HPBT 26725",
+   "maker": "Nosler",
+   "product": "HPBT 26725",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0090718474,
+   "length": 0.0297,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 371.923807629,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, HPBT 53249",
+   "maker": "Nosler",
+   "product": "HPBT 53249",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00336954332,
+   "length": 0.0185,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 154.675307521,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, HPBT J4 53164",
+   "maker": "Nosler",
+   "product": "HPBT J4 53164",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01088621688,
+   "length": 0.0298,
+   "base": {
+    "shape": "boattail",
+    "length": 0.004,
+    "diameterA": 0.00782,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 324.818145793,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, JHP 42069",
+   "maker": "Nosler",
+   "product": "JHP 42069",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.019439673,
+   "length": 0.0248,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 163.815212056,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, JHP 43013",
+   "maker": "Nosler",
+   "product": "JHP 43013",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.0161997275,
+   "length": 0.0197,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 123.740246016,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, JHP 43123",
+   "maker": "Nosler",
+   "product": "JHP 43123",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00803506484,
+   "length": 0.0143,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 82.9622103974,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, JHP 43123",
+   "maker": "Nosler",
+   "product": "JHP 43123",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00803506484,
+   "length": 0.0143,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 82.9622103974,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, JHP 44841",
+   "maker": "Nosler",
+   "product": "JHP 44841",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.0197,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 127.958663494,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, JHP 44842",
+   "maker": "Nosler",
+   "product": "JHP 44842",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.0155517384,
+   "length": 0.0181,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 130.770941813,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, JHP 44846",
+   "maker": "Nosler",
+   "product": "JHP 44846",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.012959782,
+   "length": 0.0155,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 108.975784844,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, JHP 44847",
+   "maker": "Nosler",
+   "product": "JHP 44847",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.01198779835,
+   "length": 0.014,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 99.8358803088,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, JHP 44848",
+   "maker": "Nosler",
+   "product": "JHP 44848",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00745187465,
+   "length": 0.013,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 76.6345841807,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, JHP 44852",
+   "maker": "Nosler",
+   "product": "JHP 44852",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01016,
+   "mass": 0.00874785285,
+   "length": 0.0126,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 65.3854709064,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, JHP 44860",
+   "maker": "Nosler",
+   "product": "JHP 44860",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01016,
+   "mass": 0.0097198365,
+   "length": 0.0136,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 74.5253754418,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, JHP 44885",
+   "maker": "Nosler",
+   "product": "JHP 44885",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01016,
+   "mass": 0.0116638038,
+   "length": 0.0158,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 103.351228207,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, JHP 44922",
+   "maker": "Nosler",
+   "product": "JHP 44922",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.0149037493,
+   "length": 0.0162,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 123.037176437,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, JHP 44952",
+   "maker": "Nosler",
+   "product": "JHP 44952",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01016,
+   "mass": 0.012959782,
+   "length": 0.0171,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 114.600341481,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, JSP 44868",
+   "maker": "Nosler",
+   "product": "JSP 44868",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.0155517384,
+   "length": 0.0178,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 130.770941813,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, MZ 50300",
+   "maker": "Nosler",
+   "product": "MZ 50300",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.019439673,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 175.76739491,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Noveske GlowTip 31612",
+   "maker": "Nosler",
+   "product": "Noveske GlowTip 31612",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0142557602,
+   "length": 0.0361,
+   "base": {
+    "shape": "boattail",
+    "length": 0.004,
+    "diameterA": 0.0078,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 203.890178095,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Part.Sp 16315",
+   "maker": "Nosler",
+   "product": "Part.Sp 16315",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00615589645,
+   "length": 0.0262,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 256.620396568,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition 16316",
+   "maker": "Nosler",
+   "product": "Partition 16316",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0038879346,
+   "length": 0.0201,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 160.299864158,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition 16319",
+   "maker": "Nosler",
+   "product": "Partition 16319",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.006479891,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 229.200682962,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition 44750",
+   "maker": "Nosler",
+   "product": "Partition 44750",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01853248826,
+   "length": 0.0345,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 338.879537386,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition 45200",
+   "maker": "Nosler",
+   "product": "Partition 45200",
+   "lot": "",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.025919564,
+   "length": 0.0378,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 274.197136059,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition Gold 52100",
+   "maker": "Nosler",
+   "product": "Partition Gold 52100",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0097198365,
+   "length": 0.0318,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 326.927354532,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition Gold 52150",
+   "maker": "Nosler",
+   "product": "Partition Gold 52150",
+   "lot": "2019",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0103678256,
+   "length": 0.0323,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 333.958050329,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition Gold 52150",
+   "maker": "Nosler",
+   "product": "Partition Gold 52150",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0103678256,
+   "length": 0.0323,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 333.958050329,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition Gold 52200",
+   "maker": "Nosler",
+   "product": "Partition Gold 52200",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.028,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 272.08792732,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition Gold 52230",
+   "maker": "Nosler",
+   "product": "Partition Gold 52230",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.0321,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 333.254980749,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition Gold 52280",
+   "maker": "Nosler",
+   "product": "Partition Gold 52280",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0161997275,
+   "length": 0.035,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 332.551911169,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition HP 35180",
+   "maker": "Nosler",
+   "product": "Partition HP 35180",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.0116638038,
+   "length": 0.0206,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 141.316985507,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition HP 44250",
+   "maker": "Nosler",
+   "product": "Partition HP 44250",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.0161997275,
+   "length": 0.0204,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 140.613915928,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition HP 45260",
+   "maker": "Nosler",
+   "product": "Partition HP 45260",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.0168477166,
+   "length": 0.0203,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 122.334106857,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition PP 25396",
+   "maker": "Nosler",
+   "product": "Partition PP 25396",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.03,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 253.80811825,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition PP 44745",
+   "maker": "Nosler",
+   "product": "Partition PP 44745",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.032399455,
+   "length": 0.0367,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 239.746726657,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition PP 45325",
+   "maker": "Nosler",
+   "product": "Partition PP 45325",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.019439673,
+   "length": 0.0211,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 139.910846348,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition PP 45350",
+   "maker": "Nosler",
+   "product": "Partition PP 45350",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.019439673,
+   "length": 0.0213,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 139.910846348,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition RN 16333",
+   "maker": "Nosler",
+   "product": "Partition RN 16333",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0110158147,
+   "length": 0.0262,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 177.173534069,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition RN 16338",
+   "maker": "Nosler",
+   "product": "Partition RN 16338",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0161997275,
+   "length": 0.0341,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 255.917326989,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition Semi-SP 16316",
+   "maker": "Nosler",
+   "product": "Partition Semi-SP 16316",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.006479891,
+   "length": 0.0249,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 221.466917586,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition Semi-SP 16332",
+   "maker": "Nosler",
+   "product": "Partition Semi-SP 16332",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0142557602,
+   "length": 0.0349,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 246.777422453,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 16314",
+   "maker": "Nosler",
+   "product": "Partition SP 16314",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00550790735,
+   "length": 0.0242,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 221.466917586,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 16315",
+   "maker": "Nosler",
+   "product": "Partition SP 16315",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00615589645,
+   "length": 0.0261,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 256.620396568,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 16317",
+   "maker": "Nosler",
+   "product": "Partition SP 16317",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.006479891,
+   "length": 0.0263,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 265.057231524,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 16318",
+   "maker": "Nosler",
+   "product": "Partition SP 16318",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.00745187465,
+   "length": 0.0291,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 273.49406648,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 16320",
+   "maker": "Nosler",
+   "product": "Partition SP 16320",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00809986375,
+   "length": 0.0298,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 315.678241258,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 16321",
+   "maker": "Nosler",
+   "product": "Partition SP 16321",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0090718474,
+   "length": 0.0328,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 344.504094023,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 16322",
+   "maker": "Nosler",
+   "product": "Partition SP 16322",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0084238583,
+   "length": 0.0289,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 292.47694513,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 16323",
+   "maker": "Nosler",
+   "product": "Partition SP 16323",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0097198365,
+   "length": 0.0318,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 326.927354532,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 16325",
+   "maker": "Nosler",
+   "product": "Partition SP 16325",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0090718474,
+   "length": 0.0295,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 305.132197563,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 16326",
+   "maker": "Nosler",
+   "product": "Partition SP 16326",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0097198365,
+   "length": 0.0311,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 320.599728315,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 16327",
+   "maker": "Nosler",
+   "product": "Partition SP 16327",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0103678256,
+   "length": 0.0323,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 333.958050329,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 16329",
+   "maker": "Nosler",
+   "product": "Partition SP 16329",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.028,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 272.08792732,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 16330",
+   "maker": "Nosler",
+   "product": "Partition SP 16330",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.0299,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 288.258527652,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 16331",
+   "maker": "Nosler",
+   "product": "Partition SP 16331",
+   "lot": "2019",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.031,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 333.254980749,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 16336",
+   "maker": "Nosler",
+   "product": "Partition SP 16336",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01457975475,
+   "length": 0.0331,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 319.193589156,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 16337",
+   "maker": "Nosler",
+   "product": "Partition SP 16337",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0136077711,
+   "length": 0.0305,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 281.227831856,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 35200",
+   "maker": "Nosler",
+   "product": "Partition SP 35200",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0090718474,
+   "length": 0.0303,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 303.726058404,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 35277",
+   "maker": "Nosler",
+   "product": "Partition SP 35277",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.012959782,
+   "length": 0.0316,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 246.074352874,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 35626",
+   "maker": "Nosler",
+   "product": "Partition SP 35626",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.012959782,
+   "length": 0.0344,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 338.176467806,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 35642",
+   "maker": "Nosler",
+   "product": "Partition SP 35642",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.006479891,
+   "length": 0.0271,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 269.978718581,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 35643",
+   "maker": "Nosler",
+   "product": "Partition SP 35643",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.0077758692,
+   "length": 0.0299,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 274.900205639,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 35644",
+   "maker": "Nosler",
+   "product": "Partition SP 35644",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0161997275,
+   "length": 0.035,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 332.551911169,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 35645",
+   "maker": "Nosler",
+   "product": "Partition SP 35645",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01133980925,
+   "length": 0.0346,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 364.893111833,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 44750",
+   "maker": "Nosler",
+   "product": "Partition SP 44750",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01853248826,
+   "length": 0.035,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 338.879537386,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 44800",
+   "maker": "Nosler",
+   "product": "Partition SP 44800",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.01457975475,
+   "length": 0.0299,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 302.319919245,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 44801",
+   "maker": "Nosler",
+   "product": "Partition SP 44801",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.0161997275,
+   "length": 0.0323,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 313.569032519,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 44845",
+   "maker": "Nosler",
+   "product": "Partition SP 44845",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.019439673,
+   "length": 0.034,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 279.821692696,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SP 44850",
+   "maker": "Nosler",
+   "product": "Partition SP 44850",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.0168477166,
+   "length": 0.0291,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 220.763848007,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Partition SSP 16324",
+   "maker": "Nosler",
+   "product": "Partition SSP 16324",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0103678256,
+   "length": 0.0331,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 305.132197563,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Practical 44836",
+   "maker": "Nosler",
+   "product": "Practical 44836",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00874785285,
+   "length": 0.0142,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 104.757367366,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Practical Pistol 44839",
+   "maker": "Nosler",
+   "product": "Practical Pistol 44839",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.0097198365,
+   "length": 0.0159,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 110.381924003,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, RDF",
+   "maker": "Nosler",
+   "product": "RDF",
+   "lot": "KP12F19-3/95318361836",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00550790735,
+   "length": 0.0286,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00406,
+    "diameterA": 0.00569,
+    "diameterB": 0.00478
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 350.12865066,
+   "ballisticCoefficientG7": 172.252047012,
+   "ubcsCode": "T0H1B2S4N4",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, RDF 53432",
+   "maker": "Nosler",
+   "product": "RDF 53432",
+   "lot": "2019",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01198779835,
+   "length": 0.0393,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00458,
+    "diameterA": 0.00721,
+    "diameterB": 0.00536
+   },
+   "shotStartPressure": 25000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, RDF HPBT 26725",
+   "maker": "Nosler",
+   "product": "RDF HPBT 26725",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0090718474,
+   "length": 0.0361,
+   "base": {
+    "shape": "boattail",
+    "length": 0.002,
+    "diameterA": 0.0067,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 232.012961281,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, RDF HPBT 53066",
+   "maker": "Nosler",
+   "product": "RDF HPBT 53066",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0045359237,
+   "length": 0.0246,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0033,
+    "diameterA": 0.0057,
+    "diameterB": 0.0044
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 148.347681304,
+   "ballisticCoefficientG7": 292.47694513,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, RDF HPBT 53170",
+   "maker": "Nosler",
+   "product": "RDF HPBT 53170",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01133980925,
+   "length": 0.0339,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0049,
+    "diameterA": 0.0078,
+    "diameterB": 0.0061
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 376.845294687,
+   "ballisticCoefficientG7": 189.828786503,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, RDF HPBT 53182",
+   "maker": "Nosler",
+   "product": "RDF HPBT 53182",
+   "lot": "2021",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01088621688,
+   "length": 0.03365,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00438,
+    "diameterA": 0.0078,
+    "diameterB": 0.0061
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 355.050137718,
+   "ballisticCoefficientG7": 177.876603649,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, RDF HPBT 53410",
+   "maker": "Nosler",
+   "product": "RDF HPBT 53410",
+   "lot": "2019",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00680388555,
+   "length": 0.03195,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0015,
+    "diameterA": 0.00617,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 363.486972673,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, RDF HPBT 53507",
+   "maker": "Nosler",
+   "product": "RDF HPBT 53507",
+   "lot": "2020",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00745187465,
+   "length": 0.03429,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0015,
+    "diameterA": 0.00617,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 445.746113491,
+   "ballisticCoefficientG7": 219.357708847,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, SILH 42058",
+   "maker": "Nosler",
+   "product": "SILH 42058",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.0116638038,
+   "length": 0.0189,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 147.644611724,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Solid 23654",
+   "maker": "Nosler",
+   "product": "Solid 23654",
+   "lot": "",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.025919564,
+   "length": 0.0388,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 55000000,
+   "ballisticCoefficientG1": 203.187108516,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Solid 27452",
+   "maker": "Nosler",
+   "product": "Solid 27452",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.032399455,
+   "length": 0.0389,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 65000000,
+   "ballisticCoefficientG1": 172.955116591,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Solid 28451",
+   "maker": "Nosler",
+   "product": "Solid 28451",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.019439673,
+   "length": 0.0361,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 55000000,
+   "ballisticCoefficientG1": 210.920873892,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Solid 28455",
+   "maker": "Nosler",
+   "product": "Solid 28455",
+   "lot": "",
+   "nominalCaliber": ".474",
+   "diameter": 0.01204,
+   "mass": 0.032399455,
+   "length": 0.0382,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 65000000,
+   "ballisticCoefficientG1": 166.627490374,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Solid 29755",
+   "maker": "Nosler",
+   "product": "Solid 29755",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.0168477166,
+   "length": 0.0317,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 178.579673228,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Solid 29825",
+   "maker": "Nosler",
+   "product": "Solid 29825",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01853248826,
+   "length": 0.0359,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 55000000,
+   "ballisticCoefficientG1": 246.074352874,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, SP 42056",
+   "maker": "Nosler",
+   "product": "SP 42056",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.0097198365,
+   "length": 0.0157,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 107.569645685,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, SP SolBase 34559",
+   "maker": "Nosler",
+   "product": "SP SolBase 34559",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.0333,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0078,
+    "diameterB": 0.0066
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 345.207163603,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, SP SolBase 35487",
+   "maker": "Nosler",
+   "product": "SP SolBase 35487",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00291595095,
+   "length": 0.0143,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0013,
+    "diameterA": 0.0057,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 101.242019468,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, SP SolBase 38565",
+   "maker": "Nosler",
+   "product": "SP SolBase 38565",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.0316,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0078,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 300.913780086,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, SP SolBase 40501",
+   "maker": "Nosler",
+   "product": "SP SolBase 40501",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0084238583,
+   "length": 0.0295,
+   "base": {
+    "shape": "boattail",
+    "length": 0.002,
+    "diameterA": 0.007,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 295.289223448,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, SP SolBase 50403",
+   "maker": "Nosler",
+   "product": "SP SolBase 50403",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0097198365,
+   "length": 0.03,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0025,
+    "diameterA": 0.0072,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 322.708937054,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, SP SolBase 62490",
+   "maker": "Nosler",
+   "product": "SP SolBase 62490",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0090718474,
+   "length": 0.0285,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0025,
+    "diameterA": 0.0072,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 324.115076214,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, SP SolBase 81165",
+   "maker": "Nosler",
+   "product": "SP SolBase 81165",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0285,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.0078,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 276.306344798,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, SP SolBase 87169",
+   "maker": "Nosler",
+   "product": "SP SolBase 87169",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.006479891,
+   "length": 0.0247,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0015,
+    "diameterA": 0.0062,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 272.7909969,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, VarMag 26123",
+   "maker": "Nosler",
+   "product": "VarMag 26123",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0045359237,
+   "length": 0.0223,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 234.825239599,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, VarMag 34057",
+   "maker": "Nosler",
+   "product": "VarMag 34057",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0071278801,
+   "length": 0.0234,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 205.999386834,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Varmag 36763",
+   "maker": "Nosler",
+   "product": "Varmag 36763",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00226796185,
+   "length": 0.0132,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 84.3683495567,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Varmag Btip 17210",
+   "maker": "Nosler",
+   "product": "Varmag Btip 17210",
+   "lot": "",
+   "nominalCaliber": ".172",
+   "diameter": 0.00437,
+   "mass": 0.0012959782,
+   "length": 0.0141,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 128.661733074,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Varmag Btip 17220",
+   "maker": "Nosler",
+   "product": "Varmag Btip 17220",
+   "lot": "",
+   "nominalCaliber": ".204",
+   "diameter": 0.00518,
+   "mass": 0.00207356512,
+   "length": 0.0153,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 143.426194246,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Varmag Btip 17230",
+   "maker": "Nosler",
+   "product": "Varmag Btip 17230",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0025919564,
+   "length": 0.0169,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 148.347681304,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Varmag Btip 17240",
+   "maker": "Nosler",
+   "product": "Varmag Btip 17240",
+   "lot": "2020",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.0205,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 153.269168361,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Varmag Btip 17250",
+   "maker": "Nosler",
+   "product": "Varmag Btip 17250",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00356394005,
+   "length": 0.0191,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 177.173534069,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Varmag HP 17205",
+   "maker": "Nosler",
+   "product": "Varmag HP 17205",
+   "lot": "",
+   "nominalCaliber": ".172",
+   "diameter": 0.00437,
+   "mass": 0.0012959782,
+   "length": 0.0127,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 83.6652799771,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Varmag HP 17215",
+   "maker": "Nosler",
+   "product": "Varmag HP 17215",
+   "lot": "",
+   "nominalCaliber": ".204",
+   "diameter": 0.00518,
+   "mass": 0.00207356512,
+   "length": 0.0131,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 92.1021149327,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Varmag HP 17235",
+   "maker": "Nosler",
+   "product": "Varmag HP 17235",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.0178,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 147.644611724,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Varmag HP 17245",
+   "maker": "Nosler",
+   "product": "Varmag HP 17245",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00356394005,
+   "length": 0.0169,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 134.989359291,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, Varmag HPFB 17225",
+   "maker": "Nosler",
+   "product": "Varmag HPFB 17225",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0025919564,
+   "length": 0.0144,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 111.084993583,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Nosler, E-Tip 59265",
+   "maker": "Nosler",
+   "product": "E-Tip 59265",
+   "lot": "2021",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.0116638038,
+   "length": 0.03467,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0031,
+    "diameterA": 0.0082,
+    "diameterB": 0.0073
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 300.210710506,
+   "ubcsCode": "H2B1B2C1N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-11-07",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

@@ -1,0 +1,3653 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database, published with the written permission of Gordon's family (2026-11-04, issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "Lapua, AP AP529",
+   "maker": "Lapua",
+   "product": "AP AP529",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.019439673,
+   "length": 0.0441,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0062,
+    "diameterA": 0.0086,
+    "diameterB": 0.0071
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 515.350001876,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Bullex-N 1271",
+   "maker": "Lapua",
+   "product": "Bullex-N 1271",
+   "lot": "",
+   "nominalCaliber": ".510",
+   "diameter": 0.01295,
+   "mass": 0.0485991825,
+   "length": 0.069,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0234,
+    "diameterA": 0.007,
+    "diameterB": 0.007
+   },
+   "shotStartPressure": 31000000,
+   "ballisticCoefficientG1": 674.946796454,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Bullex-N 1272",
+   "maker": "Lapua",
+   "product": "Bullex-N 1272",
+   "lot": "",
+   "nominalCaliber": ".510",
+   "diameter": 0.01295,
+   "mass": 0.051839128,
+   "length": 0.0591,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0086,
+    "diameterA": 0.012,
+    "diameterB": 0.0099
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 689.008188046,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, CeppExtra F447",
+   "maker": "Lapua",
+   "product": "CeppExtra F447",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.0077758692,
+   "length": 0.0141,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 82.9622103974,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, CeppExtra F454",
+   "maker": "Lapua",
+   "product": "CeppExtra F454",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.0097198365,
+   "length": 0.0169,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 101.242019468,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, CeppSuper F447 9007",
+   "maker": "Lapua",
+   "product": "CeppSuper F447 9007",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.0077758692,
+   "length": 0.0141,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 82.9622103974,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, CeppSuper F465",
+   "maker": "Lapua",
+   "product": "CeppSuper F465",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.0097198365,
+   "length": 0.0169,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 103.351228207,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ ALS 7012",
+   "maker": "Lapua",
+   "product": "FMJ ALS 7012",
+   "lot": "",
+   "nominalCaliber": ".311",
+   "diameter": 0.0079,
+   "mass": 0.00369353787,
+   "length": 0.0123,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 91.3990453531,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ BT B334",
+   "maker": "Lapua",
+   "product": "FMJ BT B334",
+   "lot": "",
+   "nominalCaliber": ".309",
+   "diameter": 0.00785,
+   "mass": 0.00946064086,
+   "length": 0.028,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 277.712483957,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ BT B343 6000",
+   "maker": "Lapua",
+   "product": "FMJ BT B343 6000",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00933104304,
+   "length": 0.0331,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.0067,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 447.152252651,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ BT B343 6000",
+   "maker": "Lapua",
+   "product": "FMJ BT B343 6000",
+   "lot": "",
+   "nominalCaliber": ".265",
+   "diameter": 0.00673,
+   "mass": 0.00933104304,
+   "length": 0.033,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 439.418487274,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ BT B416 Subs.",
+   "maker": "Lapua",
+   "product": "FMJ BT B416 Subs.",
+   "lot": "",
+   "nominalCaliber": ".310",
+   "diameter": 0.00787,
+   "mass": 0.012959782,
+   "length": 0.0349,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0062,
+    "diameterA": 0.0068,
+    "diameterB": 0.0058
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 339.582606966,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ BT D166",
+   "maker": "Lapua",
+   "product": "FMJ BT D166",
+   "lot": "",
+   "nominalCaliber": ".309",
+   "diameter": 0.00785,
+   "mass": 0.012959782,
+   "length": 0.0349,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0062,
+    "diameterA": 0.0068,
+    "diameterB": 0.0058
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 339.582606966,
+   "ballisticCoefficientG7": 157.487585839,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ BT D166",
+   "maker": "Lapua",
+   "product": "FMJ BT D166",
+   "lot": "",
+   "nominalCaliber": ".310",
+   "diameter": 0.00787,
+   "mass": 0.012959782,
+   "length": 0.0349,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0062,
+    "diameterA": 0.0068,
+    "diameterB": 0.0058
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 314.975171678,
+   "ballisticCoefficientG7": 157.487585839,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ CE S496 6015",
+   "maker": "Lapua",
+   "product": "FMJ CE S496 6015",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.006479891,
+   "length": 0.0213,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0014,
+    "diameterA": 0.005,
+    "diameterB": 0
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 175.76739491,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ D166 7005",
+   "maker": "Lapua",
+   "product": "FMJ D166 7005",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.012959782,
+   "length": 0.0361,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0062,
+    "diameterA": 0.0068,
+    "diameterB": 0.0058
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 211.623943471,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ E342",
+   "maker": "Lapua",
+   "product": "FMJ E342",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0058319019,
+   "length": 0.0239,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 270.681788161,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ LF F463",
+   "maker": "Lapua",
+   "product": "FMJ LF F463",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.0168,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 110.381924003,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ S341 6014",
+   "maker": "Lapua",
+   "product": "FMJ S341 6014",
+   "lot": "",
+   "nominalCaliber": ".265",
+   "diameter": 0.00673,
+   "mass": 0.006479891,
+   "length": 0.0214,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 175.76739491,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ S350 5003",
+   "maker": "Lapua",
+   "product": "FMJ S350 5003",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.0181,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 176.470464489,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ S374",
+   "maker": "Lapua",
+   "product": "FMJ S374",
+   "lot": "",
+   "nominalCaliber": ".309",
+   "diameter": 0.00785,
+   "mass": 0.00797026593,
+   "length": 0.0226,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 189.828786503,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ S374 7003",
+   "maker": "Lapua",
+   "product": "FMJ S374 7003",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00803506484,
+   "length": 0.0227,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0023,
+    "diameterA": 0.005,
+    "diameterB": 0.0005
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 196.859482299,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ S382 5001",
+   "maker": "Lapua",
+   "product": "FMJ S382 5001",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.0181,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 172.252047012,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ S405 7045",
+   "maker": "Lapua",
+   "product": "FMJ S405 7045",
+   "lot": "",
+   "nominalCaliber": ".311",
+   "diameter": 0.0079,
+   "mass": 0.00797026593,
+   "length": 0.0231,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 180.688881967,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ S441 6014",
+   "maker": "Lapua",
+   "product": "FMJ S441 6014",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.006479891,
+   "length": 0.0213,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0014,
+    "diameterA": 0.005,
+    "diameterB": 0
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 175.76739491,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ S495 CE",
+   "maker": "Lapua",
+   "product": "FMJ S495 CE",
+   "lot": "",
+   "nominalCaliber": ".309",
+   "diameter": 0.00785,
+   "mass": 0.00797026593,
+   "length": 0.0227,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0023,
+    "diameterA": 0.0059,
+    "diameterB": 0.001
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 189.828786503,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ S538 5010",
+   "maker": "Lapua",
+   "product": "FMJ S538 5010",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.0181,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 176.470464489,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ Subsonic B416 7060",
+   "maker": "Lapua",
+   "product": "FMJ Subsonic B416 7060",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.012959782,
+   "length": 0.0361,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0062,
+    "diameterA": 0.0068,
+    "diameterB": 0.0058
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 364.190042253,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ TERA CU443",
+   "maker": "Lapua",
+   "product": "FMJ TERA CU443",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.0110158147,
+   "length": 0.0204,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 110.381924003,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ TERA Cu443",
+   "maker": "Lapua",
+   "product": "FMJ TERA Cu443",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.0116638038,
+   "length": 0.0226,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 123.037176437,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ-RN",
+   "maker": "Lapua",
+   "product": "FMJ-RN",
+   "lot": "",
+   "nominalCaliber": ".251",
+   "diameter": 0.00638,
+   "mass": 0.0032399455,
+   "length": 0.0117,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 85.0714191363,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ-RN R305",
+   "maker": "Lapua",
+   "product": "FMJ-RN R305",
+   "lot": "",
+   "nominalCaliber": ".309",
+   "diameter": 0.00785,
+   "mass": 0.00602629863,
+   "length": 0.0148,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 116.70955022,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ-RN R381 9016",
+   "maker": "Lapua",
+   "product": "FMJ-RN R381 9016",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00803506484,
+   "length": 0.0159,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 87.8836974549,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ-RN R429",
+   "maker": "Lapua",
+   "product": "FMJ-RN R429",
+   "lot": "",
+   "nominalCaliber": ".309",
+   "diameter": 0.00785,
+   "mass": 0.00485991825,
+   "length": 0.0125,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 89.9929061938,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ-RN R460",
+   "maker": "Lapua",
+   "product": "FMJ-RN R460",
+   "lot": "",
+   "nominalCaliber": ".354",
+   "diameter": 0.00899,
+   "mass": 0.00615589645,
+   "length": 0.012,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 97.0236019902,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ-RN R461",
+   "maker": "Lapua",
+   "product": "FMJ-RN R461",
+   "lot": "",
+   "nominalCaliber": ".251",
+   "diameter": 0.00638,
+   "mass": 0.0032399455,
+   "length": 0.0117,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 85.0714191363,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJ-RN R462 9001",
+   "maker": "Lapua",
+   "product": "FMJ-RN R462 9001",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00751667356,
+   "length": 0.0151,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 82.2591408178,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJBT D46 7019",
+   "maker": "Lapua",
+   "product": "FMJBT D46 7019",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01198779835,
+   "length": 0.0337,
+   "base": {
+    "shape": "boattail",
+    "length": 0.006,
+    "diameterA": 0.007,
+    "diameterB": 0.0059
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 355.753207297,
+   "ballisticCoefficientG7": 178.579673228,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJBT D46 7023",
+   "maker": "Lapua",
+   "product": "FMJBT D46 7023",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0110158147,
+   "length": 0.0316,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0062,
+    "diameterA": 0.0071,
+    "diameterB": 0.0062
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 354.347068138,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJBT D47",
+   "maker": "Lapua",
+   "product": "FMJBT D47",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0110158147,
+   "length": 0.0316,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0062,
+    "diameterA": 0.0071,
+    "diameterB": 0.0062
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 352.940928979,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJBT D47",
+   "maker": "Lapua",
+   "product": "FMJBT D47",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01198779835,
+   "length": 0.0337,
+   "base": {
+    "shape": "boattail",
+    "length": 0.006,
+    "diameterA": 0.007,
+    "diameterB": 0.0059
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 355.753207297,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FMJCE S495 7006",
+   "maker": "Lapua",
+   "product": "FMJCE S495 7006",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00803506484,
+   "length": 0.0227,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0023,
+    "diameterA": 0.005,
+    "diameterB": 0.0005
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 196.859482299,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FOREX EX481",
+   "maker": "Lapua",
+   "product": "FOREX EX481",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01198779835,
+   "length": 0.0331,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 133.583220131,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FOREX EX482",
+   "maker": "Lapua",
+   "product": "FOREX EX482",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0168477166,
+   "length": 0.0382,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 161.706003317,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, FOREX EX483",
+   "maker": "Lapua",
+   "product": "FOREX EX483",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.0174957057,
+   "length": 0.0356,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 146.941542145,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, HP G402",
+   "maker": "Lapua",
+   "product": "HP G402",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0084238583,
+   "length": 0.025,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 147.644611724,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, HP G450",
+   "maker": "Lapua",
+   "product": "HP G450",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00680388555,
+   "length": 0.0253,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 118.115689379,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, HP G477 CE",
+   "maker": "Lapua",
+   "product": "HP G477 CE",
+   "lot": "",
+   "nominalCaliber": ".309",
+   "diameter": 0.00785,
+   "mass": 0.006479891,
+   "length": 0.0252,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 119.521828539,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, HP G490 6046",
+   "maker": "Lapua",
+   "product": "HP G490 6046",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00498951607,
+   "length": 0.0242,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 224.279195905,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, HP L403",
+   "maker": "Lapua",
+   "product": "HP L403",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00473032043,
+   "length": 0.025,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 84.3683495567,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, HPBT Scenar GB478 6045",
+   "maker": "Lapua",
+   "product": "HPBT Scenar GB478 6045",
+   "lot": "2021",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00680388555,
+   "length": 0.0318,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.00617,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 331.84884159,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, HPBT Scenar GB493 6047",
+   "maker": "Lapua",
+   "product": "HPBT Scenar GB493 6047",
+   "lot": "2021",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0058319019,
+   "length": 0.0275,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0025,
+    "diameterA": 0.00617,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 305.132197563,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, HPBT ScenarL GB543 6055",
+   "maker": "Lapua",
+   "product": "HPBT ScenarL GB543 6055",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0058319019,
+   "length": 0.028,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0025,
+    "diameterA": 0.0062,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 305.132197563,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, HPCE G477 7224",
+   "maker": "Lapua",
+   "product": "HPCE G477 7224",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.006479891,
+   "length": 0.0232,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 119.521828539,
+   "ubcsCode": "T2H4F2S4C1",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, HPCE G494 5007",
+   "maker": "Lapua",
+   "product": "HPCE G494 5007",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00330474441,
+   "length": 0.0184,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0012,
+    "diameterA": 0.0057,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 155.3783771,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, LockBase B408 8012",
+   "maker": "Lapua",
+   "product": "LockBase B408 8012",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0161997275,
+   "length": 0.0371,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0067,
+    "diameterA": 0.0086,
+    "diameterB": 0.007
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 439.418487274,
+   "ballisticCoefficientG7": 217.951569688,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, LockBase B442",
+   "maker": "Lapua",
+   "product": "LockBase B442",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0110158147,
+   "length": 0.0309,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 324.818145793,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, LockBase B442",
+   "maker": "Lapua",
+   "product": "LockBase B442",
+   "lot": "",
+   "nominalCaliber": ".285",
+   "diameter": 0.00724,
+   "mass": 0.0110158147,
+   "length": 0.0308,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 324.818145793,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, LockBase B466 7091",
+   "maker": "Lapua",
+   "product": "LockBase B466 7091",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0281,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0042,
+    "diameterA": 0.0078,
+    "diameterB": 0.0072
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 305.132197563,
+   "ballisticCoefficientG7": 152.566098782,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, LockBase B476 7086",
+   "maker": "Lapua",
+   "product": "LockBase B476 7086",
+   "lot": "2019",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0110158147,
+   "length": 0.0309,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0042,
+    "diameterA": 0.0078,
+    "diameterB": 0.0069
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 350.12865066,
+   "ballisticCoefficientG7": 175.06432533,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, LRN C357",
+   "maker": "Lapua",
+   "product": "LRN C357",
+   "lot": "",
+   "nominalCaliber": ".360",
+   "diameter": 0.00914,
+   "mass": 0.00946064086,
+   "length": 0.0175,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 114.600341481,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, LRN C359",
+   "maker": "Lapua",
+   "product": "LRN C359",
+   "lot": "",
+   "nominalCaliber": ".315",
+   "diameter": 0.008,
+   "mass": 0.00635029318,
+   "length": 0.0165,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 68.9008188046,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, LRN C394",
+   "maker": "Lapua",
+   "product": "LRN C394",
+   "lot": "",
+   "nominalCaliber": ".359",
+   "diameter": 0.00912,
+   "mass": 0.01030302669,
+   "length": 0.0192,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 111.084993583,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, LSWC C384",
+   "maker": "Lapua",
+   "product": "LSWC C384",
+   "lot": "",
+   "nominalCaliber": ".359",
+   "diameter": 0.00912,
+   "mass": 0.01030302669,
+   "length": 0.0176,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 84.3683495567,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, LWC C355 9000",
+   "maker": "Lapua",
+   "product": "LWC C355 9000",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.00959023868,
+   "length": 0.016,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 40.0749660394,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, LWC C356 8021",
+   "maker": "Lapua",
+   "product": "LWC C356 8021",
+   "lot": "",
+   "nominalCaliber": ".314",
+   "diameter": 0.00798,
+   "mass": 0.00635029318,
+   "length": 0.0147,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 28.8258527652,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, LWC C356 8021",
+   "maker": "Lapua",
+   "product": "LWC C356 8021",
+   "lot": "",
+   "nominalCaliber": ".313",
+   "diameter": 0.00795,
+   "mass": 0.00635029318,
+   "length": 0.0147,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 28.8258527652,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, LWC C427 8023",
+   "maker": "Lapua",
+   "product": "LWC C427 8023",
+   "lot": "",
+   "nominalCaliber": ".314",
+   "diameter": 0.00798,
+   "mass": 0.00537830953,
+   "length": 0.0128,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 20.3890178095,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, LWC C427 8023",
+   "maker": "Lapua",
+   "product": "LWC C427 8023",
+   "lot": "",
+   "nominalCaliber": ".313",
+   "diameter": 0.00795,
+   "mass": 0.00537830953,
+   "length": 0.0128,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 20.3890178095,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, LWC C428",
+   "maker": "Lapua",
+   "product": "LWC C428",
+   "lot": "",
+   "nominalCaliber": ".313",
+   "diameter": 0.00795,
+   "mass": 0.00602629863,
+   "length": 0.014,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 26.0135744466,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, MEGA E401 7047",
+   "maker": "Lapua",
+   "product": "MEGA E401 7047",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.012959782,
+   "length": 0.0309,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 241.855935396,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, MEGA E412",
+   "maker": "Lapua",
+   "product": "MEGA E412",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0103678256,
+   "length": 0.0301,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 220.763848007,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, MEGA E415 7213",
+   "maker": "Lapua",
+   "product": "MEGA E415 7213",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01198779835,
+   "length": 0.0287,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 224.279195905,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, MEGA E426",
+   "maker": "Lapua",
+   "product": "MEGA E426",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0110158147,
+   "length": 0.0304,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 226.388404644,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, MEGA E426",
+   "maker": "Lapua",
+   "product": "MEGA E426",
+   "lot": "",
+   "nominalCaliber": ".285",
+   "diameter": 0.00724,
+   "mass": 0.0110158147,
+   "length": 0.0303,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 226.388404644,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, MEGA E433 9017",
+   "maker": "Lapua",
+   "product": "MEGA E433 9017",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01846768935,
+   "length": 0.0301,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 238.340587498,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Mega E453",
+   "maker": "Lapua",
+   "product": "Mega E453",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0058319019,
+   "length": 0.0231,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 180.688881967,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, MEGA E457",
+   "maker": "Lapua",
+   "product": "MEGA E457",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.006479891,
+   "length": 0.0251,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 201.780969356,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, MEGA E468",
+   "maker": "Lapua",
+   "product": "MEGA E468",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00809986375,
+   "length": 0.0221,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 189.828786503,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, MEGA E469 7057",
+   "maker": "Lapua",
+   "product": "MEGA E469 7057",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0243,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 232.012961281,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, MEGA E471 6010",
+   "maker": "Lapua",
+   "product": "MEGA E471 6010",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.01004383105,
+   "length": 0.0318,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 265.057231524,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, MegaShock G475",
+   "maker": "Lapua",
+   "product": "MegaShock G475",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00803506484,
+   "length": 0.016,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 78.7437929196,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Megashock G475 9022",
+   "maker": "Lapua",
+   "product": "Megashock G475 9022",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00803506484,
+   "length": 0.0158,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 78.7437929196,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Mira EB423",
+   "maker": "Lapua",
+   "product": "Mira EB423",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01198779835,
+   "length": 0.0313,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 322.005867475,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Mira EB431",
+   "maker": "Lapua",
+   "product": "Mira EB431",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0161997275,
+   "length": 0.0346,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 322.708937054,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Mira EB438",
+   "maker": "Lapua",
+   "product": "Mira EB438",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0084238583,
+   "length": 0.0271,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 263.651092365,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Naturalis",
+   "maker": "Lapua",
+   "product": "Naturalis",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0058319019,
+   "length": 0.026,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 203.890178095,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Naturalis LR 8020",
+   "maker": "Lapua",
+   "product": "Naturalis LR 8020",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0149037493,
+   "length": 0.0343,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 267.166440263,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Naturalis LR N508 8020",
+   "maker": "Lapua",
+   "product": "Naturalis LR N508 8020",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01496854821,
+   "length": 0.0387,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 34000000,
+   "ballisticCoefficientG1": 241.855935396,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Naturalis LR N518 7102",
+   "maker": "Lapua",
+   "product": "Naturalis LR N518 7102",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0110158147,
+   "length": 0.0318,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 34000000,
+   "ballisticCoefficientG1": 225.685335064,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Naturalis LR N522 9202",
+   "maker": "Lapua",
+   "product": "Naturalis LR N522 9202",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.0142557602,
+   "length": 0.0338,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 34000000,
+   "ballisticCoefficientG1": 241.855935396,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Naturalis LR N558 7105",
+   "maker": "Lapua",
+   "product": "Naturalis LR N558 7105",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0110158147,
+   "length": 0.0333,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 34000000,
+   "ballisticCoefficientG1": 248.886631192,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Naturalis LR N560 9204",
+   "maker": "Lapua",
+   "product": "Naturalis LR N560 9204",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.0161997275,
+   "length": 0.0366,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 34000000,
+   "ballisticCoefficientG1": 294.586153869,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Naturalis N505 7101",
+   "maker": "Lapua",
+   "product": "Naturalis N505 7101",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.0319,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 34000000,
+   "ballisticCoefficientG1": 212.327013051,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Naturalis N506 9201",
+   "maker": "Lapua",
+   "product": "Naturalis N506 9201",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.0174957057,
+   "length": 0.0358,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 34000000,
+   "ballisticCoefficientG1": 225.685335064,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Naturalis N507 6101",
+   "maker": "Lapua",
+   "product": "Naturalis N507 6101",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0090718474,
+   "length": 0.0328,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 227.794543803,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Naturalis N508 8020",
+   "maker": "Lapua",
+   "product": "Naturalis N508 8020",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01496854821,
+   "length": 0.0344,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 34000000,
+   "ballisticCoefficientG1": 262.244953205,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Naturalis N509",
+   "maker": "Lapua",
+   "product": "Naturalis N509",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0058319019,
+   "length": 0.0261,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 34000000,
+   "ballisticCoefficientG1": 161.706003317,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Naturalis N509 6201",
+   "maker": "Lapua",
+   "product": "Naturalis N509 6201",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0058319019,
+   "length": 0.0285,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 34000000,
+   "ballisticCoefficientG1": 161.706003317,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Naturalis N510 7028",
+   "maker": "Lapua",
+   "product": "Naturalis N510 7028",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0103678256,
+   "length": 0.0328,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 194.04720398,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Naturalis N513 7103",
+   "maker": "Lapua",
+   "product": "Naturalis N513 7103",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01302458091,
+   "length": 0.0336,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 34000000,
+   "ballisticCoefficientG1": 236.231378759,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Naturalis N516 8008",
+   "maker": "Lapua",
+   "product": "Naturalis N516 8008",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01172860271,
+   "length": 0.0286,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 34000000,
+   "ballisticCoefficientG1": 193.344134401,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Naturalis N559 8009",
+   "maker": "Lapua",
+   "product": "Naturalis N559 8009",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.0116638038,
+   "length": 0.0316,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 34000000,
+   "ballisticCoefficientG1": 250.995839931,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Naturalis N563 6203",
+   "maker": "Lapua",
+   "product": "Naturalis N563 6203",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0090718474,
+   "length": 0.0339,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 34000000,
+   "ballisticCoefficientG1": 141.316985507,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Naturalis N564 7027",
+   "maker": "Lapua",
+   "product": "Naturalis N564 7027",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01004383105,
+   "length": 0.0343,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 34000000,
+   "ballisticCoefficientG1": 196.859482299,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Scenar GB422 7069",
+   "maker": "Lapua",
+   "product": "Scenar GB422 7069",
+   "lot": "2019",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01082141797,
+   "length": 0.0312,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0045,
+    "diameterA": 0.0078,
+    "diameterB": 0.0064
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 313.569032519,
+   "ballisticCoefficientG7": 156.78451626,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Scenar GB432 7071",
+   "maker": "Lapua",
+   "product": "Scenar GB432 7071",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01198779835,
+   "length": 0.0335,
+   "base": {
+    "shape": "boattail",
+    "length": 0.006,
+    "diameterA": 0.0078,
+    "diameterB": 0.0059
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 338.879537386,
+   "ballisticCoefficientG7": 338.879537386,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Scenar GB458 6018",
+   "maker": "Lapua",
+   "product": "Scenar GB458 6018",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00900704849,
+   "length": 0.0349,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0055,
+    "diameterA": 0.0067,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 406.374217031,
+   "ballisticCoefficientG7": 203.890178095,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Scenar GB464 6020",
+   "maker": "Lapua",
+   "product": "Scenar GB464 6020",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00699828228,
+   "length": 0.0331,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0055,
+    "diameterA": 0.0067,
+    "diameterB": 0.0054
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 162.409072897,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Scenar GB488 8017",
+   "maker": "Lapua",
+   "product": "Scenar GB488 8017",
+   "lot": "2020",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0161997275,
+   "length": 0.04,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0065,
+    "diameterA": 0.00859,
+    "diameterB": 0.007
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 455.589087606,
+   "ballisticCoefficientG7": 226.388404644,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Scenar GB489 6032",
+   "maker": "Lapua",
+   "product": "Scenar GB489 6032",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00797026593,
+   "length": 0.0332,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0055,
+    "diameterA": 0.0067,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 370.51766847,
+   "ballisticCoefficientG7": 184.907299445,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Scenar GB491 7073",
+   "maker": "Lapua",
+   "product": "Scenar GB491 7073",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01004383105,
+   "length": 0.0328,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.0078,
+    "diameterB": 0.0067
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 323.412006634,
+   "ballisticCoefficientG7": 161.706003317,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Scenar GB501 5010",
+   "maker": "Lapua",
+   "product": "Scenar GB501 5010",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0045359237,
+   "length": 0.0245,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 225.685335064,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Scenar GB501 5011",
+   "maker": "Lapua",
+   "product": "Scenar GB501 5011",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0045359237,
+   "length": 0.0246,
+   "base": {
+    "shape": "boattail",
+    "length": 0.003,
+    "diameterA": 0.0057,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 225.685335064,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Scenar GB504 6033",
+   "maker": "Lapua",
+   "product": "Scenar GB504 6033",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.006479891,
+   "length": 0.0305,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0055,
+    "diameterA": 0.0067,
+    "diameterB": 0.0054
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 298.101501767,
+   "ballisticCoefficientG7": 149.050750884,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Scenar GB527 5012",
+   "maker": "Lapua",
+   "product": "Scenar GB527 5012",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00498951607,
+   "length": 0.0254,
+   "base": {
+    "shape": "boattail",
+    "length": 0.003,
+    "diameterA": 0.0057,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 271.384857741,
+   "ballisticCoefficientG7": 135.69242887,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Scenar GB528",
+   "maker": "Lapua",
+   "product": "Scenar GB528",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.019439673,
+   "length": 0.0441,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0062,
+    "diameterA": 0.0086,
+    "diameterB": 0.0071
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 517.459210614,
+   "ballisticCoefficientG7": 258.729605307,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, Scenar GB541 5011",
+   "maker": "Lapua",
+   "product": "Scenar GB541 5011",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00447112479,
+   "length": 0.0246,
+   "base": {
+    "shape": "boattail",
+    "length": 0.003,
+    "diameterA": 0.0057,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 239.746726657,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, ScenarL GB542 6050",
+   "maker": "Lapua",
+   "product": "ScenarL GB542 6050",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00680388555,
+   "length": 0.0319,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.0062,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 331.84884159,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, ScenarL GB544",
+   "maker": "Lapua",
+   "product": "ScenarL GB544",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00447112479,
+   "length": 0.0246,
+   "base": {
+    "shape": "boattail",
+    "length": 0.003,
+    "diameterA": 0.0057,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 239.746726657,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, ScenarL GB545 5016",
+   "maker": "Lapua",
+   "product": "ScenarL GB545 5016",
+   "lot": "2020",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00498951607,
+   "length": 0.0265,
+   "base": {
+    "shape": "boattail",
+    "length": 0.003,
+    "diameterA": 0.00569,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 278.415553537,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, ScenarL GB546",
+   "maker": "Lapua",
+   "product": "ScenarL GB546",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00881265176,
+   "length": 0.0346,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0055,
+    "diameterA": 0.0067,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 464.728992141,
+   "ballisticCoefficientG7": 233.41910044,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, ScenarL GB547 6021",
+   "maker": "Lapua",
+   "product": "ScenarL GB547 6021",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0077758692,
+   "length": 0.0319,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0055,
+    "diameterA": 0.0067,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 349.425581081,
+   "ballisticCoefficientG7": 172.955116591,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, ScenarL GB550 7061",
+   "maker": "Lapua",
+   "product": "ScenarL GB550 7061",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01133980925,
+   "length": 0.0341,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.0078,
+    "diameterB": 0.0066
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 344.504094023,
+   "ballisticCoefficientG7": 173.658186171,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, ScenarL GB551 7062",
+   "maker": "Lapua",
+   "product": "ScenarL GB551 7062",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0142557602,
+   "length": 0.0386,
+   "base": {
+    "shape": "boattail",
+    "length": 0.006,
+    "diameterA": 0.0078,
+    "diameterB": 0.0059
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 427.466304421,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, ScenarL GB552 7063",
+   "maker": "Lapua",
+   "product": "ScenarL GB552 7063",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01004383105,
+   "length": 0.0328,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.0078,
+    "diameterB": 0.0067
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 323.412006634,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, ScenarL GB553 7400",
+   "maker": "Lapua",
+   "product": "ScenarL GB553 7400",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0097198365,
+   "length": 0.0343,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0055,
+    "diameterA": 0.0078,
+    "diameterB": 0.0059
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 182.798090706,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, ScenarL GB554 7401",
+   "maker": "Lapua",
+   "product": "ScenarL GB554 7401",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0116638038,
+   "length": 0.0381,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 464.728992141,
+   "ballisticCoefficientG7": 233.41910044,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, SJFN E367 9041",
+   "maker": "Lapua",
+   "product": "SJFN E367 9041",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.0169,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 111.084993583,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, SJHP EG410",
+   "maker": "Lapua",
+   "product": "SJHP EG410",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.0169,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 109.678854424,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, SP E295",
+   "maker": "Lapua",
+   "product": "SP E295",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01121021143,
+   "length": 0.0305,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 220.060778427,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, SP E295",
+   "maker": "Lapua",
+   "product": "SP E295",
+   "lot": "",
+   "nominalCaliber": ".285",
+   "diameter": 0.00724,
+   "mass": 0.01121021143,
+   "length": 0.0305,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 220.060778427,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, SP E346",
+   "maker": "Lapua",
+   "product": "SP E346",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0032399455,
+   "length": 0.0155,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 126.552524335,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, SP E360",
+   "maker": "Lapua",
+   "product": "SP E360",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00550790735,
+   "length": 0.0232,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 207.405525994,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, SP E369 5002",
+   "maker": "Lapua",
+   "product": "SP E369 5002",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.017,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 146.238472565,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, SP E372 5004",
+   "maker": "Lapua",
+   "product": "SP E372 5004",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.017,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 142.020055087,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, SP E373",
+   "maker": "Lapua",
+   "product": "SP E373",
+   "lot": "",
+   "nominalCaliber": ".309",
+   "diameter": 0.00785,
+   "mass": 0.00809986375,
+   "length": 0.0221,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 184.907299445,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, SP E380",
+   "maker": "Lapua",
+   "product": "SP E380",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.012959782,
+   "length": 0.0271,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 199.671760618,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, SP E425",
+   "maker": "Lapua",
+   "product": "SP E425",
+   "lot": "",
+   "nominalCaliber": ".263",
+   "diameter": 0.00668,
+   "mass": 0.0090718474,
+   "length": 0.0308,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 316.381310838,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, SP E539 5006",
+   "maker": "Lapua",
+   "product": "SP E539 5006",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.017,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 142.020055087,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, SPBT B421",
+   "maker": "Lapua",
+   "product": "SPBT B421",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00460072261,
+   "length": 0.0224,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 261.541883626,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, SPFN E390",
+   "maker": "Lapua",
+   "product": "SPFN E390",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.01004383105,
+   "length": 0.0318,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 260.838814046,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, SPFN E435",
+   "maker": "Lapua",
+   "product": "SPFN E435",
+   "lot": "",
+   "nominalCaliber": ".431",
+   "diameter": 0.01095,
+   "mass": 0.0155517384,
+   "length": 0.0175,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 96.3205324106,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, SPRN Mega E468",
+   "maker": "Lapua",
+   "product": "SPRN Mega E468",
+   "lot": "",
+   "nominalCaliber": ".311",
+   "diameter": 0.0079,
+   "mass": 0.00809986375,
+   "length": 0.0229,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 193.344134401,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Lapua, SWC C384",
+   "maker": "Lapua",
+   "product": "SWC C384",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.0165,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 84.3683495567,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

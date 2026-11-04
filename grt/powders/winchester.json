@@ -1,0 +1,317 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-powders",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database, published with the written permission of Gordon's family (2026-11-04, issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table propellant, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "maker": "Winchester",
+   "product": "231",
+   "lot": "2020-09-30",
+   "heatOfExplosion": 4000000,
+   "heatCapacityRatio": 1.2214,
+   "covolume": 0.001,
+   "grainDensity": 1670,
+   "bulkDensity": 790,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 3.2774,
+    "a0": 2.3163,
+    "a1": 0,
+    "z1": 0.3287,
+    "z2": 0.8307,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2020-10-13",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2368",
+    "Lr": "0.2",
+    "L01": "2.3703",
+    "L02": "3.1567",
+    "L03": "3.6362",
+    "L04": "3.4316",
+    "L05": "3.3469",
+    "L06": "3.0815",
+    "L07": "2.747",
+    "L08": "2.3383",
+    "L09": "1.748",
+    "Qlty": "0.5"
+   }
+  },
+  {
+   "maker": "Winchester",
+   "product": "244",
+   "lot": "2021-08-29",
+   "heatOfExplosion": 3750000,
+   "heatCapacityRatio": 1.2229,
+   "covolume": 0.001,
+   "grainDensity": 1470,
+   "bulkDensity": 780,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 3.9954,
+    "a0": -0.0222,
+    "a1": 0,
+    "z1": 0.4555,
+    "z2": 0.8078,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-09-01",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2193",
+    "Lr": "0.2",
+    "L01": "3.0237",
+    "L02": "3.7697",
+    "L03": "3.6583",
+    "L04": "3.5799",
+    "L05": "3.4753",
+    "L06": "3.2606",
+    "L07": "2.9694",
+    "L08": "2.6219",
+    "L09": "0.9986",
+    "Qlty": "0.1"
+   }
+  },
+  {
+   "maker": "Winchester",
+   "product": "296",
+   "lot": "2020-04-20",
+   "heatOfExplosion": 4020000,
+   "heatCapacityRatio": 1.2287,
+   "covolume": 0.001,
+   "grainDensity": 1680,
+   "bulkDensity": 860,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 1.0721,
+    "a0": -0.2441,
+    "a1": 0,
+    "z1": 0.4823,
+    "z2": 0.7638,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-04-05",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2350",
+    "Lr": "0.2",
+    "L01": "0.8176",
+    "L02": "0.7591",
+    "L03": "0.7613",
+    "L04": "0.7564",
+    "L05": "0.733",
+    "L06": "0.6729",
+    "L07": "0.604",
+    "L08": "0.5156",
+    "L09": "0.3834",
+    "Qlty": "0.35"
+   }
+  },
+  {
+   "maker": "Winchester",
+   "product": "748",
+   "lot": "2020-08-11",
+   "heatOfExplosion": 3700000,
+   "heatCapacityRatio": 1.2352,
+   "covolume": 0.001,
+   "grainDensity": 1650,
+   "bulkDensity": 971,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.6545,
+    "a0": 0.1242,
+    "a1": 0,
+    "z1": 0.5522,
+    "z2": 0.8385,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2020-08-11",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2163",
+    "Lr": "0.2",
+    "L01": "0.4713",
+    "L02": "0.5411",
+    "L03": "0.5594",
+    "L04": "0.5599",
+    "L05": "0.5566",
+    "L06": "0.5483",
+    "L07": "0.4985",
+    "L08": "0.4352",
+    "L09": "0.3546",
+    "Qlty": "0.35"
+   }
+  },
+  {
+   "maker": "Winchester",
+   "product": "760",
+   "lot": "2020-09-22",
+   "heatOfExplosion": 3790000,
+   "heatCapacityRatio": 1.2394,
+   "covolume": 0.001,
+   "grainDensity": 1610,
+   "bulkDensity": 971,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.4743,
+    "a0": 0.8998,
+    "a1": 0,
+    "z1": 0.5059,
+    "z2": 0.8071,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2020-09-24",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2216",
+    "Lr": "0.2",
+    "L01": "0.3422",
+    "L02": "0.4147",
+    "L03": "0.4364",
+    "L04": "0.4505",
+    "L05": "0.4558",
+    "L06": "0.4207",
+    "L07": "0.3921",
+    "L08": "0.346",
+    "L09": "0.2693",
+    "Qlty": "0.2"
+   }
+  },
+  {
+   "maker": "Winchester",
+   "product": "AutoComp",
+   "lot": "2021-04-02",
+   "heatOfExplosion": 4020000,
+   "heatCapacityRatio": 1.2011,
+   "covolume": 0.001,
+   "grainDensity": 1580,
+   "bulkDensity": 882,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 3.0524,
+    "a0": 3.0333,
+    "a1": 0,
+    "z1": 0.1174,
+    "z2": 0.7239,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-04-04",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2350",
+    "Lr": "0.2",
+    "L01": "2.1783",
+    "L02": "2.0194",
+    "L03": "1.9147",
+    "L04": "1.8052",
+    "L05": "1.6919",
+    "L06": "1.554",
+    "L07": "1.3816",
+    "L08": "1.1635",
+    "L09": "0.8687",
+    "Qlty": "0.25"
+   }
+  },
+  {
+   "maker": "Winchester",
+   "product": "StaBall 6.5",
+   "lot": "2020-08-11",
+   "heatOfExplosion": 3520000,
+   "heatCapacityRatio": 1.2122,
+   "covolume": 0.001,
+   "grainDensity": 1620,
+   "bulkDensity": 990,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.5511,
+    "a0": 0.6762,
+    "a1": 0,
+    "z1": 0.6301,
+    "z2": 0.9135,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2020-08-11",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2058",
+    "Lr": "0.2",
+    "L01": "0.4136",
+    "L02": "0.4896",
+    "L03": "0.525",
+    "L04": "0.543",
+    "L05": "0.558",
+    "L06": "0.5683",
+    "L07": "0.5292",
+    "L08": "0.4631",
+    "L09": "0.3794",
+    "Qlty": "0.7"
+   }
+  }
+ ]
+}

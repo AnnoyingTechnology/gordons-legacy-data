@@ -1,0 +1,853 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database, published with the written permission of Gordon's family (2026-11-04, issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "Balistix, Balistix RBT HunTac (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT HunTac (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".242",
+   "diameter": 0.00615,
+   "mass": 0.00485991825,
+   "length": 0.02489,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00335,
+    "diameterA": 0.00533,
+    "diameterB": 0.0046
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 189.828786503,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT HunTac (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT HunTac (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".242",
+   "diameter": 0.00615,
+   "mass": 0.00563750517,
+   "length": 0.02885,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0049,
+    "diameterA": 0.00536,
+    "diameterB": 0.00418
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 246.074352874,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT HunTac (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT HunTac (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".263",
+   "diameter": 0.00668,
+   "mass": 0.00745187465,
+   "length": 0.03211,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.00586,
+    "diameterB": 0.0046
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 267.166440263,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT HunTac (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT HunTac (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".263",
+   "diameter": 0.00668,
+   "mass": 0.00809986375,
+   "length": 0.0347,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00551,
+    "diameterA": 0.00582,
+    "diameterB": 0.0047
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 302.319919245,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT HunTac (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT HunTac (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".276",
+   "diameter": 0.00701,
+   "mass": 0.0084238583,
+   "length": 0.03289,
+   "base": {
+    "shape": "boattail",
+    "length": 0.004,
+    "diameterA": 0.00622,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 274.197136059,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT HunTac (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT HunTac (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".283",
+   "diameter": 0.00719,
+   "mass": 0.0090718474,
+   "length": 0.03251,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00292,
+    "diameterA": 0.00624,
+    "diameterB": 0.0054
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 281.227831856,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT HunTac (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT HunTac (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".307",
+   "diameter": 0.0078,
+   "mass": 0.01004383105,
+   "length": 0.03259,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0046,
+    "diameterA": 0.00684,
+    "diameterB": 0.00559
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 260.135744466,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT HunTac (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT HunTac (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".307",
+   "diameter": 0.0078,
+   "mass": 0.01069182015,
+   "length": 0.03391,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00465,
+    "diameterA": 0.007,
+    "diameterB": 0.00584
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 281.227831856,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT HunTac (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT HunTac (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".307",
+   "diameter": 0.0078,
+   "mass": 0.01133980925,
+   "length": 0.03571,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00511,
+    "diameterA": 0.0069,
+    "diameterB": 0.00556
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 295.289223448,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT HunTac (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT HunTac (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".337",
+   "diameter": 0.00856,
+   "mass": 0.0161997275,
+   "length": 0.04321,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00585,
+    "diameterA": 0.00754,
+    "diameterB": 0.00572
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 379.657573005,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT HunTac (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT HunTac (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".311",
+   "diameter": 0.0079,
+   "mass": 0.0110158147,
+   "length": 0.03391,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00485,
+    "diameterA": 0.00691,
+    "diameterB": 0.00589
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 295.289223448,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT HunTac HBN (CheyTac)",
+   "maker": "Balistix",
+   "product": "Balistix RBT HunTac HBN (CheyTac)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".374",
+   "diameter": 0.0095,
+   "mass": 0.02429959125,
+   "length": 0.0538,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00701,
+    "diameterA": 0.00805,
+    "diameterB": 0.0066
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 506.21009734,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT Target (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT Target (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".242",
+   "diameter": 0.00615,
+   "mass": 0.00485991825,
+   "length": 0.02616,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0031,
+    "diameterA": 0.0054,
+    "diameterB": 0.00468
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 239.043657077,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT Target (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT Target (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".242",
+   "diameter": 0.00615,
+   "mass": 0.00563750517,
+   "length": 0.02939,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0038,
+    "diameterA": 0.00536,
+    "diameterB": 0.00448
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 288.258527652,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT Target (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT Target (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".263",
+   "diameter": 0.00668,
+   "mass": 0.00745187465,
+   "length": 0.0335,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0042,
+    "diameterA": 0.00598,
+    "diameterB": 0.0042
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 344.504094023,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT TARGET (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT TARGET (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".263",
+   "diameter": 0.00668,
+   "mass": 0.00809986375,
+   "length": 0.0352,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0046,
+    "diameterA": 0.00586,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 365.596181412,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT Target (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT Target (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".276",
+   "diameter": 0.00701,
+   "mass": 0.0084238583,
+   "length": 0.03371,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0032,
+    "diameterA": 0.00614,
+    "diameterB": 0.0054
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 337.473398227,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT Target (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT Target (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".283",
+   "diameter": 0.00719,
+   "mass": 0.0090718474,
+   "length": 0.03449,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0035,
+    "diameterA": 0.00628,
+    "diameterB": 0.00542
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 344.504094023,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT Target (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT Target (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".307",
+   "diameter": 0.0078,
+   "mass": 0.01004383105,
+   "length": 0.0333,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0038,
+    "diameterA": 0.00684,
+    "diameterB": 0.00598
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 309.350615041,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT Target (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT Target (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".307",
+   "diameter": 0.0078,
+   "mass": 0.01069182015,
+   "length": 0.0348,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0041,
+    "diameterA": 0.00704,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 337.473398227,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT Target (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT Target (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".307",
+   "diameter": 0.0078,
+   "mass": 0.01133980925,
+   "length": 0.0366,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00415,
+    "diameterA": 0.0069,
+    "diameterB": 0.00588
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 358.565485616,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT Target (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT Target (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".337",
+   "diameter": 0.00856,
+   "mass": 0.0161997275,
+   "length": 0.04564,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00505,
+    "diameterA": 0.00754,
+    "diameterB": 0.0062
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 471.056618358,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT Target (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT Target (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".365",
+   "diameter": 0.00927,
+   "mass": 0.0149037493,
+   "length": 0.0349,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0041,
+    "diameterA": 0.00792,
+    "diameterB": 0.0072
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 281.227831856,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT Target (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT Target (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".374",
+   "diameter": 0.0095,
+   "mass": 0.0161997275,
+   "length": 0.03599,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0064,
+    "diameterA": 0.00828,
+    "diameterB": 0.0072
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 302.319919245,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT Target HBN (CheyTac)",
+   "maker": "Balistix",
+   "product": "Balistix RBT Target HBN (CheyTac)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".374",
+   "diameter": 0.0095,
+   "mass": 0.02429959125,
+   "length": 0.05601,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0064,
+    "diameterA": 0.00805,
+    "diameterB": 0.00674
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 625.731925879,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT Ulta Hunt (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT Ulta Hunt (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".322",
+   "diameter": 0.00818,
+   "mass": 0.012959782,
+   "length": 0.0365,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0049,
+    "diameterA": 0.0073,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 316.381310838,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT Ultra Hunt (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT Ultra Hunt (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".307",
+   "diameter": 0.0078,
+   "mass": 0.01004383105,
+   "length": 0.0315,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0046,
+    "diameterA": 0.0068,
+    "diameterB": 0.0058
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 217.951569688,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT Ultra Hunt (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT Ultra Hunt (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".307",
+   "diameter": 0.0078,
+   "mass": 0.01069182015,
+   "length": 0.03279,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0046,
+    "diameterA": 0.00704,
+    "diameterB": 0.00584
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 239.043657077,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT Ultra Hunt (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT Ultra Hunt (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".307",
+   "diameter": 0.0078,
+   "mass": 0.01133980925,
+   "length": 0.03439,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00495,
+    "diameterA": 0.00683,
+    "diameterB": 0.00587
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 246.074352874,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT Ultra Hunt (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT Ultra Hunt (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".365",
+   "diameter": 0.00927,
+   "mass": 0.0149037493,
+   "length": 0.03391,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0061,
+    "diameterA": 0.00798,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 217.951569688,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Balistix, Balistix RBT Ultra Hunt (HBN)",
+   "maker": "Balistix",
+   "product": "Balistix RBT Ultra Hunt (HBN)",
+   "lot": "2019-07-10",
+   "nominalCaliber": ".374",
+   "diameter": 0.0095,
+   "mass": 0.0161997275,
+   "length": 0.0348,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0063,
+    "diameterA": 0.00828,
+    "diameterB": 0.0072
+   },
+   "shotStartPressure": 30000000,
+   "ballisticCoefficientG1": 232.012961281,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

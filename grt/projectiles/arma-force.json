@@ -1,0 +1,88 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database, published with the written permission of Gordon's family (2026-11-04, issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "Arma Force, 124gr FMJ RN .355",
+   "maker": "Arma Force",
+   "product": "124gr FMJ RN .355",
+   "lot": "2019",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00803506484,
+   "length": 0.0153,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Arma Force, 230gr FMJ RN",
+   "maker": "Arma Force",
+   "product": "230gr FMJ RN",
+   "lot": "04/2020",
+   "nominalCaliber": ".451",
+   "diameter": 0.01145,
+   "mass": 0.0149037493,
+   "length": 0.01665,
+   "base": {
+    "shape": "hollow",
+    "length": 0.00836,
+    "diameterA": 0.00095,
+    "diameterB": 0
+   },
+   "shotStartPressure": 15000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Arma Force, 230gr RN .451",
+   "maker": "Arma Force",
+   "product": "230gr RN .451",
+   "lot": "11/19",
+   "nominalCaliber": ".451",
+   "diameter": 0.01145,
+   "mass": 0.0149037493,
+   "length": 0.01616,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

@@ -1,0 +1,188 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-powders",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database, published with the written permission of Gordon's family (2026-11-04, issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table propellant, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "maker": "Baschieri & Pellagri",
+   "product": "BP 100 Light Pistol",
+   "lot": "2020-08-01",
+   "heatOfExplosion": 3700000,
+   "heatCapacityRatio": 1.2384,
+   "covolume": 0.001,
+   "grainDensity": 1380,
+   "bulkDensity": 550,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 3.833,
+    "a0": 1.2601,
+    "a1": 0,
+    "z1": 0.2595,
+    "z2": 0.8345,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2020-08-03",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2163",
+    "Lr": "0.2",
+    "L01": "2.4399",
+    "L02": "3.2854",
+    "L03": "3.8336",
+    "L04": "3.7277",
+    "L05": "3.5333",
+    "L06": "3.2535",
+    "L07": "2.9012",
+    "L08": "2.4702",
+    "L09": "1.8482",
+    "Qlty": "0.2"
+   }
+  },
+  {
+   "maker": "Baschieri & Pellagri",
+   "product": "BP 106 Light Rifle",
+   "lot": "2020-09-11",
+   "heatOfExplosion": 3580000,
+   "heatCapacityRatio": 1.2212,
+   "covolume": 0.001,
+   "grainDensity": 1680,
+   "bulkDensity": 990,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.9217,
+    "a0": -0.3336,
+    "a1": 0,
+    "z1": 0.3799,
+    "z2": 0.815,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-11-15",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2093",
+    "Lr": "0.2",
+    "L01": "0.7003",
+    "L02": "0.6472",
+    "L03": "0.651",
+    "L04": "0.6293",
+    "L05": "0.5845",
+    "L06": "0.5369",
+    "L07": "0.4818",
+    "L08": "0.4063",
+    "L09": "0.2997",
+    "Qlty": "0.15"
+   }
+  },
+  {
+   "maker": "Baschieri & Pellagri",
+   "product": "BP 107 Medium Rifle",
+   "lot": "2020-09-28",
+   "heatOfExplosion": 3700000,
+   "heatCapacityRatio": 1.2352,
+   "covolume": 0.001,
+   "grainDensity": 1650,
+   "bulkDensity": 990,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.6545,
+    "a0": 0.4112,
+    "a1": 0,
+    "z1": 0.4858,
+    "z2": 0.8516,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2020-12-29",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2164",
+    "Lr": "0.2",
+    "L01": "0.5869",
+    "L02": "0.5643",
+    "L03": "0.5502",
+    "L04": "0.5458",
+    "L05": "0.5161",
+    "L06": "0.5088",
+    "L07": "0.4499",
+    "L08": "0.3777",
+    "L09": "0.2364",
+    "Qlty": "0.15"
+   }
+  },
+  {
+   "maker": "Baschieri & Pellagri",
+   "product": "BP 109 Magnum Rifle",
+   "lot": "2020-08-01",
+   "heatOfExplosion": 3800000,
+   "heatCapacityRatio": 1.2229,
+   "covolume": 0.001,
+   "grainDensity": 1690,
+   "bulkDensity": 970,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.4736,
+    "a0": -0.7046,
+    "a1": 0,
+    "z1": 0.5226,
+    "z2": 0.6833,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2020-08-03",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2222",
+    "Lr": "0.2",
+    "L01": "0.3319",
+    "L02": "0.3795",
+    "L03": "0.3751",
+    "L04": "0.3623",
+    "L05": "0.3429",
+    "L06": "0.3206",
+    "L07": "0.2994",
+    "L08": "0.2608",
+    "L09": "0.2054",
+    "Qlty": "0.25"
+   }
+  }
+ ]
+}

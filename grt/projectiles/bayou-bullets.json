@@ -1,0 +1,63 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database, published with the written permission of Gordon's family (2026-11-04, issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "Bayou Bullets, 125 RN",
+   "maker": "Bayou Bullets",
+   "product": "125 RN",
+   "lot": "2020",
+   "nominalCaliber": ".355",
+   "diameter": 0.00904,
+   "mass": 0.00809986375,
+   "length": 0.0144,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ubcsCode": "T0L2F4S4N1",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Bayou Bullets, LRN 230 gr Hi-Tek Coated",
+   "maker": "Bayou Bullets",
+   "product": "LRN 230 gr Hi-Tek Coated",
+   "lot": "2020",
+   "nominalCaliber": ".452",
+   "diameter": 0.01151,
+   "mass": 0.0149037493,
+   "length": 0.01639,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 145.535402985,
+   "ubcsCode": "T0L2F4S4N1",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

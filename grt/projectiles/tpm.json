@@ -1,0 +1,545 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database, published with the written permission of Gordon's family (2026-11-04, issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "TPM, TPM264MF125",
+   "maker": "TPM",
+   "product": "TPM264MF125",
+   "lot": "2021",
+   "nominalCaliber": ".264",
+   "diameter": 0.0067,
+   "mass": 0.00809986375,
+   "length": 0.034,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0034,
+    "diameterA": 0.0067,
+    "diameterB": 0.00574
+   },
+   "shotStartPressure": 27000000,
+   "boreResistanceAdjustment": -2800000,
+   "ballisticCoefficientG7": 182.798090706,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-11-06",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "TPM, TPM308MF168",
+   "maker": "TPM",
+   "product": "TPM308MF168",
+   "lot": "2021",
+   "nominalCaliber": ".308",
+   "diameter": 0.00781,
+   "mass": 0.01088621688,
+   "length": 0.034,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0039,
+    "diameterA": 0.00781,
+    "diameterB": 0.00671
+   },
+   "shotStartPressure": 27000000,
+   "boreResistanceAdjustment": -8000000,
+   "ballisticCoefficientG7": 168.736699113,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-11-06",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "TPM, TPM308MF175",
+   "maker": "TPM",
+   "product": "TPM308MF175",
+   "lot": "2021",
+   "nominalCaliber": ".308",
+   "diameter": 0.00781,
+   "mass": 0.01133980925,
+   "length": 0.035,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0039,
+    "diameterA": 0.00781,
+    "diameterB": 0.00671
+   },
+   "shotStartPressure": 27000000,
+   "boreResistanceAdjustment": -4000000,
+   "ballisticCoefficientG7": 182.798090706,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-11-06",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "TPM, TPM264XTLD",
+   "maker": "TPM",
+   "product": "TPM264XTLD",
+   "lot": "2021",
+   "nominalCaliber": ".264",
+   "diameter": 0.0067,
+   "mass": 0.00829426048,
+   "length": 0.037,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.0067,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 60000000,
+   "boreResistanceAdjustment": -8000000,
+   "ballisticCoefficientG7": 228.497613383,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-11-06",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "TPM, TPM308XTLD",
+   "maker": "TPM",
+   "product": "TPM308XTLD",
+   "lot": "2021",
+   "nominalCaliber": ".308",
+   "diameter": 0.00781,
+   "mass": 0.01159900489,
+   "length": 0.039,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0055,
+    "diameterA": 0.00781,
+    "diameterB": 0.00627
+   },
+   "shotStartPressure": 36000000,
+   "boreResistanceAdjustment": -9500000,
+   "ballisticCoefficientG7": 221.466917586,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-11-06",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "TPM, TPM338XTLD",
+   "maker": "TPM",
+   "product": "TPM338XTLD",
+   "lot": "2021",
+   "nominalCaliber": ".338",
+   "diameter": 0.00858,
+   "mass": 0.01723651006,
+   "length": 0.048,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00643,
+    "diameterA": 0.00858,
+    "diameterB": 0.00707
+   },
+   "shotStartPressure": 68000000,
+   "boreResistanceAdjustment": -8000000,
+   "ballisticCoefficientG7": 291.77387555,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-11-06",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "TPM, TPM375XTLD372",
+   "maker": "TPM",
+   "product": "TPM375XTLD372",
+   "lot": "2021",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.02410519452,
+   "length": 0.055,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00952,
+    "diameterA": 0.00952,
+    "diameterB": 0.00684
+   },
+   "shotStartPressure": 72000000,
+   "boreResistanceAdjustment": -3500000,
+   "ballisticCoefficientG7": 344.504094023,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-11-06",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "TPM, TPM375XTLD402",
+   "maker": "TPM",
+   "product": "TPM375XTLD402",
+   "lot": "2021",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.02604916182,
+   "length": 0.059,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00775,
+    "diameterA": 0.00952,
+    "diameterB": 0.0072
+   },
+   "shotStartPressure": 72000000,
+   "boreResistanceAdjustment": -3500000,
+   "ballisticCoefficientG7": 362.080833514,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-11-06",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "TPM, TPM408XTLD442",
+   "maker": "TPM",
+   "product": "TPM408XTLD442",
+   "lot": "2021",
+   "nominalCaliber": ".408",
+   "diameter": 0.01035,
+   "mass": 0.02864111822,
+   "length": 0.056,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00787,
+    "diameterA": 0.01035,
+    "diameterB": 0.00814
+   },
+   "shotStartPressure": 36000000,
+   "boreResistanceAdjustment": -7000000,
+   "ballisticCoefficientG7": 330.44270243,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-11-06",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "TPM, TPM224C37",
+   "maker": "TPM",
+   "product": "TPM224C37",
+   "lot": "2021",
+   "nominalCaliber": ".224",
+   "diameter": 0.00568,
+   "mass": 0.00239755967,
+   "length": 0.014,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0005,
+    "diameterA": 0.00568,
+    "diameterB": 0.00556
+   },
+   "shotStartPressure": 27000000,
+   "boreResistanceAdjustment": -6500000,
+   "ballisticCoefficientG1": 105.460436946,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-11-06",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "TPM, TPM284C120",
+   "maker": "TPM",
+   "product": "TPM284C120",
+   "lot": "2021",
+   "nominalCaliber": ".284",
+   "diameter": 0.0072,
+   "mass": 0.00784066811,
+   "length": 0.031,
+   "base": {
+    "shape": "boattail",
+    "length": 0.001,
+    "diameterA": 0.0072,
+    "diameterB": 0.00696
+   },
+   "shotStartPressure": 22000000,
+   "ballisticCoefficientG1": 274.197136059,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-11-06",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "TPM, TPM284C130",
+   "maker": "TPM",
+   "product": "TPM284C130",
+   "lot": "2021",
+   "nominalCaliber": ".284",
+   "diameter": 0.0072,
+   "mass": 0.00855345612,
+   "length": 0.0328,
+   "base": {
+    "shape": "boattail",
+    "length": 0.001,
+    "diameterA": 0.0072,
+    "diameterB": 0.00696
+   },
+   "shotStartPressure": 22000000,
+   "ballisticCoefficientG1": 288.258527652,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-11-06",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "TPM, TPM308C110",
+   "maker": "TPM",
+   "product": "TPM308C110",
+   "lot": "2021",
+   "nominalCaliber": ".308",
+   "diameter": 0.00781,
+   "mass": 0.00725747792,
+   "length": 0.0263,
+   "base": {
+    "shape": "boattail",
+    "length": 0.001,
+    "diameterA": 0.00781,
+    "diameterB": 0.00757
+   },
+   "shotStartPressure": 48000000,
+   "boreResistanceAdjustment": -2000000,
+   "ballisticCoefficientG1": 227.091474223,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-11-19",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "TPM, TPM308C130",
+   "maker": "TPM",
+   "product": "TPM308C130",
+   "lot": "2021",
+   "nominalCaliber": ".308",
+   "diameter": 0.00781,
+   "mass": 0.00855345612,
+   "length": 0.02938,
+   "base": {
+    "shape": "boattail",
+    "length": 0.001,
+    "diameterA": 0.00781,
+    "diameterB": 0.00757
+   },
+   "shotStartPressure": 38000000,
+   "boreResistanceAdjustment": -8000000,
+   "ballisticCoefficientG1": 244.668213714,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-11-06",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "TPM, TPM308C150",
+   "maker": "TPM",
+   "product": "TPM308C150",
+   "lot": "2021",
+   "nominalCaliber": ".308",
+   "diameter": 0.00781,
+   "mass": 0.00978463541,
+   "length": 0.0324,
+   "base": {
+    "shape": "boattail",
+    "length": 0.001,
+    "diameterA": 0.00781,
+    "diameterB": 0.00757
+   },
+   "shotStartPressure": 36000000,
+   "boreResistanceAdjustment": -8000000,
+   "ballisticCoefficientG1": 294.586153869,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-11-06",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "TPM, TPM323C130",
+   "maker": "TPM",
+   "product": "TPM323C130",
+   "lot": "2021",
+   "nominalCaliber": ".323",
+   "diameter": 0.00819,
+   "mass": 0.00848865721,
+   "length": 0.0274,
+   "base": {
+    "shape": "boattail",
+    "length": 0.001,
+    "diameterA": 0.00819,
+    "diameterB": 0.00795
+   },
+   "shotStartPressure": 42000000,
+   "boreResistanceAdjustment": -3000000,
+   "ballisticCoefficientG1": 217.951569688,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-11-06",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "TPM, TPM323C160",
+   "maker": "TPM",
+   "product": "TPM323C160",
+   "lot": "2021",
+   "nominalCaliber": ".323",
+   "diameter": 0.00819,
+   "mass": 0.01043262451,
+   "length": 0.0316,
+   "base": {
+    "shape": "boattail",
+    "length": 0.001,
+    "diameterA": 0.00819,
+    "diameterB": 0.00795
+   },
+   "shotStartPressure": 49000000,
+   "boreResistanceAdjustment": -3000000,
+   "ballisticCoefficientG1": 239.043657077,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-11-19",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "TPM, TPM338C165",
+   "maker": "TPM",
+   "product": "TPM338C165",
+   "lot": "2021",
+   "nominalCaliber": ".338",
+   "diameter": 0.00858,
+   "mass": 0.01069182015,
+   "length": 0.03097,
+   "base": {
+    "shape": "boattail",
+    "length": 0.001,
+    "diameterA": 0.00858,
+    "diameterB": 0.00834
+   },
+   "shotStartPressure": 31000000,
+   "ballisticCoefficientG1": 285.446249333,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-11-06",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "TPM, TPM366C165",
+   "maker": "TPM",
+   "product": "TPM366C165",
+   "lot": "2021",
+   "nominalCaliber": ".366",
+   "diameter": 0.00928,
+   "mass": 0.01069182015,
+   "length": 0.0279,
+   "base": {
+    "shape": "boattail",
+    "length": 0.001,
+    "diameterA": 0.00904,
+    "diameterB": 0.00928
+   },
+   "shotStartPressure": 40000000,
+   "boreResistanceAdjustment": -7000000,
+   "ballisticCoefficientG1": 214.43622179,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-11-06",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

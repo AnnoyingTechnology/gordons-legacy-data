@@ -1,0 +1,496 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database, published with the written permission of Gordon's family (2026-11-04, issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "LostRiver, J36",
+   "maker": "LostRiver",
+   "product": "J36",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0051839128,
+   "length": 0.0281,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 27000000,
+   "ballisticCoefficientG1": 312.16289336,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LostRiver, J36",
+   "maker": "LostRiver",
+   "product": "J36",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.0058319019,
+   "length": 0.0285,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 27000000,
+   "ballisticCoefficientG1": 336.770328647,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LostRiver, J36",
+   "maker": "LostRiver",
+   "product": "J36",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.006479891,
+   "length": 0.0304,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 27000000,
+   "ballisticCoefficientG1": 350.83172024,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LostRiver, J36",
+   "maker": "LostRiver",
+   "product": "J36",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0077758692,
+   "length": 0.0354,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 27000000,
+   "ballisticCoefficientG1": 483.008801212,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LostRiver, J36",
+   "maker": "LostRiver",
+   "product": "J36",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.00874785285,
+   "length": 0.0353,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 27000000,
+   "ballisticCoefficientG1": 456.292157186,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LostRiver, J36",
+   "maker": "LostRiver",
+   "product": "J36",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0090718474,
+   "length": 0.0358,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 27000000,
+   "ballisticCoefficientG1": 452.776809288,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LostRiver, J36",
+   "maker": "LostRiver",
+   "product": "J36",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0103678256,
+   "length": 0.0395,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 27000000,
+   "ballisticCoefficientG1": 502.694749442,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LostRiver, J36",
+   "maker": "LostRiver",
+   "product": "J36",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0090718474,
+   "length": 0.0324,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 27000000,
+   "ballisticCoefficientG1": 397.234312496,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LostRiver, J36",
+   "maker": "LostRiver",
+   "product": "J36",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.0361,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 27000000,
+   "ballisticCoefficientG1": 447.152252651,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LostRiver, J36",
+   "maker": "LostRiver",
+   "product": "J36",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.0387,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 27000000,
+   "ballisticCoefficientG1": 472.462757518,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LostRiver, J36",
+   "maker": "LostRiver",
+   "product": "J36",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.0136077711,
+   "length": 0.0401,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 27000000,
+   "ballisticCoefficientG1": 411.998773669,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LostRiver, J36",
+   "maker": "LostRiver",
+   "product": "J36",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.012959782,
+   "length": 0.0361,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 27000000,
+   "ballisticCoefficientG1": 371.220738049,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LostRiver, J36",
+   "maker": "LostRiver",
+   "product": "J36",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01457975475,
+   "length": 0.0392,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 27000000,
+   "ballisticCoefficientG1": 433.793930637,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LostRiver, J36",
+   "maker": "LostRiver",
+   "product": "J36",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0161997275,
+   "length": 0.0423,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 27000000,
+   "ballisticCoefficientG1": 464.728992141,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LostRiver, J36",
+   "maker": "LostRiver",
+   "product": "J36",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.01457975475,
+   "length": 0.0368,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 27000000,
+   "ballisticCoefficientG1": 372.626877209,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LostRiver, J36",
+   "maker": "LostRiver",
+   "product": "J36",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.01457975475,
+   "length": 0.0368,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 27000000,
+   "ballisticCoefficientG1": 288.258527652,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LostRiver, J36",
+   "maker": "LostRiver",
+   "product": "J36",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.01781970025,
+   "length": 0.0388,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 27000000,
+   "ballisticCoefficientG1": 414.811051987,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LostRiver, J36",
+   "maker": "LostRiver",
+   "product": "J36",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.019439673,
+   "length": 0.0419,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 27000000,
+   "ballisticCoefficientG1": 449.964530969,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LostRiver, J36",
+   "maker": "LostRiver",
+   "product": "J36",
+   "lot": "",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.0226796185,
+   "length": 0.0386,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 27000000,
+   "ballisticCoefficientG1": 361.377763935,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LostRiver, J36",
+   "maker": "LostRiver",
+   "product": "J36",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.025919564,
+   "length": 0.0394,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 27000000,
+   "ballisticCoefficientG1": 330.44270243,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}
