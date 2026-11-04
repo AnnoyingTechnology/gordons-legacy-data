@@ -426,7 +426,7 @@
    "path": "firearms/ruger.json",
    "kind": "firearm",
    "name": "Ruger",
-   "sha256": "e544224aae79da50fc0d0275571ba75c6f151cae742e1494c92718df15c12a96"
+   "sha256": "f370f7a507b4f11bb57f7359ea310b85cdce3c7676d0df85397535fc3b3c2440"
   },
   {
    "path": "firearms/sabatti.json",
@@ -456,7 +456,7 @@
    "path": "firearms/smith-wesson.json",
    "kind": "firearm",
    "name": "Smith & Wesson",
-   "sha256": "954c482d6cf651649b5ef3dd0c47994a2be5e8dd65c91b6cad9f368d9cb43471"
+   "sha256": "ec23385b2bcfeac759911895ac9104ce571ed05dd950cee515e480587a9e7a8f"
   },
   {
    "path": "firearms/steyr-arms.json",

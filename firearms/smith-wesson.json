@@ -7,7 +7,7 @@
     "source": "https://www.smith-wesson.com",
     "file": "",
     "author": "Smith & Wesson Brands, Inc.",
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "method": "read from the maker's own specification pages",
     "status": "published specification, not measured"
   },
@@ -8745,19 +8745,21 @@
       "barrel": {
         "name": "Smith & Wesson M&P40 Shield M2.0 NO Thumb Safety",
         "length": 0.07874,
-        "gunMass": 0.57833,
+        "twistLength": 0.4064,
+        "gunMass": 0.513126,
         "gasLeaks": []
       },
       "source": {
         "kind": "published",
         "publisher": "Smith & Wesson Brands, Inc.",
-        "url": "https://www.smith-wesson.com/product/m-p-40-shield-m2.0-no-thumb-safety",
-        "retrieved": "2026-11-03",
+        "url": "https://www.smith-wesson.com/product/m-p-40-shield-m2-0-no-thumb-safety",
+        "retrieved": "2026-11-04",
         "massBasis": "unstated",
         "published": {
           "caliber": "40 S&W",
           "barrelLength": "3.1",
-          "weight": "20.4 oz"
+          "weight": "18.1 oz",
+          "twist": "1:16\" twist"
         }
       }
     },
@@ -9130,19 +9132,21 @@
       "barrel": {
         "name": "Smith & Wesson M&P45 Shield M2.0 NO Thumb Safety",
         "length": 0.08382,
-        "gunMass": 0.649204,
+        "twistLength": 0.381,
+        "gunMass": 0.581165,
         "gasLeaks": []
       },
       "source": {
         "kind": "published",
         "publisher": "Smith & Wesson Brands, Inc.",
-        "url": "https://www.smith-wesson.com/product/m-p-45-shield-m2.0-no-thumb-safety",
-        "retrieved": "2026-11-03",
+        "url": "https://www.smith-wesson.com/product/m-p-45-shield-m2-0-no-thumb-safety",
+        "retrieved": "2026-11-04",
         "massBasis": "unstated",
         "published": {
           "caliber": "45 AUTO",
           "barrelLength": "3.3",
-          "weight": "22.9 oz"
+          "weight": "20.5 oz",
+          "twist": "1:15\" twist"
         }
       }
     },
@@ -9156,19 +9160,21 @@
       "barrel": {
         "name": "Smith & Wesson M&P45 Shield M2.0 Thumb Safety",
         "length": 0.08382,
-        "gunMass": 0.654874,
+        "twistLength": 0.381,
+        "gunMass": 0.581165,
         "gasLeaks": []
       },
       "source": {
         "kind": "published",
         "publisher": "Smith & Wesson Brands, Inc.",
-        "url": "https://www.smith-wesson.com/product/shield-m20-180022",
-        "retrieved": "2026-11-03",
+        "url": "https://www.smith-wesson.com/product/m-p-45-shield-m2-0-thumb-safety",
+        "retrieved": "2026-11-04",
         "massBasis": "unstated",
         "published": {
           "caliber": "45 AUTO",
           "barrelLength": "3.3",
-          "weight": "23.1 oz"
+          "weight": "20.5 oz",
+          "twist": "1:15\" twist"
         }
       }
     },
