@@ -1,0 +1,102 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-powders",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table propellant, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "maker": "Kazan",
+   "product": "Irbis 30-06 1/20K",
+   "lot": "2021-09-30",
+   "heatOfExplosion": 3700000,
+   "heatCapacityRatio": 1.2249,
+   "covolume": 0.001,
+   "grainDensity": 1600,
+   "bulkDensity": 923,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.5461,
+    "a0": 1.1356,
+    "a1": 0,
+    "z1": 0.4484,
+    "z2": 0.8007,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-04",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2339",
+    "Lr": "0.2",
+    "L01": "0.3574",
+    "L02": "0.4361",
+    "L03": "0.4603",
+    "L04": "0.4767",
+    "L05": "0.4756",
+    "L06": "0.4397",
+    "L07": "0.4095",
+    "L08": "0.3618",
+    "L09": "0.2823",
+    "Qlty": "0.15"
+   }
+  },
+  {
+   "maker": "Kazan",
+   "product": "Sunar 308 - 4/17K",
+   "lot": "2021-04-08",
+   "heatOfExplosion": 3500000,
+   "heatCapacityRatio": 1.2309,
+   "covolume": 0.001,
+   "grainDensity": 1590,
+   "bulkDensity": 904,
+   "burnModel": {
+    "kind": "grt",
+    "vivacity": 0.8144,
+    "a0": 1.0341,
+    "a1": 0,
+    "z1": 0.3093,
+    "z2": 0.8589,
+    "coldTemperatureCoefficient": 0,
+    "hotTemperatureCoefficient": 0
+   },
+   "info": {
+    "description": "",
+    "origin": "GRT",
+    "createdBy": "GRT",
+    "createdOn": "2021-04-10",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   },
+   "unmapped": {
+    "pt": "21",
+    "Lp": "2046",
+    "Lr": "0.2",
+    "L01": "0.6549",
+    "L02": "0.6687",
+    "L03": "0.7157",
+    "L04": "0.6684",
+    "L05": "0.6242",
+    "L06": "0.5763",
+    "L07": "0.5133",
+    "L08": "0.4317",
+    "L09": "0.3209",
+    "Qlty": "0.15"
+   }
+  }
+ ]
+}

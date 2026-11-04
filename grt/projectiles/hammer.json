@@ -1,0 +1,151 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "Hammer, Hammer Hunter",
+   "maker": "Hammer",
+   "product": "Hammer Hunter",
+   "lot": "HH",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.00596149972,
+   "length": 0.0273,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00353,
+    "diameterA": 0.0065,
+    "diameterB": 0.00571
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG7": 116.00648064,
+   "ubcsCode": "H2H1B2D1N2",
+   "maxSeatingDepth": 0.01207,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hammer, Hunter",
+   "maker": "Hammer",
+   "product": "Hunter",
+   "lot": "HH",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00654468991,
+   "length": 0.02621,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00554,
+    "diameterA": 0.00721,
+    "diameterB": 0.00612
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG7": 114.600341481,
+   "ubcsCode": "H2H1B2D1N2",
+   "maxSeatingDepth": 0.00922,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hammer, Hunter",
+   "maker": "Hammer",
+   "product": "Hunter",
+   "lot": "2021",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00570230408,
+   "length": 0.02997,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0025,
+    "diameterA": 0.00617,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG7": 149.050750884,
+   "ubcsCode": "H2H1B2D1C2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hammer, Hunter",
+   "maker": "Hammer",
+   "product": "Hunter",
+   "lot": "2021",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.008521056665,
+   "length": 0.03302,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00447,
+    "diameterA": 0.0072,
+    "diameterB": 0.00597
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG7": 148.347681304,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hammer, Shock Hammer",
+   "maker": "Hammer",
+   "product": "Shock Hammer",
+   "lot": "SH",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.00524871171,
+   "length": 0.02287,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG1": 196.156412719,
+   "ubcsCode": "H2H1F2D1N2",
+   "maxSeatingDepth": 0.01118,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

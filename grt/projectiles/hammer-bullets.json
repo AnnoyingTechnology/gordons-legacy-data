@@ -1,0 +1,43 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "Hammer Bullets, Hammer Hunter",
+   "maker": "Hammer Bullets",
+   "product": "Hammer Hunter",
+   "lot": "8/9/21",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.00485991825,
+   "length": 0.02286,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00422,
+    "diameterA": 0.00653,
+    "diameterB": 0.00578
+   },
+   "shotStartPressure": 35000000,
+   "ballisticCoefficientG7": 103.351228207,
+   "ubcsCode": "H0H1B2D1N2",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

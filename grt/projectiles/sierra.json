@@ -1,0 +1,6156 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "Sierra, BlitzKing 1032",
+   "maker": "Sierra",
+   "product": "BlitzKing 1032",
+   "lot": "",
+   "nominalCaliber": ".204",
+   "diameter": 0.00518,
+   "mass": 0.00207356512,
+   "length": 0.0169,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 155.3783771,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, Blitzking 1440",
+   "maker": "Sierra",
+   "product": "Blitzking 1440",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0025919564,
+   "length": 0.0171,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 135.69242887,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, Blitzking 1450",
+   "maker": "Sierra",
+   "product": "Blitzking 1450",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0032399455,
+   "length": 0.02,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 171.548977432,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, Blitzking 1455",
+   "maker": "Sierra",
+   "product": "Blitzking 1455",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.0201,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 187.016508184,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, Blitzking 1502",
+   "maker": "Sierra",
+   "product": "Blitzking 1502",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00356394005,
+   "length": 0.019,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 126.552524335,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, Blitzking 1507",
+   "maker": "Sierra",
+   "product": "Blitzking 1507",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0045359237,
+   "length": 0.0229,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0033,
+    "diameterA": 0.0062,
+    "diameterB": 0.0046
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 225.685335064,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, Blitzking 1605",
+   "maker": "Sierra",
+   "product": "Blitzking 1605",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.0045359237,
+   "length": 0.0222,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 182.798090706,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, Blitzking 1616",
+   "maker": "Sierra",
+   "product": "Blitzking 1616",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.0058319019,
+   "length": 0.0282,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0036,
+    "diameterA": 0.0065,
+    "diameterB": 0.0046
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 272.7909969,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, BlitzKing BT 1039",
+   "maker": "Sierra",
+   "product": "BlitzKing BT 1039",
+   "lot": "",
+   "nominalCaliber": ".204",
+   "diameter": 0.00518,
+   "mass": 0.00252715749,
+   "length": 0.0187,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0015,
+    "diameterA": 0.0052,
+    "diameterB": 0.0048
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 201.780969356,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, Blitzking BT 1616",
+   "maker": "Sierra",
+   "product": "Blitzking BT 1616",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.0058319019,
+   "length": 0.0271,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0038,
+    "diameterA": 0.0065,
+    "diameterB": 0.0046
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 272.7909969,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, C-HPBT MK 1478",
+   "maker": "Sierra",
+   "product": "C-HPBT MK 1478",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00498951607,
+   "length": 0.025,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 261.541883626,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, C-HPBT MK 9377GT",
+   "maker": "Sierra",
+   "product": "C-HPBT MK 9377GT",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00498951607,
+   "length": 0.0254,
+   "base": {
+    "shape": "boattail",
+    "length": 0.003,
+    "diameterA": 0.0057,
+    "diameterB": 0.0045
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 261.541883626,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FMJ BT 1355",
+   "maker": "Sierra",
+   "product": "FMJ BT 1355",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.0188,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0027,
+    "diameterA": 0.0057,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 187.719577764,
+   "ballisticCoefficientG7": 93.508254092,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FMJ BT 1535",
+   "maker": "Sierra",
+   "product": "FMJ BT 1535",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0058319019,
+   "length": 0.0247,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0025,
+    "diameterA": 0.0062,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 267.166440263,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FMJ BT 2115",
+   "maker": "Sierra",
+   "product": "FMJ BT 2115",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0283,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0033,
+    "diameterA": 0.0078,
+    "diameterB": 0.0067
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 281.930901435,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FMJ FN TM 8105",
+   "maker": "Sierra",
+   "product": "FMJ FN TM 8105",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00615589645,
+   "length": 0.0106,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 63.9793317472,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FMJ FN TM RN 8010",
+   "maker": "Sierra",
+   "product": "FMJ FN TM RN 8010",
+   "lot": "",
+   "nominalCaliber": ".312",
+   "diameter": 0.00792,
+   "mass": 0.00460072261,
+   "length": 0.0113,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 82.9622103974,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FMJ RN 2105",
+   "maker": "Sierra",
+   "product": "FMJ RN 2105",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0071278801,
+   "length": 0.0169,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 99.8358803088,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FMJ RN 8000",
+   "maker": "Sierra",
+   "product": "FMJ RN 8000",
+   "lot": "",
+   "nominalCaliber": ".251",
+   "diameter": 0.00638,
+   "mass": 0.0032399455,
+   "length": 0.0114,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 76.6345841807,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FMJ RN 8005",
+   "maker": "Sierra",
+   "product": "FMJ RN 8005",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00550790735,
+   "length": 0.0136,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 70.3069579639,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FMJ RN 8115",
+   "maker": "Sierra",
+   "product": "FMJ RN 8115",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00745187465,
+   "length": 0.0139,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 73.8223058621,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FMJ RN 8120",
+   "maker": "Sierra",
+   "product": "FMJ RN 8120",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00809986375,
+   "length": 0.0148,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 79.4468624992,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FMJ RN 8345",
+   "maker": "Sierra",
+   "product": "FMJ RN 8345",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.0084238583,
+   "length": 0.0151,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 82.9622103974,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FMJ RN 8350",
+   "maker": "Sierra",
+   "product": "FMJ RN 8350",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.0110158147,
+   "length": 0.0188,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 120.927967698,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FPJ FN 8250",
+   "maker": "Sierra",
+   "product": "FPJ FN 8250",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.0097198365,
+   "length": 0.0173,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 110.381924003,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FPJ FN 8370",
+   "maker": "Sierra",
+   "product": "FPJ FN 8370",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.0116638038,
+   "length": 0.0192,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 101.242019468,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FPJ FN 8480",
+   "maker": "Sierra",
+   "product": "FPJ FN 8480",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01016,
+   "mass": 0.0123117929,
+   "length": 0.0158,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 131.474011393,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FPJ FN 8530",
+   "maker": "Sierra",
+   "product": "FPJ FN 8530",
+   "lot": "",
+   "nominalCaliber": ".410",
+   "diameter": 0.01041,
+   "mass": 0.0142557602,
+   "length": 0.0176,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 133.583220131,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FPJ FN 8605",
+   "maker": "Sierra",
+   "product": "FPJ FN 8605",
+   "lot": "",
+   "nominalCaliber": ".430",
+   "diameter": 0.01092,
+   "mass": 0.0142557602,
+   "length": 0.0179,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 124.443315596,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FPJ FN 8605",
+   "maker": "Sierra",
+   "product": "FPJ FN 8605",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.0142557602,
+   "length": 0.0179,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 124.443315596,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FPJ FN 8615",
+   "maker": "Sierra",
+   "product": "FPJ FN 8615",
+   "lot": "",
+   "nominalCaliber": ".430",
+   "diameter": 0.01092,
+   "mass": 0.0161997275,
+   "length": 0.0192,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 146.941542145,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FPJ FN 8615",
+   "maker": "Sierra",
+   "product": "FPJ FN 8615",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.0161997275,
+   "length": 0.0191,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 146.941542145,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FPJ FN M 8810",
+   "maker": "Sierra",
+   "product": "FPJ FN M 8810",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.01198779835,
+   "length": 0.0125,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 87.1806278753,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FPJ FN Mak 8210",
+   "maker": "Sierra",
+   "product": "FPJ FN Mak 8210",
+   "lot": "",
+   "nominalCaliber": ".363",
+   "diameter": 0.00922,
+   "mass": 0.006479891,
+   "length": 0.0104,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 85.0714191363,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FPJ FN Match 8810",
+   "maker": "Sierra",
+   "product": "FPJ FN Match 8810",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.01198779835,
+   "length": 0.0127,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 75.931514601,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FPJ FN Match 8825",
+   "maker": "Sierra",
+   "product": "FPJ FN Match 8825",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.012959782,
+   "length": 0.0134,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 82.9622103974,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FPJ RN M 8815",
+   "maker": "Sierra",
+   "product": "FPJ RN M 8815",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.0149037493,
+   "length": 0.0161,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 120.927967698,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FPJ RN Match 8815",
+   "maker": "Sierra",
+   "product": "FPJ RN Match 8815",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.0149037493,
+   "length": 0.0167,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 97.0236019902,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FPJ Sig V-Crown 9820",
+   "maker": "Sierra",
+   "product": "FPJ Sig V-Crown 9820",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.012959782,
+   "length": 0.0142,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 82.9622103974,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FPJ-Sil 8370",
+   "maker": "Sierra",
+   "product": "FPJ-Sil 8370",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.0116638038,
+   "length": 0.0192,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 101.242019468,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, FPJ-Sil 8605",
+   "maker": "Sierra",
+   "product": "FPJ-Sil 8605",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.0142557602,
+   "length": 0.0166,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 124.443315596,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HP 1375",
+   "maker": "Sierra",
+   "product": "HP 1375",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0038879346,
+   "length": 0.0202,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 170.142838273,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HP 1385",
+   "maker": "Sierra",
+   "product": "HP 1385",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0025919564,
+   "length": 0.0144,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 106.866576105,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HP 1500",
+   "maker": "Sierra",
+   "product": "HP 1500",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0038879346,
+   "length": 0.0188,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 125.849454755,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HP 1510",
+   "maker": "Sierra",
+   "product": "HP 1510",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00485991825,
+   "length": 0.0207,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 149.753820463,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HP 1600",
+   "maker": "Sierra",
+   "product": "HP 1600",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.00485991825,
+   "length": 0.0191,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 130.770941813,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HP 1700",
+   "maker": "Sierra",
+   "product": "HP 1700",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00550790735,
+   "length": 0.0215,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 21000000,
+   "ballisticCoefficientG1": 155.3783771,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HP 1710",
+   "maker": "Sierra",
+   "product": "HP 1710",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.006479891,
+   "length": 0.0234,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 21000000,
+   "ballisticCoefficientG1": 179.282742808,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HP 1800",
+   "maker": "Sierra",
+   "product": "HP 1800",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0058319019,
+   "length": 0.0213,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 134.989359291,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HP 1895",
+   "maker": "Sierra",
+   "product": "HP 1895",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.006479891,
+   "length": 0.0225,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 144.129263826,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HP 2110",
+   "maker": "Sierra",
+   "product": "HP 2110",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0071278801,
+   "length": 0.0202,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 122.334106857,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HP GK 1728",
+   "maker": "Sierra",
+   "product": "HP GK 1728",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0084238583,
+   "length": 0.0288,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0047,
+    "diameterA": 0.0067,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 249.589700772,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HP MK 1400",
+   "maker": "Sierra",
+   "product": "HP MK 1400",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00343434223,
+   "length": 0.0178,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 154.675307521,
+   "ballisticCoefficientG7": 78.7437929196,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HP MK 2210",
+   "maker": "Sierra",
+   "product": "HP MK 2210",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0123117929,
+   "length": 0.0347,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0062,
+    "diameterA": 0.0078,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 368.408459731,
+   "ballisticCoefficientG7": 189.828786503,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HP MK 2220",
+   "maker": "Sierra",
+   "product": "HP MK 2220",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.0326,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0036,
+    "diameterA": 0.0078,
+    "diameterB": 0.0057
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 328.333493691,
+   "ballisticCoefficientG7": 173.658186171,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HP MK 2230",
+   "maker": "Sierra",
+   "product": "HP MK 2230",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.012959782,
+   "length": 0.0354,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0061,
+    "diameterA": 0.0078,
+    "diameterB": 0.0057
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 390.2036167,
+   "ballisticCoefficientG7": 200.374830197,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HP MK 2240",
+   "maker": "Sierra",
+   "product": "HP MK 2240",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0142557602,
+   "length": 0.0378,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0063,
+    "diameterA": 0.0078,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 434.497000217,
+   "ballisticCoefficientG7": 217.951569688,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HP MK 9240",
+   "maker": "Sierra",
+   "product": "HP MK 9240",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0136077711,
+   "length": 0.0376,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 414.107982407,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HP MK 9240-2235",
+   "maker": "Sierra",
+   "product": "HP MK 9240-2235",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0136077711,
+   "length": 0.0377,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.0078,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 414.107982407,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT 1390",
+   "maker": "Sierra",
+   "product": "HPBT 1390",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.0183,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0013,
+    "diameterA": 0.0057,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 127.958663494,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT 1530",
+   "maker": "Sierra",
+   "product": "HPBT 1530",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00550790735,
+   "length": 0.0262,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0033,
+    "diameterA": 0.0062,
+    "diameterB": 0.0048
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 194.75027356,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT 1615",
+   "maker": "Sierra",
+   "product": "HPBT 1615",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.0058319019,
+   "length": 0.0227,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0035,
+    "diameterA": 0.0065,
+    "diameterB": 0.0046
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 172.955116591,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT 1650",
+   "maker": "Sierra",
+   "product": "HPBT 1650",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.0077758692,
+   "length": 0.0298,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0037,
+    "diameterA": 0.0065,
+    "diameterB": 0.0048
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 241.855935396,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT 1835",
+   "maker": "Sierra",
+   "product": "HPBT 1835",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0090718474,
+   "length": 0.0314,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0033,
+    "diameterA": 0.007,
+    "diameterB": 0.0046
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 232.716030861,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT 1925",
+   "maker": "Sierra",
+   "product": "HPBT 1925",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0103678256,
+   "length": 0.0333,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0036,
+    "diameterA": 0.0072,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 265.057231524,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT 2140",
+   "maker": "Sierra",
+   "product": "HPBT 2140",
+   "lot": "2019",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.0298,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0038,
+    "diameterA": 0.0078,
+    "diameterB": 0.0061
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 250.995839931,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT GK 1902",
+   "maker": "Sierra",
+   "product": "HPBT GK 1902",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0090718474,
+   "length": 0.0333,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0043,
+    "diameterA": 0.0072,
+    "diameterB": 0.0057
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 263.651092365,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT LR MK 9245",
+   "maker": "Sierra",
+   "product": "HPBT LR MK 9245",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0155517384,
+   "length": 0.0405,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0065,
+    "diameterA": 0.0078,
+    "diameterB": 0.0059
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 491.445636168,
+   "ballisticCoefficientG7": 233.41910044,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT LR MK 9390",
+   "maker": "Sierra",
+   "product": "HPBT LR MK 9390",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0051839128,
+   "length": 0.0278,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0039,
+    "diameterA": 0.0057,
+    "diameterB": 0.0046
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 290.367736391,
+   "ballisticCoefficientG7": 152.566098782,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT LR MK 9570",
+   "maker": "Sierra",
+   "product": "HPBT LR MK 9570",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.01004383105,
+   "length": 0.0369,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0051,
+    "diameterA": 0.0067,
+    "diameterB": 0.0043
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 393.718964598,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT Matchking 1975",
+   "maker": "Sierra",
+   "product": "HPBT Matchking 1975",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01133980925,
+   "length": 0.0367,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 427.466304421,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MatchKing 9290",
+   "maker": "Sierra",
+   "product": "HPBT MatchKing 9290",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0058319019,
+   "length": 0.0297,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0049,
+    "diameterA": 0.0057,
+    "diameterB": 0.0045
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 354.347068138,
+   "ballisticCoefficientG7": 179.985812388,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MatchKing 9350",
+   "maker": "Sierra",
+   "product": "HPBT MatchKing 9350",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.0226796185,
+   "length": 0.0473,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0071,
+    "diameterA": 0.0095,
+    "diameterB": 0.0073
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 565.97101161,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 1380",
+   "maker": "Sierra",
+   "product": "HPBT MK 1380",
+   "lot": "2019",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00447112479,
+   "length": 0.0229,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0032,
+    "diameterA": 0.00569,
+    "diameterB": 0.0043
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 208.108595573,
+   "ballisticCoefficientG7": 118.818758959,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 1410",
+   "maker": "Sierra",
+   "product": "HPBT MK 1410",
+   "lot": "2020",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00336954332,
+   "length": 0.01795,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0026,
+    "diameterA": 0.00569,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 155.3783771,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 1505",
+   "maker": "Sierra",
+   "product": "HPBT MK 1505",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0045359237,
+   "length": 0.0211,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0023,
+    "diameterA": 0.0062,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 179.282742808,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 1537",
+   "maker": "Sierra",
+   "product": "HPBT MK 1537",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00615589645,
+   "length": 0.0301,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0047,
+    "diameterA": 0.0062,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 337.473398227,
+   "ballisticCoefficientG7": 163.112142476,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 1570",
+   "maker": "Sierra",
+   "product": "HPBT MK 1570",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00693348337,
+   "length": 0.0319,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0048,
+    "diameterA": 0.00617,
+    "diameterB": 0.0047
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 364.190042253,
+   "ballisticCoefficientG7": 184.204229865,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 1570",
+   "maker": "Sierra",
+   "product": "HPBT MK 1570",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00693348337,
+   "length": 0.032,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 364.190042253,
+   "ballisticCoefficientG7": 184.204229865,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 1628",
+   "maker": "Sierra",
+   "product": "HPBT MK 1628",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.006479891,
+   "length": 0.0276,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0033,
+    "diameterA": 0.0065,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 272.08792732,
+   "ballisticCoefficientG7": 129.364802654,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 1715",
+   "maker": "Sierra",
+   "product": "HPBT MK 1715",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00693348337,
+   "length": 0.0312,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0051,
+    "diameterA": 0.0067,
+    "diameterB": 0.0048
+   },
+   "shotStartPressure": 21000000,
+   "ballisticCoefficientG1": 297.398432187,
+   "ballisticCoefficientG7": 161.706003317,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 1725",
+   "maker": "Sierra",
+   "product": "HPBT MK 1725",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0077758692,
+   "length": 0.0305,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0038,
+    "diameterA": 0.0067,
+    "diameterB": 0.0044
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 291.070805971,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 1727",
+   "maker": "Sierra",
+   "product": "HPBT MK 1727",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00797026593,
+   "length": 0.0326,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0053,
+    "diameterA": 0.0067,
+    "diameterB": 0.0054
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 358.565485616,
+   "ballisticCoefficientG7": 182.798090706,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 1740",
+   "maker": "Sierra",
+   "product": "HPBT MK 1740",
+   "lot": "2019",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0090718474,
+   "length": 0.0332,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0048,
+    "diameterA": 0.0067,
+    "diameterB": 0.0048
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 369.81459889,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 1740",
+   "maker": "Sierra",
+   "product": "HPBT MK 1740",
+   "lot": "2019",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0090718474,
+   "length": 0.03325,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 369.81459889,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 1742",
+   "maker": "Sierra",
+   "product": "HPBT MK 1742",
+   "lot": "2019",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00920144522,
+   "length": 0.035,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0048,
+    "diameterA": 0.0067,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 410.592634509,
+   "ballisticCoefficientG7": 211.623943471,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 1815",
+   "maker": "Sierra",
+   "product": "HPBT MK 1815",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.00745187465,
+   "length": 0.0252,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0015,
+    "diameterA": 0.007,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 227.794543803,
+   "ballisticCoefficientG7": 113.897271902,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 1833",
+   "maker": "Sierra",
+   "product": "HPBT MK 1833",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.00874785285,
+   "length": 0.0331,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0048,
+    "diameterA": 0.007,
+    "diameterB": 0.0043
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 337.473398227,
+   "ballisticCoefficientG7": 177.876603649,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 1903",
+   "maker": "Sierra",
+   "product": "HPBT MK 1903",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0084238583,
+   "length": 0.03,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0034,
+    "diameterA": 0.0072,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 272.7909969,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 1915",
+   "maker": "Sierra",
+   "product": "HPBT MK 1915",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0097198365,
+   "length": 0.0318,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0036,
+    "diameterA": 0.0072,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 296.695362608,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 1915",
+   "maker": "Sierra",
+   "product": "HPBT MK 1915",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0097198365,
+   "length": 0.0316,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 296.695362608,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 1930",
+   "maker": "Sierra",
+   "product": "HPBT MK 1930",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01088621688,
+   "length": 0.0346,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0056,
+    "diameterA": 0.0072,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 337.473398227,
+   "ballisticCoefficientG7": 203.187108516,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 1930",
+   "maker": "Sierra",
+   "product": "HPBT MK 1930",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01088621688,
+   "length": 0.0343,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 337.473398227,
+   "ballisticCoefficientG7": 203.187108516,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 1975",
+   "maker": "Sierra",
+   "product": "HPBT MK 1975",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01133980925,
+   "length": 0.0368,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0058,
+    "diameterA": 0.0072,
+    "diameterB": 0.0059
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 427.466304421,
+   "ballisticCoefficientG7": 229.903752542,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 1980",
+   "maker": "Sierra",
+   "product": "HPBT MK 1980",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0116638038,
+   "length": 0.0362,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0058,
+    "diameterA": 0.0072,
+    "diameterB": 0.0059
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 464.025922562,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 1983",
+   "maker": "Sierra",
+   "product": "HPBT MK 1983",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01185820053,
+   "length": 0.041,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0058,
+    "diameterA": 0.0072,
+    "diameterB": 0.0059
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 497.070192805,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 2123",
+   "maker": "Sierra",
+   "product": "HPBT MK 2123",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00874785285,
+   "length": 0.0263,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0038,
+    "diameterA": 0.0078,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 274.197136059,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 2155",
+   "maker": "Sierra",
+   "product": "HPBT MK 2155",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01004383105,
+   "length": 0.0288,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0042,
+    "diameterA": 0.0078,
+    "diameterB": 0.0055
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 310.756754201,
+   "ballisticCoefficientG7": 150.456890043,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 2190",
+   "maker": "Sierra",
+   "product": "HPBT MK 2190",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0283,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0038,
+    "diameterA": 0.0078,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 288.258527652,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 2200",
+   "maker": "Sierra",
+   "product": "HPBT MK 2200",
+   "lot": "2019",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01088621688,
+   "length": 0.03052,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0038,
+    "diameterA": 0.0078,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 319.193589156,
+   "ballisticCoefficientG7": 153.269168361,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 2200",
+   "maker": "Sierra",
+   "product": "HPBT MK 2200",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01088621688,
+   "length": 0.0307,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 319.193589156,
+   "ballisticCoefficientG7": 153.269168361,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 2275",
+   "maker": "Sierra",
+   "product": "HPBT MK 2275",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01133980925,
+   "length": 0.0322,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0047,
+    "diameterA": 0.0078,
+    "diameterB": 0.0057
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 348.722511501,
+   "ballisticCoefficientG7": 170.845907852,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 2315",
+   "maker": "Sierra",
+   "product": "HPBT MK 2315",
+   "lot": "",
+   "nominalCaliber": ".311",
+   "diameter": 0.0079,
+   "mass": 0.01127501034,
+   "length": 0.0312,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0051,
+    "diameterA": 0.0079,
+    "diameterB": 0.0066
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 344.504094023,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 2415(2430)",
+   "maker": "Sierra",
+   "product": "HPBT MK 2415(2430)",
+   "lot": "2019",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.012959782,
+   "length": 0.0333,
+   "base": {
+    "shape": "boattail",
+    "length": 0.004,
+    "diameterA": 0.0082,
+    "diameterB": 0.0068
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 359.268555196,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 2650",
+   "maker": "Sierra",
+   "product": "HPBT MK 2650",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0161997275,
+   "length": 0.0403,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0063,
+    "diameterA": 0.0086,
+    "diameterB": 0.0067
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 405.671147452,
+   "ballisticCoefficientG7": 220.763848007,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 9377",
+   "maker": "Sierra",
+   "product": "HPBT MK 9377",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00498951607,
+   "length": 0.025,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 261.541883626,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MK 9377G",
+   "maker": "Sierra",
+   "product": "HPBT MK 9377G",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00498951607,
+   "length": 0.0254,
+   "base": {
+    "shape": "boattail",
+    "length": 0.003,
+    "diameterA": 0.0057,
+    "diameterB": 0.0045
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 261.541883626,
+   "ballisticCoefficientG7": 133.583220131,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT MKLR 9300",
+   "maker": "Sierra",
+   "product": "HPBT MKLR 9300",
+   "lot": "2020",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.019439673,
+   "length": 0.0437,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00674,
+    "diameterA": 0.00858,
+    "diameterB": 0.00697
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 530.817532628,
+   "ballisticCoefficientG7": 267.869509843,
+   "ubcsCode": "S1H1B2S4N4",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBT Palma MK 2156",
+   "maker": "Sierra",
+   "product": "HPBT Palma MK 2156",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01004383105,
+   "length": 0.0305,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0046,
+    "diameterA": 0.0078,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 354.347068138,
+   "ballisticCoefficientG7": 161.002933737,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPBTGK 1912",
+   "maker": "Sierra",
+   "product": "HPBTGK 1912",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0090718474,
+   "length": 0.0337,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0048,
+    "diameterA": 0.0072,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 263.651092365,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPFN 30-30 2020",
+   "maker": "Sierra",
+   "product": "HPFN 30-30 2020",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00809986375,
+   "length": 0.0184,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 82.2591408178,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPFN 8900",
+   "maker": "Sierra",
+   "product": "HPFN 8900",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.019439673,
+   "length": 0.0198,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 82.9622103974,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, HPMK 2121",
+   "maker": "Sierra",
+   "product": "HPMK 2121",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00809986375,
+   "length": 0.03,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 245.371283294,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHC 8030",
+   "maker": "Sierra",
+   "product": "JHC 8030",
+   "lot": "",
+   "nominalCaliber": ".312",
+   "diameter": 0.00792,
+   "mass": 0.0058319019,
+   "length": 0.0132,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 86.4775582956,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHC 8320",
+   "maker": "Sierra",
+   "product": "JHC 8320",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00809986375,
+   "length": 0.0136,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 92.1021149327,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHC 8325",
+   "maker": "Sierra",
+   "product": "JHC 8325",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.0090718474,
+   "length": 0.0152,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 54.1363576322,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHC 8360",
+   "maker": "Sierra",
+   "product": "JHC 8360",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.0169,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 68.9008188046,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHC 8365",
+   "maker": "Sierra",
+   "product": "JHC 8365",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.0110158147,
+   "length": 0.0188,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 74.5253754418,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHC 8500",
+   "maker": "Sierra",
+   "product": "JHC 8500",
+   "lot": "",
+   "nominalCaliber": ".410",
+   "diameter": 0.01041,
+   "mass": 0.0110158147,
+   "length": 0.0152,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 85.0714191363,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHC 8520",
+   "maker": "Sierra",
+   "product": "JHC 8520",
+   "lot": "",
+   "nominalCaliber": ".410",
+   "diameter": 0.01041,
+   "mass": 0.0136077711,
+   "length": 0.018,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 113.897271902,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHC 8600",
+   "maker": "Sierra",
+   "product": "JHC 8600",
+   "lot": "",
+   "nominalCaliber": ".430",
+   "diameter": 0.01092,
+   "mass": 0.0116638038,
+   "length": 0.0148,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 89.9929061938,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHC 8600",
+   "maker": "Sierra",
+   "product": "JHC 8600",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.0116638038,
+   "length": 0.0148,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 89.9929061938,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHC 8610",
+   "maker": "Sierra",
+   "product": "JHC 8610",
+   "lot": "",
+   "nominalCaliber": ".430",
+   "diameter": 0.01092,
+   "mass": 0.0155517384,
+   "length": 0.0195,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 127.958663494,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHC 8610",
+   "maker": "Sierra",
+   "product": "JHC 8610",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.0155517384,
+   "length": 0.0194,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 127.958663494,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHC 8620",
+   "maker": "Sierra",
+   "product": "JHC 8620",
+   "lot": "",
+   "nominalCaliber": ".430",
+   "diameter": 0.01092,
+   "mass": 0.0136077711,
+   "length": 0.0172,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 110.381924003,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHC 8620",
+   "maker": "Sierra",
+   "product": "JHC 8620",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.0136077711,
+   "length": 0.0171,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 110.381924003,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHC 8820",
+   "maker": "Sierra",
+   "product": "JHC 8820",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.0155517384,
+   "length": 0.0162,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 103.351228207,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHC Blitz 8300",
+   "maker": "Sierra",
+   "product": "JHC Blitz 8300",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.0071278801,
+   "length": 0.0132,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 82.9622103974,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHP 5350",
+   "maker": "Sierra",
+   "product": "JHP 5350",
+   "lot": "",
+   "nominalCaliber": ".500",
+   "diameter": 0.0127,
+   "mass": 0.0226796185,
+   "length": 0.0201,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 13000000,
+   "ballisticCoefficientG1": 108.975784844,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHP 8100",
+   "maker": "Sierra",
+   "product": "JHP 8100",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.0058319019,
+   "length": 0.0108,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 65.3854709064,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHP 8110",
+   "maker": "Sierra",
+   "product": "JHP 8110",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00745187465,
+   "length": 0.0131,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 87.8836974549,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHP 8125",
+   "maker": "Sierra",
+   "product": "JHP 8125",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00809986375,
+   "length": 0.0141,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 85.774488716,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHP FN 8425",
+   "maker": "Sierra",
+   "product": "JHP FN 8425",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01016,
+   "mass": 0.00874785285,
+   "length": 0.0114,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 72.4161667028,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHP FN 8430",
+   "maker": "Sierra",
+   "product": "JHP FN 8430",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01016,
+   "mass": 0.0097198365,
+   "length": 0.0138,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 82.9622103974,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHP FN 8445",
+   "maker": "Sierra",
+   "product": "JHP FN 8445",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01016,
+   "mass": 0.01069182015,
+   "length": 0.0151,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 89.9929061938,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHP FN 8460",
+   "maker": "Sierra",
+   "product": "JHP FN 8460",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01016,
+   "mass": 0.0116638038,
+   "length": 0.016,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 97.0236019902,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHP FN 8800",
+   "maker": "Sierra",
+   "product": "JHP FN 8800",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.01198779835,
+   "length": 0.0138,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 68.9008188046,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHP FN Mak 8200",
+   "maker": "Sierra",
+   "product": "JHP FN Mak 8200",
+   "lot": "",
+   "nominalCaliber": ".363",
+   "diameter": 0.00922,
+   "mass": 0.00615589645,
+   "length": 0.0102,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 68.9008188046,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHP Sig V-Crown 9465",
+   "maker": "Sierra",
+   "product": "JHP Sig V-Crown 9465",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01016,
+   "mass": 0.01069182015,
+   "length": 0.0144,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 92.8051845124,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHP SportM 8805",
+   "maker": "Sierra",
+   "product": "JHP SportM 8805",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.0149037493,
+   "length": 0.0165,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 99.8358803088,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JHPFN Makarov",
+   "maker": "Sierra",
+   "product": "JHPFN Makarov",
+   "lot": "",
+   "nominalCaliber": ".363",
+   "diameter": 0.00922,
+   "mass": 0.00615589645,
+   "length": 0.0104,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 68.9008188046,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JSP 5400",
+   "maker": "Sierra",
+   "product": "JSP 5400",
+   "lot": "",
+   "nominalCaliber": ".500",
+   "diameter": 0.0127,
+   "mass": 0.025919564,
+   "length": 0.0218,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 13000000,
+   "ballisticCoefficientG1": 130.067872233,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JSP FN 8310",
+   "maker": "Sierra",
+   "product": "JSP FN 8310",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00809986375,
+   "length": 0.0135,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 92.1021149327,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JSP FN 8340",
+   "maker": "Sierra",
+   "product": "JSP FN 8340",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.0163,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 68.9008188046,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JSP FN 8630",
+   "maker": "Sierra",
+   "product": "JSP FN 8630",
+   "lot": "",
+   "nominalCaliber": ".430",
+   "diameter": 0.01092,
+   "mass": 0.019439673,
+   "length": 0.0226,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 158.893724998,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JSP FN 8630",
+   "maker": "Sierra",
+   "product": "JSP FN 8630",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.019439673,
+   "length": 0.0226,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 158.893724998,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, JSP FN 8830",
+   "maker": "Sierra",
+   "product": "JSP FN 8830",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.019439673,
+   "length": 0.021,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 132.880150552,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, MK",
+   "maker": "Sierra",
+   "product": "MK",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0155517384,
+   "length": 0.0406,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 491.445636168,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, Pro-Hunter 2620",
+   "maker": "Sierra",
+   "product": "Pro-Hunter 2620",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01457975475,
+   "length": 0.0326,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 324.818145793,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, Sig V-Crown 9924",
+   "maker": "Sierra",
+   "product": "Sig V-Crown 9924",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00803506484,
+   "length": 0.0135,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 84.3683495567,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, Sig V-Crown 9925",
+   "maker": "Sierra",
+   "product": "Sig V-Crown 9925",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00809986375,
+   "length": 0.0136,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 85.774488716,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, Sig V-Crown 9990",
+   "maker": "Sierra",
+   "product": "Sig V-Crown 9990",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.0058319019,
+   "length": 0.0108,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 66.0885404861,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP",
+   "maker": "Sierra",
+   "product": "SP",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00408233133,
+   "length": 0.0193,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 125.849454755,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP 1310",
+   "maker": "Sierra",
+   "product": "SP 1310",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00291595095,
+   "length": 0.0159,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 144.832333406,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP 1330",
+   "maker": "Sierra",
+   "product": "SP 1330",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0032399455,
+   "length": 0.0172,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 153.269168361,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP 1360",
+   "maker": "Sierra",
+   "product": "SP 1360",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.0181,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 163.815212056,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP 1520",
+   "maker": "Sierra",
+   "product": "SP 1520",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00550790735,
+   "length": 0.0232,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 217.951569688,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP 1540",
+   "maker": "Sierra",
+   "product": "SP 1540",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.006479891,
+   "length": 0.0265,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 258.026535728,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP 1610",
+   "maker": "Sierra",
+   "product": "SP 1610",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.00563750517,
+   "length": 0.0219,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 202.484038936,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP 1620",
+   "maker": "Sierra",
+   "product": "SP 1620",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.006479891,
+   "length": 0.0245,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 227.794543803,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP 1640",
+   "maker": "Sierra",
+   "product": "SP 1640",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.00758147247,
+   "length": 0.0272,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 267.869509843,
+   "ballisticCoefficientG7": 126.552524335,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP 1720",
+   "maker": "Sierra",
+   "product": "SP 1720",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0077758692,
+   "length": 0.0275,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 246.074352874,
+   "ballisticCoefficientG7": 143.426194246,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP 1810",
+   "maker": "Sierra",
+   "product": "SP 1810",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0071278801,
+   "length": 0.0204,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 219.357708847,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP 1830",
+   "maker": "Sierra",
+   "product": "SP 1830",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0084238583,
+   "length": 0.0272,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 255.917326989,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP 1900",
+   "maker": "Sierra",
+   "product": "SP 1900",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0077758692,
+   "length": 0.0229,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 226.388404644,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP 1910",
+   "maker": "Sierra",
+   "product": "SP 1910",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0090718474,
+   "length": 0.0285,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 260.135744466,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP 2120",
+   "maker": "Sierra",
+   "product": "SP 2120",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00809986375,
+   "length": 0.0227,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 192.641064821,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP 2130",
+   "maker": "Sierra",
+   "product": "SP 2130",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0271,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 232.012961281,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP 2150",
+   "maker": "Sierra",
+   "product": "SP 2150",
+   "lot": "2019",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.0306,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 281.227831856,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP 2300",
+   "maker": "Sierra",
+   "product": "SP 2300",
+   "lot": "",
+   "nominalCaliber": ".311",
+   "diameter": 0.0079,
+   "mass": 0.0097198365,
+   "length": 0.0275,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 237.637517918,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP 2305",
+   "maker": "Sierra",
+   "product": "SP 2305",
+   "lot": "",
+   "nominalCaliber": ".311",
+   "diameter": 0.0079,
+   "mass": 0.00809986375,
+   "length": 0.0235,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 189.125716923,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP 2310",
+   "maker": "Sierra",
+   "product": "SP 2310",
+   "lot": "",
+   "nominalCaliber": ".311",
+   "diameter": 0.0079,
+   "mass": 0.0116638038,
+   "length": 0.0302,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 284.040110174,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP 2400",
+   "maker": "Sierra",
+   "product": "SP 2400",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.0097198365,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 232.012961281,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP 2410",
+   "maker": "Sierra",
+   "product": "SP 2410",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01133980925,
+   "length": 0.0285,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 262.948022785,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP Blitz 1340",
+   "maker": "Sierra",
+   "product": "SP Blitz 1340",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0032399455,
+   "length": 0.0168,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 153.269168361,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP Blitz 1345",
+   "maker": "Sierra",
+   "product": "SP Blitz 1345",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.0184,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 163.815212056,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP BlitzK 1445",
+   "maker": "Sierra",
+   "product": "SP BlitzK 1445",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.0184,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 190.531856082,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP Horn 1200",
+   "maker": "Sierra",
+   "product": "SP Horn 1200",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0025919564,
+   "length": 0.0123,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 84.3683495567,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP HORNET 1100",
+   "maker": "Sierra",
+   "product": "SP HORNET 1100",
+   "lot": "",
+   "nominalCaliber": ".223",
+   "diameter": 0.00566,
+   "mass": 0.0025919564,
+   "length": 0.0125,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 81.5560712381,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP HORNET 1110",
+   "maker": "Sierra",
+   "product": "SP HORNET 1110",
+   "lot": "",
+   "nominalCaliber": ".223",
+   "diameter": 0.00566,
+   "mass": 0.00291595095,
+   "length": 0.0137,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 91.3990453531,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP HORNET 1200",
+   "maker": "Sierra",
+   "product": "SP HORNET 1200",
+   "lot": "2019",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0025919564,
+   "length": 0.01245,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 80.1499320789,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP HORNET 1210",
+   "maker": "Sierra",
+   "product": "SP HORNET 1210",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00291595095,
+   "length": 0.0135,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 90.6959757735,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP SemiSp 1300",
+   "maker": "Sierra",
+   "product": "SP SemiSp 1300",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00291595095,
+   "length": 0.0149,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 113.897271902,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP SemiSp 1320",
+   "maker": "Sierra",
+   "product": "SP SemiSp 1320",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0032399455,
+   "length": 0.0163,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 132.880150552,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP SemiSp 1350",
+   "maker": "Sierra",
+   "product": "SP SemiSp 1350",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.0176,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 140.613915928,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP SemiSp 1370",
+   "maker": "Sierra",
+   "product": "SP SemiSp 1370",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00408233133,
+   "length": 0.0192,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 159.596794578,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP SemiSp 1550",
+   "maker": "Sierra",
+   "product": "SP SemiSp 1550",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.006479891,
+   "length": 0.0249,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 189.828786503,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP SemiSp 1750",
+   "maker": "Sierra",
+   "product": "SP SemiSp 1750",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0103678256,
+   "length": 0.0318,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 243.965144135,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP SSPistol 7150",
+   "maker": "Sierra",
+   "product": "SP SSPistol 7150",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0051839128,
+   "length": 0.0224,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 198.968691038,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP SSPistol 7250",
+   "maker": "Sierra",
+   "product": "SP SSPistol 7250",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0084238583,
+   "length": 0.0265,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 225.685335064,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SP SSPistol 7350",
+   "maker": "Sierra",
+   "product": "SP SSPistol 7350",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00874785285,
+   "length": 0.0246,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 210.217804312,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPBT 1365",
+   "maker": "Sierra",
+   "product": "SPBT 1365",
+   "lot": "2019",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.0184,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0019,
+    "diameterA": 0.00569,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 172.955116591,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPBT 1395",
+   "maker": "Sierra",
+   "product": "SPBT 1395",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00421192915,
+   "length": 0.0217,
+   "base": {
+    "shape": "boattail",
+    "length": 0.003,
+    "diameterA": 0.0057,
+    "diameterB": 0.0043
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 213.030082631,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPBT 1560",
+   "maker": "Sierra",
+   "product": "SPBT 1560",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.006479891,
+   "length": 0.0274,
+   "base": {
+    "shape": "hollow-round",
+    "length": 0.0042,
+    "diameterA": 0.0062,
+    "diameterB": 0.0044
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 297.398432187,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPBT 1625",
+   "maker": "Sierra",
+   "product": "SPBT 1625",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.006479891,
+   "length": 0.0252,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0033,
+    "diameterA": 0.0065,
+    "diameterB": 0.0047
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 245.371283294,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPBT 1630",
+   "maker": "Sierra",
+   "product": "SPBT 1630",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.00758147247,
+   "length": 0.0287,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0038,
+    "diameterA": 0.0065,
+    "diameterB": 0.0048
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 283.337040595,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPBT 1730",
+   "maker": "Sierra",
+   "product": "SPBT 1730",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0090718474,
+   "length": 0.0323,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0037,
+    "diameterA": 0.0067,
+    "diameterB": 0.0047
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 341.691815705,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPBT 1820",
+   "maker": "Sierra",
+   "product": "SPBT 1820",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0084238583,
+   "length": 0.0288,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0038,
+    "diameterA": 0.007,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 300.913780086,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPBT 1840",
+   "maker": "Sierra",
+   "product": "SPBT 1840",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0097198365,
+   "length": 0.0318,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0038,
+    "diameterA": 0.007,
+    "diameterB": 0.0055
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 333.958050329,
+   "ballisticCoefficientG7": 166.627490374,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPBT 1845",
+   "maker": "Sierra",
+   "product": "SPBT 1845",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0090718474,
+   "length": 0.0326,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0036,
+    "diameterA": 0.007,
+    "diameterB": 0.0046
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 315.678241258,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPBT 1905",
+   "maker": "Sierra",
+   "product": "SPBT 1905",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0090718474,
+   "length": 0.0295,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0036,
+    "diameterA": 0.0072,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 287.555458072,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPBT 1913",
+   "maker": "Sierra",
+   "product": "SPBT 1913",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0097198365,
+   "length": 0.0305,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0036,
+    "diameterA": 0.0072,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 300.913780086,
+   "ballisticCoefficientG7": 154.675307521,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPBT 1920",
+   "maker": "Sierra",
+   "product": "SPBT 1920",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0103678256,
+   "length": 0.032,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0037,
+    "diameterA": 0.0072,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 314.272102099,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPBT 1940",
+   "maker": "Sierra",
+   "product": "SPBT 1940",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01133980925,
+   "length": 0.0355,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0057,
+    "diameterA": 0.0072,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 368.408459731,
+   "ballisticCoefficientG7": 208.108595573,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPBT 2125",
+   "maker": "Sierra",
+   "product": "SPBT 2125",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0279,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0038,
+    "diameterA": 0.0078,
+    "diameterB": 0.0047
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 262.244953205,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPBT 2145",
+   "maker": "Sierra",
+   "product": "SPBT 2145",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.0302,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0034,
+    "diameterA": 0.0078,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 284.040110174,
+   "ballisticCoefficientG7": 149.753820463,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPBT 2160",
+   "maker": "Sierra",
+   "product": "SPBT 2160",
+   "lot": "2019",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.03255,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0063,
+    "diameterA": 0.0078,
+    "diameterB": 0.0053
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 345.910233182,
+   "ballisticCoefficientG7": 170.142838273,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPBT 2165",
+   "maker": "Sierra",
+   "product": "SPBT 2165",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.012959782,
+   "length": 0.0356,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0062,
+    "diameterA": 0.0078,
+    "diameterB": 0.0055
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 386.688268802,
+   "ballisticCoefficientG7": 203.890178095,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPBT 2420",
+   "maker": "Sierra",
+   "product": "SPBT 2420",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.0142557602,
+   "length": 0.0354,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0051,
+    "diameterA": 0.0082,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 359.971624775,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPBT 2600",
+   "maker": "Sierra",
+   "product": "SPBT 2600",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0161997275,
+   "length": 0.0365,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0048,
+    "diameterA": 0.0086,
+    "diameterB": 0.0067
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 390.2036167,
+   "ballisticCoefficientG7": 187.016508184,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPBT 2610",
+   "maker": "Sierra",
+   "product": "SPBT 2610",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01393176565,
+   "length": 0.0323,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0036,
+    "diameterA": 0.0086,
+    "diameterB": 0.0066
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 335.364189488,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPBT 2850",
+   "maker": "Sierra",
+   "product": "SPBT 2850",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.01457975475,
+   "length": 0.0294,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0033,
+    "diameterA": 0.0091,
+    "diameterB": 0.0071
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 255.917326989,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPBT 2950",
+   "maker": "Sierra",
+   "product": "SPBT 2950",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.0161997275,
+   "length": 0.0301,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0035,
+    "diameterA": 0.0095,
+    "diameterB": 0.0072
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 243.965144135,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPBT 3000",
+   "maker": "Sierra",
+   "product": "SPBT 3000",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.019439673,
+   "length": 0.0351,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0043,
+    "diameterA": 0.0095,
+    "diameterB": 0.0067
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 328.333493691,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPBT Blitz 1515",
+   "maker": "Sierra",
+   "product": "SPBT Blitz 1515",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0051839128,
+   "length": 0.0227,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0033,
+    "diameterA": 0.0062,
+    "diameterB": 0.0046
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 220.060778427,
+   "ballisticCoefficientG7": 108.272715264,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPFN 2900",
+   "maker": "Sierra",
+   "product": "SPFN 2900",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.012959782,
+   "length": 0.0211,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 134.989359291,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPFN 30-30 2000",
+   "maker": "Sierra",
+   "product": "SPFN 30-30 2000",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0225,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 127.958663494,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPFN 30-30 2010",
+   "maker": "Sierra",
+   "product": "SPFN 30-30 2010",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0110158147,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 141.316985507,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPRN 1850",
+   "maker": "Sierra",
+   "product": "SPRN 1850",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0097198365,
+   "length": 0.028,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 153.972237941,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPRN 1950",
+   "maker": "Sierra",
+   "product": "SPRN 1950",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0110158147,
+   "length": 0.0312,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 193.344134401,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPRN 2100",
+   "maker": "Sierra",
+   "product": "SPRN 2100",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0071278801,
+   "length": 0.0165,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 99.8358803088,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPRN 2135",
+   "maker": "Sierra",
+   "product": "SPRN 2135",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0228,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 138.504707189,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPRN 2170",
+   "maker": "Sierra",
+   "product": "SPRN 2170",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.0278,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 165.924420795,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPRN 2180",
+   "maker": "Sierra",
+   "product": "SPRN 2180",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0142557602,
+   "length": 0.0329,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 214.43622179,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, SPRN 2800",
+   "maker": "Sierra",
+   "product": "SPRN 2800",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.012959782,
+   "length": 0.0222,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 101.945089048,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, TGK",
+   "maker": "Sierra",
+   "product": "TGK",
+   "lot": "2021",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.03513,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0047,
+    "diameterA": 0.00777,
+    "diameterB": 0.00653
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 372.626877209,
+   "ubcsCode": "H2B1B2S4??",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, TGK",
+   "maker": "Sierra",
+   "product": "TGK",
+   "lot": "#4100",
+   "nominalCaliber": ".243",
+   "diameter": 0.00616,
+   "mass": 0.0058319019,
+   "length": 0.03046,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00552,
+    "diameterA": 0.00616,
+    "diameterB": 0.00506
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 344.504094023,
+   "ubcsCode": "H2B6B6S4N1",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, TGK 4100",
+   "maker": "Sierra",
+   "product": "TGK 4100",
+   "lot": "2021",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0058319019,
+   "length": 0.02548,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00552,
+    "diameterA": 0.00616,
+    "diameterB": 0.00506
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 344.504094023,
+   "ubcsCode": "H2B6B6S4N1",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, TMK",
+   "maker": "Sierra",
+   "product": "TMK",
+   "lot": "2021",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00693348337,
+   "length": 0.03076,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00605,
+    "diameterA": 0.00671,
+    "diameterB": 0.00536
+   },
+   "shotStartPressure": 17200000,
+   "ballisticCoefficientG1": 312.865962939,
+   "ballisticCoefficientG7": 161.706003317,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, TMK 7160",
+   "maker": "Sierra",
+   "product": "TMK 7160",
+   "lot": "2021",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0038879346,
+   "length": 0.02296,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00358,
+    "diameterA": 0.00569,
+    "diameterB": 0.00432
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 227.091474223,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, TMK 7160",
+   "maker": "Sierra",
+   "product": "TMK 7160",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0038879346,
+   "length": 0.02299,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00358,
+    "diameterA": 0.00569,
+    "diameterB": 0.00432
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 227.091474223,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, TMK 7169",
+   "maker": "Sierra",
+   "product": "TMK 7169",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00447112479,
+   "length": 0.0251,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0032,
+    "diameterA": 0.0057,
+    "diameterB": 0.0043
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 263.651092365,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, TMK 7177",
+   "maker": "Sierra",
+   "product": "TMK 7177",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00498951607,
+   "length": 0.0271,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0034,
+    "diameterA": 0.0057,
+    "diameterB": 0.0046
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 295.289223448,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, TMK 7295",
+   "maker": "Sierra",
+   "product": "TMK 7295",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00615589645,
+   "length": 0.0351,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0047,
+    "diameterA": 0.0062,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 344.504094023,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, TMK 7430",
+   "maker": "Sierra",
+   "product": "TMK 7430",
+   "lot": "2021",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0084238583,
+   "length": 0.0351,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0047,
+    "diameterA": 0.0067,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 364.190042253,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, TMK 7430",
+   "maker": "Sierra",
+   "product": "TMK 7430",
+   "lot": "013199528",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0084238583,
+   "length": 0.03515,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00615,
+    "diameterA": 0.00671,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 364.190042253,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, TMK 7660",
+   "maker": "Sierra",
+   "product": "TMK 7660",
+   "lot": "2021",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0103678256,
+   "length": 0.03611,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0036,
+    "diameterA": 0.0072,
+    "diameterB": 0.0051
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 421.841747783,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, TMK 7725",
+   "maker": "Sierra",
+   "product": "TMK 7725",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00809986375,
+   "length": 0.028,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 241.152865816,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, TMK 7755",
+   "maker": "Sierra",
+   "product": "TMK 7755",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01004383105,
+   "length": 0.0324,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0045,
+    "diameterA": 0.0078,
+    "diameterB": 0.0059
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 364.893111833,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, TMK 7768",
+   "maker": "Sierra",
+   "product": "TMK 7768",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01088621688,
+   "length": 0.0351,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.0078,
+    "diameterB": 0.0062
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 376.142225107,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, TMK 7775",
+   "maker": "Sierra",
+   "product": "TMK 7775",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01133980925,
+   "length": 0.0351,
+   "base": {
+    "shape": "boattail",
+    "length": 0.005,
+    "diameterA": 0.0078,
+    "diameterB": 0.0062
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 376.142225107,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sierra, Varminter 2124",
+   "maker": "Sierra",
+   "product": "Varminter 2124",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00874785285,
+   "length": 0.0243,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 193.344134401,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

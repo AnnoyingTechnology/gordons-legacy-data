@@ -1,0 +1,1648 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "LEE, 311-093-1R",
+   "maker": "LEE",
+   "product": "311-093-1R",
+   "lot": "",
+   "nominalCaliber": ".311",
+   "diameter": 0.0079,
+   "mass": 0.00602629863,
+   "length": 0.0136,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 87.8836974549,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 311-100-2R",
+   "maker": "LEE",
+   "product": "311-100-2R",
+   "lot": "",
+   "nominalCaliber": ".311",
+   "diameter": 0.0079,
+   "mass": 0.006479891,
+   "length": 0.0146,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 122.334106857,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 314-090-SWC",
+   "maker": "LEE",
+   "product": "314-090-SWC",
+   "lot": "",
+   "nominalCaliber": ".314",
+   "diameter": 0.00798,
+   "mass": 0.0058319019,
+   "length": 0.0145,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 70.3069579639,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 356-102-1R",
+   "maker": "LEE",
+   "product": "356-102-1R",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00660948882,
+   "length": 0.0118,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 73.8223058621,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 356-120-TC",
+   "maker": "LEE",
+   "product": "356-120-TC",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.0077758692,
+   "length": 0.0134,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 86.4775582956,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 356-124-2R",
+   "maker": "LEE",
+   "product": "356-124-2R",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00803506484,
+   "length": 0.015,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 115.303411061,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 356-124-TC",
+   "maker": "LEE",
+   "product": "356-124-TC",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00803506484,
+   "length": 0.0152,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 89.2898366142,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 356-125-2R",
+   "maker": "LEE",
+   "product": "356-125-2R",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00809986375,
+   "length": 0.0145,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 116.70955022,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 358-105-SWC",
+   "maker": "LEE",
+   "product": "358-105-SWC",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.00680388555,
+   "length": 0.013,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 74.5253754418,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 358-125-RF",
+   "maker": "LEE",
+   "product": "358-125-RF",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.00809986375,
+   "length": 0.0132,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 81.5560712381,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 358-140{5F}SWC",
+   "maker": "LEE",
+   "product": "358-140{5F}SWC",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.0090718474,
+   "length": 0.0161,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.8358803088,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 358-148-WC",
+   "maker": "LEE",
+   "product": "358-148-WC",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.00959023868,
+   "length": 0.015,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 50.621009734,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 358-150-1R",
+   "maker": "LEE",
+   "product": "358-150-1R",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.0097198365,
+   "length": 0.0158,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 92.1021149327,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 358-150-SWC",
+   "maker": "LEE",
+   "product": "358-150-SWC",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.0097198365,
+   "length": 0.0162,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 78.0407233399,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 358-158-RF",
+   "maker": "LEE",
+   "product": "358-158-RF",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.01023822778,
+   "length": 0.0156,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 112.491132742,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 365-95-1R",
+   "maker": "LEE",
+   "product": "365-95-1R",
+   "lot": "",
+   "nominalCaliber": ".365",
+   "diameter": 0.00927,
+   "mass": 0.00615589645,
+   "length": 0.011,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 65.3854709064,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 401-145-SWC",
+   "maker": "LEE",
+   "product": "401-145-SWC",
+   "lot": "",
+   "nominalCaliber": ".401",
+   "diameter": 0.01019,
+   "mass": 0.00939584195,
+   "length": 0.0139,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 82.2591408178,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 401-175-TC",
+   "maker": "LEE",
+   "product": "401-175-TC",
+   "lot": "",
+   "nominalCaliber": ".401",
+   "diameter": 0.01019,
+   "mass": 0.01133980925,
+   "length": 0.0147,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.1328107291,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 410-195-SWC",
+   "maker": "LEE",
+   "product": "410-195-SWC",
+   "lot": "",
+   "nominalCaliber": ".410",
+   "diameter": 0.01041,
+   "mass": 0.01263578745,
+   "length": 0.0165,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 77.3376537603,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 410-210-SWC",
+   "maker": "LEE",
+   "product": "410-210-SWC",
+   "lot": "",
+   "nominalCaliber": ".410",
+   "diameter": 0.01041,
+   "mass": 0.0136077711,
+   "length": 0.0162,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 83.6652799771,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 429-200-RF",
+   "maker": "LEE",
+   "product": "429-200-RF",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.012959782,
+   "length": 0.0155,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 87.1806278753,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 429-214-SWC",
+   "maker": "LEE",
+   "product": "429-214-SWC",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.01386696674,
+   "length": 0.0168,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 78.0407233399,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 429-240-2R",
+   "maker": "LEE",
+   "product": "429-240-2R",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.0155517384,
+   "length": 0.0194,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 137.801637609,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 430-240-SWC",
+   "maker": "LEE",
+   "product": "430-240-SWC",
+   "lot": "",
+   "nominalCaliber": ".430",
+   "diameter": 0.01092,
+   "mass": 0.0155517384,
+   "length": 0.0187,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 118.818758959,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 452-160-RF",
+   "maker": "LEE",
+   "product": "452-160-RF",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.0103678256,
+   "length": 0.0115,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 63.2762621675,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 452-190-SWC",
+   "maker": "LEE",
+   "product": "452-190-SWC",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.0123117929,
+   "length": 0.0144,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 85.0714191363,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 452-200-RF",
+   "maker": "LEE",
+   "product": "452-200-RF",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.012959782,
+   "length": 0.0136,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 98.4297411495,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 452-200-SWC",
+   "maker": "LEE",
+   "product": "452-200-SWC",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.012959782,
+   "length": 0.0164,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 89.2898366142,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 452-228-1R",
+   "maker": "LEE",
+   "product": "452-228-1R",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.01477415148,
+   "length": 0.0165,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 101.945089048,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 452-230-TC",
+   "maker": "LEE",
+   "product": "452-230-TC",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.0149037493,
+   "length": 0.0159,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 102.648158627,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 452-252-SWC",
+   "maker": "LEE",
+   "product": "452-252-SWC",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.01632932532,
+   "length": 0.0173,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 95.6174628309,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 452-255-RF",
+   "maker": "LEE",
+   "product": "452-255-RF",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.01652372205,
+   "length": 0.017,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 147.644611724,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 457-340-F",
+   "maker": "LEE",
+   "product": "457-340-F",
+   "lot": "",
+   "nominalCaliber": ".457",
+   "diameter": 0.01161,
+   "mass": 0.0220316294,
+   "length": 0.0223,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 148.347681304,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 457-405-F",
+   "maker": "LEE",
+   "product": "457-405-F",
+   "lot": "",
+   "nominalCaliber": ".457",
+   "diameter": 0.01161,
+   "mass": 0.02624355855,
+   "length": 0.026,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 158.190655419,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 457-450-F",
+   "maker": "LEE",
+   "product": "457-450-F",
+   "lot": "",
+   "nominalCaliber": ".457",
+   "diameter": 0.01161,
+   "mass": 0.0291595095,
+   "length": 0.0293,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 175.76739491,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 457-500-3R",
+   "maker": "LEE",
+   "product": "457-500-3R",
+   "lot": "",
+   "nominalCaliber": ".459",
+   "diameter": 0.01166,
+   "mass": 0.032399455,
+   "length": 0.0351,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 311459.82378,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 457-500-F",
+   "maker": "LEE",
+   "product": "457-500-F",
+   "lot": "",
+   "nominalCaliber": ".457",
+   "diameter": 0.01161,
+   "mass": 0.032399455,
+   "length": 0.0333,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 195.45334314,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 459-405-HB",
+   "maker": "LEE",
+   "product": "459-405-HB",
+   "lot": "",
+   "nominalCaliber": ".459",
+   "diameter": 0.01166,
+   "mass": 0.02624355855,
+   "length": 0.0257,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 175.76739491,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 476-400-RF",
+   "maker": "LEE",
+   "product": "476-400-RF",
+   "lot": "",
+   "nominalCaliber": ".476",
+   "diameter": 0.01209,
+   "mass": 0.025919564,
+   "length": 0.0231,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 190.531856082,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 515-450-F",
+   "maker": "LEE",
+   "product": "515-450-F",
+   "lot": "",
+   "nominalCaliber": ".515",
+   "diameter": 0.01308,
+   "mass": 0.0291595095,
+   "length": 0.0257,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 154.675307521,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, 515-500-F",
+   "maker": "LEE",
+   "product": "515-500-F",
+   "lot": "",
+   "nominalCaliber": ".515",
+   "diameter": 0.01308,
+   "mass": 0.032399455,
+   "length": 0.0272,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 198.968691038,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, C285-130-R",
+   "maker": "LEE",
+   "product": "C285-130-R",
+   "lot": "",
+   "nominalCaliber": ".285",
+   "diameter": 0.00724,
+   "mass": 0.0084238583,
+   "length": 0.0234,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 214.43622179,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, C309-113-F",
+   "maker": "LEE",
+   "product": "C309-113-F",
+   "lot": "",
+   "nominalCaliber": ".309",
+   "diameter": 0.00785,
+   "mass": 0.00732227683,
+   "length": 0.016,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 139.910846348,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, C309-120-R",
+   "maker": "LEE",
+   "product": "C309-120-R",
+   "lot": "",
+   "nominalCaliber": ".309",
+   "diameter": 0.00785,
+   "mass": 0.0077758692,
+   "length": 0.0181,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 114.600341481,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, C309-150-F",
+   "maker": "LEE",
+   "product": "C309-150-F",
+   "lot": "",
+   "nominalCaliber": ".309",
+   "diameter": 0.00785,
+   "mass": 0.0097198365,
+   "length": 0.022,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 185.610369025,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, C309-160-R",
+   "maker": "LEE",
+   "product": "C309-160-R",
+   "lot": "",
+   "nominalCaliber": ".309",
+   "diameter": 0.00785,
+   "mass": 0.0103678256,
+   "length": 0.0228,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 177.173534069,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, C309-170-F",
+   "maker": "LEE",
+   "product": "C309-170-F",
+   "lot": "",
+   "nominalCaliber": ".309",
+   "diameter": 0.00785,
+   "mass": 0.0110158147,
+   "length": 0.025,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 188.422647343,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, C309-180-R",
+   "maker": "LEE",
+   "product": "C309-180-R",
+   "lot": "",
+   "nominalCaliber": ".309",
+   "diameter": 0.00785,
+   "mass": 0.0116638038,
+   "length": 0.0257,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 222.873056746,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, C309-200-R",
+   "maker": "LEE",
+   "product": "C309-200-R",
+   "lot": "",
+   "nominalCaliber": ".309",
+   "diameter": 0.00785,
+   "mass": 0.012959782,
+   "length": 0.0293,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 247.480492033,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, C312-155-2R",
+   "maker": "LEE",
+   "product": "C312-155-2R",
+   "lot": "",
+   "nominalCaliber": ".312",
+   "diameter": 0.00792,
+   "mass": 0.01004383105,
+   "length": 0.0238,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 188.422647343,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, C312-185-1R",
+   "maker": "LEE",
+   "product": "C312-185-1R",
+   "lot": "",
+   "nominalCaliber": ".312",
+   "diameter": 0.00792,
+   "mass": 0.01198779835,
+   "length": 0.0274,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 173.658186171,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, C324-175-1R",
+   "maker": "LEE",
+   "product": "C324-175-1R",
+   "lot": "",
+   "nominalCaliber": ".324",
+   "diameter": 0.00823,
+   "mass": 0.01133980925,
+   "length": 0.0242,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 151.863029202,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, C329-205-1R",
+   "maker": "LEE",
+   "product": "C329-205-1R",
+   "lot": "",
+   "nominalCaliber": ".329",
+   "diameter": 0.00836,
+   "mass": 0.01328377655,
+   "length": 0.0257,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 253.80811825,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, C338-220-1R",
+   "maker": "LEE",
+   "product": "C338-220-1R",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0142557602,
+   "length": 0.0267,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 175.76739491,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, C358-158-SWC",
+   "maker": "LEE",
+   "product": "C358-158-SWC",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.01023822778,
+   "length": 0.0169,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 82.2591408178,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, C379-250-1R",
+   "maker": "LEE",
+   "product": "C379-250-1R",
+   "lot": "",
+   "nominalCaliber": ".379",
+   "diameter": 0.00963,
+   "mass": 0.0161997275,
+   "length": 0.023,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 175.76739491,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, C429-240-SWC",
+   "maker": "LEE",
+   "product": "C429-240-SWC",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.0155517384,
+   "length": 0.019,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 87.1806278753,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, C430-310-RF",
+   "maker": "LEE",
+   "product": "C430-310-RF",
+   "lot": "",
+   "nominalCaliber": ".430",
+   "diameter": 0.01092,
+   "mass": 0.0200876621,
+   "length": 0.0192,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 153.269168361,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, C452-300-RF",
+   "maker": "LEE",
+   "product": "C452-300-RF",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.019439673,
+   "length": 0.0191,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 163.815212056,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, C476-325-RF",
+   "maker": "LEE",
+   "product": "C476-325-RF",
+   "lot": "",
+   "nominalCaliber": ".476",
+   "diameter": 0.01209,
+   "mass": 0.02105964575,
+   "length": 0.0184,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 179.985812388,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, C501-440-RF",
+   "maker": "LEE",
+   "product": "C501-440-RF",
+   "lot": "",
+   "nominalCaliber": ".501",
+   "diameter": 0.01273,
+   "mass": 0.0285115204,
+   "length": 0.0231,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 208.108595573,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, CTL312-160-2R",
+   "maker": "LEE",
+   "product": "CTL312-160-2R",
+   "lot": "",
+   "nominalCaliber": ".312",
+   "diameter": 0.00792,
+   "mass": 0.01004383105,
+   "length": 0.0232,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 194.04720398,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, TL358-148-WC",
+   "maker": "LEE",
+   "product": "TL358-148-WC",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.00959023868,
+   "length": 0.0147,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 50.621009734,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, TL358-158-2R",
+   "maker": "LEE",
+   "product": "TL358-158-2R",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.01023822778,
+   "length": 0.0179,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 145.535402985,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, TL358-158-SWC",
+   "maker": "LEE",
+   "product": "TL358-158-SWC",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.01023822778,
+   "length": 0.0169,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 82.2591408178,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, TL401-175-SWC",
+   "maker": "LEE",
+   "product": "TL401-175-SWC",
+   "lot": "",
+   "nominalCaliber": ".401",
+   "diameter": 0.01019,
+   "mass": 0.01133980925,
+   "length": 0.0145,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.1328107291,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, TL452-230-2R",
+   "maker": "LEE",
+   "product": "TL452-230-2R",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.0149037493,
+   "length": 0.0165,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 132.880150552,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "LEE, TL452-230-TC",
+   "maker": "LEE",
+   "product": "TL452-230-TC",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.0149037493,
+   "length": 0.016,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 102.648158627,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

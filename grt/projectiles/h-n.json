@@ -1,0 +1,5818 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "H&N, FN HS",
+   "maker": "H&N",
+   "product": "FN HS",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01250618963,
+   "length": 0.0211,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 126.552524335,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, FN HS 50AE",
+   "maker": "H&N",
+   "product": "FN HS 50AE",
+   "lot": "",
+   "nominalCaliber": ".500",
+   "diameter": 0.0127,
+   "mass": 0.019439673,
+   "length": 0.0169,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 103.351228207,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, HP HS",
+   "maker": "H&N",
+   "product": "HP HS",
+   "lot": "2019",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00809986375,
+   "length": 0.0149,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 101.242019468,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, HP HS",
+   "maker": "H&N",
+   "product": "HP HS",
+   "lot": "2019",
+   "nominalCaliber": ".401",
+   "diameter": 0.01019,
+   "mass": 0.0116638038,
+   "length": 0.0163,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 101.945089048,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, HP HS",
+   "maker": "H&N",
+   "product": "HP HS",
+   "lot": "2019",
+   "nominalCaliber": ".401",
+   "diameter": 0.01019,
+   "mass": 0.01263578745,
+   "length": 0.0169,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 111.788063163,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, HP HS",
+   "maker": "H&N",
+   "product": "HP HS",
+   "lot": "2019",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.012959782,
+   "length": 0.0153,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 86.4775582956,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, HP HS",
+   "maker": "H&N",
+   "product": "HP HS",
+   "lot": "2019",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00809986375,
+   "length": 0.0151,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 101.242019468,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, HP HS",
+   "maker": "H&N",
+   "product": "HP HS",
+   "lot": "2019",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.0155517384,
+   "length": 0.018,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.003
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 149.753820463,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, HP HS",
+   "maker": "H&N",
+   "product": "HP HS",
+   "lot": "2019",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.006479891,
+   "length": 0.0128,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 78.7437929196,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, HP HS",
+   "maker": "H&N",
+   "product": "HP HS",
+   "lot": "2019",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.01308937982,
+   "length": 0.0143,
+   "base": {
+    "shape": "hollow",
+    "length": 0.001,
+    "diameterA": 0.00875,
+    "diameterB": 0
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 86.4775582956,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, HP HS",
+   "maker": "H&N",
+   "product": "HP HS",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.006479891,
+   "length": 0.0124,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 78.7437929196,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, HP HS",
+   "maker": "H&N",
+   "product": "HP HS",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00745187465,
+   "length": 0.0149,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 84.3683495567,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, HP HS",
+   "maker": "H&N",
+   "product": "HP HS",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00745187465,
+   "length": 0.0143,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 84.3683495567,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, HP HS",
+   "maker": "H&N",
+   "product": "HP HS",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00939584195,
+   "length": 0.0171,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 123.037176437,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, HP HS",
+   "maker": "H&N",
+   "product": "HP HS",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00939584195,
+   "length": 0.0165,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 123.037176437,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, HP HS",
+   "maker": "H&N",
+   "product": "HP HS",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00952543977,
+   "length": 0.0174,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 123.740246016,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, HP HS",
+   "maker": "H&N",
+   "product": "HP HS",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.0178,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.003
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 132.880150552,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, HP HS",
+   "maker": "H&N",
+   "product": "HP HS",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.0116638038,
+   "length": 0.02,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.003
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 139.910846348,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, HP HS",
+   "maker": "H&N",
+   "product": "HP HS",
+   "lot": "",
+   "nominalCaliber": ".401",
+   "diameter": 0.01019,
+   "mass": 0.0142557602,
+   "length": 0.0197,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 139.910846348,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, HP HS",
+   "maker": "H&N",
+   "product": "HP HS",
+   "lot": "",
+   "nominalCaliber": ".402",
+   "diameter": 0.01021,
+   "mass": 0.0116638038,
+   "length": 0.0167,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.8358803088,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, HP HS",
+   "maker": "H&N",
+   "product": "HP HS",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.012959782,
+   "length": 0.016,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.003
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 133.583220131,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, HP HS",
+   "maker": "H&N",
+   "product": "HP HS",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.012959782,
+   "length": 0.0147,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 87.1806278753,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, HP HS",
+   "maker": "H&N",
+   "product": "HP HS",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.01198779835,
+   "length": 0.0139,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 85.0714191363,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, HP HS",
+   "maker": "H&N",
+   "product": "HP HS",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.01198779835,
+   "length": 0.0133,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 85.0714191363,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, HP HS",
+   "maker": "H&N",
+   "product": "HP HS",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.012959782,
+   "length": 0.0141,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 86.4775582956,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, HP HS max.1600fps",
+   "maker": "H&N",
+   "product": "HP HS max.1600fps",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00809986375,
+   "length": 0.0197,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.006,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 172.252047012,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS CuHP max.1700fps",
+   "maker": "H&N",
+   "product": "KS CuHP max.1700fps",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.019439673,
+   "length": 0.0209,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 151.159959622,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS F",
+   "maker": "H&N",
+   "product": "KS F",
+   "lot": "",
+   "nominalCaliber": ".313",
+   "diameter": 0.00795,
+   "mass": 0.0110158147,
+   "length": 0.024,
+   "base": {
+    "shape": "hollow",
+    "length": 0.006,
+    "diameterA": 0.006,
+    "diameterB": 0.0032
+   },
+   "shotStartPressure": 11000000,
+   "ballisticCoefficientG1": 175.76739491,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS F",
+   "maker": "H&N",
+   "product": "KS F",
+   "lot": "",
+   "nominalCaliber": ".321",
+   "diameter": 0.00815,
+   "mass": 0.00959023868,
+   "length": 0.0216,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 155.3783771,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS F",
+   "maker": "H&N",
+   "product": "KS F",
+   "lot": "",
+   "nominalCaliber": ".321",
+   "diameter": 0.00815,
+   "mass": 0.0110158147,
+   "length": 0.0234,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 11000000,
+   "ballisticCoefficientG1": 177.173534069,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS F",
+   "maker": "H&N",
+   "product": "KS F",
+   "lot": "",
+   "nominalCaliber": ".321",
+   "diameter": 0.00815,
+   "mass": 0.01263578745,
+   "length": 0.0263,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 11000000,
+   "ballisticCoefficientG1": 203.187108516,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS F",
+   "maker": "H&N",
+   "product": "KS F",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00809986375,
+   "length": 0.0164,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 101.945089048,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS F",
+   "maker": "H&N",
+   "product": "KS F",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00809986375,
+   "length": 0.0159,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 101.945089048,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS F",
+   "maker": "H&N",
+   "product": "KS F",
+   "lot": "",
+   "nominalCaliber": ".318",
+   "diameter": 0.00808,
+   "mass": 0.0110158147,
+   "length": 0.0234,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 175.76739491,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HP HS",
+   "maker": "H&N",
+   "product": "KS HP HS",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00822946157,
+   "length": 0.0155,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 101.242019468,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "2019",
+   "nominalCaliber": ".401",
+   "diameter": 0.01019,
+   "mass": 0.0116638038,
+   "length": 0.0166,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 101.242019468,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "2019",
+   "nominalCaliber": ".401",
+   "diameter": 0.01019,
+   "mass": 0.01263578745,
+   "length": 0.017,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 111.084993583,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".321",
+   "diameter": 0.00815,
+   "mass": 0.01263578745,
+   "length": 0.0263,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.007,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 203.187108516,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00809986375,
+   "length": 0.0145,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.8358803088,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00809986375,
+   "length": 0.0139,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.8358803088,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00809986375,
+   "length": 0.0143,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.1328107291,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00809986375,
+   "length": 0.0137,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.1328107291,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00874785285,
+   "length": 0.0154,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 106.866576105,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00874785285,
+   "length": 0.0148,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 106.866576105,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00939584195,
+   "length": 0.0171,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 121.631037278,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00939584195,
+   "length": 0.0165,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 121.631037278,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00822946157,
+   "length": 0.0151,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 101.242019468,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00939584195,
+   "length": 0.0161,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.003
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 118.818758959,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00952543977,
+   "length": 0.0169,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 123.037176437,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.0175,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.003
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 132.177080972,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.0116638038,
+   "length": 0.0196,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.003
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 139.207776769,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".401",
+   "diameter": 0.01019,
+   "mass": 0.0097198365,
+   "length": 0.0134,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 87.8836974549,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".401",
+   "diameter": 0.01019,
+   "mass": 0.0142557602,
+   "length": 0.0185,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 139.207776769,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".402",
+   "diameter": 0.01021,
+   "mass": 0.0116638038,
+   "length": 0.0157,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 100.538949888,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".402",
+   "diameter": 0.01021,
+   "mass": 0.0142557602,
+   "length": 0.0185,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 137.801637609,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".406",
+   "diameter": 0.01031,
+   "mass": 0.0155517384,
+   "length": 0.0197,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 151.863029202,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.012959782,
+   "length": 0.0155,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.003
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 132.880150552,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.0155517384,
+   "length": 0.0181,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.003
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 149.050750884,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.019439673,
+   "length": 0.0217,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 161.002933737,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.01198779835,
+   "length": 0.0134,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 83.6652799771,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.01198779835,
+   "length": 0.0129,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 83.6652799771,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.012959782,
+   "length": 0.0142,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 85.774488716,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.012959782,
+   "length": 0.0136,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 85.774488716,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.0149037493,
+   "length": 0.016,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 106.163506526,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.0149037493,
+   "length": 0.0154,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 106.163506526,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.0161997275,
+   "length": 0.0173,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 95.6174628309,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.0161997275,
+   "length": 0.0167,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 95.6174628309,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.019439673,
+   "length": 0.0201,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 130.770941813,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.019439673,
+   "length": 0.0195,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 130.770941813,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".454",
+   "diameter": 0.01153,
+   "mass": 0.0161997275,
+   "length": 0.0173,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 95.6174628309,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".501",
+   "diameter": 0.01273,
+   "mass": 0.0226796185,
+   "length": 0.019,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 137.09856803,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".501",
+   "diameter": 0.01273,
+   "mass": 0.025919564,
+   "length": 0.0214,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 143.426194246,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".321",
+   "diameter": 0.00815,
+   "mass": 0.00959023868,
+   "length": 0.02,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 11000000,
+   "ballisticCoefficientG1": 154.675307521,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".321",
+   "diameter": 0.00815,
+   "mass": 0.0110158147,
+   "length": 0.0226,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 176.470464489,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00809986375,
+   "length": 0.0137,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.1328107291,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00874785285,
+   "length": 0.0148,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 106.866576105,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS",
+   "maker": "H&N",
+   "product": "KS HS",
+   "lot": "",
+   "nominalCaliber": ".430",
+   "diameter": 0.01092,
+   "mass": 0.019439673,
+   "length": 0.0211,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 161.002933737,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS HP",
+   "maker": "H&N",
+   "product": "KS HS HP",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00809986375,
+   "length": 0.0153,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.8358803088,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS HP",
+   "maker": "H&N",
+   "product": "KS HS HP",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00809986375,
+   "length": 0.0147,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.8358803088,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS max.1600fps",
+   "maker": "H&N",
+   "product": "KS HS max.1600fps",
+   "lot": "",
+   "nominalCaliber": ".321",
+   "diameter": 0.00815,
+   "mass": 0.0110158147,
+   "length": 0.0232,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.007,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 176.470464489,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS max.1700fps",
+   "maker": "H&N",
+   "product": "KS HS max.1700fps",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.019439673,
+   "length": 0.0198,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 154.675307521,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS max.1700fps",
+   "maker": "H&N",
+   "product": "KS HS max.1700fps",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.0226796185,
+   "length": 0.0226,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 158.190655419,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS v.R",
+   "maker": "H&N",
+   "product": "KS HS v.R",
+   "lot": "",
+   "nominalCaliber": ".325",
+   "diameter": 0.00825,
+   "mass": 0.00622069536,
+   "length": 0.013,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 80.8530016585,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS HS v.Rüden",
+   "maker": "H&N",
+   "product": "KS HS v.Rüden",
+   "lot": "",
+   "nominalCaliber": ".325",
+   "diameter": 0.00825,
+   "mass": 0.00622069536,
+   "length": 0.0136,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.002,
+    "diameterB": 0.0065
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 80.8530016585,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS KB",
+   "maker": "H&N",
+   "product": "KS KB",
+   "lot": "",
+   "nominalCaliber": ".321",
+   "diameter": 0.00815,
+   "mass": 0.00959023868,
+   "length": 0.0211,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 154.675307521,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS KB",
+   "maker": "H&N",
+   "product": "KS KB",
+   "lot": "",
+   "nominalCaliber": ".321",
+   "diameter": 0.00815,
+   "mass": 0.0110158147,
+   "length": 0.0234,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 177.173534069,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS KB",
+   "maker": "H&N",
+   "product": "KS KB",
+   "lot": "",
+   "nominalCaliber": ".321",
+   "diameter": 0.00815,
+   "mass": 0.01263578745,
+   "length": 0.0264,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 203.187108516,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS KB",
+   "maker": "H&N",
+   "product": "KS KB",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00809986375,
+   "length": 0.0141,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.1328107291,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS KB",
+   "maker": "H&N",
+   "product": "KS KB",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00809986375,
+   "length": 0.0135,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.1328107291,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS KB",
+   "maker": "H&N",
+   "product": "KS KB",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.0169,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.003
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 130.067872233,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS KB",
+   "maker": "H&N",
+   "product": "KS KB",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.012959782,
+   "length": 0.0139,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 85.0714191363,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS KB",
+   "maker": "H&N",
+   "product": "KS KB",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.012959782,
+   "length": 0.0133,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 85.0714191363,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, KS KB",
+   "maker": "H&N",
+   "product": "KS KB",
+   "lot": "",
+   "nominalCaliber": ".318",
+   "diameter": 0.00808,
+   "mass": 0.0110158147,
+   "length": 0.0228,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 175.76739491,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, L WC HB",
+   "maker": "H&N",
+   "product": "L WC HB",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00959023868,
+   "length": 0.0165,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 703.069579639,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN F",
+   "maker": "H&N",
+   "product": "RN F",
+   "lot": "",
+   "nominalCaliber": ".314",
+   "diameter": 0.00798,
+   "mass": 0.006479891,
+   "length": 0.0156,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.006,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 105.460436946,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN F",
+   "maker": "H&N",
+   "product": "RN F",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.0077758692,
+   "length": 0.0146,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 82.2591408178,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN F",
+   "maker": "H&N",
+   "product": "RN F",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.0077758692,
+   "length": 0.014,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 82.2591408178,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN F",
+   "maker": "H&N",
+   "product": "RN F",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00809986375,
+   "length": 0.0152,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 83.6652799771,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN F",
+   "maker": "H&N",
+   "product": "RN F",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00809986375,
+   "length": 0.0146,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 83.6652799771,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN F",
+   "maker": "H&N",
+   "product": "RN F",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.0187,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 133.583220131,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN F",
+   "maker": "H&N",
+   "product": "RN F",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.012959782,
+   "length": 0.0226,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 158.190655419,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN F",
+   "maker": "H&N",
+   "product": "RN F",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.012959782,
+   "length": 0.0161,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 95.6174628309,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN F",
+   "maker": "H&N",
+   "product": "RN F",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.012959782,
+   "length": 0.0155,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 95.6174628309,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN F",
+   "maker": "H&N",
+   "product": "RN F",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.0149037493,
+   "length": 0.0178,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 115.303411061,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN F",
+   "maker": "H&N",
+   "product": "RN F",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.0149037493,
+   "length": 0.0172,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 115.303411061,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "2019",
+   "nominalCaliber": ".309",
+   "diameter": 0.00785,
+   "mass": 0.00460072261,
+   "length": 0.0118,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.006,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 84.3683495567,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00589670081,
+   "length": 0.0168,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 95000000,
+   "ballisticCoefficientG1": 77.3376537603,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00589670081,
+   "length": 0.0161,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 95000000,
+   "ballisticCoefficientG1": 77.3376537603,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00291595095,
+   "length": 0.0138,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0004,
+    "diameterA": 0.0041,
+    "diameterB": 0.0004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 87.8836974549,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.016,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0004,
+    "diameterA": 0.0041,
+    "diameterB": 0.0004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 106.163506526,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0058319019,
+   "length": 0.0199,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0004,
+    "diameterA": 0.0055,
+    "diameterB": 0.0035
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 175.76739491,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.006479891,
+   "length": 0.0194,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0004,
+    "diameterA": 0.0055,
+    "diameterB": 0.0035
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 179.282742808,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.0271,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.006,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 232.012961281,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.012959782,
+   "length": 0.0288,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.006,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 246.074352874,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".309",
+   "diameter": 0.00785,
+   "mass": 0.00557270626,
+   "length": 0.0131,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.006,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 92.1021149327,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".311",
+   "diameter": 0.0079,
+   "mass": 0.00557270626,
+   "length": 0.0138,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.006,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 91.3990453531,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".312",
+   "diameter": 0.00792,
+   "mass": 0.0084238583,
+   "length": 0.0208,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0004,
+    "diameterA": 0.0055,
+    "diameterB": 0.0035
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 161.706003317,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".314",
+   "diameter": 0.00798,
+   "mass": 0.006479891,
+   "length": 0.0156,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.006,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 105.460436946,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.00809986375,
+   "length": 0.0196,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0003,
+    "diameterA": 0.006,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 168.736699113,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00615589645,
+   "length": 0.0132,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 78.0407233399,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00615589645,
+   "length": 0.0126,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 78.0407233399,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.0077758692,
+   "length": 0.0156,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 84.3683495567,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.0077758692,
+   "length": 0.0156,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 84.3683495567,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.0077758692,
+   "length": 0.015,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 84.3683495567,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00809986375,
+   "length": 0.0158,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 85.0714191363,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00809986375,
+   "length": 0.0152,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 85.0714191363,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.0084238583,
+   "length": 0.0163,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 87.8836974549,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.0084238583,
+   "length": 0.0157,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 87.8836974549,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.0090718474,
+   "length": 0.0173,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 95.6174628309,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.0090718474,
+   "length": 0.0167,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 95.6174628309,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00939584195,
+   "length": 0.0178,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.8358803088,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00939584195,
+   "length": 0.0172,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.8358803088,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.0188,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 134.286289711,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.012959782,
+   "length": 0.0228,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 158.893724998,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".365",
+   "diameter": 0.00927,
+   "mass": 0.00615589645,
+   "length": 0.0114,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 76.6345841807,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".376",
+   "diameter": 0.00955,
+   "mass": 0.0161997275,
+   "length": 0.0248,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 161.706003317,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".401",
+   "diameter": 0.01019,
+   "mass": 0.0097198365,
+   "length": 0.0143,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 89.9929061938,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".401",
+   "diameter": 0.01019,
+   "mass": 0.01263578745,
+   "length": 0.0181,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 112.491132742,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".414",
+   "diameter": 0.01052,
+   "mass": 0.0161997275,
+   "length": 0.0217,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.003
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 154.675307521,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".416",
+   "diameter": 0.01057,
+   "mass": 0.0226796185,
+   "length": 0.0284,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.003
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 182.798090706,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.012959782,
+   "length": 0.0164,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.003
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 139.207776769,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.012959782,
+   "length": 0.0144,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 90.6959757735,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.012959782,
+   "length": 0.0138,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 90.6959757735,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.0149037493,
+   "length": 0.0168,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 111.084993583,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.0149037493,
+   "length": 0.0161,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 111.084993583,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".309",
+   "diameter": 0.00785,
+   "mass": 0.0071278801,
+   "length": 0.0164,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 127.255593915,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS",
+   "maker": "H&N",
+   "product": "RN HS",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00745187465,
+   "length": 0.0143,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 84.3683495567,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS max.1400fps",
+   "maker": "H&N",
+   "product": "RN HS max.1400fps",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0090718474,
+   "length": 0.0281,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0004,
+    "diameterA": 0.0055,
+    "diameterB": 0.0035
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 232.012961281,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS max.1500fps",
+   "maker": "H&N",
+   "product": "RN HS max.1500fps",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0103678256,
+   "length": 0.028,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0004,
+    "diameterA": 0.0055,
+    "diameterB": 0.0035
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 224.982265485,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS max.1500fps",
+   "maker": "H&N",
+   "product": "RN HS max.1500fps",
+   "lot": "",
+   "nominalCaliber": ".312",
+   "diameter": 0.00792,
+   "mass": 0.0116638038,
+   "length": 0.0271,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0004,
+    "diameterA": 0.0055,
+    "diameterB": 0.0035
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 217.951569688,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS max.1500fps",
+   "maker": "H&N",
+   "product": "RN HS max.1500fps",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.0123117929,
+   "length": 0.0251,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0003,
+    "diameterA": 0.006,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 203.890178095,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS max.1600fps",
+   "maker": "H&N",
+   "product": "RN HS max.1600fps",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0071278801,
+   "length": 0.017,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.006,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 127.255593915,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN HS max.1600fps",
+   "maker": "H&N",
+   "product": "RN HS max.1600fps",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.0255,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.006,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 207.405525994,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN KB",
+   "maker": "H&N",
+   "product": "RN KB",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.0077758692,
+   "length": 0.0153,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 83.6652799771,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN KB",
+   "maker": "H&N",
+   "product": "RN KB",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.0077758692,
+   "length": 0.0147,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 83.6652799771,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN KB",
+   "maker": "H&N",
+   "product": "RN KB",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00809986375,
+   "length": 0.0158,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 84.3683495567,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN KB",
+   "maker": "H&N",
+   "product": "RN KB",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00809986375,
+   "length": 0.0152,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 84.3683495567,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN KB",
+   "maker": "H&N",
+   "product": "RN KB",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.0182,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 130.770941813,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN KB",
+   "maker": "H&N",
+   "product": "RN KB",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.012959782,
+   "length": 0.0221,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 156.78451626,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN KB",
+   "maker": "H&N",
+   "product": "RN KB",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.012959782,
+   "length": 0.0144,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 87.8836974549,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN KB",
+   "maker": "H&N",
+   "product": "RN KB",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.012959782,
+   "length": 0.0138,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 87.8836974549,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN KB",
+   "maker": "H&N",
+   "product": "RN KB",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.0149037493,
+   "length": 0.0162,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 106.866576105,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, RN KB",
+   "maker": "H&N",
+   "product": "RN KB",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.0149037493,
+   "length": 0.0156,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 106.866576105,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, S HS max.1700fps",
+   "maker": "H&N",
+   "product": "S HS max.1700fps",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.025919564,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 172.252047012,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC F",
+   "maker": "H&N",
+   "product": "SWC F",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00809986375,
+   "length": 0.016,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.1328107291,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC F",
+   "maker": "H&N",
+   "product": "SWC F",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00809986375,
+   "length": 0.0154,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.1328107291,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC F",
+   "maker": "H&N",
+   "product": "SWC F",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.0186,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 120.224898118,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC F",
+   "maker": "H&N",
+   "product": "SWC F",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.0155517384,
+   "length": 0.0188,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 146.238472565,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC F",
+   "maker": "H&N",
+   "product": "SWC F",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.01263578745,
+   "length": 0.0168,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 97.7266715698,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC F",
+   "maker": "H&N",
+   "product": "SWC F",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.01263578745,
+   "length": 0.0162,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 97.7266715698,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC F",
+   "maker": "H&N",
+   "product": "SWC F",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.012959782,
+   "length": 0.0152,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 94.9143932513,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC F",
+   "maker": "H&N",
+   "product": "SWC F",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.012959782,
+   "length": 0.0146,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 94.9143932513,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC F",
+   "maker": "H&N",
+   "product": "SWC F",
+   "lot": "",
+   "nominalCaliber": ".454",
+   "diameter": 0.01153,
+   "mass": 0.012959782,
+   "length": 0.0151,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 85.774488716,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC F",
+   "maker": "H&N",
+   "product": "SWC F",
+   "lot": "",
+   "nominalCaliber": ".454",
+   "diameter": 0.01153,
+   "mass": 0.0161997275,
+   "length": 0.0181,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.8358803088,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC HS",
+   "maker": "H&N",
+   "product": "SWC HS",
+   "lot": "2019",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.01263578745,
+   "length": 0.01515,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 98.4297411495,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC HS",
+   "maker": "H&N",
+   "product": "SWC HS",
+   "lot": "2019",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.01263578745,
+   "length": 0.01515,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 98.4297411495,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC HS",
+   "maker": "H&N",
+   "product": "SWC HS",
+   "lot": "2019",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.012959782,
+   "length": 0.01515,
+   "base": {
+    "shape": "hollow",
+    "length": 0.001,
+    "diameterA": 0.00925,
+    "diameterB": 0
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 94.9143932513,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC HS",
+   "maker": "H&N",
+   "product": "SWC HS",
+   "lot": "2019",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.012959782,
+   "length": 0.01515,
+   "base": {
+    "shape": "hollow",
+    "length": 0.001,
+    "diameterA": 0.00925,
+    "diameterB": 0
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 94.9143932513,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC HS",
+   "maker": "H&N",
+   "product": "SWC HS",
+   "lot": "2019",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.018,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 119.521828539,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC HS",
+   "maker": "H&N",
+   "product": "SWC HS",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00809986375,
+   "length": 0.0157,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 98.4297411495,
+   "ubcsCode": "T0L4F4S4N1",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC HS",
+   "maker": "H&N",
+   "product": "SWC HS",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00809986375,
+   "length": 0.0151,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 98.4297411495,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC HS",
+   "maker": "H&N",
+   "product": "SWC HS",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00874785285,
+   "length": 0.0164,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 108.272715264,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC HS",
+   "maker": "H&N",
+   "product": "SWC HS",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00874785285,
+   "length": 0.0158,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.008,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 108.272715264,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC HS",
+   "maker": "H&N",
+   "product": "SWC HS",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.012959782,
+   "length": 0.0165,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 136.39549845,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC HS",
+   "maker": "H&N",
+   "product": "SWC HS",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.0155517384,
+   "length": 0.0191,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.003
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 147.644611724,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC HS",
+   "maker": "H&N",
+   "product": "SWC HS",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.0161997275,
+   "length": 0.0192,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 151.159959622,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC HS",
+   "maker": "H&N",
+   "product": "SWC HS",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.0149037493,
+   "length": 0.0175,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 108.975784844,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC HS",
+   "maker": "H&N",
+   "product": "SWC HS",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.0149037493,
+   "length": 0.0169,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 108.975784844,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC HS",
+   "maker": "H&N",
+   "product": "SWC HS",
+   "lot": "",
+   "nominalCaliber": ".454",
+   "diameter": 0.01153,
+   "mass": 0.0161997275,
+   "length": 0.0182,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 100.538949888,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC HS",
+   "maker": "H&N",
+   "product": "SWC HS",
+   "lot": "",
+   "nominalCaliber": ".430",
+   "diameter": 0.01092,
+   "mass": 0.0161997275,
+   "length": 0.0186,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 151.159959622,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC KB",
+   "maker": "H&N",
+   "product": "SWC KB",
+   "lot": "2019",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.01263578745,
+   "length": 0.0152,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 97.7266715698,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC KB",
+   "maker": "H&N",
+   "product": "SWC KB",
+   "lot": "2019",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.01263578745,
+   "length": 0.01515,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 97.7266715698,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC KB",
+   "maker": "H&N",
+   "product": "SWC KB",
+   "lot": "2019",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.012959782,
+   "length": 0.0152,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 92.8051845124,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC KB",
+   "maker": "H&N",
+   "product": "SWC KB",
+   "lot": "2019",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.012959782,
+   "length": 0.0152,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 92.8051845124,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC KB",
+   "maker": "H&N",
+   "product": "SWC KB",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00809986375,
+   "length": 0.0156,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 97.7266715698,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC KB",
+   "maker": "H&N",
+   "product": "SWC KB",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00809986375,
+   "length": 0.015,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 97.7266715698,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC KB",
+   "maker": "H&N",
+   "product": "SWC KB",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00874785285,
+   "length": 0.0166,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 108.975784844,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC KB",
+   "maker": "H&N",
+   "product": "SWC KB",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00874785285,
+   "length": 0.0159,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 108.975784844,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC KB",
+   "maker": "H&N",
+   "product": "SWC KB",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.0181,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 120.224898118,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC KB",
+   "maker": "H&N",
+   "product": "SWC KB",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.012959782,
+   "length": 0.0157,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 134.286289711,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC KB",
+   "maker": "H&N",
+   "product": "SWC KB",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.0155517384,
+   "length": 0.0189,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 146.238472565,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC KB",
+   "maker": "H&N",
+   "product": "SWC KB",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.0149037493,
+   "length": 0.0166,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 106.866576105,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC KB",
+   "maker": "H&N",
+   "product": "SWC KB",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.0149037493,
+   "length": 0.016,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 106.866576105,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, SWC KB",
+   "maker": "H&N",
+   "product": "SWC KB",
+   "lot": "",
+   "nominalCaliber": ".454",
+   "diameter": 0.01153,
+   "mass": 0.0161997275,
+   "length": 0.0179,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 98.4297411495,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, TC HS max.1600fps",
+   "maker": "H&N",
+   "product": "TC HS max.1600fps",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.0252,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.006,
+    "diameterB": 0.004
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 207.405525994,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, TC HS max.1600fps",
+   "maker": "H&N",
+   "product": "TC HS max.1600fps",
+   "lot": "",
+   "nominalCaliber": ".321",
+   "diameter": 0.00815,
+   "mass": 0.00959023868,
+   "length": 0.0206,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.007,
+    "diameterB": 0.001
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 154.675307521,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, TC HS max.1700fps",
+   "maker": "H&N",
+   "product": "TC HS max.1700fps",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.019439673,
+   "length": 0.0204,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 154.675307521,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, TC HS max.1700fps",
+   "maker": "H&N",
+   "product": "TC HS max.1700fps",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.0226796185,
+   "length": 0.0232,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 158.190655419,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, TC KB max.1600fps",
+   "maker": "H&N",
+   "product": "TC KB max.1600fps",
+   "lot": "",
+   "nominalCaliber": ".313",
+   "diameter": 0.00795,
+   "mass": 0.0110158147,
+   "length": 0.0234,
+   "base": {
+    "shape": "hollow",
+    "length": 0.006,
+    "diameterA": 0.006,
+    "diameterB": 0.0032
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 175.76739491,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, TS HS max.1700fps",
+   "maker": "H&N",
+   "product": "TS HS max.1700fps",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.025919564,
+   "length": 0.0261,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.01,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 172.252047012,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, WC",
+   "maker": "H&N",
+   "product": "WC",
+   "lot": "",
+   "nominalCaliber": ".313",
+   "diameter": 0.00795,
+   "mass": 0.0058319019,
+   "length": 0.0145,
+   "base": {
+    "shape": "hollow",
+    "length": 0.005,
+    "diameterA": 0.0057,
+    "diameterB": 0.0048
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 29.5289223448,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, WC F Match",
+   "maker": "H&N",
+   "product": "WC F Match",
+   "lot": "",
+   "nominalCaliber": ".313",
+   "diameter": 0.00795,
+   "mass": 0.006479891,
+   "length": 0.0158,
+   "base": {
+    "shape": "hollow",
+    "length": 0.005,
+    "diameterA": 0.0057,
+    "diameterB": 0.0048
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 30.9350615041,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, WC F Match",
+   "maker": "H&N",
+   "product": "WC F Match",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00959023868,
+   "length": 0.0161,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0055,
+    "diameterA": 0.0064,
+    "diameterB": 0.0029
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 63.2762621675,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, WC F PPC",
+   "maker": "H&N",
+   "product": "WC F PPC",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00939584195,
+   "length": 0.0163,
+   "base": {
+    "shape": "hollow",
+    "length": 0.008,
+    "diameterA": 0.0066,
+    "diameterB": 0.0026
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 63.2762621675,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, WC F PPC",
+   "maker": "H&N",
+   "product": "WC F PPC",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.00939584195,
+   "length": 0.0157,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 63.2762621675,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, WC HS",
+   "maker": "H&N",
+   "product": "WC HS",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00550790735,
+   "length": 0.0115,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0061,
+    "diameterA": 0.0069,
+    "diameterB": 0.0037
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 52.7302184729,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, WC HS",
+   "maker": "H&N",
+   "product": "WC HS",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00809986375,
+   "length": 0.0153,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0088,
+    "diameterA": 0.0066,
+    "diameterB": 0.0026
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 80.1499320789,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, WC HS Match",
+   "maker": "H&N",
+   "product": "WC HS Match",
+   "lot": "",
+   "nominalCaliber": ".314",
+   "diameter": 0.00798,
+   "mass": 0.006479891,
+   "length": 0.0152,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0036,
+    "diameterA": 0.0063,
+    "diameterB": 0.0054
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 31.6381310838,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, WC HS max.1200 bar",
+   "maker": "H&N",
+   "product": "WC HS max.1200 bar",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00959023868,
+   "length": 0.0174,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0088,
+    "diameterA": 0.0066,
+    "diameterB": 0.0026
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 64.6824013268,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, WC KB",
+   "maker": "H&N",
+   "product": "WC KB",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.0142557602,
+   "length": 0.0189,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0075,
+    "diameterA": 0.0081,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 92.1021149327,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, WC KB Match",
+   "maker": "H&N",
+   "product": "WC KB Match",
+   "lot": "",
+   "nominalCaliber": ".313",
+   "diameter": 0.00795,
+   "mass": 0.0058319019,
+   "length": 0.0139,
+   "base": {
+    "shape": "hollow",
+    "length": 0.006,
+    "diameterA": 0.006,
+    "diameterB": 0.0032
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 28.8258527652,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, WC KB Match",
+   "maker": "H&N",
+   "product": "WC KB Match",
+   "lot": "",
+   "nominalCaliber": ".313",
+   "diameter": 0.00795,
+   "mass": 0.006479891,
+   "length": 0.0149,
+   "base": {
+    "shape": "hollow",
+    "length": 0.006,
+    "diameterA": 0.006,
+    "diameterB": 0.0032
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 30.9350615041,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "H&N, WC KB Match",
+   "maker": "H&N",
+   "product": "WC KB Match",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00959023868,
+   "length": 0.0169,
+   "base": {
+    "shape": "hollow",
+    "length": 0.004,
+    "diameterA": 0.007,
+    "diameterB": 0.006
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 63.9793317472,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

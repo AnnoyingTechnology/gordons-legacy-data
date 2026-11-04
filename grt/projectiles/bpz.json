@@ -1,0 +1,71 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "BPZ, 100 FMJ",
+   "maker": "BPZ",
+   "product": "100 FMJ",
+   "lot": "2021",
+   "nominalCaliber": ".284",
+   "diameter": 0.00665,
+   "mass": 0.00654468991,
+   "length": 0.02825,
+   "base": {
+    "shape": "boattail",
+    "length": 0.003,
+    "diameterA": 0.00661,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 304.429127984,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.01102,
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "BPZ, FMJ BT 11.5",
+   "maker": "BPZ",
+   "product": "FMJ BT 11.5",
+   "lot": "2021",
+   "nominalCaliber": ".307",
+   "diameter": 0.0078,
+   "mass": 0.011514766307,
+   "length": 0.0312,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0035,
+    "diameterA": 0.00781,
+    "diameterB": 0.00781
+   },
+   "shotStartPressure": 45000000,
+   "ballisticCoefficientG1": 351.53478982,
+   "ubcsCode": "H0F1B6C4N1",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

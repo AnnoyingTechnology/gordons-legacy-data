@@ -1,0 +1,1024 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "WM-Bullets, FP WMEX 0005",
+   "maker": "WM-Bullets",
+   "product": "FP WMEX 0005",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0110158147,
+   "length": 0.0215,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 196.859482299,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, FP WMEX 0009",
+   "maker": "WM-Bullets",
+   "product": "FP WMEX 0009",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01023822778,
+   "length": 0.0215,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 177.173534069,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, FP WMEX 0011",
+   "maker": "WM-Bullets",
+   "product": "FP WMEX 0011",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.00959023868,
+   "length": 0.0194,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 153.972237941,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, FP WMEX 0018",
+   "maker": "WM-Bullets",
+   "product": "FP WMEX 0018",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.019439673,
+   "length": 0.02,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 152.566098782,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, FP WMEX 2091",
+   "maker": "WM-Bullets",
+   "product": "FP WMEX 2091",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.0161997275,
+   "length": 0.0159,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 108.975784844,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, FP WMEX 4001",
+   "maker": "WM-Bullets",
+   "product": "FP WMEX 4001",
+   "lot": "",
+   "nominalCaliber": ".402",
+   "diameter": 0.01021,
+   "mass": 0.01004383105,
+   "length": 0.0122,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 91.3990453531,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, FP WMEX 4003",
+   "maker": "WM-Bullets",
+   "product": "FP WMEX 4003",
+   "lot": "",
+   "nominalCaliber": ".402",
+   "diameter": 0.01021,
+   "mass": 0.0110158147,
+   "length": 0.0136,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.8358803088,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, FP WMEX 4005",
+   "maker": "WM-Bullets",
+   "product": "FP WMEX 4005",
+   "lot": "",
+   "nominalCaliber": ".402",
+   "diameter": 0.01021,
+   "mass": 0.012959782,
+   "length": 0.0157,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 116.00648064,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, FP WMEX 4010",
+   "maker": "WM-Bullets",
+   "product": "FP WMEX 4010",
+   "lot": "",
+   "nominalCaliber": ".428",
+   "diameter": 0.01087,
+   "mass": 0.01328377655,
+   "length": 0.0152,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 138.504707189,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, FP WMEX 4012",
+   "maker": "WM-Bullets",
+   "product": "FP WMEX 4012",
+   "lot": "",
+   "nominalCaliber": ".428",
+   "diameter": 0.01087,
+   "mass": 0.0142557602,
+   "length": 0.0161,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 146.238472565,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, FP-HB WMEX 2041",
+   "maker": "WM-Bullets",
+   "product": "FP-HB WMEX 2041",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.0149037493,
+   "length": 0.0139,
+   "base": {
+    "shape": "hollow",
+    "length": 0.007,
+    "diameterA": 0.0089,
+    "diameterB": 0.0033
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 98.4297411495,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, FP-HB WMEX 2068",
+   "maker": "WM-Bullets",
+   "product": "FP-HB WMEX 2068",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.019439673,
+   "length": 0.0217,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0035,
+    "diameterA": 0.0096,
+    "diameterB": 0.0066
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 149.050750884,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, FP-HB WMEX 2072",
+   "maker": "WM-Bullets",
+   "product": "FP-HB WMEX 2072",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.02105964575,
+   "length": 0.0233,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0051,
+    "diameterA": 0.0096,
+    "diameterB": 0.005
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 161.002933737,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, L SWC",
+   "maker": "WM-Bullets",
+   "product": "L SWC",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.01198779835,
+   "length": 0.0154,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 63.2762621675,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, RN WMEX 0123",
+   "maker": "WM-Bullets",
+   "product": "RN WMEX 0123",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.0149037493,
+   "length": 0.0165,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 106.866576105,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, RN WMEX 2024",
+   "maker": "WM-Bullets",
+   "product": "RN WMEX 2024",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.0175,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 132.177080972,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, RN WMEX 2050",
+   "maker": "WM-Bullets",
+   "product": "RN WMEX 2050",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.0116638038,
+   "length": 0.02,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 135.69242887,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, RN-HB WMEX 2045",
+   "maker": "WM-Bullets",
+   "product": "RN-HB WMEX 2045",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.01717171115,
+   "length": 0.0212,
+   "base": {
+    "shape": "hollow",
+    "length": 0.007,
+    "diameterA": 0.0096,
+    "diameterB": 0.0033
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 116.70955022,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, RN-HB WMEX 2065",
+   "maker": "WM-Bullets",
+   "product": "RN-HB WMEX 2065",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.0161997275,
+   "length": 0.0188,
+   "base": {
+    "shape": "hollow",
+    "length": 0.007,
+    "diameterA": 0.0096,
+    "diameterB": 0.0033
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 116.00648064,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, RN-HB WMEX 2075",
+   "maker": "WM-Bullets",
+   "product": "RN-HB WMEX 2075",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.01133980925,
+   "length": 0.0146,
+   "base": {
+    "shape": "hollow",
+    "length": 0.007,
+    "diameterA": 0.0096,
+    "diameterB": 0.0033
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 91.3990453531,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, RN-HB WMEX 2080",
+   "maker": "WM-Bullets",
+   "product": "RN-HB WMEX 2080",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.012959782,
+   "length": 0.0157,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0063,
+    "diameterA": 0.0085,
+    "diameterB": 0.0023
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 96.3205324106,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, SP WMEX 0017",
+   "maker": "WM-Bullets",
+   "product": "SP WMEX 0017",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.02624355855,
+   "length": 0.0285,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 12000000,
+   "ballisticCoefficientG1": 168.736699113,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, SWC WMEX 2028",
+   "maker": "WM-Bullets",
+   "product": "SWC WMEX 2028",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.0181,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 119.521828539,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, SWC WMEX 2053",
+   "maker": "WM-Bullets",
+   "product": "SWC WMEX 2053",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.0116638038,
+   "length": 0.0191,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 133.583220131,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, SWC WMEX 4020",
+   "maker": "WM-Bullets",
+   "product": "SWC WMEX 4020",
+   "lot": "",
+   "nominalCaliber": ".430",
+   "diameter": 0.01092,
+   "mass": 0.0161997275,
+   "length": 0.0188,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 152.566098782,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, SWC WMEX 4027",
+   "maker": "WM-Bullets",
+   "product": "SWC WMEX 4027",
+   "lot": "",
+   "nominalCaliber": ".430",
+   "diameter": 0.01092,
+   "mass": 0.019439673,
+   "length": 0.0218,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 158.190655419,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, SWC WMEX 68",
+   "maker": "WM-Bullets",
+   "product": "SWC WMEX 68",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.012959782,
+   "length": 0.016,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 94.9143932513,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, SWC WMEX 6825",
+   "maker": "WM-Bullets",
+   "product": "SWC WMEX 6825",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.01457975475,
+   "length": 0.0169,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 101.945089048,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, SWC-HB WMEX 1111",
+   "maker": "WM-Bullets",
+   "product": "SWC-HB WMEX 1111",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.0116638038,
+   "length": 0.0165,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0052,
+    "diameterA": 0.0092,
+    "diameterB": 0.0055
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 92.8051845124,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, SWC-HB-HP WMEX 0068",
+   "maker": "WM-Bullets",
+   "product": "SWC-HB-HP WMEX 0068",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.012959782,
+   "length": 0.0178,
+   "base": {
+    "shape": "hollow",
+    "length": 0.005,
+    "diameterA": 0.0089,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 95.6174628309,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, TC WMEX 1001",
+   "maker": "WM-Bullets",
+   "product": "TC WMEX 1001",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.0168,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 131.474011393,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, TC WMEX 1007",
+   "maker": "WM-Bullets",
+   "product": "TC WMEX 1007",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.0116638038,
+   "length": 0.0189,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 134.286289711,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, TC-HB WMEX 0029",
+   "maker": "WM-Bullets",
+   "product": "TC-HB WMEX 0029",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00809986375,
+   "length": 0.016,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0078,
+    "diameterA": 0.0072,
+    "diameterB": 0.0008
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 101.945089048,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, TC-HB WMEX 2035",
+   "maker": "WM-Bullets",
+   "product": "TC-HB WMEX 2035",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.00874785285,
+   "length": 0.0173,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0056,
+    "diameterA": 0.0065,
+    "diameterB": 0.001
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 106.866576105,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, WC-HB WMEX 0003",
+   "maker": "WM-Bullets",
+   "product": "WC-HB WMEX 0003",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00809986375,
+   "length": 0.0145,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0082,
+    "diameterA": 0.0075,
+    "diameterB": 0.0008
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 42.1841747783,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, WC-HB WMEX 0030",
+   "maker": "WM-Bullets",
+   "product": "WC-HB WMEX 0030",
+   "lot": "",
+   "nominalCaliber": ".314",
+   "diameter": 0.00798,
+   "mass": 0.006479891,
+   "length": 0.0148,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0064,
+    "diameterA": 0.008,
+    "diameterB": 0.0008
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 30.9350615041,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, WC-HB WMEX 2022",
+   "maker": "WM-Bullets",
+   "product": "WC-HB WMEX 2022",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00959023868,
+   "length": 0.0161,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0082,
+    "diameterA": 0.0075,
+    "diameterB": 0.0008
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 61.1670534286,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, WC-HB WMEX 2035",
+   "maker": "WM-Bullets",
+   "product": "WC-HB WMEX 2035",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00874785285,
+   "length": 0.018,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0092,
+    "diameterA": 0.0075,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 45.6995226765,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, WMEX 0007",
+   "maker": "WM-Bullets",
+   "product": "WMEX 0007",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0211,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 154.675307521,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "WM-Bullets, WMEX 2042",
+   "maker": "WM-Bullets",
+   "product": "WMEX 2042",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.01652372205,
+   "length": 0.0174,
+   "base": {
+    "shape": "hollow",
+    "length": 0.007,
+    "diameterA": 0.0089,
+    "diameterB": 0.0033
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 101.242019468,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

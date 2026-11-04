@@ -1,0 +1,72 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "KP Ballistics, 200 Jack",
+   "maker": "KP Ballistics",
+   "product": "200 Jack",
+   "lot": "20/12/2020",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.012959782,
+   "length": 0.03998,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00577,
+    "diameterA": 0.00782,
+    "diameterB": 0.00612
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 489.336427429,
+   "ballisticCoefficientG7": 250.995839931,
+   "ubcsCode": "T0H1B2S4N1",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "KP Ballistics, 211 Piggy Jack",
+   "maker": "KP Ballistics",
+   "product": "211 Piggy Jack",
+   "lot": "20/12/2020",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01367257001,
+   "length": 0.04171,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00577,
+    "diameterA": 0.00782,
+    "diameterB": 0.00612
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 519.568419353,
+   "ballisticCoefficientG7": 265.760301104,
+   "ubcsCode": "T0H1B2S4N1",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

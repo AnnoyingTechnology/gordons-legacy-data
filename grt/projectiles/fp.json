@@ -1,0 +1,400 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "FP, Rainier",
+   "maker": "FP",
+   "product": "Rainier",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00809986375,
+   "length": 0.0131,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 105.460436946,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "FP, Rainier",
+   "maker": "FP",
+   "product": "Rainier",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.0090718474,
+   "length": 0.0145,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 116.00648064,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "FP, Rainier",
+   "maker": "FP",
+   "product": "Rainier",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01016,
+   "mass": 0.01004383105,
+   "length": 0.0133,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 101.945089048,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "FP, Rainier",
+   "maker": "FP",
+   "product": "Rainier",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01016,
+   "mass": 0.01069182015,
+   "length": 0.014,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 105.460436946,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "FP, Rainier",
+   "maker": "FP",
+   "product": "Rainier",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01016,
+   "mass": 0.0116638038,
+   "length": 0.0151,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 112.491132742,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "FP, Rainier",
+   "maker": "FP",
+   "product": "Rainier",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01016,
+   "mass": 0.012959782,
+   "length": 0.0166,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 123.037176437,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "FP, Rainier",
+   "maker": "FP",
+   "product": "Rainier",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.0155517384,
+   "length": 0.0171,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 119.521828539,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "FP, Rainier",
+   "maker": "FP",
+   "product": "Rainier",
+   "lot": "",
+   "nominalCaliber": ".429",
+   "diameter": 0.0109,
+   "mass": 0.019439673,
+   "length": 0.0208,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 140.613915928,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "FP, Rainier",
+   "maker": "FP",
+   "product": "Rainier",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.01198779835,
+   "length": 0.0133,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 91.3990453531,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "FP, Rainier",
+   "maker": "FP",
+   "product": "Rainier",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.012959782,
+   "length": 0.0142,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 101.945089048,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "FP, Rainier",
+   "maker": "FP",
+   "product": "Rainier",
+   "lot": "",
+   "nominalCaliber": ".500",
+   "diameter": 0.0127,
+   "mass": 0.02170763485,
+   "length": 0.0184,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 116.00648064,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "FP, Rainier 45/70",
+   "maker": "FP",
+   "product": "Rainier 45/70",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.0226796185,
+   "length": 0.0248,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 147.644611724,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "FP, Rainier 45/70",
+   "maker": "FP",
+   "product": "Rainier 45/70",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.02624355855,
+   "length": 0.0247,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 161.706003317,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "FP, Rainier 9mm",
+   "maker": "FP",
+   "product": "Rainier 9mm",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00803506484,
+   "length": 0.0133,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 77.3376537603,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "FP, Rainier LC",
+   "maker": "FP",
+   "product": "Rainier LC",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.0161997275,
+   "length": 0.0173,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 120.927967698,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "FP, Rainier LC",
+   "maker": "FP",
+   "product": "Rainier LC",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.019439673,
+   "length": 0.0185,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 142.020055087,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

@@ -1,0 +1,664 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "ColoradoBonded, SP",
+   "maker": "ColoradoBonded",
+   "product": "SP",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0090718474,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 299.507640926,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPOP",
+   "maker": "ColoradoBonded",
+   "product": "SPOP",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00809986375,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 224.279195905,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPPP",
+   "maker": "ColoradoBonded",
+   "product": "SPPP",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.0116638038,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 173.658186171,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPSpitz",
+   "maker": "ColoradoBonded",
+   "product": "SPSpitz",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0077758692,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 297.398432187,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPSpitz",
+   "maker": "ColoradoBonded",
+   "product": "SPSpitz",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00809986375,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 310.053684621,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPSpitz",
+   "maker": "ColoradoBonded",
+   "product": "SPSpitz",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0090718474,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 338.879537386,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPSpitz",
+   "maker": "ColoradoBonded",
+   "product": "SPSpitz",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0077758692,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 266.463370683,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPSpitz",
+   "maker": "ColoradoBonded",
+   "product": "SPSpitz",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0084238583,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 272.08792732,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPSpitz",
+   "maker": "ColoradoBonded",
+   "product": "SPSpitz",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0090718474,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 346.613302762,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPSpitz",
+   "maker": "ColoradoBonded",
+   "product": "SPSpitz",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00874785285,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 233.41910044,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPSpitz",
+   "maker": "ColoradoBonded",
+   "product": "SPSpitz",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 262.244953205,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPSpitz",
+   "maker": "ColoradoBonded",
+   "product": "SPSpitz",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 298.804571347,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPSpitz",
+   "maker": "ColoradoBonded",
+   "product": "SPSpitz",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 345.207163603,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPSpitz",
+   "maker": "ColoradoBonded",
+   "product": "SPSpitz",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.012959782,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 208.811665153,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPSpitz",
+   "maker": "ColoradoBonded",
+   "product": "SPSpitz",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.0142557602,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 220.763848007,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPSpitz",
+   "maker": "ColoradoBonded",
+   "product": "SPSpitz",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.01522774385,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 248.886631192,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPSpitz",
+   "maker": "ColoradoBonded",
+   "product": "SPSpitz",
+   "lot": "",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.0161997275,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 266.463370683,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPSpitz",
+   "maker": "ColoradoBonded",
+   "product": "SPSpitz",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.0142557602,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 210.920873892,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPSpitz",
+   "maker": "ColoradoBonded",
+   "product": "SPSpitz",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.01522774385,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 224.982265485,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPSpitz",
+   "maker": "ColoradoBonded",
+   "product": "SPSpitz",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.0161997275,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 239.746726657,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPSpitz",
+   "maker": "ColoradoBonded",
+   "product": "SPSpitz",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.01781970025,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 262.948022785,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPSpitz",
+   "maker": "ColoradoBonded",
+   "product": "SPSpitz",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.019439673,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 293.18001471,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPSpitz",
+   "maker": "ColoradoBonded",
+   "product": "SPSpitz",
+   "lot": "",
+   "nominalCaliber": ".430",
+   "diameter": 0.01092,
+   "mass": 0.01457975475,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 163.815212056,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPSpitz",
+   "maker": "ColoradoBonded",
+   "product": "SPSpitz",
+   "lot": "",
+   "nominalCaliber": ".430",
+   "diameter": 0.01092,
+   "mass": 0.0155517384,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 175.06432533,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPSpitz",
+   "maker": "ColoradoBonded",
+   "product": "SPSpitz",
+   "lot": "",
+   "nominalCaliber": ".430",
+   "diameter": 0.01092,
+   "mass": 0.0168477166,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 189.125716923,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPSpitz",
+   "maker": "ColoradoBonded",
+   "product": "SPSpitz",
+   "lot": "",
+   "nominalCaliber": ".430",
+   "diameter": 0.01092,
+   "mass": 0.0174957057,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 203.890178095,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ColoradoBonded, SPSpitz",
+   "maker": "ColoradoBonded",
+   "product": "SPSpitz",
+   "lot": "",
+   "nominalCaliber": ".430",
+   "diameter": 0.01092,
+   "mass": 0.019439673,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 219.357708847,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

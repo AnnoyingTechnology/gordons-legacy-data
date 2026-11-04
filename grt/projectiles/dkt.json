@@ -1,0 +1,976 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "DKT, FNSP 324 8",
+   "maker": "DKT",
+   "product": "FNSP 324 8",
+   "lot": "",
+   "nominalCaliber": ".324",
+   "diameter": 0.00823,
+   "mass": 0.00978463541,
+   "length": 0.02,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 161.706003317,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, FNSP 405 40-60",
+   "maker": "DKT",
+   "product": "FNSP 405 40-60",
+   "lot": "",
+   "nominalCaliber": ".406",
+   "diameter": 0.01031,
+   "mass": 0.0136077711,
+   "length": 0.0165,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 133.583220131,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, FNSP 406 40-60",
+   "maker": "DKT",
+   "product": "FNSP 406 40-60",
+   "lot": "",
+   "nominalCaliber": ".406",
+   "diameter": 0.01031,
+   "mass": 0.0168477166,
+   "length": 0.0195,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 151.159959622,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, FNSP 820",
+   "maker": "DKT",
+   "product": "FNSP 820",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.019439673,
+   "length": 0.0198,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 137.09856803,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, FNSP 821",
+   "maker": "DKT",
+   "product": "FNSP 821",
+   "lot": "",
+   "nominalCaliber": ".452",
+   "diameter": 0.01148,
+   "mass": 0.02105964575,
+   "length": 0.0208,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 146.238472565,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, FNSP 823",
+   "maker": "DKT",
+   "product": "FNSP 823",
+   "lot": "",
+   "nominalCaliber": ".454",
+   "diameter": 0.01153,
+   "mass": 0.019439673,
+   "length": 0.0197,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 134.989359291,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, FNSP 845 50-110",
+   "maker": "DKT",
+   "product": "FNSP 845 50-110",
+   "lot": "",
+   "nominalCaliber": ".510",
+   "diameter": 0.01295,
+   "mass": 0.019439673,
+   "length": 0.0168,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 89.9929061938,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, FNSP 846 50-110",
+   "maker": "DKT",
+   "product": "FNSP 846 50-110",
+   "lot": "",
+   "nominalCaliber": ".510",
+   "diameter": 0.01295,
+   "mass": 0.0291595095,
+   "length": 0.0232,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 147.644611724,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, FNSP 849 Lineb",
+   "maker": "DKT",
+   "product": "FNSP 849 Lineb",
+   "lot": "",
+   "nominalCaliber": ".510",
+   "diameter": 0.01295,
+   "mass": 0.025919564,
+   "length": 0.021,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 119.521828539,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, FNSP 850 Lineb",
+   "maker": "DKT",
+   "product": "FNSP 850 Lineb",
+   "lot": "",
+   "nominalCaliber": ".510",
+   "diameter": 0.01295,
+   "mass": 0.02753953675,
+   "length": 0.022,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 130.067872233,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, FNSP 851 500 Nitro",
+   "maker": "DKT",
+   "product": "FNSP 851 500 Nitro",
+   "lot": "",
+   "nominalCaliber": ".510",
+   "diameter": 0.01295,
+   "mass": 0.0285115204,
+   "length": 0.0228,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 139.910846348,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, FNSP 93",
+   "maker": "DKT",
+   "product": "FNSP 93",
+   "lot": "",
+   "nominalCaliber": ".364",
+   "diameter": 0.00925,
+   "mass": 0.01250618963,
+   "length": 0.018,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 134.989359291,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, LFN 310 Cadet",
+   "maker": "DKT",
+   "product": "LFN 310 Cadet",
+   "lot": "",
+   "nominalCaliber": ".320",
+   "diameter": 0.00813,
+   "mass": 0.006479891,
+   "length": 0.0148,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 11000000,
+   "ballisticCoefficientG1": 78.7437929196,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, LFN 311 It.Vetterli",
+   "maker": "DKT",
+   "product": "LFN 311 It.Vetterli",
+   "lot": "",
+   "nominalCaliber": ".430",
+   "diameter": 0.01092,
+   "mass": 0.0265675531,
+   "length": 0.0176,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 11000000,
+   "ballisticCoefficientG1": 136.39549845,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, RNSP 261",
+   "maker": "DKT",
+   "product": "RNSP 261",
+   "lot": "",
+   "nominalCaliber": ".260",
+   "diameter": 0.0066,
+   "mass": 0.00809986375,
+   "length": 0.025,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 210.920873892,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, RNSP 318 J-Bore",
+   "maker": "DKT",
+   "product": "RNSP 318 J-Bore",
+   "lot": "",
+   "nominalCaliber": ".318",
+   "diameter": 0.00808,
+   "mass": 0.01270058636,
+   "length": 0.0255,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 203.890178095,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, RNSP 321 J-Bore",
+   "maker": "DKT",
+   "product": "RNSP 321 J-Bore",
+   "lot": "",
+   "nominalCaliber": ".318",
+   "diameter": 0.00808,
+   "mass": 0.0149037493,
+   "length": 0.03,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 221.466917586,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, RNSP 351 WSL",
+   "maker": "DKT",
+   "product": "RNSP 351 WSL",
+   "lot": "",
+   "nominalCaliber": ".351",
+   "diameter": 0.00892,
+   "mass": 0.0116638038,
+   "length": 0.0204,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 175.76739491,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, RNSP 353",
+   "maker": "DKT",
+   "product": "RNSP 353",
+   "lot": "",
+   "nominalCaliber": ".352",
+   "diameter": 0.00894,
+   "mass": 0.012959782,
+   "length": 0.0224,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 182.798090706,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, RNSP 354",
+   "maker": "DKT",
+   "product": "RNSP 354",
+   "lot": "",
+   "nominalCaliber": ".352",
+   "diameter": 0.00894,
+   "mass": 0.01587573295,
+   "length": 0.0275,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 221.466917586,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, RNSP 401 WSL",
+   "maker": "DKT",
+   "product": "RNSP 401 WSL",
+   "lot": "",
+   "nominalCaliber": ".406",
+   "diameter": 0.01031,
+   "mass": 0.012959782,
+   "length": 0.0169,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 144.129263826,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, RNSP 402 WSL",
+   "maker": "DKT",
+   "product": "RNSP 402 WSL",
+   "lot": "",
+   "nominalCaliber": ".406",
+   "diameter": 0.01031,
+   "mass": 0.0161997275,
+   "length": 0.0205,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 175.76739491,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, RNSP 411 405 Win",
+   "maker": "DKT",
+   "product": "RNSP 411 405 Win",
+   "lot": "",
+   "nominalCaliber": ".411",
+   "diameter": 0.01044,
+   "mass": 0.019439673,
+   "length": 0.0241,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 179.282742808,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, RNSP 412",
+   "maker": "DKT",
+   "product": "RNSP 412",
+   "lot": "",
+   "nominalCaliber": ".412",
+   "diameter": 0.01046,
+   "mass": 0.019439673,
+   "length": 0.024,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 175.76739491,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, RNSP 925 577 Nit",
+   "maker": "DKT",
+   "product": "RNSP 925 577 Nit",
+   "lot": "",
+   "nominalCaliber": ".585",
+   "diameter": 0.01486,
+   "mass": 0.0485991825,
+   "length": 0.03,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 242.559004976,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, RNSP 926 600 Nit",
+   "maker": "DKT",
+   "product": "RNSP 926 600 Nit",
+   "lot": "",
+   "nominalCaliber": ".620",
+   "diameter": 0.01575,
+   "mass": 0.058319019,
+   "length": 0.0315,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 256.620396568,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, RNSP 927 700 Nit",
+   "maker": "DKT",
+   "product": "RNSP 927 700 Nit",
+   "lot": "",
+   "nominalCaliber": ".700",
+   "diameter": 0.01778,
+   "mass": 0.045359237,
+   "length": 0.028,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 237.637517918,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, RNSP 928 577 Nit",
+   "maker": "DKT",
+   "product": "RNSP 928 577 Nit",
+   "lot": "",
+   "nominalCaliber": ".585",
+   "diameter": 0.01486,
+   "mass": 0.0421192915,
+   "length": 0.0255,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 219.357708847,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, SpSP 262 Carcano",
+   "maker": "DKT",
+   "product": "SpSP 262 Carcano",
+   "lot": "",
+   "nominalCaliber": ".266",
+   "diameter": 0.00676,
+   "mass": 0.0103678256,
+   "length": 0.0328,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 355.050137718,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, SpSP 266 Ross",
+   "maker": "DKT",
+   "product": "SpSP 266 Ross",
+   "lot": "",
+   "nominalCaliber": ".287",
+   "diameter": 0.00729,
+   "mass": 0.0103678256,
+   "length": 0.0295,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 337.473398227,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, SpSP 31 Hung/Murat",
+   "maker": "DKT",
+   "product": "SpSP 31 Hung/Murat",
+   "lot": "",
+   "nominalCaliber": ".329",
+   "diameter": 0.00836,
+   "mass": 0.0136077711,
+   "length": 0.03,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 281.227831856,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, SpSP 317 Ross",
+   "maker": "DKT",
+   "product": "SpSP 317 Ross",
+   "lot": "",
+   "nominalCaliber": ".287",
+   "diameter": 0.00729,
+   "mass": 0.0090718474,
+   "length": 0.0252,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 305.835267143,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, SpSP 319 J-Bore",
+   "maker": "DKT",
+   "product": "SpSP 319 J-Bore",
+   "lot": "",
+   "nominalCaliber": ".318",
+   "diameter": 0.00808,
+   "mass": 0.0097198365,
+   "length": 0.0243,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 235.528309179,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, SpSP 32 Hung/Murat",
+   "maker": "DKT",
+   "product": "SpSP 32 Hung/Murat",
+   "lot": "",
+   "nominalCaliber": ".329",
+   "diameter": 0.00836,
+   "mass": 0.0161997275,
+   "length": 0.0338,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 316.381310838,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, SpSP 320 J-Bore",
+   "maker": "DKT",
+   "product": "SpSP 320 J-Bore",
+   "lot": "",
+   "nominalCaliber": ".318",
+   "diameter": 0.00808,
+   "mass": 0.01133980925,
+   "length": 0.0277,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 246.074352874,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, SpSP 33 Hung/Murat",
+   "maker": "DKT",
+   "product": "SpSP 33 Hung/Murat",
+   "lot": "",
+   "nominalCaliber": ".329",
+   "diameter": 0.00836,
+   "mass": 0.01542214058,
+   "length": 0.0335,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 305.835267143,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, SpSP 356",
+   "maker": "DKT",
+   "product": "SpSP 356",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.012959782,
+   "length": 0.0238,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 284.743179754,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, SpSP 409 405 Win",
+   "maker": "DKT",
+   "product": "SpSP 409 405 Win",
+   "lot": "",
+   "nominalCaliber": ".411",
+   "diameter": 0.01044,
+   "mass": 0.0174957057,
+   "length": 0.0255,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 189.828786503,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, SpSP 410 405 Win",
+   "maker": "DKT",
+   "product": "SpSP 410 405 Win",
+   "lot": "",
+   "nominalCaliber": ".411",
+   "diameter": 0.01044,
+   "mass": 0.019439673,
+   "length": 0.0275,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 207.405525994,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "DKT, SpSP 735 Carcano",
+   "maker": "DKT",
+   "product": "SpSP 735 Carcano",
+   "lot": "",
+   "nominalCaliber": ".300",
+   "diameter": 0.00762,
+   "mass": 0.0090718474,
+   "length": 0.025,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 224.982265485,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

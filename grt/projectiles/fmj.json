@@ -1,0 +1,64 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "FMJ, SF",
+   "maker": "FMJ",
+   "product": "SF",
+   "lot": "",
+   "nominalCaliber": ".530",
+   "diameter": 0.01346,
+   "mass": 0.05216312255,
+   "length": 0.0492,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 562.455663711,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "FMJ, SP-5 Subsonic",
+   "maker": "FMJ",
+   "product": "SP-5 Subsonic",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.01600533077,
+   "length": 0.0345,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 281.227831856,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

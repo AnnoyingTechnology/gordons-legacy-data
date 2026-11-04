@@ -1,0 +1,1312 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "Sinterfire, 499L-W",
+   "maker": "Sinterfire",
+   "product": "499L-W",
+   "lot": "",
+   "nominalCaliber": ".499",
+   "diameter": 0.01267,
+   "mass": 0.019439673,
+   "length": 0.0228,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 113.194202322,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF223 MTP",
+   "maker": "Sinterfire",
+   "product": "SF223 MTP",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00272155422,
+   "length": 0.0191,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 21000000,
+   "ballisticCoefficientG1": 85.774488716,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF223 RP",
+   "maker": "Sinterfire",
+   "product": "SF223 RP",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00272155422,
+   "length": 0.0186,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 21000000,
+   "ballisticCoefficientG1": 85.774488716,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF223 WTP",
+   "maker": "Sinterfire",
+   "product": "SF223 WTP",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00272155422,
+   "length": 0.0182,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 21000000,
+   "ballisticCoefficientG1": 83.6652799771,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF223 WTP",
+   "maker": "Sinterfire",
+   "product": "SF223 WTP",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00291595095,
+   "length": 0.0191,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 21000000,
+   "ballisticCoefficientG1": 87.8836974549,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF223 WTP",
+   "maker": "Sinterfire",
+   "product": "SF223 WTP",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00304554877,
+   "length": 0.0213,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 21000000,
+   "ballisticCoefficientG1": 96.3205324106,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF223 WTP",
+   "maker": "Sinterfire",
+   "product": "SF223 WTP",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.0224,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 21000000,
+   "ballisticCoefficientG1": 121.631037278,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF308 NTP",
+   "maker": "Sinterfire",
+   "product": "SF308 NTP",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00809986375,
+   "length": 0.0282,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 21000000,
+   "ballisticCoefficientG1": 154.675307521,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF308 RP",
+   "maker": "Sinterfire",
+   "product": "SF308 RP",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00809986375,
+   "length": 0.0282,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 21000000,
+   "ballisticCoefficientG1": 154.675307521,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF357SIG RHFP",
+   "maker": "Sinterfire",
+   "product": "SF357SIG RHFP",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.006479891,
+   "length": 0.0178,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 78.7437929196,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF357SIG RHHP",
+   "maker": "Sinterfire",
+   "product": "SF357SIG RHHP",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.006479891,
+   "length": 0.0154,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 71.7130971232,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF357SIG RHVF",
+   "maker": "Sinterfire",
+   "product": "SF357SIG RHVF",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.006479891,
+   "length": 0.0153,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 71.7130971232,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF38 RHFP",
+   "maker": "Sinterfire",
+   "product": "SF38 RHFP",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.0071278801,
+   "length": 0.0171,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 77.3376537603,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF38 RHFP",
+   "maker": "Sinterfire",
+   "product": "SF38 RHFP",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00809986375,
+   "length": 0.0189,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 87.8836974549,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF38 RHFP TC",
+   "maker": "Sinterfire",
+   "product": "SF38 RHFP TC",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.0071278801,
+   "length": 0.0167,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 72.4161667028,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF38 RHFP TC",
+   "maker": "Sinterfire",
+   "product": "SF38 RHFP TC",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00809986375,
+   "length": 0.0189,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 86.4775582956,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF38 RHHP",
+   "maker": "Sinterfire",
+   "product": "SF38 RHHP",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.0071278801,
+   "length": 0.0172,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 77.3376537603,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF38 RHHP",
+   "maker": "Sinterfire",
+   "product": "SF38 RHHP",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00809986375,
+   "length": 0.019,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 87.8836974549,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF38 RHVF",
+   "maker": "Sinterfire",
+   "product": "SF38 RHVF",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.0071278801,
+   "length": 0.0171,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 77.3376537603,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF38 RHVF",
+   "maker": "Sinterfire",
+   "product": "SF38 RHVF",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00809986375,
+   "length": 0.0189,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 87.8836974549,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF38 RHVF TC",
+   "maker": "Sinterfire",
+   "product": "SF38 RHVF TC",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00809986375,
+   "length": 0.0189,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 86.4775582956,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF380 RHFP",
+   "maker": "Sinterfire",
+   "product": "SF380 RHFP",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00485991825,
+   "length": 0.0124,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 56.2455663711,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF380 RHHP",
+   "maker": "Sinterfire",
+   "product": "SF380 RHHP",
+   "lot": "",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00485991825,
+   "length": 0.0124,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 56.2455663711,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF4.6-26 WTP",
+   "maker": "Sinterfire",
+   "product": "SF4.6-26 WTP",
+   "lot": "",
+   "nominalCaliber": ".184",
+   "diameter": 0.00467,
+   "mass": 0.00168477166,
+   "length": 0.0165,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 21000000,
+   "ballisticCoefficientG1": 84.3683495567,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF40 Limited",
+   "maker": "Sinterfire",
+   "product": "SF40 Limited",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01016,
+   "mass": 0.0097198365,
+   "length": 0.0182,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 113.897271902,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF40 RHFP",
+   "maker": "Sinterfire",
+   "product": "SF40 RHFP",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01016,
+   "mass": 0.00809986375,
+   "length": 0.0161,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 76.6345841807,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF40 RHFP",
+   "maker": "Sinterfire",
+   "product": "SF40 RHFP",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01016,
+   "mass": 0.00874785285,
+   "length": 0.0168,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 80.8530016585,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF40 RHHP",
+   "maker": "Sinterfire",
+   "product": "SF40 RHHP",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01016,
+   "mass": 0.00809986375,
+   "length": 0.0162,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 76.6345841807,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF40 RHHP",
+   "maker": "Sinterfire",
+   "product": "SF40 RHHP",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01016,
+   "mass": 0.00874785285,
+   "length": 0.0168,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 80.8530016585,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF44 RHVF",
+   "maker": "Sinterfire",
+   "product": "SF44 RHVF",
+   "lot": "",
+   "nominalCaliber": ".430",
+   "diameter": 0.01092,
+   "mass": 0.01198779835,
+   "length": 0.0197,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 90.6959757735,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF45 RHFP",
+   "maker": "Sinterfire",
+   "product": "SF45 RHFP",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.01004383105,
+   "length": 0.0161,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 82.9622103974,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF45 RHFP",
+   "maker": "Sinterfire",
+   "product": "SF45 RHFP",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.01069182015,
+   "length": 0.0162,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 85.0714191363,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF45 RHFP",
+   "maker": "Sinterfire",
+   "product": "SF45 RHFP",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.01133980925,
+   "length": 0.0168,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 87.8836974549,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF45 RHHP",
+   "maker": "Sinterfire",
+   "product": "SF45 RHHP",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.01004383105,
+   "length": 0.0162,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 82.9622103974,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF45 RHHP",
+   "maker": "Sinterfire",
+   "product": "SF45 RHHP",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.01069182015,
+   "length": 0.0162,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 85.0714191363,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF45 RHVF",
+   "maker": "Sinterfire",
+   "product": "SF45 RHVF",
+   "lot": "",
+   "nominalCaliber": ".451",
+   "diameter": 0.01146,
+   "mass": 0.0090718474,
+   "length": 0.0147,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 75.931514601,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF45-70 RHRN",
+   "maker": "Sinterfire",
+   "product": "SF45-70 RHRN",
+   "lot": "",
+   "nominalCaliber": ".458",
+   "diameter": 0.01163,
+   "mass": 0.019439673,
+   "length": 0.0228,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 21000000,
+   "ballisticCoefficientG1": 139.207776769,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF50AE RHVF",
+   "maker": "Sinterfire",
+   "product": "SF50AE RHVF",
+   "lot": "",
+   "nominalCaliber": ".500",
+   "diameter": 0.0127,
+   "mass": 0.019439673,
+   "length": 0.0269,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 118.115689379,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF7.62x39 NTP",
+   "maker": "Sinterfire",
+   "product": "SF7.62x39 NTP",
+   "lot": "",
+   "nominalCaliber": ".310",
+   "diameter": 0.00787,
+   "mass": 0.00809986375,
+   "length": 0.0282,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 151.863029202,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF9 RHFP",
+   "maker": "Sinterfire",
+   "product": "SF9 RHFP",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.006479891,
+   "length": 0.0161,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 73.8223058621,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF9 RHFP",
+   "maker": "Sinterfire",
+   "product": "SF9 RHFP",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00745187465,
+   "length": 0.018,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 80.8530016585,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF9 RHFP",
+   "maker": "Sinterfire",
+   "product": "SF9 RHFP",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00784066811,
+   "length": 0.0191,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 84.3683495567,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF9 RHHP",
+   "maker": "Sinterfire",
+   "product": "SF9 RHHP",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.006479891,
+   "length": 0.0161,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 73.8223058621,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF9 RHRN",
+   "maker": "Sinterfire",
+   "product": "SF9 RHRN",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.006479891,
+   "length": 0.0171,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 75.2284450214,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF9 RHRN",
+   "maker": "Sinterfire",
+   "product": "SF9 RHRN",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00745187465,
+   "length": 0.0189,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 82.2591408178,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF9 RHRN",
+   "maker": "Sinterfire",
+   "product": "SF9 RHRN",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00784066811,
+   "length": 0.0201,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 85.774488716,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SF9 RHVF",
+   "maker": "Sinterfire",
+   "product": "SF9 RHVF",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.006479891,
+   "length": 0.0161,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 73.8223058621,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SFR233 WTP",
+   "maker": "Sinterfire",
+   "product": "SFR233 WTP",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00272155422,
+   "length": 0.0189,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 21000000,
+   "ballisticCoefficientG1": 84.3683495567,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SFR308 NTP",
+   "maker": "Sinterfire",
+   "product": "SFR308 NTP",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0071278801,
+   "length": 0.028,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 140.613915928,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SFR38 RHVF",
+   "maker": "Sinterfire",
+   "product": "SFR38 RHVF",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.006479891,
+   "length": 0.0161,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 71.0100275436,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SFR40 RHVF",
+   "maker": "Sinterfire",
+   "product": "SFR40 RHVF",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01016,
+   "mass": 0.00615589645,
+   "length": 0.0127,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 63.2762621675,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SFR7.62x39 NTP",
+   "maker": "Sinterfire",
+   "product": "SFR7.62x39 NTP",
+   "lot": "",
+   "nominalCaliber": ".310",
+   "diameter": 0.00787,
+   "mass": 0.0071278801,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 138.504707189,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SFR9 RHVF",
+   "maker": "Sinterfire",
+   "product": "SFR9 RHVF",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.0058319019,
+   "length": 0.0151,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 70.3069579639,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sinterfire, SFRB40 RHVF",
+   "maker": "Sinterfire",
+   "product": "SFRB40 RHVF",
+   "lot": "",
+   "nominalCaliber": ".400",
+   "diameter": 0.01016,
+   "mass": 0.00680388555,
+   "length": 0.0138,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 70.3069579639,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

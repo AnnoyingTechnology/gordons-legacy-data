@@ -1,0 +1,226 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "ARES, FNBBBNG CEPRX",
+   "maker": "ARES",
+   "product": "FNBBBNG CEPRX",
+   "lot": "2019",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00952543977,
+   "length": 0.0156,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 121.631037278,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ARES, FPBB EPRX",
+   "maker": "ARES",
+   "product": "FPBB EPRX",
+   "lot": "2019",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00952543977,
+   "length": 0.0171,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ubcsCode": "S0L7F4S4N1",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ARES, FPFB EPRX",
+   "maker": "ARES",
+   "product": "FPFB EPRX",
+   "lot": "2019",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00874785285,
+   "length": 0.0159,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ARES, RN SBB NG",
+   "maker": "ARES",
+   "product": "RN SBB NG",
+   "lot": "2019",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00809986375,
+   "length": 0.0154,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 85.0714191363,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ARES, RN SBB NG EPRX",
+   "maker": "ARES",
+   "product": "RN SBB NG EPRX",
+   "lot": "2019",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00809986375,
+   "length": 0.0155,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ubcsCode": "S0L2F4S4N1",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ARES, RNBB CEPRX",
+   "maker": "ARES",
+   "product": "RNBB CEPRX",
+   "lot": "2019",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00874785285,
+   "length": 0.0162,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ARES, RNBB EPRX",
+   "maker": "ARES",
+   "product": "RNBB EPRX",
+   "lot": "2019",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00874785285,
+   "length": 0.0163,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ARES, RNFBNG EPRX",
+   "maker": "ARES",
+   "product": "RNFBNG EPRX",
+   "lot": "2019",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00874785285,
+   "length": 0.0158,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "ARES, RNFBNG EPRX",
+   "maker": "ARES",
+   "product": "RNFBNG EPRX",
+   "lot": "2019",
+   "nominalCaliber": ".356",
+   "diameter": 0.00904,
+   "mass": 0.00952543977,
+   "length": 0.017,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 121.631037278,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

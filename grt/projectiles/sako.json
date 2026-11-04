@@ -1,0 +1,1385 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "Sako, FMJ 103E",
+   "maker": "Sako",
+   "product": "FMJ 103E",
+   "lot": "",
+   "nominalCaliber": ".251",
+   "diameter": 0.00638,
+   "mass": 0.0032399455,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 80.8530016585,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, FMJ 105G",
+   "maker": "Sako",
+   "product": "FMJ 105G",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0032399455,
+   "length": 0.016,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 127.255593915,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, FMJ 108B",
+   "maker": "Sako",
+   "product": "FMJ 108B",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00511911389,
+   "length": 0.0152,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 23000000,
+   "ballisticCoefficientG1": 103.351228207,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, FMJ 110A",
+   "maker": "Sako",
+   "product": "FMJ 110A",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00602629863,
+   "length": 0.0146,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 105.460436946,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, FMJ 114E",
+   "maker": "Sako",
+   "product": "FMJ 114E",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0058319019,
+   "length": 0.0243,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 246.074352874,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, FMJ 117A",
+   "maker": "Sako",
+   "product": "FMJ 117A",
+   "lot": "",
+   "nominalCaliber": ".311",
+   "diameter": 0.0079,
+   "mass": 0.00797026593,
+   "length": 0.0225,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 240.449796237,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, FMJ 120A",
+   "maker": "Sako",
+   "product": "FMJ 120A",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00797026593,
+   "length": 0.0232,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 232.012961281,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, FMJ 143A",
+   "maker": "Sako",
+   "product": "FMJ 143A",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00797026593,
+   "length": 0.0232,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 232.012961281,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, FMJ 145A CH",
+   "maker": "Sako",
+   "product": "FMJ 145A CH",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00797026593,
+   "length": 0.0231,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 220.763848007,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, FMJ 7.65PARA 101C",
+   "maker": "Sako",
+   "product": "FMJ 7.65PARA 101C",
+   "lot": "",
+   "nominalCaliber": ".311",
+   "diameter": 0.0079,
+   "mass": 0.00602629863,
+   "length": 0.0146,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 114.600341481,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, FMJ RN 101D",
+   "maker": "Sako",
+   "product": "FMJ RN 101D",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00745187465,
+   "length": 0.0152,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 94.2113236716,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, FMJ RN 102F",
+   "maker": "Sako",
+   "product": "FMJ RN 102F",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.00822946157,
+   "length": 0.0182,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 127.255593915,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, FMJ RN 103G",
+   "maker": "Sako",
+   "product": "FMJ RN 103G",
+   "lot": "",
+   "nominalCaliber": ".223",
+   "diameter": 0.00566,
+   "mass": 0.00291595095,
+   "length": 0.0135,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 98.4297411495,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, FMJ RN 108B",
+   "maker": "Sako",
+   "product": "FMJ RN 108B",
+   "lot": "2019",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00505431498,
+   "length": 0.0153,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 21000000,
+   "ballisticCoefficientG1": 103.351228207,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, FMJ SpeedHd 114B",
+   "maker": "Sako",
+   "product": "FMJ SpeedHd 114B",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0084238583,
+   "length": 0.0257,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 198.265621458,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, FMJ SpeedHd 118E",
+   "maker": "Sako",
+   "product": "FMJ SpeedHd 118E",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.006479891,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 170.142838273,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, FMJRN 9mmShort 111D",
+   "maker": "Sako",
+   "product": "FMJRN 9mmShort 111D",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00615589645,
+   "length": 0.0116,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 55.5424967915,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, HammerHd 201F",
+   "maker": "Sako",
+   "product": "HammerHd 201F",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.012959782,
+   "length": 0.027,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 194.04720398,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, HammerHd 211B",
+   "maker": "Sako",
+   "product": "HammerHd 211B",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.01010862996,
+   "length": 0.0304,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 225.685335064,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, HammerHd 211F",
+   "maker": "Sako",
+   "product": "HammerHd 211F",
+   "lot": "",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.0161997275,
+   "length": 0.031,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 240.449796237,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, HammerHd 216B",
+   "maker": "Sako",
+   "product": "HammerHd 216B",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0110158147,
+   "length": 0.0324,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 286.149318913,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, HammerHd 227A",
+   "maker": "Sako",
+   "product": "HammerHd 227A",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.012959782,
+   "length": 0.032,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 250.292770352,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, HammerHd 228A",
+   "maker": "Sako",
+   "product": "HammerHd 228A",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0142557602,
+   "length": 0.0342,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 286.852388493,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, HammerHd. 226A",
+   "maker": "Sako",
+   "product": "HammerHd. 226A",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.0293,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 272.08792732,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, HammerHd. 256A",
+   "maker": "Sako",
+   "product": "HammerHd. 256A",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.0284,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 272.08792732,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, HP 111G",
+   "maker": "Sako",
+   "product": "HP 111G",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00336954332,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 167.330559954,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, HP 112G",
+   "maker": "Sako",
+   "product": "HP 112G",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0025919564,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 120.224898118,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, HP 117E",
+   "maker": "Sako",
+   "product": "HP 117E",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0045359237,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 183.501160286,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, HP 136A",
+   "maker": "Sako",
+   "product": "HP 136A",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0071278801,
+   "length": 0.0206,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 139.910846348,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, HP SuperRange 146A",
+   "maker": "Sako",
+   "product": "HP SuperRange 146A",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00660948882,
+   "length": 0.0232,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 165.924420795,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, HPBT 147A CH",
+   "maker": "Sako",
+   "product": "HPBT 147A CH",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00660948882,
+   "length": 0.0225,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 168.736699113,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, HPBT M 119E",
+   "maker": "Sako",
+   "product": "HPBT M 119E",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00900704849,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 455.589087606,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, HPBT M 141A",
+   "maker": "Sako",
+   "product": "HPBT M 141A",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01088621688,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 340.285676545,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, HPBT M 142A",
+   "maker": "Sako",
+   "product": "HPBT M 142A",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0123117929,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 391.609755859,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, KPO Safety 121D",
+   "maker": "Sako",
+   "product": "KPO Safety 121D",
+   "lot": "",
+   "nominalCaliber": ".355",
+   "diameter": 0.00902,
+   "mass": 0.00738707574,
+   "length": 0.0157,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 90.6959757735,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, LSWC 110D",
+   "maker": "Sako",
+   "product": "LSWC 110D",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.0175,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 99.1328107291,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, LWC 108D",
+   "maker": "Sako",
+   "product": "LWC 108D",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.00959023868,
+   "length": 0.0162,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 35.8565485616,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, LWC 32S&W 107F",
+   "maker": "Sako",
+   "product": "LWC 32S&W 107F",
+   "lot": "",
+   "nominalCaliber": ".315",
+   "diameter": 0.008,
+   "mass": 0.00635029318,
+   "length": 0.014,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 28.8258527652,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, PSP 129A",
+   "maker": "Sako",
+   "product": "PSP 129A",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00797026593,
+   "length": 0.0228,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 224.982265485,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, SP 106G",
+   "maker": "Sako",
+   "product": "SP 106G",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0032399455,
+   "length": 0.016,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 127.255593915,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, SP 110G",
+   "maker": "Sako",
+   "product": "SP 110G",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.0178,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 145.535402985,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, SP 112E",
+   "maker": "Sako",
+   "product": "SP 112E",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0058319019,
+   "length": 0.0243,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 245.371283294,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, SP 116E",
+   "maker": "Sako",
+   "product": "SP 116E",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00900704849,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 306.538336723,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, SP 117B",
+   "maker": "Sako",
+   "product": "SP 117B",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0077758692,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 239.043657077,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, SP 134A",
+   "maker": "Sako",
+   "product": "SP 134A",
+   "lot": "",
+   "nominalCaliber": ".311",
+   "diameter": 0.0079,
+   "mass": 0.00797026593,
+   "length": 0.0225,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 240.449796237,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, SP 30-30 122A",
+   "maker": "Sako",
+   "product": "SP 30-30 122A",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01010862996,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 263.651092365,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, SP BT 104G",
+   "maker": "Sako",
+   "product": "SP BT 104G",
+   "lot": "",
+   "nominalCaliber": ".223",
+   "diameter": 0.00566,
+   "mass": 0.00291595095,
+   "length": 0.014,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 104.757367366,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, SP RN 109B",
+   "maker": "Sako",
+   "product": "SP RN 109B",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00505431498,
+   "length": 0.015,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 21000000,
+   "ballisticCoefficientG1": 103.351228207,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, SP SemiP 116B",
+   "maker": "Sako",
+   "product": "SP SemiP 116B",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0110158147,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 288.961597232,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, SPFP 144A",
+   "maker": "Sako",
+   "product": "SPFP 144A",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 174.361255751,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, SPRN 102D",
+   "maker": "Sako",
+   "product": "SPRN 102D",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01652372205,
+   "length": 0.027,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 171.548977432,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, SPRN 111B",
+   "maker": "Sako",
+   "product": "SPRN 111B",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.01010862996,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 224.982265485,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, SPRN 120E",
+   "maker": "Sako",
+   "product": "SPRN 120E",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.01010862996,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 253.80811825,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, SPRN Sup.HammHd 225",
+   "maker": "Sako",
+   "product": "SPRN Sup.HammHd 225",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01030302669,
+   "length": 0.0282,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 291.070805971,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, SuperHammerHd 236A",
+   "maker": "Sako",
+   "product": "SuperHammerHd 236A",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.0306,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 295.992293028,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, TCJ 123D",
+   "maker": "Sako",
+   "product": "TCJ 123D",
+   "lot": "",
+   "nominalCaliber": ".357",
+   "diameter": 0.00907,
+   "mass": 0.01023822778,
+   "length": 0.0167,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 8000000,
+   "ballisticCoefficientG1": 98.4297411495,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Sako, HammerHd 266D",
+   "maker": "Sako",
+   "product": "HammerHd 266D",
+   "lot": "2021/10/29",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01853248826,
+   "length": 0.0322,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 201.077899777,
+   "ubcsCode": "",
+   "maxSeatingDepth": 0.0165,
+   "info": {
+    "description": "measured Sako Hammerhead 266D\rmost of the measurements inclined to 32.2mm , some were 32.3mm\rSako diameters range on box: 9.26-9.28 mm\rEAN code: 6 438053 998779",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-31",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

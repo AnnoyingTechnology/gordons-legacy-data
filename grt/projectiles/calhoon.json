@@ -1,0 +1,136 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "Calhoon, DBL HP",
+   "maker": "Calhoon",
+   "product": "DBL HP",
+   "lot": "",
+   "nominalCaliber": ".198",
+   "diameter": 0.00503,
+   "mass": 0.00174957057,
+   "length": 0.0134,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 117.4126198,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Calhoon, DBL HP",
+   "maker": "Calhoon",
+   "product": "DBL HP",
+   "lot": "",
+   "nominalCaliber": ".198",
+   "diameter": 0.00503,
+   "mass": 0.00207356512,
+   "length": 0.0143,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 132.177080972,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Calhoon, DBL HP",
+   "maker": "Calhoon",
+   "product": "DBL HP",
+   "lot": "",
+   "nominalCaliber": ".198",
+   "diameter": 0.00503,
+   "mass": 0.00233276076,
+   "length": 0.0164,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 144.832333406,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Calhoon, DBL HP",
+   "maker": "Calhoon",
+   "product": "DBL HP",
+   "lot": "",
+   "nominalCaliber": ".198",
+   "diameter": 0.00503,
+   "mass": 0.0025919564,
+   "length": 0.0169,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 160.299864158,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Calhoon, DBL HP",
+   "maker": "Calhoon",
+   "product": "DBL HP",
+   "lot": "",
+   "nominalCaliber": ".198",
+   "diameter": 0.00503,
+   "mass": 0.00285115204,
+   "length": 0.0177,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 181.391951547,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

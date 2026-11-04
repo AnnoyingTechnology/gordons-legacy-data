@@ -1,0 +1,641 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2021-02",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00291595095,
+   "length": 0.019,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 40000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 117.4126198,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2021-02",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0032399455,
+   "length": 0.0205,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 40000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 123.740246016,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2021-02",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00356394005,
+   "length": 0.0221,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 40000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 130.067872233,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2021-02",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.0051839128,
+   "length": 0.0274,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 36000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 205.999386834,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2021-02",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.006479891,
+   "length": 0.0293,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 36000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 210.920873892,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2021-02",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00797026593,
+   "length": 0.0342,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 36000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 274.197136059,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2021-02",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00900704849,
+   "length": 0.0372,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 36000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 298.804571347,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2021-02",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0084238583,
+   "length": 0.0324,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 36000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 238.340587498,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2021-02",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.00939584195,
+   "length": 0.0358,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 36000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 263.651092365,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2021-02",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0084238583,
+   "length": 0.0314,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 36000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 232.012961281,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2021-02",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00939584195,
+   "length": 0.0343,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 36000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 254.511187829,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2021-02",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0084238583,
+   "length": 0.0286,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 36000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 182.095021127,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2021-02",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.032,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 36000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 215.842360949,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2021-02",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.0345,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 36000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 252.40197909,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2021-02",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.0368,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 36000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 288.258527652,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2021-02",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.0103678256,
+   "length": 0.0318,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 36000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 205.296317255,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2021-02",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.0116638038,
+   "length": 0.0348,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 36000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 214.43622179,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2021-02",
+   "nominalCaliber": ".338",
+   "diameter": 0.00859,
+   "mass": 0.01198779835,
+   "length": 0.0338,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 36000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 221.466917586,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2021-02",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.0142557602,
+   "length": 0.0345,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 45000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 210.920873892,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2021-02",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.0161997275,
+   "length": 0.0378,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 45000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 233.41910044,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2021-02",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0038879346,
+   "length": 0.024,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 40000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 134.989359291,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2021-02",
+   "nominalCaliber": ".358",
+   "diameter": 0.00909,
+   "mass": 0.012959782,
+   "length": 0.0328,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 36000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 203.890178095,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2021-02",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.0161997275,
+   "length": 0.036,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 45000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 235.528309179,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2019-02",
+   "nominalCaliber": ".318",
+   "diameter": 0.00808,
+   "mass": 0.0097198365,
+   "length": 0.031,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 36000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 197.562551879,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Fox Bullets, Classic Hunter",
+   "maker": "Fox Bullets",
+   "product": "Classic Hunter",
+   "lot": "2019-02",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.006479891,
+   "length": 0.0302,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 36000000,
+   "boreResistanceAdjustment": 10000000,
+   "ballisticCoefficientG1": 221.466917586,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

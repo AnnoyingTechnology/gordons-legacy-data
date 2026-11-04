@@ -1,0 +1,880 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "Hasler, Hasler A 499",
+   "maker": "Hasler",
+   "product": "Hasler A 499",
+   "lot": "",
+   "nominalCaliber": ".405",
+   "diameter": 0.01029,
+   "mass": 0.0136077711,
+   "length": 0.02758,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0037,
+    "diameterA": 0.01029,
+    "diameterB": 0.00997
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 168.736699113,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler A 93",
+   "maker": "Hasler",
+   "product": "Hasler A 93",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01308937982,
+   "length": 0.03226,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00339,
+    "diameterA": 0.00929,
+    "diameterB": 0.00884
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 242.559004976,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler A30-138",
+   "maker": "Hasler",
+   "product": "Hasler A30-138",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.008916330016,
+   "length": 0.03048,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00558,
+    "diameterA": 0.00782,
+    "diameterB": 0.00703
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 267.166440263,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler A30-167",
+   "maker": "Hasler",
+   "product": "Hasler A30-167",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01082141797,
+   "length": 0.03589,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00661,
+    "diameterA": 0.00782,
+    "diameterB": 0.00682
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 348.019441921,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler A7-139",
+   "maker": "Hasler",
+   "product": "Hasler A7-139",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00894224958,
+   "length": 0.03459,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00511,
+    "diameterA": 0.00724,
+    "diameterB": 0.00652
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 316.381310838,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler A8-160",
+   "maker": "Hasler",
+   "product": "Hasler A8-160",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01030302669,
+   "length": 0.03231,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00585,
+    "diameterA": 0.0082,
+    "diameterB": 0.00729
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 260.135744466,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler A8-170",
+   "maker": "Hasler",
+   "product": "Hasler A8-170",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01095101579,
+   "length": 0.03409,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00634,
+    "diameterA": 0.0082,
+    "diameterB": 0.00718
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 270.681788161,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler H",
+   "maker": "Hasler",
+   "product": "Hasler H",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00511911389,
+   "length": 0.027,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0028,
+    "diameterA": 0.00617,
+    "diameterB": 0.0056
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 253.10504867,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler H",
+   "maker": "Hasler",
+   "product": "Hasler H",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.00641509209,
+   "length": 0.02949,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00335,
+    "diameterA": 0.00653,
+    "diameterB": 0.00589
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 260.135744466,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler H",
+   "maker": "Hasler",
+   "product": "Hasler H",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00706308119,
+   "length": 0.03099,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00335,
+    "diameterA": 0.00671,
+    "diameterB": 0.00607
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 253.10504867,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler H",
+   "maker": "Hasler",
+   "product": "Hasler H",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00822946157,
+   "length": 0.035,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0031,
+    "diameterA": 0.00671,
+    "diameterB": 0.00607
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 309.350615041,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler H",
+   "maker": "Hasler",
+   "product": "Hasler H",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.00738707574,
+   "length": 0.02959,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0031,
+    "diameterA": 0.00704,
+    "diameterB": 0.00646
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 249.589700772,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler H",
+   "maker": "Hasler",
+   "product": "Hasler H",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.00803506484,
+   "length": 0.03139,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00351,
+    "diameterA": 0.00704,
+    "diameterB": 0.00635
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 260.135744466,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler H",
+   "maker": "Hasler",
+   "product": "Hasler H",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00822946157,
+   "length": 0.03099,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00355,
+    "diameterA": 0.00721,
+    "diameterB": 0.00653
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 256.620396568,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler H",
+   "maker": "Hasler",
+   "product": "Hasler H",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0090718474,
+   "length": 0.02946,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00528,
+    "diameterA": 0.00782,
+    "diameterB": 0.00688
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 253.10504867,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler H",
+   "maker": "Hasler",
+   "product": "Hasler H",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0317,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0054,
+    "diameterA": 0.00782,
+    "diameterB": 0.00674
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 288.258527652,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler H",
+   "maker": "Hasler",
+   "product": "Hasler H",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00997903214,
+   "length": 0.032,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00679,
+    "diameterA": 0.00782,
+    "diameterB": 0.00656
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 305.835267143,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler H",
+   "maker": "Hasler",
+   "product": "Hasler H",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01082141797,
+   "length": 0.03589,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0059,
+    "diameterA": 0.00782,
+    "diameterB": 0.00672
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 351.53478982,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler H7",
+   "maker": "Hasler",
+   "product": "Hasler H7",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00939584195,
+   "length": 0.03409,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00511,
+    "diameterA": 0.00724,
+    "diameterB": 0.00652
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 323.412006634,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler HA",
+   "maker": "Hasler",
+   "product": "Hasler HA",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00498951607,
+   "length": 0.02672,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0028,
+    "diameterA": 0.00617,
+    "diameterB": 0.00565
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 256.620396568,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler HA",
+   "maker": "Hasler",
+   "product": "Hasler HA",
+   "lot": "",
+   "nominalCaliber": ".257",
+   "diameter": 0.00653,
+   "mass": 0.00628549427,
+   "length": 0.02995,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00337,
+    "diameterA": 0.00653,
+    "diameterB": 0.0059
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 260.135744466,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler HA",
+   "maker": "Hasler",
+   "product": "Hasler HA",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00693348337,
+   "length": 0.03124,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00335,
+    "diameterA": 0.00671,
+    "diameterB": 0.00607
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 256.620396568,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler HA",
+   "maker": "Hasler",
+   "product": "Hasler HA",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00803506484,
+   "length": 0.03526,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00335,
+    "diameterA": 0.00671,
+    "diameterB": 0.00607
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 312.865962939,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler HA",
+   "maker": "Hasler",
+   "product": "Hasler HA",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.00719267901,
+   "length": 0.03,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0031,
+    "diameterA": 0.00704,
+    "diameterB": 0.00646
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 253.10504867,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler HA",
+   "maker": "Hasler",
+   "product": "Hasler HA",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.00784066811,
+   "length": 0.032,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0035,
+    "diameterA": 0.00704,
+    "diameterB": 0.00634
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 263.651092365,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler HA",
+   "maker": "Hasler",
+   "product": "Hasler HA",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00803506484,
+   "length": 0.0315,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00355,
+    "diameterA": 0.00721,
+    "diameterB": 0.00683
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 260.135744466,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler HA",
+   "maker": "Hasler",
+   "product": "Hasler HA",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00894224958,
+   "length": 0.0364,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00434,
+    "diameterA": 0.00721,
+    "diameterB": 0.00652
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 302.319919245,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler HA",
+   "maker": "Hasler",
+   "product": "Hasler HA",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00939584195,
+   "length": 0.03609,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00434,
+    "diameterA": 0.00721,
+    "diameterB": 0.00652
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 305.835267143,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler HA",
+   "maker": "Hasler",
+   "product": "Hasler HA",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00978463541,
+   "length": 0.03716,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00446,
+    "diameterA": 0.00721,
+    "diameterB": 0.00652
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 302.319919245,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler HA",
+   "maker": "Hasler",
+   "product": "Hasler HA",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00959023868,
+   "length": 0.03231,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0054,
+    "diameterA": 0.00782,
+    "diameterB": 0.00674
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 291.77387555,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler HA",
+   "maker": "Hasler",
+   "product": "Hasler HA",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01023822778,
+   "length": 0.03459,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0059,
+    "diameterA": 0.00782,
+    "diameterB": 0.00672
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 305.835267143,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "Hasler, Hasler HA",
+   "maker": "Hasler",
+   "product": "Hasler HA",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01082141797,
+   "length": 0.03589,
+   "base": {
+    "shape": "boattail",
+    "length": 0.00541,
+    "diameterA": 0.00782,
+    "diameterB": 0.00682
+   },
+   "shotStartPressure": 15000000,
+   "ballisticCoefficientG1": 351.53478982,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}

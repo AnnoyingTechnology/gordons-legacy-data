@@ -1,0 +1,2566 @@
+{
+ "format": "gordons-legacy.component",
+ "version": 1,
+ "kind": "grt-projectiles",
+ "provenance": {
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
+  "source": "GordonsReloadingTool.db of GRT nightly 2030, table projectile, read from a running GRT on 2026-11-04",
+  "file": "GordonsReloadingTool.db",
+  "author": "GRT",
+  "date": "2026-11-04",
+  "method": "GRT's own rows that GRT neither deleted nor hid, converted to SI (tools/data/build-grt-catalogue.ts, docs/data/grt-catalogue.md)",
+  "status": "unverified"
+ },
+ "value": [
+  {
+   "name": "RWS, Bionic B/Y",
+   "maker": "RWS",
+   "product": "Bionic B/Y",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00997903214,
+   "length": 0.0347,
+   "base": {
+    "shape": "hollow",
+    "length": 0.002,
+    "diameterA": 0.005,
+    "diameterB": 0.002
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 168.033629534,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, CU-TMF",
+   "maker": "RWS",
+   "product": "CU-TMF",
+   "lot": "",
+   "nominalCaliber": ".324",
+   "diameter": 0.00823,
+   "mass": 0.00978463541,
+   "length": 0.02,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 21000000,
+   "ballisticCoefficientG1": 161.706003317,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, CU-TMF",
+   "maker": "RWS",
+   "product": "CU-TMF",
+   "lot": "",
+   "nominalCaliber": ".364",
+   "diameter": 0.00925,
+   "mass": 0.01250618963,
+   "length": 0.02,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 133.583220131,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, DK",
+   "maker": "RWS",
+   "product": "DK",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.0090718474,
+   "length": 0.029,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 302.319919245,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, DK",
+   "maker": "RWS",
+   "product": "DK",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00997903214,
+   "length": 0.029,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 237.637517918,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, DK",
+   "maker": "RWS",
+   "product": "DK",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.0283,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 205.999386834,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, DK",
+   "maker": "RWS",
+   "product": "DK",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01172860271,
+   "length": 0.0283,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 198.265621458,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, DK",
+   "maker": "RWS",
+   "product": "DK",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01457975475,
+   "length": 0.0283,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 196.859482299,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, dummkopf",
+   "maker": "RWS",
+   "product": "dummkopf",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00997903214,
+   "length": 0.029,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 351.53478982,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, EVO Green",
+   "maker": "RWS",
+   "product": "EVO Green",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00822946157,
+   "length": 0.0353,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 242.559004976,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, EVO Green",
+   "maker": "RWS",
+   "product": "EVO Green",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00881265176,
+   "length": 0.0333,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 238.340587498,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, EVO Green",
+   "maker": "RWS",
+   "product": "EVO Green",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.00900704849,
+   "length": 0.0322,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 210.217804312,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, EVO Green",
+   "maker": "RWS",
+   "product": "EVO Green",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01192299944,
+   "length": 0.0335,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 219.357708847,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, Evolution",
+   "maker": "RWS",
+   "product": "Evolution",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01030302669,
+   "length": 0.0326,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0008,
+    "diameterA": 0.005,
+    "diameterB": 0.003
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 280.524762276,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, Evolution",
+   "maker": "RWS",
+   "product": "Evolution",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01198779835,
+   "length": 0.033,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0008,
+    "diameterA": 0.0052,
+    "diameterB": 0.0038
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 257.323466148,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, Evolution",
+   "maker": "RWS",
+   "product": "Evolution",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01302458091,
+   "length": 0.0316,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0005,
+    "diameterA": 0.0082,
+    "diameterB": 0.0009
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 246.074352874,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, Evolution",
+   "maker": "RWS",
+   "product": "Evolution",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01885648281,
+   "length": 0.0359,
+   "base": {
+    "shape": "hollow",
+    "length": 0.001,
+    "diameterA": 0.0093,
+    "diameterB": 0.001
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 281.930901435,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, Evolution",
+   "maker": "RWS",
+   "product": "Evolution",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01192299944,
+   "length": 0.0329,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 257.323466148,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, FMJ RN",
+   "maker": "RWS",
+   "product": "FMJ RN",
+   "lot": "",
+   "nominalCaliber": ".423",
+   "diameter": 0.01074,
+   "mass": 0.02248522177,
+   "length": 0.027,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 200.374830197,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, HIT",
+   "maker": "RWS",
+   "product": "HIT",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0084238583,
+   "length": 0.0336,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0032,
+    "diameterA": 0.007,
+    "diameterB": 0.0062
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 276.306344798,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, HIT",
+   "maker": "RWS",
+   "product": "HIT",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.0090718474,
+   "length": 0.0354,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0032,
+    "diameterA": 0.0072,
+    "diameterB": 0.0063
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 289.664666811,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, HIT",
+   "maker": "RWS",
+   "product": "HIT",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.0355,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0032,
+    "diameterA": 0.0078,
+    "diameterB": 0.0069
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 295.992293028,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, HM o.H.",
+   "maker": "RWS",
+   "product": "HM o.H.",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00997903214,
+   "length": 0.0328,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 210.920873892,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, HMK",
+   "maker": "RWS",
+   "product": "HMK",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0084238583,
+   "length": 0.0281,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 191.234925662,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, HMK",
+   "maker": "RWS",
+   "product": "HMK",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01121021143,
+   "length": 0.0341,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 269.275649002,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, HMK",
+   "maker": "RWS",
+   "product": "HMK",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01172860271,
+   "length": 0.0311,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 250.292770352,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, HMK",
+   "maker": "RWS",
+   "product": "HMK",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01211739617,
+   "length": 0.03,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 229.200682962,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, HMK",
+   "maker": "RWS",
+   "product": "HMK",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01671811878,
+   "length": 0.0321,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 261.541883626,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, HMK 451508",
+   "maker": "RWS",
+   "product": "HMK 451508",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0116638038,
+   "length": 0.0313,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 249.589700772,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, HMK 451568",
+   "maker": "RWS",
+   "product": "HMK 451568",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01671811878,
+   "length": 0.0327,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 256.620396568,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, ID Classic",
+   "maker": "RWS",
+   "product": "ID Classic",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01049742342,
+   "length": 0.0311,
+   "base": {
+    "shape": "boattail",
+    "length": 0.003,
+    "diameterA": 0.0072,
+    "diameterB": 0.001
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 228.497613383,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, ID Classic",
+   "maker": "RWS",
+   "product": "ID Classic",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01146940707,
+   "length": 0.0331,
+   "base": {
+    "shape": "boattail",
+    "length": 0.003,
+    "diameterA": 0.0072,
+    "diameterB": 0.001
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 250.292770352,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, ID Classic",
+   "maker": "RWS",
+   "product": "ID Classic",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.026,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0034,
+    "diameterA": 0.0078,
+    "diameterB": 0.001
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 213.030082631,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, ID Classic",
+   "maker": "RWS",
+   "product": "ID Classic",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01283018418,
+   "length": 0.0334,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0035,
+    "diameterA": 0.0082,
+    "diameterB": 0.0009
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 246.074352874,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, KS",
+   "maker": "RWS",
+   "product": "KS",
+   "lot": "303729",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00622069536,
+   "length": 0.0249,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 206.702456414,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, KS",
+   "maker": "RWS",
+   "product": "KS",
+   "lot": "2019",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01172860271,
+   "length": 0.028,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 217.951569688,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, KS",
+   "maker": "RWS",
+   "product": "KS",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00479511934,
+   "length": 0.023,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 182.798090706,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, KS",
+   "maker": "RWS",
+   "product": "KS",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00699828228,
+   "length": 0.0241,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 216.545430529,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, KS",
+   "maker": "RWS",
+   "product": "KS",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00822946157,
+   "length": 0.0281,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 253.80811825,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, KS",
+   "maker": "RWS",
+   "product": "KS",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0097198365,
+   "length": 0.03,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 242.559004976,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, KS",
+   "maker": "RWS",
+   "product": "KS",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00797026593,
+   "length": 0.025,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 203.890178095,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, KS",
+   "maker": "RWS",
+   "product": "KS",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01049742342,
+   "length": 0.03,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 267.869509843,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, KS",
+   "maker": "RWS",
+   "product": "KS",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0097198365,
+   "length": 0.0251,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 209.514734732,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, KS",
+   "maker": "RWS",
+   "product": "KS",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.0281,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 231.309891701,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, KS",
+   "maker": "RWS",
+   "product": "KS",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01302458091,
+   "length": 0.0321,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 250.292770352,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, KS",
+   "maker": "RWS",
+   "product": "KS",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01451495584,
+   "length": 0.0321,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 241.152865816,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, KS",
+   "maker": "RWS",
+   "product": "KS",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01302458091,
+   "length": 0.0241,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 175.76739491,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, KS",
+   "maker": "RWS",
+   "product": "KS",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01600533077,
+   "length": 0.03,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 224.982265485,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, KS",
+   "maker": "RWS",
+   "product": "KS",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.01937487409,
+   "length": 0.0341,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 283.337040595,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, KS",
+   "maker": "RWS",
+   "product": "KS",
+   "lot": "",
+   "nominalCaliber": ".413",
+   "diameter": 0.01049,
+   "mass": 0.01639412423,
+   "length": 0.0241,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 168.736699113,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, KS",
+   "maker": "RWS",
+   "product": "KS",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00822946157,
+   "length": 0.0274,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 253.80811825,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, KS",
+   "maker": "RWS",
+   "product": "KS",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01049742342,
+   "length": 0.0302,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 267.166440263,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, KS",
+   "maker": "RWS",
+   "product": "KS",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01302458091,
+   "length": 0.032,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 250.292770352,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, KS 451434",
+   "maker": "RWS",
+   "product": "KS 451434",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00622069536,
+   "length": 0.0254,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 209.514734732,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, KS 451571",
+   "maker": "RWS",
+   "product": "KS 451571",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.019439673,
+   "length": 0.0342,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 288.258527652,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, Match S",
+   "maker": "RWS",
+   "product": "Match S",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0123117929,
+   "length": 0.0311,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 386.688268802,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, MJ",
+   "maker": "RWS",
+   "product": "MJ",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0032399455,
+   "length": 0.016,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 99.1328107291,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, MJ",
+   "maker": "RWS",
+   "product": "MJ",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00362873896,
+   "length": 0.018,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 106.163506526,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, MJ",
+   "maker": "RWS",
+   "product": "MJ",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00298074986,
+   "length": 0.0131,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 98.4297411495,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, MJ-BT",
+   "maker": "RWS",
+   "product": "MJ-BT",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00298074986,
+   "length": 0.0145,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 98.4297411495,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, Scorion",
+   "maker": "RWS",
+   "product": "Scorion",
+   "lot": "2020",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01088621688,
+   "length": 0.03053,
+   "base": {
+    "shape": "hollow",
+    "length": 0.0037,
+    "diameterA": 0.00782,
+    "diameterB": 0.00642
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 293.883084289,
+   "ubcsCode": "S0F1B2S4N4",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, SG",
+   "maker": "RWS",
+   "product": "SG",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.00447112479,
+   "length": 0.0195,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 161.706003317,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, SG",
+   "maker": "RWS",
+   "product": "SG",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00602629863,
+   "length": 0.0213,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 126.552524335,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, SG",
+   "maker": "RWS",
+   "product": "SG",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0084238583,
+   "length": 0.0272,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 151.159959622,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, SG",
+   "maker": "RWS",
+   "product": "SG",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00900704849,
+   "length": 0.027,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 210.920873892,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, SG",
+   "maker": "RWS",
+   "product": "SG",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.00952543977,
+   "length": 0.026,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 189.828786503,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, SG",
+   "maker": "RWS",
+   "product": "SG",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01211739617,
+   "length": 0.0281,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 195.45334314,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, SG",
+   "maker": "RWS",
+   "product": "SG",
+   "lot": "",
+   "nominalCaliber": ".413",
+   "diameter": 0.01049,
+   "mass": 0.01639412423,
+   "length": 0.025,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 168.736699113,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, SG",
+   "maker": "RWS",
+   "product": "SG",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00291595095,
+   "length": 0.0135,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 86.4775582956,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, SG-M 13343",
+   "maker": "RWS",
+   "product": "SG-M 13343",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00336954332,
+   "length": 0.0162,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 128.661733074,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, SpeedTip",
+   "maker": "RWS",
+   "product": "SpeedTip",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01069182015,
+   "length": 0.0351,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0062,
+    "diameterA": 0.0071,
+    "diameterB": 0.0062
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 335.364189488,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, SPRN (TMR)",
+   "maker": "RWS",
+   "product": "SPRN (TMR)",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01853248826,
+   "length": 0.0296,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 217.248500109,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, TMH",
+   "maker": "RWS",
+   "product": "TMH",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0025919564,
+   "length": 0.0117,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 85.774488716,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, TMR",
+   "maker": "RWS",
+   "product": "TMR",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.01030302669,
+   "length": 0.03,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 222.169987166,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, TMR",
+   "maker": "RWS",
+   "product": "TMR",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00900704849,
+   "length": 0.024,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 179.282742808,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, TMR",
+   "maker": "RWS",
+   "product": "TMR",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.01121021143,
+   "length": 0.0303,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 211.623943471,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, TMR",
+   "maker": "RWS",
+   "product": "TMR",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.0071278801,
+   "length": 0.0173,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 116.70955022,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, TMR",
+   "maker": "RWS",
+   "product": "TMR",
+   "lot": "",
+   "nominalCaliber": ".318",
+   "diameter": 0.00808,
+   "mass": 0.01270058636,
+   "length": 0.026,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 202.484038936,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, TMR",
+   "maker": "RWS",
+   "product": "TMR",
+   "lot": "",
+   "nominalCaliber": ".323",
+   "diameter": 0.0082,
+   "mass": 0.01270058636,
+   "length": 0.026,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 202.484038936,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, TMR",
+   "maker": "RWS",
+   "product": "TMR",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01846768935,
+   "length": 0.03,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 217.248500109,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, TMS",
+   "maker": "RWS",
+   "product": "TMS",
+   "lot": "303359",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00298074986,
+   "length": 0.0137,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 106.866576105,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, TMS",
+   "maker": "RWS",
+   "product": "TMS",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0032399455,
+   "length": 0.016,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 130.770941813,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, TMS",
+   "maker": "RWS",
+   "product": "TMS",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00362873896,
+   "length": 0.017,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 145.535402985,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, TMS",
+   "maker": "RWS",
+   "product": "TMS",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00408233133,
+   "length": 0.0202,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 168.736699113,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, TMS",
+   "maker": "RWS",
+   "product": "TMS",
+   "lot": "",
+   "nominalCaliber": ".228",
+   "diameter": 0.00579,
+   "mass": 0.00460072261,
+   "length": 0.0211,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 174.361255751,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, TMS",
+   "maker": "RWS",
+   "product": "TMS",
+   "lot": "",
+   "nominalCaliber": ".243",
+   "diameter": 0.00617,
+   "mass": 0.006479891,
+   "length": 0.026,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 260.838814046,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, TMS",
+   "maker": "RWS",
+   "product": "TMS",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00602629863,
+   "length": 0.0219,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 179.282742808,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, TMS",
+   "maker": "RWS",
+   "product": "TMS",
+   "lot": "",
+   "nominalCaliber": ".277",
+   "diameter": 0.00704,
+   "mass": 0.0084238583,
+   "length": 0.027,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 228.497613383,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, TMS",
+   "maker": "RWS",
+   "product": "TMS",
+   "lot": "",
+   "nominalCaliber": ".284",
+   "diameter": 0.00721,
+   "mass": 0.00939584195,
+   "length": 0.029,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 243.262074555,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, UNI Classic",
+   "maker": "RWS",
+   "product": "UNI Classic",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01172860271,
+   "length": 0.0318,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0034,
+    "diameterA": 0.0078,
+    "diameterB": 0.001
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 246.074352874,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, UNI Classic",
+   "maker": "RWS",
+   "product": "UNI Classic",
+   "lot": "",
+   "nominalCaliber": ".308",
+   "diameter": 0.00782,
+   "mass": 0.01302458091,
+   "length": 0.0341,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0034,
+    "diameterA": 0.0078,
+    "diameterB": 0.001
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 267.166440263,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, UNI Classic",
+   "maker": "RWS",
+   "product": "UNI Classic",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01898608063,
+   "length": 0.0369,
+   "base": {
+    "shape": "boattail",
+    "length": 0.004,
+    "diameterA": 0.0093,
+    "diameterB": 0.001
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 326.927354532,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, UNI Classic",
+   "maker": "RWS",
+   "product": "UNI Classic",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.01950447191,
+   "length": 0.0353,
+   "base": {
+    "shape": "boattail",
+    "length": 0.0042,
+    "diameterA": 0.0095,
+    "diameterB": 0.001
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 235.528309179,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, VMF",
+   "maker": "RWS",
+   "product": "VMF",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0025919564,
+   "length": 0.0117,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 85.774488716,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, VMR",
+   "maker": "RWS",
+   "product": "VMR",
+   "lot": "",
+   "nominalCaliber": ".366",
+   "diameter": 0.0093,
+   "mass": 0.01846768935,
+   "length": 0.0305,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 217.248500109,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, VMR",
+   "maker": "RWS",
+   "product": "VMR",
+   "lot": "",
+   "nominalCaliber": ".375",
+   "diameter": 0.00952,
+   "mass": 0.01937487409,
+   "length": 0.0311,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 203.890178095,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, VMR",
+   "maker": "RWS",
+   "product": "VMR",
+   "lot": "",
+   "nominalCaliber": ".423",
+   "diameter": 0.01074,
+   "mass": 0.02248522177,
+   "length": 0.026,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 200.374830197,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, VMR",
+   "maker": "RWS",
+   "product": "VMR",
+   "lot": "",
+   "nominalCaliber": ".423",
+   "diameter": 0.01074,
+   "mass": 0.02598436291,
+   "length": 0.0331,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 244.668213714,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, VMS",
+   "maker": "RWS",
+   "product": "VMS",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00298074986,
+   "length": 0.0145,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 106.866576105,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, VMS",
+   "maker": "RWS",
+   "product": "VMS",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.0032399455,
+   "length": 0.016,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 130.770941813,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, VMS",
+   "maker": "RWS",
+   "product": "VMS",
+   "lot": "",
+   "nominalCaliber": ".224",
+   "diameter": 0.00569,
+   "mass": 0.00479511934,
+   "length": 0.023,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 182.798090706,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, VMS",
+   "maker": "RWS",
+   "product": "VMS",
+   "lot": "",
+   "nominalCaliber": ".228",
+   "diameter": 0.00579,
+   "mass": 0.00460072261,
+   "length": 0.0211,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 174.361255751,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, VMS",
+   "maker": "RWS",
+   "product": "VMS",
+   "lot": "",
+   "nominalCaliber": ".264",
+   "diameter": 0.00671,
+   "mass": 0.00602629863,
+   "length": 0.0219,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 179.282742808,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  },
+  {
+   "name": "RWS, VMS",
+   "maker": "RWS",
+   "product": "VMS",
+   "lot": "",
+   "nominalCaliber": ".413",
+   "diameter": 0.01049,
+   "mass": 0.01639412423,
+   "length": 0.0241,
+   "base": {
+    "shape": "flat"
+   },
+   "shotStartPressure": 25000000,
+   "ballisticCoefficientG1": 175.76739491,
+   "ubcsCode": "",
+   "info": {
+    "description": "",
+    "origin": "",
+    "createdBy": "GRT",
+    "createdOn": "2021-10-08",
+    "modifiedBy": "",
+    "modifiedOn": ""
+   }
+  }
+ ]
+}
