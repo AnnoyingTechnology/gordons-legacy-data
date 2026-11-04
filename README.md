@@ -64,7 +64,7 @@ Intake rules (main repository, `docs/PLAN.md`, Data):
 - Accepted: CC0 community files (unverified until checked), models fitted from published charge,
   velocity and pressure data, factual specifications (bullet weight, length, BC; cartridge dimensions;
   a gun's barrel length, twist and weight).
-- GRT's database: its own records, converted, under the family's permission (2026-11-04); not its
+- GRT's database: its own records, converted (maintainer's decision, 2026-11-04); not its
   encrypted file, nor entries a user of the copy made, nor powder models GRT hid.
 - Not accepted: whole tables copied from manufacturers' manuals.
 - Data changes are safety-critical: each one needs the maintainer's review. CI checks every change
@@ -74,8 +74,7 @@ Intake rules (main repository, `docs/PLAN.md`, Data):
 ## GRT's catalogue
 
 `grt/` holds the cartridges, bullets and powder models of Gordon's Reloading Tool's own database
-(GRT nightly 2030), converted to SI, published with the written permission of Gordon's family
-(2026-11-04). That permission, not CC0, covers these files. They hold GRT's own entries only, none
+(GRT nightly 2030), converted to SI. These files are GRT's own data and not released under CC0. They hold GRT's own entries only, none
 GRT deleted, and no powder model GRT hid. Each entry keeps its GRT authorship in `info`. How the
 database was read, and every record left out with the reason:
 [docs/formats/grt-database.md](https://github.com/AnnoyingTechnology/gordons-legacy/blob/main/docs/formats/grt-database.md)

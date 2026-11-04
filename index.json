@@ -504,883 +504,883 @@
    "path": "grt/calibers/cip.json",
    "kind": "grt-calibers",
    "name": "GRT cartridges: CIP",
-   "sha256": "2c801f92f82cd2a640dfcc2c7f9c3d6f977228e9641fe8a7309b4826bca76890"
+   "sha256": "0943b031da34ce6f16341b3b7224af2f574a8e112badffd875192325b84432db"
   },
   {
    "path": "grt/calibers/saami.json",
    "kind": "grt-calibers",
    "name": "GRT cartridges: SAAMI",
-   "sha256": "dbbf64b0d45710e36d4de4d61c69df5652311cac20833e5ff4454c3ae80045ea"
+   "sha256": "9ae8f0c93442bd4b7839a887f179f2be85bf2c3f7211b8e5a040c2f413a7eb00"
   },
   {
    "path": "grt/calibers/standard.json",
    "kind": "grt-calibers",
    "name": "GRT cartridges: Standard",
-   "sha256": "323b3472b58177f2c0ead6dc4bad5a97bf3ebcda736da774408e91c34f807553"
+   "sha256": "3bc1166c2b064de2f277e313768b46ec920611bacdac5efecaa92e9bb0f62e38"
   },
   {
    "path": "grt/calibers/wildcat.json",
    "kind": "grt-calibers",
    "name": "GRT cartridges: WildCat",
-   "sha256": "253462e932fad94204bb283852ed5141f9484f24b8430b05ecc1f366587b4ff5"
+   "sha256": "a662a4dd1cfe3ca606cf169585d512cb4a018ca22ba8ddb51ec957f7e3af75e7"
   },
   {
    "path": "grt/powders/accurate.json",
    "kind": "grt-powders",
    "name": "GRT powders: Accurate",
-   "sha256": "8b1b77a821bcc64b6fc7ac7b121aa9a037144895fd279ffd4acb6b6951fd20c4"
+   "sha256": "8aed6b3d0aabe2c7d17d546474f177e705c859f5e40add96c00781f63166557f"
   },
   {
    "path": "grt/powders/adi.json",
    "kind": "grt-powders",
    "name": "GRT powders: ADI",
-   "sha256": "bab217eabda006314ef7fa0b2a6bd5604bad6671d0e7cb830190df12fc96f543"
+   "sha256": "4b6e0af932f0209e61ea15c8a33127b45a58b25aa79f34e328ec780999697218"
   },
   {
    "path": "grt/powders/alliant.json",
    "kind": "grt-powders",
    "name": "GRT powders: Alliant",
-   "sha256": "acf5f5f0b53a8c1b020607f847f3ddcffa52934a21d911fcdf47537125091640"
+   "sha256": "643b6c49cf625208b7ffea063f58d1926922716bc25212b303079ef31540ab0a"
   },
   {
    "path": "grt/powders/baschieri-pellagri.json",
    "kind": "grt-powders",
    "name": "GRT powders: Baschieri & Pellagri",
-   "sha256": "5c6a7052df03d47a04b8d1558a390560416cb57e8b0be7d72f525bd4ef6387d6"
+   "sha256": "09a82169fb5ecd8094d35dd07216670f916603348393cf5b3210125197c3dcfc"
   },
   {
    "path": "grt/powders/hodgdon.json",
    "kind": "grt-powders",
    "name": "GRT powders: Hodgdon",
-   "sha256": "8ae37ba18e6fd4caf443e5d50ea4c798d1efceb0fbeaa3d918869b4bcc0591e4"
+   "sha256": "c6ef4b5f629c7ba83a88ab904ee97af8b1a9d0e81dd711a8987f7516f38df0c6"
   },
   {
    "path": "grt/powders/imr.json",
    "kind": "grt-powders",
    "name": "GRT powders: IMR",
-   "sha256": "e261e7c6f8aea262bcebac6e2902f4bd5217e33aa644ffae227517de8c72dccd"
+   "sha256": "734fe620f253aa6d33dbaf667ca18705e8bd5f54635ecd79a627135012d2f51e"
   },
   {
    "path": "grt/powders/kazan.json",
    "kind": "grt-powders",
    "name": "GRT powders: Kazan",
-   "sha256": "dbdd832f09fee69586994c60be9446de3070406dcbab5bd1123226c33315a0b3"
+   "sha256": "39ca124193c2b9e7a393df1d4c009c80ab37358cb2773b4bb8b159b729d4b389"
   },
   {
    "path": "grt/powders/lovex.json",
    "kind": "grt-powders",
    "name": "GRT powders: Lovex",
-   "sha256": "ad0fcdee236aee19d1b214b216a939c1b3b7957138a8d0ab27ff8ea45265d582"
+   "sha256": "f7b255c214aa136a58e1eaf4344aca2547df120ec2831fa0370c74b9085b1f89"
   },
   {
    "path": "grt/powders/maxam.json",
    "kind": "grt-powders",
    "name": "GRT powders: Maxam",
-   "sha256": "f0d91eb1dcad53782300335e790f7ac4d2525750bdb6965d27c3fed106723dc4"
+   "sha256": "edb2fbcfbf64a612ed09015c8a32606c4fd4cf88594c19d8a7a6c114083199e1"
   },
   {
    "path": "grt/powders/norma.json",
    "kind": "grt-powders",
    "name": "GRT powders: Norma",
-   "sha256": "e4ac74603e6cc72b5c6dac11a68f7a2eeece9983f39c89ad9a0f29acfcb08725"
+   "sha256": "5681a51a1844f969fc3fe139467b2d77a05d533c6a4740cc202fa21474b628b5"
   },
   {
    "path": "grt/powders/ramshot.json",
    "kind": "grt-powders",
    "name": "GRT powders: Ramshot",
-   "sha256": "67e71f7e1b331b3e76ea881c9bcec83a38a24a8f9996a852b8e61dffaf6eabc1"
+   "sha256": "73b16469abf059be69033edd849bf0cdec67dbb7aee9921c15cc6ebe65b25476"
   },
   {
    "path": "grt/powders/reloadswiss.json",
    "kind": "grt-powders",
    "name": "GRT powders: ReloadSwiss",
-   "sha256": "2ff0556d9a482f22826ab7e5b12ae10b6c20611a96135fec967e7ac7850e4e8b"
+   "sha256": "0ec64ecbb93ae479aebd9b93b3b9d98fcf2b214ddd33a937248398bc4cff2f39"
   },
   {
    "path": "grt/powders/rws-rottweil.json",
    "kind": "grt-powders",
    "name": "GRT powders: RWS-Rottweil",
-   "sha256": "f2da80dca959367bb891687a3bee434a73444cbf6b62b6f18929262728753ff8"
+   "sha256": "bcc8e1d4b2ce347a79c043fa4f83b76458d15ce3ebe0b09a5c4fe20018e6aebc"
   },
   {
    "path": "grt/powders/shooters-world.json",
    "kind": "grt-powders",
    "name": "GRT powders: Shooters World",
-   "sha256": "8cecbdd6426308323ddb0ca5bc7ace14722158d655044cb863e0c8348cc10dc4"
+   "sha256": "946b039282c3780ba4bf15d7a6e8ac167605a79133631d77b25b0b7d5d318ece"
   },
   {
    "path": "grt/powders/somchem.json",
    "kind": "grt-powders",
    "name": "GRT powders: Somchem",
-   "sha256": "572af0b0aba2dc075fd139b6b81a8c3027af78cf556fc4b49c068abc53f368f1"
+   "sha256": "0673ed9a8275a9a5636dcae567b8a26ea856c0a915c7b6e0abd800e9f4b462e9"
   },
   {
    "path": "grt/powders/vectan.json",
    "kind": "grt-powders",
    "name": "GRT powders: Vectan",
-   "sha256": "d0b76a73320ea00fd44e35f8d272aa96c68b7563d25cd69123ca05b6956f5c90"
+   "sha256": "95cd87d4a860aa484818fa11e53881c5facfe9b862d98330cb5e761deeb1ab93"
   },
   {
    "path": "grt/powders/vihtavuori.json",
    "kind": "grt-powders",
    "name": "GRT powders: Vihtavuori",
-   "sha256": "76c04b257e7ab5ea1267d8dc795bedecb99f1cd8f52c2fee60c14625a2077f1e"
+   "sha256": "00688f6771a4136c194627c1015b32d7bd4eb3e1e6d410dde56a769db74fc049"
   },
   {
    "path": "grt/powders/winchester.json",
    "kind": "grt-powders",
    "name": "GRT powders: Winchester",
-   "sha256": "6ea52c309d506dae499f08676ff21a01d0fab1234d2fdec2d012294552bdb24f"
+   "sha256": "407004f0d2a0c1f1e65af5ca31ad119b9e92d7109568e331041f4fe015e0108a"
   },
   {
    "path": "grt/projectiles/a-square.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: A-Square",
-   "sha256": "46dd5e44186aefed84677e944aadea35a3653d43323ddecdd49b6f4b64e9a0ec"
+   "sha256": "99ebdbc0810b0a83a5c04857f554c461978e6be421c80d110059e4ba6f868239"
   },
   {
    "path": "grt/projectiles/alsapro.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: AlsaPro",
-   "sha256": "3ca8e48230db5b9689197e41ec2ffb33df65f98d55706632550d1e3633f50e63"
+   "sha256": "e48b2c55c56684e5bc8adcf3115ce99ab7c6d40c1ad12268fa021389e59734b1"
   },
   {
    "path": "grt/projectiles/ares.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: ARES",
-   "sha256": "b8de7ae165b15e01b33e4f9ea0ad49fcc66996977c62320c2bec96185b9e386b"
+   "sha256": "0f40feb9ad0e621b58f25621bccd9f07d224517a161a1d0f935c0eb17cda8b6a"
   },
   {
    "path": "grt/projectiles/arma-force.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Arma Force",
-   "sha256": "fe5386408d2c99525291b468ac0d7919805543275d3bfe152203f6f7e227584e"
+   "sha256": "eb53d1d6dc83046f8f4e234a61660b0329a5a9492814d8a6d41f1c304d91211a"
   },
   {
    "path": "grt/projectiles/armscor.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Armscor",
-   "sha256": "c2f0b369179012b8f20e2f39997124046e8b2e7196d10ac705e1744fd8351fef"
+   "sha256": "81b85a539fd13602c0085fdc1ebf8bc59e7811e1d37c5bc66b01fa801848497b"
   },
   {
    "path": "grt/projectiles/balistix.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Balistix",
-   "sha256": "147cfe3511bff13dafbeabfcb09736ecb951ae99c3aaadced6f41021d2439021"
+   "sha256": "0252f17071a0e879692a732da28c5c87dfaa4d48d5d53b0c9444379e8c982447"
   },
   {
    "path": "grt/projectiles/ballistic-kiwi.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Ballistic Kiwi",
-   "sha256": "82810df6c42b48a093ec7211a066e682f57cc26ecfdeabd9c78db35661863299"
+   "sha256": "7a8c8ef64c66f98a640cdfb9f328a20320983488c016cd0f43fa2447dcb0aad5"
   },
   {
    "path": "grt/projectiles/barnes.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Barnes",
-   "sha256": "77c291efb8d7d1d906344c5c74b8bd9f4b543f82c70cbea64a6ada1d0db70a68"
+   "sha256": "bd57470950d95fe79b132169ce3ad7e8269c10dc75048ae619ac524857e94695"
   },
   {
    "path": "grt/projectiles/bayou-bullets.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Bayou Bullets",
-   "sha256": "7d3dcae446e244e906ef6cc28c2797a50b29101d59d3fc9cfefb93346d9d906c"
+   "sha256": "2f678f4e9f61acc18df3bccca885544cf5a2bd5feb135e9f674d3652664bb768"
   },
   {
    "path": "grt/projectiles/berger.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Berger",
-   "sha256": "a3977dd41a532e8d0a618aea9ae0d258e7a051417fafd93e26457fbc9d5c834b"
+   "sha256": "372382b26cc4287331b2d7363ad787288975536eb45f65173fd0067a60fcaf93"
   },
   {
    "path": "grt/projectiles/berrys-bullets.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Berry's Bullets",
-   "sha256": "81622ebf5a0998f063068e3912d66621d5a2974d8cf7788fc7e2c97eeb040894"
+   "sha256": "1ff89fa2d7a7dc8d04a529cc731a23271475182e147c16f50276a4e5f8cde13f"
   },
   {
    "path": "grt/projectiles/black-bullets-int.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Black Bullets Int.",
-   "sha256": "4f7c71682a01d34bc74b030daab7410dacdd03650164f5836404b3f3cb8d9891"
+   "sha256": "ef3b12f56b57ba6afb3219fb138df7e811715d21f260e0b697c1a7ecad8384a6"
   },
   {
    "path": "grt/projectiles/bobs-bulk-bullets.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Bob's Bulk Bullets",
-   "sha256": "7e035b091fe3ca42f5c5cde7f741a80a692c0e68be6f21929b8a55baa512cde2"
+   "sha256": "780cf4510b9e1244da59518f1d12c01ae5aa0219c3235e66ddbab5eb369bc666"
   },
   {
    "path": "grt/projectiles/bpz.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: BPZ",
-   "sha256": "066ad8172d508ee32aa88879d81d81785047b4750d944e0ba6e76b5a5b7e6b4a"
+   "sha256": "f33ae0ebfdcee54f7c69ba6f487ae4ebc9e1cb0572bfd860fe3fd0186db04afa"
   },
   {
    "path": "grt/projectiles/brenneke.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Brenneke",
-   "sha256": "7b0df011c66b19f06c9d956e51b68000597d802dd5a18133d5bd22d48400f32c"
+   "sha256": "556d7d5c4076bdc378513913a3691d1b3da5ebdcaea976f41da877d33aea4c86"
   },
   {
    "path": "grt/projectiles/calhoon.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Calhoon",
-   "sha256": "57ae0bd7d9679672e15b9d5dbc994675ec17d04bf5a4ac0dd616bdcfc22e7b2b"
+   "sha256": "c8f7352c023a247134649335cbff5de41541ac6586f88d7c4aa179dfcd3a6986"
   },
   {
    "path": "grt/projectiles/cam-pro.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Cam-pro",
-   "sha256": "4ac60c35b691e9425ea6e2db2185ca25df1afa901767b2446e3a59f435145213"
+   "sha256": "95d54d61eacf35ce5fcfeef490e9582520f1cb75f8582613a0ef3db5878b4e22"
   },
   {
    "path": "grt/projectiles/cast-performance.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Cast Performance",
-   "sha256": "6bad477112dcf53e843365981121708b43f016e4bebef783aadc2f90deae33ae"
+   "sha256": "3a5d4812be6589cbad327a49d28005de1f1de6244d090e707d427ea10ea48d34"
   },
   {
    "path": "grt/projectiles/cheytac.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: CheyTac",
-   "sha256": "9613b136d5edba04dba2294c648385bcd86f044ee77cf46bb0376a2fc163dc64"
+   "sha256": "cc7b55a792a6bfce9c174fe66dcafb1150dffa4f7cb02dd490c3676a3145d08c"
   },
   {
    "path": "grt/projectiles/coloradobonded.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: ColoradoBonded",
-   "sha256": "9f0257d01cb726ccbba4661960474ce2c3eb6605683333bd782b9855169b24f3"
+   "sha256": "abb60b33bfb1e2e0508d66dd51f57f87f7ed7aab0b9254f2addcd16628441416"
   },
   {
    "path": "grt/projectiles/corbin.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Corbin",
-   "sha256": "1da785ee80aee61980a22406b4c9aca2962e4c54906f46cebe61461052c36e0a"
+   "sha256": "090939e61377013ac592c6264ec5b833c3e1fcf5e03817c27f96b5866015deb1"
   },
   {
    "path": "grt/projectiles/dag.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: DAG",
-   "sha256": "06b231d61af04f4a1f7f7b26beeb903665096f0d5610dea94ea44772564bc277"
+   "sha256": "67820ea02c27b6b672ac2c48810f1c0bcc7939048c5da3ddf411238187a3b3e9"
   },
   {
    "path": "grt/projectiles/davetubbac.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: DaveTubbAC",
-   "sha256": "14361191a0399d5deff3eea4c6da8e386e42f9b7d4fad2b5ce620122ec3ff9fc"
+   "sha256": "470c775f0998d3a828e12abeb48817215c5da2044051b5a42e0b4d465c0e43c4"
   },
   {
    "path": "grt/projectiles/delsing.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Delsing",
-   "sha256": "179356b27d50686a566de74fb569d84d96a8a089ba724d0cfff9bda4d62a9485"
+   "sha256": "fbcf00544fb25063d82a03b78f82abbbb375533561b937e1ed3bbdb97deddd00"
   },
   {
    "path": "grt/projectiles/dewc.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: DEWC",
-   "sha256": "bb57a398d9f9f2d3fbaea5e5c1626204ce3304644fae87d4cbb734d50a58abf5"
+   "sha256": "d935da20aabaa53a2d9c8dce8ffe25c463b02c96f37e8584bb6c29dc8958a54a"
   },
   {
    "path": "grt/projectiles/dkt.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: DKT",
-   "sha256": "ef41b015b4dce78faea54ce4b0380540caa90bd66bf51b30cfab98275b9c47df"
+   "sha256": "7b7a82efdc782e3afce689b532f5041d0d200c295b7501291e170fa4f0ee9187"
   },
   {
    "path": "grt/projectiles/drt.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: DRT",
-   "sha256": "d40600816a03cb6d8828ec805359fe223116fb2db23112fd2a2e1f594c639fbf"
+   "sha256": "4606c6f304c658f9b107f1de4fd2d6bb227bc474d8899018b2eab0dd839f429d"
   },
   {
    "path": "grt/projectiles/dtk.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: DTK",
-   "sha256": "e7b64f7049d1c33c0c0caa7247842346fe3013b698512e843080636eb2a3e7cd"
+   "sha256": "4ce3f7fa6598f3d24c98ad4b3786db1b9015cca6d69c44d27573a0aeab454312"
   },
   {
    "path": "grt/projectiles/dyn.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: DYN",
-   "sha256": "be2fce9a0ae3843bd141de60998390fa6a2c16b6e878cfaebff3b684a4ea5e63"
+   "sha256": "3538bb62251d0f83d3379901cd53ff966741d8928a7e77bda610ba317da53c1b"
   },
   {
    "path": "grt/projectiles/everglades.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Everglades",
-   "sha256": "a671296b313dd39de1fdbb6ca8cb636811dca3dba914cc83fb0b310fd298f68c"
+   "sha256": "938f11f8417b4d287b581564a502a815c0d04a891d5c5dc6d263ef45a05532bb"
   },
   {
    "path": "grt/projectiles/federal.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Federal",
-   "sha256": "d52666da3044354ef0b8ba903e8cd21011e6f00d2a7439765f22a7392b209d82"
+   "sha256": "879d2b0e708cabb8a332a5ec75480604c4d0252847267ff4fb125263996939c0"
   },
   {
    "path": "grt/projectiles/fiocchi.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Fiocchi",
-   "sha256": "95fd28326cfbab01e45316bb3677902b974f12f4513d288c2513c3f900be0799"
+   "sha256": "de6c032f143a51d64620d11e30318a0fcc63de1333e5c31bfeca6c4676cee95f"
   },
   {
    "path": "grt/projectiles/fmj.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: FMJ",
-   "sha256": "96e21dc62d4fef5ec812235cf85e68e8bd8bbcb6acba4c155dfea22377d459c4"
+   "sha256": "9e3ba9650fc49a2a3321cb1db0a029ca80a2e0a020365ef6dedeee3737ebb84e"
   },
   {
    "path": "grt/projectiles/fn.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: FN",
-   "sha256": "e8d9a82920d7384c0260ce7b6b4572deb0acc7531f0207a12680093ea2cdf7c4"
+   "sha256": "38cb1ccc1ddfdc20595d36d74dc4f80d66065c39409a236c054009352dd1f7d9"
   },
   {
    "path": "grt/projectiles/fortek.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Fortek",
-   "sha256": "3a2ea0ac29afa4fc5a79bd0ee31d2f4df96b624257cf7422cccee9113272540d"
+   "sha256": "b5d792c67e7cf8c7c9d1b3fec23a46dd56b46091c1b6f3a7975d342973ab720c"
   },
   {
    "path": "grt/projectiles/fox-bullets.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Fox Bullets",
-   "sha256": "dc531fd54109a03db1cde851c125ac37f0c1cc7d47ab2ae3755ff84d75f759a7"
+   "sha256": "2e780bec4d4bd74f18052fd01faaeffa793f8b6c05009d89da1b94468a60aba6"
   },
   {
    "path": "grt/projectiles/fp.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: FP",
-   "sha256": "efa59486f91771b1bf127afbe74d71af9bd51f17ae6bfdc36d0b66959f11e35d"
+   "sha256": "99fbc0298b4beeeb014e57b5b9cacb5845d9c234cb79eb1ad5e38d541d9b24d8"
   },
   {
    "path": "grt/projectiles/freedom.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Freedom",
-   "sha256": "6ce32055cfd0348f81746a122648a03dd8bdae7606fd4204387e30b8b36deb66"
+   "sha256": "a2fedfc63127cfb6a586b70f67b4e647bf3fdd549626d3eab011ce45efd82637"
   },
   {
    "path": "grt/projectiles/frontier.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Frontier",
-   "sha256": "2714e99bf723b485c83226876bdb7bc892051b680ef35e58fe71b41004a0881a"
+   "sha256": "58998d3d886c9ece9805b752708cf96c111d1d9e7392bc33fb1d7ee9ae42b0f6"
   },
   {
    "path": "grt/projectiles/geco.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: GECO",
-   "sha256": "4b289f08887286af2f86d4a8f83a532d2036c27ce408358092b3a5a09f35400f"
+   "sha256": "2001170977caaa72a02870e34c6939889d88cea2f86106a927810ee8550d9e20"
   },
   {
    "path": "grt/projectiles/general-dynamics.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: General Dynamics",
-   "sha256": "77fdee8d9c8e1b20299fe35e53a7660e34f9a9e35b5a29d4c73542dec183048e"
+   "sha256": "9b1928478873d2d5b73bdbfd20251e575d82a73469d447d4f5b83597c5ffa5d6"
   },
   {
    "path": "grt/projectiles/ggg.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: GGG",
-   "sha256": "1f47a0f2889663869c8bbe9875be61c467e6e2ab749b5d9e7ffe6b7d9553924b"
+   "sha256": "ef3241e5db4ff52cdaa59ee8443d0230d882472c042f9180e1861615161d221d"
   },
   {
    "path": "grt/projectiles/gian-marchet.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Gian-Marchet",
-   "sha256": "4a7e9f95bb1807408ae8cfa6ce4a43484dfdaab1911760a52fc434e372c737cc"
+   "sha256": "bafeb82fb249b477f0c3934611b6937d273a703b687f3c1ad303e781871e0129"
   },
   {
    "path": "grt/projectiles/gpa.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: GPA",
-   "sha256": "f5c4eb33fb1cb1b5bf2015d60043b67ba70f9cf6b896237b9bd0a7f2d8ddf740"
+   "sha256": "fc9b4d37029ea88ee266468d7305a75ce1ed92a71fed816732a99cbf05c97092"
   },
   {
    "path": "grt/projectiles/gs-custom.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: GS-Custom",
-   "sha256": "433bbe53fd63415564d48c6cfa5f43e4a33d77b6d5d8e7fa0799d493749f5d32"
+   "sha256": "bedc0a4cb7d37a91dd90f5da38235e6fc1f50435d6dd85577988cd02a89cf2bf"
   },
   {
    "path": "grt/projectiles/h-n.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: H&N",
-   "sha256": "d3fecd44156d721c2e1c0ed33aaded7743f6f8ee2421dac886c31dcaf3a1dcf5"
+   "sha256": "f1bad1b3b2852cedd8a7dc5795e4654e29f3741b5f4efb32004030591d1ea186"
   },
   {
    "path": "grt/projectiles/hammer-bullets.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Hammer Bullets",
-   "sha256": "466dc566618371f1b2703ddad42b911f37354625dfa0e53c6ca9074aef46cc25"
+   "sha256": "41b07b65c954eb520d27694ea4ad28c313f6bd10464c123aeaabcf598e52ab0d"
   },
   {
    "path": "grt/projectiles/hammer.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Hammer",
-   "sha256": "b1646f774d7f16b970d6c2f83c7708d68a6dd5f4b0024f4eb7f7af38aeb202c6"
+   "sha256": "8e088feccf96f660d3df37c9470b5e3e27889bc4b244d30d9a2972603b76f318"
   },
   {
    "path": "grt/projectiles/hasler.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Hasler",
-   "sha256": "3fb568453bcf876f887798ee45a2163a3bc169e8d96b53dd5fab759694e4ac1e"
+   "sha256": "52f2882318e7f8cc0dd1a63838456f23e5329b07ffd205ab0b705309636977e7"
   },
   {
    "path": "grt/projectiles/hawk.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Hawk",
-   "sha256": "b4380d30a32c2772e9b35f0547c5ac17d59fa562c9b4688f9ddaa9138b21e620"
+   "sha256": "840f1919677fe39307dd216aa7f95ecda2a019c5b2a24ab4e987ca51d0af4d1f"
   },
   {
    "path": "grt/projectiles/hawkesbury.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Hawkesbury",
-   "sha256": "35892b2c52953efb444faa530e848a47acf2db7d95cb6bd8c8ee6208e6dd5f40"
+   "sha256": "0ffd894217f14498fd66e0045c985b44dd960bbe793fde55ac455ce457a7c760"
   },
   {
    "path": "grt/projectiles/hevishot.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: HeviShot",
-   "sha256": "cddc9d549b15b50b331cb3fe25e214625313d122b47e6e4339b538768241d3e0"
+   "sha256": "e047a45263f9e1267bf91779c4528ad27a12a2053527920db0d321cece973dc9"
   },
   {
    "path": "grt/projectiles/hirtenberger.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Hirtenberger",
-   "sha256": "14940c8275c35decb176adaf28b430b659afa4d991743130011be1f255d015fc"
+   "sha256": "30129dbda6da589a9b6d8295c8406b37bf224fc7af50a32a6e0b8c8fd33e0e02"
   },
   {
    "path": "grt/projectiles/hornady.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Hornady",
-   "sha256": "f6c9fc3eb72011d5e2c442a924b7a7c7726d9619b66429f129303c332c9a594a"
+   "sha256": "82bc908854c4373e7ba494fca9d386c8a23efe01e4630d13c9e909cf45cf6da9"
   },
   {
    "path": "grt/projectiles/hp.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: HP",
-   "sha256": "9cdaba81f08b787417a72a9a4c58dd15002c1a024437e579f81236b63761d5d0"
+   "sha256": "4abab71c4529df5d20da2b39ec1296bf09724a2282032ca1b1b4067c53eb1d47"
   },
   {
    "path": "grt/projectiles/hw-wiederladen.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: HW-Wiederladen",
-   "sha256": "dbfb2c642052034e614fef62bfb67a6efac640b228676662328e2b76dacb3ee2"
+   "sha256": "02233b771f315303e60a075b053f01df373b0be9c1c0257fb9e001286acaf25c"
   },
   {
    "path": "grt/projectiles/ibex.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: IBEX",
-   "sha256": "feb12e407cc1fb5ca00ae7affd7c58352769d14c6a2897a011839ddec893f6c4"
+   "sha256": "a8b3cc96891704792064b9c72ee8e63585543a4c6236ac7b4c65b0a84b4450e3"
   },
   {
    "path": "grt/projectiles/igman.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Igman",
-   "sha256": "eb73cee37d340119625af1feb94305a6b10c64b4c865c04dbaf24ef7597326f2"
+   "sha256": "5e9f7e4621797026838d160f72d69afd8a3ee86e5063934dd87dd7bc12b23613"
   },
   {
    "path": "grt/projectiles/imi.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: IMI",
-   "sha256": "2df9f0cdc8d6bf8bb45672890f43d301963106929f7ac00d32a8e5ea6ca81c06"
+   "sha256": "bab21a63e526ef8ec5168fafa7ba6f30c7571da80e70debe336bfe533414f5af"
   },
   {
    "path": "grt/projectiles/impala.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Impala",
-   "sha256": "e687f8dff7169c9952003d95c192b0e3ee8af616e63e405cf066665c12047ee5"
+   "sha256": "0484458e994e3d9a64b659991d4c9399b4ae5e4cdc5a37e088a12ee3b7b4f1c6"
   },
   {
    "path": "grt/projectiles/jdj.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: JDJ",
-   "sha256": "18441985aa63fae7b373fc39b47f4d80aaf0a0879fd23845d969f7d080c009f2"
+   "sha256": "805fe152588b60aa132c6911722bcf477d49d36c8ec8f0f6557c053caf39b999"
   },
   {
    "path": "grt/projectiles/jlk.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: JLK",
-   "sha256": "2f1f98272998e9a80332deb6e130a427b35f1f5e5e7df86746148024e0674ff0"
+   "sha256": "3106af58689c5bfe3781f886a5e47d0fedbf63a273c86f03837fb2203c1d3306"
   },
   {
    "path": "grt/projectiles/klimovsk.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Klimovsk",
-   "sha256": "1e55d0e2993499545cc7c1ff8902608f0660dffb010cb0f6aab81f65bc997b5b"
+   "sha256": "4fd13c7a92674e3886055bdd73c939570be5c7bd0d5ea5bce86fef3292f4bf78"
   },
   {
    "path": "grt/projectiles/kp-ballistics.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: KP Ballistics",
-   "sha256": "39ee0af4feb09d40983cb1d2b9268cc5de70c6d8eb8980c188fa57d36ab341b5"
+   "sha256": "5038c927e407aee7fd0bba97cbf9a3a81f5db0aad0aa2a34091212fda7fab296"
   },
   {
    "path": "grt/projectiles/lapua.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Lapua",
-   "sha256": "cc52245cf28393c9e153446762260ebf5e1b8347ce372b92fecc0ba5637c501e"
+   "sha256": "ae615c245a2d8b4cc291b4253cedda777a26252896db718e869cd42b1a832a3a"
   },
   {
    "path": "grt/projectiles/leadex.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: LEADEx",
-   "sha256": "67bb67341c100a9ce57136710badbcb9c4c508b8955389be337fe3a598d20737"
+   "sha256": "29c162371ebaad3fc912885011142582a5e6824a44cb7b937a3269e7f540f628"
   },
   {
    "path": "grt/projectiles/lee.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: LEE",
-   "sha256": "c70cee9bbea4a5ac7f50f80ed90a2567bb216bfbf5ee9b53458643705525b322"
+   "sha256": "cdec6c59c91c3d12031f5d09e7d6029dd56d1a79b82ff9414cc6f52b60073e81"
   },
   {
    "path": "grt/projectiles/lehigh.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Lehigh",
-   "sha256": "effc9399eb90cdaf83b506a7b1de34228730ee5447f599ae2bb0ec93dda49dd8"
+   "sha256": "9c019104c0fd73982dea5cfcea781e6a1d6914b322c7ce148ae8520fc104e1b2"
   },
   {
    "path": "grt/projectiles/lima.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: LIMA",
-   "sha256": "c82180d17fc056b51b74e67ca34d165f61d9ebc42e5c050bf112e4e074e0504b"
+   "sha256": "f6b6ad8847d689c22940dd9d2658e43f4f7747788945be45d36037a23431aed1"
   },
   {
    "path": "grt/projectiles/los.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: LOS",
-   "sha256": "270619c518135914e043031ec033d43682d5d4cab0528bbcef9be049f99c2591"
+   "sha256": "b18d2211d0b337df72025076156c39569e04ddb55553cacd5a0addbd1be4f38c"
   },
   {
    "path": "grt/projectiles/lostriver.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: LostRiver",
-   "sha256": "2b282415989300c3b5aa08118e9934816c5c8ad9bd8eb2d6857dda2ea04c7a69"
+   "sha256": "95797a9729d25429f45068f13fd5128ab9532036c59102f2a6cdd1e700473eb0"
   },
   {
    "path": "grt/projectiles/lutz-moller.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Lutz Möller",
-   "sha256": "accc17fef8dfd392b893d542abf31986f0100c9d959d17a143f53c1211113b4d"
+   "sha256": "764308eecb214734bf3796dce458fadb60bb54deada75f513331eb8ee4e405bc"
   },
   {
    "path": "grt/projectiles/lve.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: LVE",
-   "sha256": "9dc9b198a6ed2e27476b7c185b34dfceccc82685e0c31bf175f926081bbdb13c"
+   "sha256": "07cf558656686ed1761b89ad47e9b20e4422d51f58fea0355f110f27d09c5dbe"
   },
   {
    "path": "grt/projectiles/lyman.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Lyman",
-   "sha256": "969d46e2032e9ce6a18cf71c3abb96797c0afe3bfa63a3edb0ac9afc3c532bf5"
+   "sha256": "a0ece693a202e42623b35ab07198f4285175973da386a112ac8df6f30b88e78d"
   },
   {
    "path": "grt/projectiles/magtech.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Magtech",
-   "sha256": "8225a44a98b2bb34f5cd7d5757121c47c1170b140a7eb12200ffd78e3cab96c8"
+   "sha256": "36d3ea7bc44dd1413c880055890b3fbaedf6e9d70f9f3c77e1fa8a4e63875659"
   },
   {
    "path": "grt/projectiles/maker.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Maker",
-   "sha256": "b3b48f5d66986ea121096a380fec5474a4831792e9c4ed120aeb7b6fcfbbbb6e"
+   "sha256": "4a7a85501bc6df5a0cbad1ed7ab852c28c8e99fb1f2d5d7af0d2d04f2aebf1ff"
   },
   {
    "path": "grt/projectiles/master-ru.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Master-RU",
-   "sha256": "bc591e9af2f371ff0112e78b9a15e54a5ee1ccd2151de6ef1ec1170b4b32a5e9"
+   "sha256": "249578b023ed5b4c4cad925e0a6a11ae7b002cfc819e4bbbb2674d17a47d8826"
   },
   {
    "path": "grt/projectiles/men.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: MEN",
-   "sha256": "c298f682b525a8d57d7de3f176611976f23d55dfe2b98803bd36412051002e10"
+   "sha256": "8b759f77f0d531ae49afb1613f673c88c661284cfd4d27568b4945c724d0b2d0"
   },
   {
    "path": "grt/projectiles/meyer-bullets.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Meyer bullets",
-   "sha256": "bbee286e37a0ffd65f9dabf24d8d2ab3d5b06d7362c9c1c55837c57aa989e9e0"
+   "sha256": "9bc53601fe427fa89a545902f25e2f7ef7a380f4ebc3a8368c2bb48170e86980"
   },
   {
    "path": "grt/projectiles/mil.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Mil",
-   "sha256": "9cc99b82ec9f329ee62f695693b41ee9fe91d3b91f7e1f75cc5640e1d8ab4dd8"
+   "sha256": "452be9030b9e806f8c025da3693f60aaf504b1495e9401a676281ad9df5306d3"
   },
   {
    "path": "grt/projectiles/missouri-bullet-company.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Missouri Bullet Company",
-   "sha256": "61e5317ba868b4c13792eddd10f93b8de52aa8f3afcc82e5c320bfc309c233fc"
+   "sha256": "9c7f20138234a4284e1476943cbd520e237d1c07ce68ec0f30ee0499640a4f85"
   },
   {
    "path": "grt/projectiles/noe.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Noe",
-   "sha256": "796ead1dd89da07325f0085a333e5ecae87babb8a7957b24d2aeb13ececc7e8a"
+   "sha256": "f4d441eda05809441c9792efa393c6c2e9d3cb74f901cd3180ae4726261a8415"
   },
   {
    "path": "grt/projectiles/norinco.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Norinco",
-   "sha256": "a35188580f0d08a8719d7b1b1c359a97b27e6c5d9d4f0c8250bf8398b0be3f46"
+   "sha256": "bd31f7e81ddae4b426143d5884b167b2b0f038fee1dd461fb7811420efe0e1fb"
   },
   {
    "path": "grt/projectiles/norma.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Norma",
-   "sha256": "eb1da30ea3dd131e8f8d2398bd955a05bb5772fad610eb0929f6ba70a83502f0"
+   "sha256": "3a632a979aa5df92ae9fd9d0a2d9cafc0f205058a94796f1c8dc3cb3e869f4fa"
   },
   {
    "path": "grt/projectiles/northfork.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: NorthFork",
-   "sha256": "5457779c2fd64560648146aa365a7812f2b4e08cafef330a2aa5896d76823afe"
+   "sha256": "8e6072caba5cb9befb82e04a21b5568d8576963bfe728e13b31804fa2a0a89bb"
   },
   {
    "path": "grt/projectiles/nosler.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Nosler",
-   "sha256": "1cc03d8dee429a25192ecc494b964b2cbe85a3c56c33924481fdf4b29da42306"
+   "sha256": "a84c399894e972abd3bf57e0c75a4c535007e52747db310de07a0406d80ef9fd"
   },
   {
    "path": "grt/projectiles/optimus-projectiles.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Optimus Projectiles",
-   "sha256": "b64d343fe504860c76617b1ec7796089cf130661858132067ca7430b04dedd21"
+   "sha256": "042393c228370fd235670095558fc895c194879354ab9182074cea47ddfec7de"
   },
   {
    "path": "grt/projectiles/outer-edge-projectiles.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Outer Edge Projectiles",
-   "sha256": "1de56cb1c60055f4f8e37e105f584c0b8b441f3ed674fdf960057168a323b96f"
+   "sha256": "177e3f93f35ba0ba42d26cc0e522645450d9f7aa534aeb339c5d8b2a03d06be3"
   },
   {
    "path": "grt/projectiles/peregrine.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Peregrine",
-   "sha256": "0f6b908515f8d041f0f8bba5dec006723353d4b133615379db92fdc49e5bf9f2"
+   "sha256": "b1a73b6206188b87c66aac2d76c5d002ea9e21d3f182ca1d5e76f8115d67f8da"
   },
   {
    "path": "grt/projectiles/pmc.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: PMC",
-   "sha256": "3617406b0a3f6a5a0a2b46dac673261adf8a74097d9c5673e8e7d64dacc41d0d"
+   "sha256": "c5392eac4e4a61069e5f84f6da84775fc0a9551b6b407683e8e3065dae257b74"
   },
   {
    "path": "grt/projectiles/pmp.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: PMP",
-   "sha256": "1843e35c0b29310d943570598f0495200d723d2bbaf5c6062fe6e39f3eba3772"
+   "sha256": "db50914532a4d7e17646c95cfe9a9e78df1938c826955fc3b58cbc08256334e4"
   },
   {
    "path": "grt/projectiles/powell.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Powell",
-   "sha256": "a9b59a65a30ddfdd06521d100100bb9f3a5dafbe93448821f6f43f833f1b004b"
+   "sha256": "c99f21663fc28f8b9a3326db82a97219835ee173b4429bb3738d583546297f45"
   },
   {
    "path": "grt/projectiles/ppu.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: PPU",
-   "sha256": "07da4980c951041df4701a6cf103453b6e547a0c6b310b143bf54bf92e11a2e2"
+   "sha256": "b5dee85bf0709af5f48b97ab71b33fb402c8c8e55e0abe8195dbc7fd0e2ed137"
   },
   {
    "path": "grt/projectiles/rainier.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Rainier",
-   "sha256": "b9c8e5d2fc0faa91b8ff3ac97e222d995169550682f572a08f9d61b4bff99737"
+   "sha256": "6a7d6a4986adfef6b63bbf3fe923d09b5ca983cd29cb428d4af34c7ceb7e9075"
   },
   {
    "path": "grt/projectiles/rcbs.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: RCBS",
-   "sha256": "5faee26099191d5233dd871b8720139006eeb12d4e337c5313e69802c6763588"
+   "sha256": "e788a33b0cae5bdd7b1e4324f3dfa425158bf2e792a9176db993fb6f0f99b953"
   },
   {
    "path": "grt/projectiles/reichenberg.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Reichenberg",
-   "sha256": "61e64f9b363b3e1431d01f6b1e22acb8e2e72f2d4d4c818dd7da6ec77915228f"
+   "sha256": "441232f4f9f963ee39fc73b5838b47ec19512e4519f33feb8db85394c157e5e3"
   },
   {
    "path": "grt/projectiles/remington.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Remington",
-   "sha256": "3bcf3ce477183eedfd80dd5bdabeacb42fa2a31b312040b2ebd40f62880e4d65"
+   "sha256": "20d7cb47a8271f4acbe5c499221e61951bc36a5dbd7979d9238a8579e523f7b1"
   },
   {
    "path": "grt/projectiles/rg-bullets.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: RG bullets",
-   "sha256": "a8cab7d21f731c83e5e4e1c5cf113fde6ec86c055c4366c220561e05fc6d9ad7"
+   "sha256": "80eb85e280cf7631651b29540c4888332aec6089019d0a60bb1020cc1e415324"
   },
   {
    "path": "grt/projectiles/rmr-bullets.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: RMR Bullets",
-   "sha256": "e14eea7505a1e46ded07dc7cde3ecff737c3551f56ed92f10eca9028fbceda47"
+   "sha256": "4229889f0cfd5719b83975dcb19cff6be1231657abda1d968f5da29e55579f52"
   },
   {
    "path": "grt/projectiles/ruag.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: RUAG",
-   "sha256": "24d51530009e34ada53a314dbafa3c6d9ffce602d42001ef49494a40aa7569ea"
+   "sha256": "ec21993706a46a7aa5b1343ec33dffe8dd5f874746e643212d069106c0a4fc6f"
   },
   {
    "path": "grt/projectiles/rusbulletmaker.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: rusbulletmaker",
-   "sha256": "e40bb6bb1eb9f2395630201fe323bc905928e72b62f21d8a5947e2edf96fa12a"
+   "sha256": "55ee134d061addae424f68958ddc89fd155c97da636ef4b62c3db6d743ea7371"
   },
   {
    "path": "grt/projectiles/rws.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: RWS",
-   "sha256": "2003f4f7d8654967a3b5ab65f9dd8cf382f2f76251e7fc0ca37bbf7d9628fd0d"
+   "sha256": "1a267c32c573980f4802c24c44bdd79a4ecad7a1bb0119a0604fcbdb21b3b90d"
   },
   {
    "path": "grt/projectiles/sako.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Sako",
-   "sha256": "037b3e9efe2227affa88cfcd12f58e284efe0b3f3f726e1e225e910dc93f2255"
+   "sha256": "f72de592e97a3dc1cb438d85e8f24f70cab4527e0d7f8b59f35c7bd68285faba"
   },
   {
    "path": "grt/projectiles/sax.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: SAX",
-   "sha256": "f2488a96fa4d92ccc8a4f7be9fbd6a5a0884fc84f1ed68ebc221af8ae7b0d3b4"
+   "sha256": "48baeca63063fef28a9f430915510496d51465cb82979d0e3af3ae7f747618bc"
   },
   {
    "path": "grt/projectiles/sellier-bellot.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Sellier-Bellot",
-   "sha256": "9da5d426f20b6788b19cf6d8792cef5e72320f554e4e4e8893f3431ec911860a"
+   "sha256": "fdeb53c5e4093c163bd29f091a7bedd4c74b960ba4f1ace6c34a24f3d80aea0a"
   },
   {
    "path": "grt/projectiles/shilen.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Shilen",
-   "sha256": "81353891a99a617dcfc31fd5f93b6bea8f19b716d81463bdac989f0d451868c7"
+   "sha256": "ade411eb23403f9934babeb93222b4c6504a3a1a06825d7b9cf8deea487560a1"
   },
   {
    "path": "grt/projectiles/shooting-technology.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Shooting Technology",
-   "sha256": "8c7863f788bb383448561df3b28e51419311beea902467ec566dda9ccd85aa14"
+   "sha256": "16a2a89e13a4b931ff54ecf246a151da82a1e4cdb417de1799b7f1eb0fd1fdfc"
   },
   {
    "path": "grt/projectiles/sierra.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Sierra",
-   "sha256": "2ee13a461ef8a0d3a111670bf57bc87d3217b4d5a59c3857a1e7ef551cf624cc"
+   "sha256": "955d7eeb7a8379818366aff8088ee2e2f935a3c948ef5cbb5a3662475117befb"
   },
   {
    "path": "grt/projectiles/sig.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: SIG",
-   "sha256": "4ec1923a0b6aaa5a7d0d93b3f3dd234184a8eb799820c7316c545eb8cae1f4b8"
+   "sha256": "bba7f6a851ddc72b8e5666ca7a1f530747b57ee2d0ed61d343a2767c92ee50eb"
   },
   {
    "path": "grt/projectiles/sinterfire.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Sinterfire",
-   "sha256": "6761aef1fbd63b0e5ec49f85e12fc306e0c5eab1cfab6d65ca477844753c1e8c"
+   "sha256": "c4f5cdaa3a9b6d4393612e4a5d7879da82d841d11e4afd1add143f4a65d05a61"
   },
   {
    "path": "grt/projectiles/speer.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Speer",
-   "sha256": "bd6f21cf04b098ff04bfdbd107003b7c428fe45c3169cac392a39626ef1207be"
+   "sha256": "20a66553ef5dee32c6e8cc42012ba777c1a420ef720298d127df9b64e4966234"
   },
   {
    "path": "grt/projectiles/stoklossa.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Stoklossa",
-   "sha256": "bfdd4702b85ac63909d0a30cd830a2b687c28047d6f43a51194607c4ce0b0bf7"
+   "sha256": "bc30abe56a827fd0db4d1755dbe3362001c2ff6935f9463ec9a856270ad7d5d6"
   },
   {
    "path": "grt/projectiles/styriaarms.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: StyriaArms",
-   "sha256": "fee4d148ef70364c72e00f0fc92b404330c7ca173ec068c8c8a05e96d9cc0b3c"
+   "sha256": "18b1987e03f2006257e59d3ad50a0ab97d08b508dd5ae94b8f47c8eb0604db7f"
   },
   {
    "path": "grt/projectiles/swc.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: SWC",
-   "sha256": "301b14aa36b04b73e38d340fb96155e28be1d0690d23b6218b754c99fd5fe6b2"
+   "sha256": "47843d0919f3bb872d5c19456613b90140d9e608c0b2a017e55e66dc7b9ed76d"
   },
   {
    "path": "grt/projectiles/swift.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Swift",
-   "sha256": "3d84cf2de0027e5cc5c77686229101debb4cc00250f0ab77afdd19917b67cd11"
+   "sha256": "7f0e7b41013042698e98e6e3cb9fc944877808342d06afc5359f6ea31cb9e134"
   },
   {
    "path": "grt/projectiles/thegunhaus.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: TheGunHaus",
-   "sha256": "6267c4feac133421c56ae4ed83229aa2127c6b8ce01d8aed186ba36ba19fdf43"
+   "sha256": "0f5cd4663a28deba7af9f8a3fb71e6de3ce369006a4ddb1679e3692aef5b75b7"
   },
   {
    "path": "grt/projectiles/tmj.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: TMJ",
-   "sha256": "27eb507111ae181bec5e6fd5cdcf8beaff0dc533058916e1f8609abf65cab755"
+   "sha256": "0d0f3522e0f8617c5b9a5d5a1db17f9b606d730f08cf096a493ad8679b95e04d"
   },
   {
    "path": "grt/projectiles/tpm.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: TPM",
-   "sha256": "3860220b79f29b36e05b3ef93e3af33d25529abe6c49215b0ccbb12f9e772f01"
+   "sha256": "485a61cb9807f34aec4bebe46f5276c6bfc6b9f33182ab904067a14aee436203"
   },
   {
    "path": "grt/projectiles/westcoast.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: WestCoast",
-   "sha256": "88f7d4f17c98ef6b15eaa1b78d8a9720901ed0442616cc632e8f1c44bedfb964"
+   "sha256": "b9efb615160b3712b5034e47a534263c67c582c0170ce703a4744e8db5e13236"
   },
   {
    "path": "grt/projectiles/winchester.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Winchester",
-   "sha256": "2a1f8da31b44e9176dbf3216d5843b9980239979195addae0d987606432fef5d"
+   "sha256": "1b38ae4a85a2147b9bc91ae169e7583b9889d02eef8d12deb1575795b76c67e9"
   },
   {
    "path": "grt/projectiles/wm-bullets.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: WM-Bullets",
-   "sha256": "23aaba0b8efd980fd1ccd010362518811df0febea200ad6c205ef4986e25cb5c"
+   "sha256": "500cfb4825cee3e487a297effb81a58d75d4e93e9bf7c6a1f7db1ed61463d90e"
   },
   {
    "path": "grt/projectiles/woodleigh.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Woodleigh",
-   "sha256": "8fbe2aff212d867f341016922e737c7c4ac864c86c50f0ddf305feb96c53b6df"
+   "sha256": "72c4f266f09e562d20f09702a509daebbd3c6287c96bf89ebc5633afc099ccfd"
   },
   {
    "path": "grt/projectiles/wootton.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Wootton",
-   "sha256": "eaf2f46468a81fa4b6120a588d9640556e4b8624348f2bb4fb85094bbe3dc359"
+   "sha256": "a9aa9ab04ade6d83bdf524c6a4d38a9ced4d01824b3ed6b0c570dc149ae07c20"
   },
   {
    "path": "grt/projectiles/xtreme.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: Xtreme",
-   "sha256": "1904190a4b0aaceb5d1825bfa169d33317c5c4d936ebafca7e9f0984c7689a30"
+   "sha256": "31c265ba498156a1b723c1becaf82293ceeeb447a9018a56df1756eaa48be04f"
   },
   {
    "path": "grt/projectiles/zvs.json",
    "kind": "grt-projectiles",
    "name": "GRT bullets: ZVS",
-   "sha256": "54243176fdc43439b48d684d3c6ea61eeb288a36a69fef3cfb05d46505bbc26e"
+   "sha256": "2a8b63dd243f299ee9058e1936b46e2fbbefc0bdd50072df864c9186969005a5"
   },
   {
    "path": "powders/accurate-magpro-2023-06-22-tom24-2023-06-22.json",

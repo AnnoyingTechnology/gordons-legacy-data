@@ -3,7 +3,7 @@
  "version": 1,
  "kind": "grt-powders",
  "provenance": {
-  "origin": "Gordon's Reloading Tool's own database, published with the written permission of Gordon's family (2026-11-04, issue #19)",
+  "origin": "Gordon's Reloading Tool's own database (issue #19)",
   "source": "GordonsReloadingTool.db of GRT nightly 2030, table propellant, read from a running GRT on 2026-11-04",
   "file": "GordonsReloadingTool.db",
   "author": "GRT",
